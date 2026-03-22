@@ -1,0 +1,79 @@
+[
+    {
+  "uuid": "8f2e3a50-b1c4-4e92-9d32-6a1f8e2c0b55",
+  "entry": "雪",
+  "reading": {
+    "primary": "ゆき",
+    "alternatives": [],
+    "is_heteronym": false
+  },
+  "grammar": {
+    "pos": ["名詞"],
+    "ctype": null,
+    "inflections": null
+  },
+  "definitions": [
+    {
+      "index": 1,
+      "gloss": "大気中の水蒸気が冷えて結晶となり、地上に降ってくる白いもの。",
+      "register": "standard", 
+      "nuance": "日常語から文学的表現まで幅広く使われる核心的な語彙。",
+      "scenarios": ["自然・気象", "冬", "静寂"], 
+      "sensory_tags": {
+        "colors": ["#FFFFFF", "純白"],
+        "temperature": "冷たい",
+        "sounds": ["しんしん", "無音"],
+        "emotions": ["孤独", "純粋", "はかなさ"]
+      },
+      "collocations": [
+        {"phrase": "雪が舞う", "context": "軽やかに降る様子"},
+        {"phrase": "雪を仰ぐ", "context": "空を見上げる動作"},
+        {"phrase": "雪に埋もれる", "context": "存在が消えていく比喩"}
+      ],
+      "examples": {
+        "standard": [
+          {
+            "text": "山々は深い雪に覆われている。",
+            "source": "現代日本語用法辞典"
+          }
+        ],
+        "literary": [
+          {
+            "text": "国境の長いトンネルを抜けると雪国であった。夜の底が白くなった。",
+            "citation": {
+              "source": "雪国",
+              "author": "川端康成",
+              "period": "昭和12年",
+              "note": "冒頭の有名な一節"
+            }
+          },
+          {
+            "text": "しんしんと雪ふりつもる夜なれば、君がいもねぬ心地こそすれ。",
+            "citation": {
+              "source": "古今和歌集",
+              "author": "紀貫之",
+              "period": "平安時代",
+              "type": "waka"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "relations": {
+    "homophones": [], 
+    "synonyms": [
+      {"entry": "六花", "label": "雅称"},
+      {"entry": "不香の花", "label": "粋な表現"},
+      {"entry": "白雪", "label": "強調"}
+    ],
+    "antonyms": ["炎", "陽炎"],
+    "related": ["氷", "結晶", "冬将軍", "淡雪"]
+  },
+  "meta": {
+    "version": "1.0.0",
+    "source": "JMdict, Aozora-Crawler, Illusions-Core",
+    "updated_at": "2026-03-22T16:00:00Z"
+  }
+}
+]
