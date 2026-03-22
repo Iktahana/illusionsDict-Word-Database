@@ -1,5 +1,7 @@
 # illusionsDict Word Database
 
+幻辞.com: https://dict.illusions.app
+
 IllusionsDict プロジェクトで使用される全語彙データを収録した、オープンソースの日本語語彙データベースです。
 
 本リポジトリでは、複数の信頼できるソースと独自のクローリングシステムを統合・加工した語彙データを、扱いやすい **SQLite 形式** で提供しています。
