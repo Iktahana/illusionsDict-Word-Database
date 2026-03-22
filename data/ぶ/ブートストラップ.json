@@ -1,0 +1,156 @@
+[
+  {
+    "uuid": "bf966ce5-68a2-55bc-a52a-9e46790a7c95",
+    "entry": "ブートストラップ",
+    "reading": {
+      "primary": "ブートストラップ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "bootstrap",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "では、そのプログラムは――ときりがなさそうに思えるが、こうしたコンピューターを立ち上げるための方法の一つに、ブートストラップと呼ばれるものがある。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ブートストラップとは、一般には靴紐の意。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "タケシの通った専門学校には、沖電気のＯＫＩＴＡＣ４０００というミニコンピューター――ミニといっても大型機に対してミニであり、まっとうなシステムである――があったが、ブートストラップの授業はこれを使って行われた。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "水面を波が伝わっていくようなブートストラップのイメージをつかんだとき、タケシはある種の感動を味わった。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「今日のフォートランの授業は、ブートストラップの解説だった。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この小さなプログラムの働きによって、ディスクの先頭に書き込んであるシステム読み込み用のブートストラップローダーがまずメモリーに組み込まれる。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると今度はブートストラップローダーが自動的に起動されて、ＯＳ本体をメモリーに読み込んでくる。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "電源が投入されるたびにブートストラップによってＯＳ本体を引き出し、さらにはアプリケーションまで自動的に立ち上げてしまう――。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これなら途中でブートストラップが機能していたことはもちろん、ＯＳが立ち上がっていたことも意識されることはない。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "府中のエンジニアに打診して、ブートストラップローダーからＯＳを経て、アプリケーションまで一気に立ち上げてしまうことに技術的な問題点がないことを確認してから、浜田はこのシナリオの最大の障害を崩しにかかった。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "サードパーティーが売り出す一枚のフロッピーディスクだけで、自動的にアプリケーションまで起動してしまうためには、それぞれのディスクにブートストラップローダーとＯＳを同梱しておかざるをえない。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "gloss": "bootstrapping",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

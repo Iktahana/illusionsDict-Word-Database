@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "ef19a47b-3cac-52bb-840e-2739eb55bebc",
+    "entry": "表面温度",
+    "reading": {
+      "primary": "ひょうめんおんど",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "surface temperature",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そのかわり機体の表面温度は、空気との摩擦のために、摂氏七百度くらいまで上る。",
+              "citation": {
+                "source": "宇宙旅行の科学",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この状態でどんどん滑空しているうちに、機体の表面温度は更に上り、最高摂氏七百四〇度近くまで上る計算になる。",
+              "citation": {
+                "source": "宇宙旅行の科学",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

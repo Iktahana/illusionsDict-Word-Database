@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "39c90410-6d77-5b75-b3c0-8fcb4c6126b9",
+    "entry": "倦憊",
+    "reading": {
+      "primary": "けんぱい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞",
+        "動詞-サ変"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "extreme fatigue",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "ea39c1f8-e6ac-5920-b31e-54e3edef71aa",
+    "entry": "献杯",
+    "reading": {
+      "primary": "けんぱい",
+      "alternatives": [
+        "こんぱい"
+      ],
+      "is_heteronym": true
+    },
+    "grammar": {
+      "pos": [
+        "名詞",
+        "動詞-サ変",
+        "動詞-自動詞",
+        "感動詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "toast (to someone; esp. the deceased at a post-ceremony meal)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "署長さん、いや献杯、つゝしんで献杯｜仕ります。",
+              "citation": {
+                "source": "税務署長の冒険",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "献杯、いや献杯、」「もう沢山、」「遁げるのか、遁げる気か。",
+              "citation": {
+                "source": "税務署長の冒険",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "献杯、さあ献杯だ、おゝい貴様ぁ。",
+              "citation": {
+                "source": "税務署長の冒険",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

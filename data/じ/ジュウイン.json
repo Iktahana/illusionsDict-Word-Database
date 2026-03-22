@@ -1,0 +1,124 @@
+[
+  {
+    "uuid": "1aac71fd-61a3-5212-ac03-0e0f3e6964cd",
+    "entry": "充員",
+    "reading": {
+      "primary": "じゅういん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞",
+        "動詞-サ変"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "recruitment (e.g. of troops)",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      },
+      {
+        "index": 2,
+        "gloss": "reserves",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  },
+  {
+    "uuid": "b67aec7e-0c9f-5415-8f97-9c3e04f9dfaf",
+    "entry": "従因",
+    "reading": {
+      "primary": "じゅういん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "secondary cause",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "因より果に至る（従因至果）向上門と、果より因に向かう（従果向因）向下門、そこに仏教の世界があるのです。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

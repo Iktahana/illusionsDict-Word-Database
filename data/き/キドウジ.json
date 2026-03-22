@@ -1,0 +1,58 @@
+[
+  {
+    "uuid": "9eb4b93c-3be5-505b-af7d-c68d94ccf0a0",
+    "entry": "起動時",
+    "reading": {
+      "primary": "きどうじ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "startup (point in) time",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "起動時に拡張メモリ上に漢字フォントを読み込み、主メモリにテキストＶＲＡＭに相当する領域を確保する。",
+              "citation": {
+                "source": "青空のリスタート",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

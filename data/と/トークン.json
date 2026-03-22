@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "347b68c8-9de1-5e36-a19b-67c52913f1c5",
+    "entry": "トークン",
+    "reading": {
+      "primary": "トークン",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "token",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ベーシックで書かれたプログラムの文字列を字句単位に短縮化した、トークンと呼ばれる中間コードの仕様もまた、ファイルフォーマットと同様、十六進数でダンプして分析するしかない。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "プログラムに規則的な変換をかけただけのトークンコードに対しては、互換ベーシックを書こうとすれば確かに完全に合わせる以外に手はない。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この点を突いて、日本電気側は「トークンコードは外部仕様に属する」と主張するのだろう。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "11f6f220-8015-5120-a42e-e20165ab5f11",
+    "entry": "被乗数",
+    "reading": {
+      "primary": "ひじょうすう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "multiplicand",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかるに被乗数を見ると、やはり三桁であり、百位の数字は９である。",
+              "citation": {
+                "source": "虫喰い算大会",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "９７□×　　　１８――――――　　□□□０　　９７□――――――　１７５□０　第二の手懸りは、乗数の一位の８を、被乗数の一位の□に掛けると、その答の一位は、８の字の下にあるとおり０となるのだ。",
+              "citation": {
+                "source": "虫喰い算大会",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで被乗数の一位の□は、５であらねばならぬと決定する。",
+              "citation": {
+                "source": "虫喰い算大会",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

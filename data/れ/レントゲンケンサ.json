@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "78d46aa0-a6f2-5253-81cf-e1d98fc971c8",
+    "entry": "レントゲン検査",
+    "reading": {
+      "primary": "レントゲンけんさ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "X-ray examination",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「やっ」　と言いながら木村さんは、つかむように受け取って、「ど、どうしてこれが……」「レントゲン検査に行ったのは、これを取りかえすためだったのです」　と、俊夫君は説明しました。",
+              "citation": {
+                "source": "暗夜の格闘",
+                "author": "小酒井不木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "タビ／＼申シ上ゲル通リ、コノオ痛ミハ脳中枢カラノ原因ガ二三分、他ノ六七分ハ頸椎ノ生理的変化ニ依ル神経痛ト云ウコトニ、レントゲン検査ノ結果診断ガツイテオリマス。",
+              "citation": {
+                "source": "瘋癲老人日記",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

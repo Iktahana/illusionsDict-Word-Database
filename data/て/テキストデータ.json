@@ -1,0 +1,68 @@
+[
+  {
+    "uuid": "ac84fb50-6629-56a0-8b91-9f6b8a0ff290",
+    "entry": "テキストデータ",
+    "reading": {
+      "primary": "テキストデータ",
+      "alternatives": [
+        "テキスト・データ"
+      ],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "text data",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "テキストデータを利用する代表例とも言えるのは、本の音訳と朗読だろう。",
+              "citation": {
+                "source": "青空文庫ものがたり",
+                "author": "インターネット図書館の開設から今日まで",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方、テキストデータは、ポータルサイトの構築計画だけに留まっていると言わざるを得ない。",
+              "citation": {
+                "source": "青空文庫ものがたり",
+                "author": "インターネット図書館の開設から今日まで",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z"
+    }
+  }
+]

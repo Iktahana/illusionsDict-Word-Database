@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "1634bd6a-7382-56b1-bd96-4929331f2a0c",
+    "entry": "テキストエディタ",
+    "reading": {
+      "primary": "テキストエディタ",
+      "alternatives": [
+        "テキスト・エディタ",
+        "テキストエディター",
+        "テキスト・エディター"
+      ],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "text editor",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "文書編集用のテキストエディターとして開発されたワードマスターは、印刷の機能が弱く、細かな体裁の指定ができなかった。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三二Ｋバイトのメモリーの制約があって、このマシン用のソフトウエアはマイクロソフトのベーシックの構造をそのまま利用し、そこにテキストエディターや通信ソフトをかなり強引に付け加えるという手法で開発された。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一般用のアプリケーションに関しても、データベースやテキストエディター、ワードプロセッサーがそろっているのはもちろんのこと、郵便の宛名管理リストなど、いかにも仕事の道具として役立ちそうなものが並んでいる。",
+              "citation": {
+                "source": "パソコン創世記",
+                "author": "富田倫生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "JMdict, Aozora-Crawler, Illusions-Core",
+      "updated_at": "2026-03-22T12:50:57Z",
+      "freq_rank": 35438
+    }
+  }
+]
