@@ -5,7 +5,9 @@ import re
 import subprocess
 import time
 import sys
+import signal
 import threading
+import atexit
 from pathlib import Path
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -14,10 +16,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # 設定
 # ──────────────────────────────────────────────────────────
 
-DATA_ROOT   = Path("data")
-CHECKPOINT_DIR = Path(".checkpoints")
+SCRIPT_DIR  = Path(__file__).resolve().parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+DATA_ROOT   = PROJECT_ROOT / "data"
+CHECKPOINT_DIR = PROJECT_ROOT / ".checkpoints"
 MAX_WORKERS = 8    # 並列実行エージェント数
 REPORT_SEC  = 3.0   # 進捗表示の更新間隔（秒）
+CHECKPOINT_SAVE_INTERVAL = 50  # N ファイル処理ごとに checkpoint を自動保存
 
 # AIモデル情報
 MODELS = [
@@ -66,9 +71,10 @@ class CheckpointManager:
         self.checkpoint_dir = checkpoint_dir
         self.checkpoint_dir.mkdir(exist_ok=True)
         self.checkpoint_file = self.checkpoint_dir / "progress.json"
-        self.processed_files = set()
-        self.updated_files = set()
+        self.processed_files: set[str] = set()
+        self.updated_files: set[str] = set()
         self.lock = threading.Lock()
+        self._dirty_count = 0
         self._load_checkpoint()
 
     def _load_checkpoint(self):
@@ -87,9 +93,13 @@ class CheckpointManager:
                 self.updated_files = set()
 
     def add_processed(self, file_path: str):
-        """処理済みファイルを記録"""
+        """処理済みファイルを記録し、定期的に自動保存"""
         with self.lock:
             self.processed_files.add(file_path)
+            self._dirty_count += 1
+            should_save = self._dirty_count >= CHECKPOINT_SAVE_INTERVAL
+        if should_save:
+            self.save_checkpoint()
 
     def add_updated(self, file_path: str):
         """更新されたファイルを記録"""
@@ -98,21 +108,25 @@ class CheckpointManager:
 
     def is_processed(self, file_path: str) -> bool:
         """ファイルが既に処理されているか確認"""
-        return file_path in self.processed_files
+        with self.lock:
+            return file_path in self.processed_files
 
     def save_checkpoint(self):
-        """現在の進捗をセーブ"""
+        """現在の進捗をセーブ（アトミック書き込み）"""
         try:
             with self.lock:
+                self._dirty_count = 0
                 data = {
                     'timestamp': datetime.now(timezone.utc).isoformat(),
-                    'processed': list(self.processed_files),
-                    'updated': list(self.updated_files),
+                    'processed': sorted(self.processed_files),
+                    'updated': sorted(self.updated_files),
                     'processed_count': len(self.processed_files),
                     'updated_count': len(self.updated_files)
                 }
-            with open(self.checkpoint_file, 'w', encoding='utf-8') as f:
+            tmp_file = self.checkpoint_file.with_suffix('.tmp')
+            with open(tmp_file, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
+            tmp_file.replace(self.checkpoint_file)
         except Exception as e:
             print(f"! Checkpoint save failed: {e}")
 
@@ -121,6 +135,7 @@ class CheckpointManager:
         with self.lock:
             self.processed_files.clear()
             self.updated_files.clear()
+            self._dirty_count = 0
         if self.checkpoint_file.exists():
             self.checkpoint_file.unlink()
         print("✓ Checkpoint cleared")
@@ -128,8 +143,7 @@ class CheckpointManager:
 checkpoint_manager = CheckpointManager()
 
 # 低品質なテンプレートの定義（これらに該当する例文は破棄・再生成の対象）
-JUNK_PATTERNS = [
-# ... (rest of JUNK_PATTERNS)
+_JUNK_PATTERN_STRINGS = [
     r"私たちの生活に欠かせません",
     r"ビジネスシーンでは.*重要です",
     r"科学的研究が進みました",
@@ -171,6 +185,9 @@ JUNK_PATTERNS = [
     r"その語源は興味深い歴史があります",
     r"現代でも使用頻度が高い重要語彙です"
 ]
+
+# 事前コンパイル
+JUNK_PATTERNS = [re.compile(p) for p in _JUNK_PATTERN_STRINGS]
 
 # ──────────────────────────────────────────────────────────
 # 進捗表示（GitHub Actions 対応）
@@ -218,22 +235,31 @@ updated_count   = 0
 processed_count = 0
 last_report_t   = 0
 
+_ANSI_RE = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
+
 def clean_ansi(text: str) -> str:
     """出力から制御文字を削除"""
-    return re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])').sub('', text)
+    return _ANSI_RE.sub('', text)
 
 def is_low_quality(examples: list) -> bool:
     """既存の例文がテンプレート等の低品質なものか判定"""
     if not examples: return True
     for ex in examples:
         txt = ex.get('text', '')
-        if any(re.search(p, txt) for p in JUNK_PATTERNS): return True
+        if any(p.search(txt) for p in JUNK_PATTERNS): return True
     return False
+
+def _to_checkpoint_key(file_path: Path) -> str:
+    """ファイルパスを PROJECT_ROOT からの相対パスに正規化"""
+    try:
+        return str(file_path.relative_to(PROJECT_ROOT))
+    except ValueError:
+        return str(file_path)
 
 def generate_examples_jp(entry: str, reading: str, gloss: str, pos: str) -> list:
     """Gemini CLIを使用して高品質な例文を生成。失敗時はモデルを切り替えてリトライ。"""
     max_retries = len(MODELS) * 2  # 各モデル2回ずつくらいは試せるように
-    
+
     for _ in range(max_retries):
         current_model = model_manager.get_current_model()
         prompt = f"""
@@ -270,15 +296,14 @@ JSON配列形式のみを出力してください。
 ]
 """
         try:
-            res = subprocess.run(['gemini', '-m', current_model, '-p', prompt], 
+            res = subprocess.run(['gemini', '-m', current_model, '-p', prompt],
                                  capture_output=True, text=True, encoding='utf-8', timeout=120)
-            
+
             out = clean_ansi(res.stdout).strip()
             err = clean_ansi(res.stderr).strip()
-            
+
             # クォータエラー（429）やその他のAPIエラーをチェック
             if "429" in err or "Quota exceeded" in err or "Rate limit" in err or "ModelNotFoundError" in err:
-                # print(f"\n[INFO] モデル {current_model} で制限発生。次のモデルに切り替えます...", flush=True)
                 model_manager.switch_to_next_model()
                 continue
 
@@ -286,7 +311,7 @@ JSON配列形式のみを出力してください。
             if match:
                 try:
                     res_json = json.loads(match.group(0))
-                    model_manager.reset_failure_count() # 成功したらリセット
+                    model_manager.reset_failure_count()
                     return res_json
                 except json.JSONDecodeError:
                     try:
@@ -296,23 +321,22 @@ JSON配列形式のみを出力してください。
                         return res_json
                     except:
                         pass
-            
-            # JSONが見つからない場合や解析失敗も失敗とみなしてリトライ（モデル切り替えはしない）
+
             time.sleep(1)
-            
+
         except subprocess.TimeoutExpired:
             model_manager.switch_to_next_model()
         except Exception:
             pass
-            
+
     return None
 
 def process_file(file_path: Path) -> bool:
     global updated_count, processed_count
-    file_str = str(file_path.relative_to(Path.cwd()))
+    file_key = _to_checkpoint_key(file_path)
 
     # 既に処理済みなら skip
-    if checkpoint_manager.is_processed(file_str):
+    if checkpoint_manager.is_processed(file_key):
         with progress_lock: processed_count += 1
         return False
 
@@ -336,8 +360,7 @@ def process_file(file_path: Path) -> bool:
                 if is_low_quality(std_examples):
                     new_exs = generate_examples_jp(entry_text, reading, definition.get('gloss', ''), pos)
                     if new_exs:
-                        # テンプレート混入チェック
-                        valid_new = [ex for ex in new_exs if not any(re.search(p, ex.get('text', '')) for p in JUNK_PATTERNS)]
+                        valid_new = [ex for ex in new_exs if not any(p.search(ex.get('text', '')) for p in JUNK_PATTERNS)]
                         if valid_new:
                             definition['examples']['standard'] = valid_new
                             modified = True
@@ -348,9 +371,9 @@ def process_file(file_path: Path) -> bool:
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
             with progress_lock: updated_count += 1
-            checkpoint_manager.add_updated(file_str)
+            checkpoint_manager.add_updated(file_key)
 
-        checkpoint_manager.add_processed(file_str)
+        checkpoint_manager.add_processed(file_key)
         with progress_lock: processed_count += 1
         return modified
     except Exception as e:
@@ -361,11 +384,14 @@ def process_file(file_path: Path) -> bool:
 # 実行
 # ──────────────────────────────────────────────────────────
 
-def main():
-    import signal
+_shutdown_requested = threading.Event()
 
+def main():
     def signal_handler(sig, frame):
         """Ctrl+C で中断時に checkpoint を保存"""
+        if _shutdown_requested.is_set():
+            return
+        _shutdown_requested.set()
         print("\n\n[INFO] 処理を中断しています...", flush=True)
         checkpoint_manager.save_checkpoint()
         print(f"[INFO] Checkpoint 保存完了: {len(checkpoint_manager.processed_files)} files processed", flush=True)
@@ -373,6 +399,8 @@ def main():
         sys.exit(0)
 
     signal.signal(signal.SIGINT, signal_handler)
+    signal.signal(signal.SIGTERM, signal_handler)
+    atexit.register(checkpoint_manager.save_checkpoint)
 
     Progress.group(f"例文の自動生成・品質改善プロセスを開始します (並列エージェント数={MAX_WORKERS})")
     Progress.step(f"使用モデル候補: {', '.join(MODELS)}")
@@ -383,7 +411,11 @@ def main():
         all_files.extend(sorted(list(d.glob("*.json"))))
 
     total_files = len(all_files)
-    already_processed = len(checkpoint_manager.processed_files)
+
+    # checkpoint に残っているが現在のファイル一覧に存在しないパスを除外して正確な数を出す
+    all_file_keys = {_to_checkpoint_key(f) for f in all_files}
+    valid_processed = checkpoint_manager.processed_files & all_file_keys
+    already_processed = len(valid_processed)
     remaining_files = total_files - already_processed
 
     Progress.step(f"スキャン対象: {total_files:,} ファイル")
@@ -392,7 +424,7 @@ def main():
         Progress.step(f"→ 残り: {remaining_files:,} ファイル")
 
     # 未処理のファイルのみをフィルタ
-    files_to_process = [f for f in all_files if not checkpoint_manager.is_processed(str(f.relative_to(Path.cwd())))]
+    files_to_process = [f for f in all_files if not checkpoint_manager.is_processed(_to_checkpoint_key(f))]
 
     global last_report_t
     last_report_t = time.perf_counter()
@@ -402,6 +434,9 @@ def main():
             futures = {executor.submit(process_file, f): f for f in files_to_process}
 
             for future in as_completed(futures):
+                if _shutdown_requested.is_set():
+                    executor.shutdown(wait=False, cancel_futures=True)
+                    break
                 now = time.perf_counter()
                 if now - last_report_t >= REPORT_SEC:
                     with progress_lock:
@@ -409,21 +444,18 @@ def main():
                         Progress.bar_line(processed_count, total_files,
                                         f"{processed_count:,} / {total_files:,} files (更新済み: {updated_count:,})")
 
-        # 通常完了時に checkpoint を保存
         checkpoint_manager.save_checkpoint()
         Progress.ok(f"プロセス完了。合計 {updated_count:,} 件のファイルを更新・最適化しました。")
         Progress.step(f"Checkpoint 保存: {len(checkpoint_manager.processed_files)} files")
         Progress.endgroup()
 
     except Exception as e:
-        # エラー時も checkpoint を保存
         checkpoint_manager.save_checkpoint()
         print(f"\n[ERROR] 予期しないエラーが発生しました: {e}", flush=True)
         print(f"[INFO] Checkpoint 保存完了。次回実行時に再開できます。", flush=True)
         raise
 
 if __name__ == "__main__":
-    # コマンドライン引数の処理
     if len(sys.argv) > 1:
         if sys.argv[1] == "--clear-checkpoint":
             checkpoint_manager.clear_checkpoint()
@@ -432,6 +464,14 @@ if __name__ == "__main__":
             print(f"Processed files: {len(checkpoint_manager.processed_files)}")
             print(f"Updated files: {len(checkpoint_manager.updated_files)}")
             print(f"Checkpoint file: {checkpoint_manager.checkpoint_file}")
+            sys.exit(0)
+        elif sys.argv[1] in ("-h", "--help"):
+            print("Usage: python generate_examples.py [OPTIONS]")
+            print()
+            print("Options:")
+            print("  --status            Show checkpoint progress")
+            print("  --clear-checkpoint  Reset checkpoint and start fresh")
+            print("  -h, --help          Show this help message")
             sys.exit(0)
 
     main()
