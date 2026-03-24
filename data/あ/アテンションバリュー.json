@@ -31,7 +31,56 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "Transformerモデルの解釈性を高めるため、各単語ペア間のアテンションバリューを計算し、その分布を分析した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "画像生成AIは、ユーザーが指定したテキストプロンプトの関連性の高い部分に高いアテンションバリューを割り当てることで、意図に沿った画像を生成する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "自然言語処理タスクにおいて、アテンションバリューは、モデルが入力文のどの単語に「注目」したかを示す指標となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このアテンションバリューの推移を見て、モデルが学習中に何に焦点を当てているのか掴めたよ。」「なるほど、『この辺』のバリューが安定してるんだね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "レコメンデーションシステムでは、ユーザーの過去の行動履歴やアイテムの特徴から計算されるアテンションバリューが高いアイテムを推奨候補とする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このモデル、アテンションバリューが特定の単語に集中しすぎる傾向があるな。」「ええ、そのせいで、周辺の文脈情報がうまく取り込めていない可能性があります。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -45,7 +94,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-23T16:07:17.334911+00:00Z"
     }
   }
 ]
