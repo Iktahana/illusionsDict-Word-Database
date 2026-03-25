@@ -16,13 +16,16 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # 設定
 # ──────────────────────────────────────────────────────────
 
-SCRIPT_DIR  = Path(__file__).resolve().parent
+SCRIPT_DIR   = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-DATA_ROOT   = PROJECT_ROOT / "data"
+DATA_ROOT    = PROJECT_ROOT / "data"
 CHECKPOINT_DIR = PROJECT_ROOT / ".checkpoints"
-MAX_WORKERS = 8    # 並列実行エージェント数
-REPORT_SEC  = 3.0   # 進捗表示の更新間隔（秒）
+MAX_WORKERS  = 8      # 並列実行エージェント数
+REPORT_SEC   = 3.0    # 進捗表示の更新間隔（秒）
 CHECKPOINT_SAVE_INTERVAL = 50  # N ファイル処理ごとに checkpoint を自動保存
+BATCH_SIZE   = 12     # 一回のAPI呼び出しで処理する語彙数（トークン削減の核心）
+FILE_CHUNK_SIZE = 120  # 一つのワーカーが担当するファイル数
+AUTO_COMMIT_INTERVAL = 1800  # 自動コミットの間隔（秒 = 30分）
 
 # AIモデル情報
 MODELS = [
@@ -49,7 +52,6 @@ class ModelManager:
             self.current_index = (self.current_index + 1) % len(self.models)
             self.failures_in_row += 1
             model = self.models[self.current_index]
-            # 全モデル試した場合は少し待つ
             if self.failures_in_row >= len(self.models):
                 print(f"\n[INFO] 全モデルのクォータ制限に達した可能性があります。60秒待機します...", flush=True)
                 time.sleep(60)
@@ -78,7 +80,6 @@ class CheckpointManager:
         self._load_checkpoint()
 
     def _load_checkpoint(self):
-        """前回の進捗をロード"""
         if self.checkpoint_file.exists():
             try:
                 with open(self.checkpoint_file, 'r', encoding='utf-8') as f:
@@ -93,7 +94,6 @@ class CheckpointManager:
                 self.updated_files = set()
 
     def add_processed(self, file_path: str):
-        """処理済みファイルを記録し、定期的に自動保存"""
         with self.lock:
             self.processed_files.add(file_path)
             self._dirty_count += 1
@@ -102,17 +102,14 @@ class CheckpointManager:
             self.save_checkpoint()
 
     def add_updated(self, file_path: str):
-        """更新されたファイルを記録"""
         with self.lock:
             self.updated_files.add(file_path)
 
     def is_processed(self, file_path: str) -> bool:
-        """ファイルが既に処理されているか確認"""
         with self.lock:
             return file_path in self.processed_files
 
     def save_checkpoint(self):
-        """現在の進捗をセーブ（アトミック書き込み）"""
         try:
             with self.lock:
                 self._dirty_count = 0
@@ -131,7 +128,6 @@ class CheckpointManager:
             print(f"! Checkpoint save failed: {e}")
 
     def clear_checkpoint(self):
-        """checkpoint をクリア"""
         with self.lock:
             self.processed_files.clear()
             self.updated_files.clear()
@@ -142,7 +138,7 @@ class CheckpointManager:
 
 checkpoint_manager = CheckpointManager()
 
-# 低品質なテンプレートの定義（これらに該当する例文は破棄・再生成の対象）
+# 低品質なテンプレートの定義
 _JUNK_PATTERN_STRINGS = [
     r"私たちの生活に欠かせません",
     r"ビジネスシーンでは.*重要です",
@@ -186,7 +182,6 @@ _JUNK_PATTERN_STRINGS = [
     r"現代でも使用頻度が高い重要語彙です"
 ]
 
-# 事前コンパイル
 JUNK_PATTERNS = [re.compile(p) for p in _JUNK_PATTERN_STRINGS]
 
 # ──────────────────────────────────────────────────────────
@@ -238,11 +233,9 @@ last_report_t   = 0
 _ANSI_RE = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
 
 def clean_ansi(text: str) -> str:
-    """出力から制御文字を削除"""
     return _ANSI_RE.sub('', text)
 
 def is_low_quality(examples: list) -> bool:
-    """既存の例文がテンプレート等の低品質なものか判定"""
     if not examples: return True
     for ex in examples:
         txt = ex.get('text', '')
@@ -250,77 +243,76 @@ def is_low_quality(examples: list) -> bool:
     return False
 
 def _to_checkpoint_key(file_path: Path) -> str:
-    """ファイルパスを PROJECT_ROOT からの相対パスに正規化"""
     try:
         return str(file_path.relative_to(PROJECT_ROOT))
     except ValueError:
         return str(file_path)
 
-def generate_examples_jp(entry: str, reading: str, gloss: str, pos: str) -> list:
-    """Gemini CLIを使用して高品質な例文を生成。失敗時はモデルを切り替えてリトライ。"""
-    max_retries = len(MODELS) * 2  # 各モデル2回ずつくらいは試せるように
+# ──────────────────────────────────────────────────────────
+# バッチAPI呼び出し（最適化の核心）
+# ──────────────────────────────────────────────────────────
+
+def generate_examples_batch(items: list) -> dict:
+    """
+    複数語の例文を一括生成（トークン節約の核心）。
+    items: [(entry, reading, gloss, pos), ...] のリスト
+    returns: {"1": [{"text":"...", "citation":{...}}], "2": [...], ...}
+
+    Before: N語 × 400token指令 = N×400 tokens
+    After:  1回 × 150token指令 + N語のデータ ≈ 150 + N×30 tokens
+    """
+    max_retries = len(MODELS) * 2
 
     for _ in range(max_retries):
         current_model = model_manager.get_current_model()
-        prompt = f"""
-以下の日本語の單語について、國語辭典の掲載に適した、自然で實用的な例文を5〜8個作成してください。
 
-【對象單語】
-表記: {entry}
-読み: {reading}
-品詞: {pos}
-意味: {gloss}
+        word_lines = "\n".join([
+            f"{i+1}. 表記:{entry} 読み:{reading} 品詞:{pos} 意味:{gloss}"
+            for i, (entry, reading, gloss, pos) in enumerate(items)
+        ])
 
-【作成ルール】
-1. 汎用的なテンプレート表現（「生活に欠かせない」「重要です」等）は厳禁です。
-2. その語が実際に使われる具体的なシーン（ニュース、専門分野、日常生活等）を想定してください。
-3. 自然な日本語のコロケーション（語の繋がり）を重視してください。
-4. 質を最優先してください。無理に多く作る必要はありません。難解な語の場合は3個程度でも構いません。
-5. 感動詞や副詞は「」を用いた會話文形式にしてください。
+        # 精簡プロンプト（~150 tokens vs 旧 ~400 tokens）
+        prompt = (
+            '以下の語の自然な例文を各3〜5個、JSONオブジェクト形式で出力。\n'
+            'キーは番号（"1","2",...）。値は[{"text":"例文"}]の配列。\n'
+            'テンプレ表現禁止（「生活に欠かせない」「重要です」等）。'
+            '具体的な場面を想定。感動詞は会話文形式。\n\n'
+            f'{word_lines}\n\n'
+            '出力形式: {"1": [{"text": "..."}], "2": [...]}'
+        )
 
-【出力形式】
-JSON配列形式のみを出力してください。
-各オブジェクトは "text" キーと、以下の構造を持つ "citation" キーを含めてください。
-"citation": {{
-  "source": "幻辭AI",
-  "author": "Gemini",
-  "note": "{current_model}"
-}}
-
-出力例:
-[
-  {{
-    "text": "具体的な例文1",
-    "citation": {{ "source": "幻辭AI", "author": "Gemini", "note": "{current_model}" }}
-  }}
-]
-"""
         try:
-            res = subprocess.run(['gemini', '-m', current_model, '-p', prompt],
-                                 capture_output=True, text=True, encoding='utf-8', timeout=120)
+            res = subprocess.run(
+                ['gemini', '-m', current_model, '-p', prompt],
+                capture_output=True, text=True, encoding='utf-8', timeout=180
+            )
 
             out = clean_ansi(res.stdout).strip()
             err = clean_ansi(res.stderr).strip()
 
-            # クォータエラー（429）やその他のAPIエラーをチェック
-            if "429" in err or "Quota exceeded" in err or "Rate limit" in err or "ModelNotFoundError" in err:
+            if any(x in err for x in ("429", "Quota exceeded", "Rate limit", "ModelNotFoundError")):
                 model_manager.switch_to_next_model()
                 continue
 
-            match = re.search(r'\[\s*\{.*\}\s*\]', out, re.DOTALL)
+            match = re.search(r'\{.*\}', out, re.DOTALL)
             if match:
-                try:
-                    res_json = json.loads(match.group(0))
-                    model_manager.reset_failure_count()
-                    return res_json
-                except json.JSONDecodeError:
+                for attempt in [match.group(0), re.sub(r',\s*([}\]])', r'\1', match.group(0))]:
                     try:
-                        fixed = re.sub(r',\s*\]', ']', match.group(0))
-                        res_json = json.loads(fixed)
+                        result = json.loads(attempt)
+                        # citation はコードで自動付与（AIに生成させない）
+                        for key in result:
+                            if isinstance(result[key], list):
+                                for ex in result[key]:
+                                    if isinstance(ex, dict) and 'citation' not in ex:
+                                        ex['citation'] = {
+                                            "source": "幻辭AI",
+                                            "author": "Gemini",
+                                            "note": current_model
+                                        }
                         model_manager.reset_failure_count()
-                        return res_json
-                    except:
-                        pass
+                        return result
+                    except json.JSONDecodeError:
+                        continue
 
             time.sleep(1)
 
@@ -329,56 +321,143 @@ JSON配列形式のみを出力してください。
         except Exception:
             pass
 
-    return None
+    return {}
 
-def process_file(file_path: Path) -> bool:
+# ──────────────────────────────────────────────────────────
+# ファイルチャンク処理
+# ──────────────────────────────────────────────────────────
+
+def process_file_chunk(file_paths: list) -> int:
+    """
+    ファイルのチャンクをまとめて処理。
+    1. 全ファイルをロードして更新が必要な項目を収集
+    2. バッチAPIで一括生成（大幅なトークン節約）
+    3. 結果をファイルに書き戻す
+    """
     global updated_count, processed_count
-    file_key = _to_checkpoint_key(file_path)
 
-    # 既に処理済みなら skip
-    if checkpoint_manager.is_processed(file_key):
-        with progress_lock: processed_count += 1
-        return False
+    # Step 1: ファイルロード & 保留項目の収集
+    file_data = {}
+    pending_items = []  # (fp, entry_idx, def_idx, entry_text, reading, gloss, pos)
 
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+    for fp in file_paths:
+        try:
+            with open(fp, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            file_data[fp] = data
 
-        modified = False
-        for entry_obj in data:
-            entry_text = entry_obj.get('entry', '')
-            reading    = entry_obj.get('reading', {}).get('primary', '')
-            pos        = ",".join(entry_obj.get('grammar', {}).get('pos', []))
+            for ei, entry_obj in enumerate(data):
+                entry_text = entry_obj.get('entry', '')
+                reading    = entry_obj.get('reading', {}).get('primary', '')
+                pos        = ",".join(entry_obj.get('grammar', {}).get('pos', []))
 
-            for definition in entry_obj.get('definitions', []):
-                if 'examples' not in definition:
-                    definition['examples'] = {'standard': [], 'literary': []}
+                for di, definition in enumerate(entry_obj.get('definitions', [])):
+                    if 'examples' not in definition:
+                        definition['examples'] = {'standard': [], 'literary': []}
+                    std_examples = definition['examples'].get('standard', [])
+                    if is_low_quality(std_examples):
+                        pending_items.append(
+                            (fp, ei, di, entry_text, reading, definition.get('gloss', ''), pos)
+                        )
+        except Exception as e:
+            print(f"\n[エラー] {getattr(fp, 'name', str(fp))}: {e}")
 
-                std_examples = definition['examples'].get('standard', [])
+    # Step 2: バッチAPIで一括生成
+    api_results = {}  # (fp, ei, di) -> [examples]
 
-                # 品質チェック
-                if is_low_quality(std_examples):
-                    new_exs = generate_examples_jp(entry_text, reading, definition.get('gloss', ''), pos)
-                    if new_exs:
-                        valid_new = [ex for ex in new_exs if not any(p.search(ex.get('text', '')) for p in JUNK_PATTERNS)]
-                        if valid_new:
-                            definition['examples']['standard'] = valid_new
-                            modified = True
+    for i in range(0, len(pending_items), BATCH_SIZE):
+        if _shutdown_requested.is_set():
+            break
 
-        if modified:
-            if 'meta' in data[0]:
-                data[0]['meta']['updated_at'] = datetime.now(timezone.utc).isoformat() + 'Z'
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            with progress_lock: updated_count += 1
-            checkpoint_manager.add_updated(file_key)
+        batch = pending_items[i:i + BATCH_SIZE]
+        # items形式: (entry, reading, gloss, pos)
+        batch_input = [(item[3], item[4], item[5], item[6]) for item in batch]
 
-        checkpoint_manager.add_processed(file_key)
-        with progress_lock: processed_count += 1
-        return modified
-    except Exception as e:
-        print(f"\n[エラー] {file_path.name}: {e}")
-        return False
+        batch_results = generate_examples_batch(batch_input)
+
+        for j, item in enumerate(batch):
+            fp, ei, di = item[0], item[1], item[2]
+            key = str(j + 1)
+            if key in batch_results:
+                api_results[(fp, ei, di)] = batch_results[key]
+
+    # Step 3: 結果をファイルに適用して書き戻す
+    modified_files = set()
+    for (fp, ei, di), new_exs in api_results.items():
+        valid_new = [
+            ex for ex in new_exs
+            if isinstance(ex, dict) and not any(p.search(ex.get('text', '')) for p in JUNK_PATTERNS)
+        ]
+        if valid_new:
+            file_data[fp][ei]['definitions'][di]['examples']['standard'] = valid_new
+            modified_files.add(fp)
+
+    local_updated = 0
+    for fp in file_paths:
+        if fp not in file_data:
+            continue  # ロード失敗したファイルはスキップ
+
+        if fp in modified_files:
+            if file_data[fp] and 'meta' in file_data[fp][0]:
+                file_data[fp][0]['meta']['updated_at'] = (
+                    datetime.now(timezone.utc).isoformat() + 'Z'
+                )
+            try:
+                with open(fp, 'w', encoding='utf-8') as f:
+                    json.dump(file_data[fp], f, ensure_ascii=False, indent=2)
+                checkpoint_manager.add_updated(_to_checkpoint_key(fp))
+                local_updated += 1
+            except Exception as e:
+                print(f"\n[エラー] 書き込み失敗 {fp.name}: {e}")
+
+        checkpoint_manager.add_processed(_to_checkpoint_key(fp))
+
+    with progress_lock:
+        updated_count += local_updated
+        processed_count += len(file_paths)
+
+    return local_updated
+
+# ──────────────────────────────────────────────────────────
+# 自動コミット（30分ごと）
+# ──────────────────────────────────────────────────────────
+
+def auto_commit_worker():
+    """30分ごとに進捗を自動コミット。失敗時はエラーを捕捉してスキップ（プロセスを止めない）。"""
+    while not _shutdown_requested.wait(timeout=AUTO_COMMIT_INTERVAL):
+        try:
+            # dataディレクトリのみステージング（checkpoint等は除外）
+            subprocess.run(
+                ['git', 'add', 'data/'],
+                capture_output=True, cwd=str(PROJECT_ROOT), timeout=60
+            )
+
+            # 変更があるか確認
+            status = subprocess.run(
+                ['git', 'status', '--porcelain', 'data/'],
+                capture_output=True, text=True, cwd=str(PROJECT_ROOT), timeout=30
+            )
+
+            if not status.stdout.strip():
+                continue  # 変更なし、スキップ
+
+            ts = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+            with progress_lock:
+                cnt = updated_count
+
+            commit = subprocess.run(
+                ['git', 'commit', '-m', f'Auto-commit: {cnt} files updated ({ts})'],
+                capture_output=True, text=True, cwd=str(PROJECT_ROOT), timeout=60
+            )
+
+            if commit.returncode == 0:
+                print(f"\n[Auto-commit] ✓ {cnt}件を commit しました ({ts})", flush=True)
+            else:
+                err_msg = commit.stderr.strip()[:100]
+                print(f"\n[Auto-commit] スキップ: {err_msg}", flush=True)
+
+        except Exception as e:
+            print(f"\n[Auto-commit] エラー (スキップ): {e}", flush=True)
 
 # ──────────────────────────────────────────────────────────
 # 実行
@@ -388,7 +467,6 @@ _shutdown_requested = threading.Event()
 
 def main():
     def signal_handler(sig, frame):
-        """Ctrl+C で中断時に checkpoint を保存"""
         if _shutdown_requested.is_set():
             return
         _shutdown_requested.set()
@@ -402,8 +480,16 @@ def main():
     signal.signal(signal.SIGTERM, signal_handler)
     atexit.register(checkpoint_manager.save_checkpoint)
 
-    Progress.group(f"例文の自動生成・品質改善プロセスを開始します (並列エージェント数={MAX_WORKERS})")
+    # 自動コミットスレッドを起動
+    commit_thread = threading.Thread(target=auto_commit_worker, daemon=True, name="auto-commit")
+    commit_thread.start()
+
+    Progress.group(
+        f"例文の自動生成・品質改善プロセスを開始します "
+        f"(並列エージェント数={MAX_WORKERS}, バッチサイズ={BATCH_SIZE})"
+    )
     Progress.step(f"使用モデル候補: {', '.join(MODELS)}")
+    Progress.step(f"自動コミット: {AUTO_COMMIT_INTERVAL // 60}分ごと")
 
     all_dirs  = sorted([d for d in DATA_ROOT.iterdir() if d.is_dir()], key=lambda x: x.name)
     all_files = []
@@ -412,7 +498,6 @@ def main():
 
     total_files = len(all_files)
 
-    # checkpoint に残っているが現在のファイル一覧に存在しないパスを除外して正確な数を出す
     all_file_keys = {_to_checkpoint_key(f) for f in all_files}
     valid_processed = checkpoint_manager.processed_files & all_file_keys
     already_processed = len(valid_processed)
@@ -423,26 +508,39 @@ def main():
         Progress.step(f"✓ 前回の進捗: {already_processed:,} ファイル既に処理済み")
         Progress.step(f"→ 残り: {remaining_files:,} ファイル")
 
-    # 未処理のファイルのみをフィルタ
     files_to_process = [f for f in all_files if not checkpoint_manager.is_processed(_to_checkpoint_key(f))]
+
+    # ファイルをチャンクに分割
+    file_chunks = [
+        files_to_process[i:i + FILE_CHUNK_SIZE]
+        for i in range(0, len(files_to_process), FILE_CHUNK_SIZE)
+    ]
+    Progress.step(f"チャンク数: {len(file_chunks):,} (各{FILE_CHUNK_SIZE}ファイル × {BATCH_SIZE}語/APIコール)")
 
     global last_report_t
     last_report_t = time.perf_counter()
 
     try:
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            futures = {executor.submit(process_file, f): f for f in files_to_process}
+            futures = {executor.submit(process_file_chunk, chunk): chunk for chunk in file_chunks}
 
             for future in as_completed(futures):
                 if _shutdown_requested.is_set():
                     executor.shutdown(wait=False, cancel_futures=True)
                     break
+                try:
+                    future.result()
+                except Exception as e:
+                    print(f"\n[ERROR] チャンク処理中にエラー: {e}", flush=True)
+
                 now = time.perf_counter()
                 if now - last_report_t >= REPORT_SEC:
                     with progress_lock:
                         last_report_t = now
-                        Progress.bar_line(processed_count, total_files,
-                                        f"{processed_count:,} / {total_files:,} files (更新済み: {updated_count:,})")
+                        Progress.bar_line(
+                            processed_count, total_files,
+                            f"{processed_count:,} / {total_files:,} files (更新済み: {updated_count:,})"
+                        )
 
         checkpoint_manager.save_checkpoint()
         Progress.ok(f"プロセス完了。合計 {updated_count:,} 件のファイルを更新・最適化しました。")
