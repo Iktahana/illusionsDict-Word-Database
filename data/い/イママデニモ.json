@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この種のトラブルは、今までにも何度か報告されています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "彼のような才能豊かな選手は、我がチームの歴史の中でも今までにも数人しかいなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "今回の受賞は大変名誉なことですが、実は今までにも同様の賞をいただいたことがあります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さて）　吉田は、そう考えることによって、何かのいい方法を――今までにもう幾度か最後の手段に出た方がいい、と考えたにも拘らず、改めて又、――いい方法を、と、それが汗の中にでもあるように汗みどろになって、全速力で考え初めた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-25T17:46:39.270637+00:00Z"
     }
   }
 ]
