@@ -31,84 +31,36 @@
         "examples": {
           "standard": [
             {
-              "text": "例句1",
-              "source": "幻辞"
+              "text": "ドキュメント内で何度も間違えて使っていた製品名を、エディタの機能を使って正しい名前に一括置換した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             },
             {
-              "text": "例句2",
-              "source": "幻辞"
+              "text": "コード内の古い変数名を一括置換したら、思わぬ箇所まで書き換わってしまい、エラーが出てしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             },
             {
-              "text": "例句3",
-              "source": "幻辞"
+              "text": "「ねえ、このファイルの『2023』を全部『2024』に一括置換しておいてくれる？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             },
             {
-              "text": "例句4",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句5",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句6",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句7",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句8",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句9",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句10",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句11",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句12",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句13",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句14",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句15",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句16",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句17",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句18",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句19",
-              "source": "幻辞"
-            },
-            {
-              "text": "例句20",
-              "source": "幻辞"
+              "text": "テキストファイルに含まれるタブ文字を、一括置換ですべて半角スペースに変換した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
             }
           ],
           "literary": []
@@ -124,7 +76,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-25T16:57:29.591656+00:00Z"
     }
   }
 ]
