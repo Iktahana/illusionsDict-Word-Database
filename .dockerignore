@@ -1,0 +1,19 @@
+# Git history (large, not needed in image)
+.git/
+
+# Checkpoints (mounted at runtime)
+.checkpoints/
+
+# Data files (mounted at runtime)
+data/
+
+# Dev artifacts
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+node_modules/
+
+# Secrets
+.env
+.env.*
