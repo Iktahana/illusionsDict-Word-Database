@@ -36,31 +36,118 @@ MODELS = [
     "gemini-3.1-pro-preview"
 ]
 
+def parse_retry_delay(err: str) -> int:
+    """
+    429 エラーメッセージからリトライ待機時間（秒）を解析。
+    見つからなければデフォルト 60 秒を返す。
+
+    対応パターン例:
+      retryDelay: "1m30s"  →  90
+      retryDelay: "30s"    →  30
+      retry after 60 seconds
+      Retry-After: 45
+    """
+    # "1m30s" / "2m" / "45s" 形式
+    m = re.search(r'retryDelay[^0-9]*(\d+)m(\d+)s', err)
+    if m:
+        return int(m.group(1)) * 60 + int(m.group(2))
+    m = re.search(r'retryDelay[^0-9]*(\d+)m', err)
+    if m:
+        return int(m.group(1)) * 60
+    m = re.search(r'retryDelay[^0-9]*(\d+)s', err)
+    if m:
+        return int(m.group(1))
+    # "retry after N seconds" / "Retry-After: N"
+    m = re.search(r'retry.{0,15}after[:\s]+(\d+)', err, re.IGNORECASE)
+    if m:
+        return int(m.group(1))
+    m = re.search(r'Retry-After[:\s]+(\d+)', err, re.IGNORECASE)
+    if m:
+        return int(m.group(1))
+    return 60  # fallback
+
+
 class ModelManager:
+    """
+    複数 Gemini モデルのレート制限を管理。
+    各モデルのクールダウン時刻を記録し、利用可能なモデルを自動選択・待機する。
+    """
     def __init__(self, models):
         self.models = models
-        self.current_index = 0
         self.lock = threading.Lock()
-        self.failures_in_row = 0
+        # model -> epoch time when it becomes available again (0 = available now)
+        self.cooldowns: dict[str, float] = {m: 0.0 for m in models}
+        self.preferred_index = 0  # 最後に成功したモデルのインデックス
 
-    def get_current_model(self):
-        with self.lock:
-            return self.models[self.current_index]
+    def get_available_model(self) -> str:
+        """
+        利用可能なモデルを返す。
+        全モデルがクールダウン中なら最も早く解除されるモデルまで待機してから返す。
+        """
+        while True:
+            with self.lock:
+                now = time.time()
+                # preferred モデルから順に探す
+                n = len(self.models)
+                for offset in range(n):
+                    idx = (self.preferred_index + offset) % n
+                    model = self.models[idx]
+                    if self.cooldowns[model] <= now:
+                        self.preferred_index = idx
+                        return model
 
-    def switch_to_next_model(self):
-        with self.lock:
-            self.current_index = (self.current_index + 1) % len(self.models)
-            self.failures_in_row += 1
-            model = self.models[self.current_index]
-            if self.failures_in_row >= len(self.models):
-                print(f"\n[INFO] 全モデルのクォータ制限に達した可能性があります。60秒待機します...", flush=True)
-                time.sleep(60)
-                self.failures_in_row = 0
-            return model
+                # 全モデルクールダウン中 → 最短解除を待つ
+                soonest_model = min(self.models, key=lambda m: self.cooldowns[m])
+                wait_sec = max(0.0, self.cooldowns[soonest_model] - now)
 
-    def reset_failure_count(self):
+            ts = datetime.now().strftime('%H:%M:%S')
+            resume = datetime.fromtimestamp(self.cooldowns[soonest_model]).strftime('%H:%M:%S')
+            print(
+                f"\n[Rate Limit] 全モデルがクールダウン中。"
+                f"{wait_sec:.0f}秒待機 ({ts} → {resume}) ...",
+                flush=True
+            )
+            # 待機中も shutdown シグナルに反応できるよう細切れで待つ
+            deadline = time.time() + wait_sec
+            while time.time() < deadline:
+                if _shutdown_requested.is_set():
+                    return self.models[0]
+                time.sleep(min(5, deadline - time.time()))
+
+    def mark_rate_limited(self, model: str, retry_after: int) -> None:
+        """モデルをクールダウン状態にする"""
         with self.lock:
-            self.failures_in_row = 0
+            self.cooldowns[model] = time.time() + retry_after
+        ts = datetime.fromtimestamp(self.cooldowns[model]).strftime('%H:%M:%S')
+        print(f"\n[Rate Limit] {model} → {retry_after}s 待機 (解除: {ts})", flush=True)
+
+    def mark_success(self, model: str) -> None:
+        """成功したモデルを preferred に設定"""
+        with self.lock:
+            try:
+                self.preferred_index = self.models.index(model)
+            except ValueError:
+                pass
+
+    def mark_unavailable(self, model: str) -> None:
+        """利用不可モデルを長期クールダウン（1時間）に設定"""
+        with self.lock:
+            self.cooldowns[model] = time.time() + 3600
+
+    def status(self) -> list[tuple[str, str]]:
+        """各モデルの状態を返す（表示用）"""
+        now = time.time()
+        result = []
+        with self.lock:
+            for m in self.models:
+                cd = self.cooldowns[m]
+                if cd <= now:
+                    result.append((m, "available"))
+                else:
+                    secs = int(cd - now)
+                    result.append((m, f"cooldown {secs}s"))
+        return result
+
 
 model_manager = ModelManager(MODELS)
 
@@ -261,10 +348,10 @@ def generate_examples_batch(items: list) -> dict:
     Before: N語 × 400token指令 = N×400 tokens
     After:  1回 × 150token指令 + N語のデータ ≈ 150 + N×30 tokens
     """
-    max_retries = len(MODELS) * 2
+    max_retries = len(MODELS) * 3
 
     for _ in range(max_retries):
-        current_model = model_manager.get_current_model()
+        current_model = model_manager.get_available_model()
 
         word_lines = "\n".join([
             f"{i+1}. 表記:{entry} 読み:{reading} 品詞:{pos} 意味:{gloss}"
@@ -290,8 +377,16 @@ def generate_examples_batch(items: list) -> dict:
             out = clean_ansi(res.stdout).strip()
             err = clean_ansi(res.stderr).strip()
 
-            if any(x in err for x in ("429", "Quota exceeded", "Rate limit", "ModelNotFoundError")):
-                model_manager.switch_to_next_model()
+            # レート制限・モデル不可エラーの処理
+            is_rate_limit = any(x in err for x in ("429", "Quota exceeded", "Rate limit"))
+            is_unavailable = any(x in err for x in ("ModelNotFoundError", "not found", "INVALID_ARGUMENT"))
+
+            if is_rate_limit:
+                delay = parse_retry_delay(err)
+                model_manager.mark_rate_limited(current_model, delay)
+                continue
+            if is_unavailable:
+                model_manager.mark_unavailable(current_model)
                 continue
 
             match = re.search(r'\{.*\}', out, re.DOTALL)
@@ -309,7 +404,7 @@ def generate_examples_batch(items: list) -> dict:
                                             "author": "Gemini",
                                             "note": current_model
                                         }
-                        model_manager.reset_failure_count()
+                        model_manager.mark_success(current_model)
                         return result
                     except json.JSONDecodeError:
                         continue
@@ -317,7 +412,7 @@ def generate_examples_batch(items: list) -> dict:
             time.sleep(1)
 
         except subprocess.TimeoutExpired:
-            model_manager.switch_to_next_model()
+            model_manager.mark_rate_limited(current_model, 30)
         except Exception:
             pass
 
@@ -460,6 +555,81 @@ def auto_commit_worker():
             print(f"\n[Auto-commit] エラー (スキップ): {e}", flush=True)
 
 # ──────────────────────────────────────────────────────────
+# 起動時チェック
+# ──────────────────────────────────────────────────────────
+
+def _probe_model(model: str) -> tuple[str, str]:
+    """単一モデルに最小リクエストを送って状態を確認。(model, status_str) を返す。"""
+    try:
+        res = subprocess.run(
+            ['gemini', '-m', model, '-p', '1'],
+            capture_output=True, text=True, encoding='utf-8', timeout=20
+        )
+        err = clean_ansi(res.stderr).strip()
+        out = clean_ansi(res.stdout).strip()
+
+        if any(x in err for x in ("429", "Quota exceeded", "Rate limit")):
+            delay = parse_retry_delay(err)
+            model_manager.mark_rate_limited(model, delay)
+            return model, f"⚠  Rate limited (reset in {delay}s)"
+        if any(x in err for x in ("ModelNotFoundError", "not found", "INVALID_ARGUMENT")):
+            model_manager.mark_unavailable(model)
+            return model, "✗  Unavailable"
+        if res.returncode == 0 and out:
+            return model, "✓  OK"
+        return model, f"?  Unknown (rc={res.returncode})"
+    except subprocess.TimeoutExpired:
+        return model, "✗  Timeout"
+    except Exception as e:
+        return model, f"✗  Error: {e}"
+
+
+def startup_check() -> None:
+    """
+    起動時にモデル疎通確認と進捗 stats を表示する。
+    全モデルを並列チェックするため数秒で完了する。
+    """
+    sep = "─" * 60
+    print(f"\n{sep}", flush=True)
+    print("  illusionsDict 例文生成スクリプト", flush=True)
+    print(sep, flush=True)
+
+    # ── Gemini 接続確認（並列）──
+    print("\n[Gemini] モデル疎通確認中...", flush=True)
+    results: dict[str, str] = {}
+    with ThreadPoolExecutor(max_workers=len(MODELS)) as ex:
+        futures = {ex.submit(_probe_model, m): m for m in MODELS}
+        for fut in as_completed(futures):
+            model, status = fut.result()
+            results[model] = status
+
+    for m in MODELS:
+        print(f"  {m:<30} {results[m]}", flush=True)
+
+    available = [m for m in MODELS if results[m].startswith("✓")]
+    if not available:
+        print("\n  [WARNING] 利用可能なモデルが見つかりません。クールダウン後に自動リトライします。", flush=True)
+
+    # ── ファイル統計 ──
+    print("\n[Stats]", flush=True)
+    try:
+        all_dirs  = sorted([d for d in DATA_ROOT.iterdir() if d.is_dir()], key=lambda x: x.name)
+        total     = sum(len(list(d.glob("*.json"))) for d in all_dirs)
+        processed = len(checkpoint_manager.processed_files)
+        updated   = len(checkpoint_manager.updated_files)
+        remaining = total - processed
+        pct       = processed / total * 100 if total else 0
+        print(f"  総ファイル数  : {total:>10,}", flush=True)
+        print(f"  処理済み     : {processed:>10,}  ({pct:.1f}%)", flush=True)
+        print(f"  更新済み     : {updated:>10,}", flush=True)
+        print(f"  残り         : {remaining:>10,}", flush=True)
+    except Exception as e:
+        print(f"  (stats 取得失敗: {e})", flush=True)
+
+    print(f"\n{sep}\n", flush=True)
+
+
+# ──────────────────────────────────────────────────────────
 # 実行
 # ──────────────────────────────────────────────────────────
 
@@ -479,6 +649,9 @@ def main():
     signal.signal(signal.SIGINT, signal_handler)
     signal.signal(signal.SIGTERM, signal_handler)
     atexit.register(checkpoint_manager.save_checkpoint)
+
+    # 起動時チェック（モデル疎通確認 + stats）
+    startup_check()
 
     # 自動コミットスレッドを起動
     commit_thread = threading.Thread(target=auto_commit_worker, daemon=True, name="auto-commit")
