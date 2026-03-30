@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この書類は、管理上の理由から一定期間保管する必要があります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "経費精算の手続きは、管理上の都合により、毎月月末に締め切られます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "部署間の連携をスムーズにするため、管理上のルールを再検討しています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なおそのほかに物資の蓄蔵されてある幾つの倉庫、納殿などのことも、信用する少納言の乳母を上にして何人かの家司をそれにつけて、夫人の物としてある財産の管理上の事務を取らせることに計らったのである。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:04:40.152636+00:00Z"
     }
   }
 ]

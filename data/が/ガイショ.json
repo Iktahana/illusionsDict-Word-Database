@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「あー、この論文を書き終えるには、どうしてもこの外書を読み解かないといけないな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "教授の書斎には、彼が若かりし頃に海外で買い集めた外書が所狭しと並んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「最近は翻訳版が出るのが早くなったけど、やっぱり原著の外書でニュアンスを確認したいよね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よし自分の頭には解っていても、それを口にし文にする時にはどうしても間違って来る、真実の事はなかなか出ない、髣髴として解るのは、各自の一生涯を見たらばその上に幾らか現われて来るので、小説の上じゃ到底｜偽ッぱちより外書けん、と斯う頭から極めて掛っている所があるから、私にゃ弥々真劒にゃなれない。",
@@ -136,7 +161,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古典の注釈によれば、彼は仏典だけでなく、広く外書にも通じていたという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「へえ、当時は儒教の教えなんかも『外書』として区別されていたんだね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "修行僧たちは、内典の深奥を極める傍ら、教養として外書を繙くこともあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -150,7 +200,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:07:36.714402+00:00Z"
     }
   }
 ]
