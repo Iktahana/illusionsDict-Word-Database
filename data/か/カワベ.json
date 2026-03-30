@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "休日の朝は、川辺を散歩して新鮮な空気を吸い込むのが日課だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "バーベキューをするなら、開放感のある川辺の広場が気持ちいい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは川辺で石投げをしたり、水たまりで遊んだりして楽しんでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夕焼け空の下、川辺には散歩する人々のシルエットが長く伸びていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "頃は、駿河国という名称はなくて、富士川辺まで佐賀牟国と呼ばれていた時代のことである。",
@@ -284,7 +317,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T12:19:17.355194+00:00Z",
       "freq_rank": 34109
     }
   }
