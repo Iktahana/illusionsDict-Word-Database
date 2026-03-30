@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漁師たちは、出航前にラジオの気象通報に耳を傾けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "船長は、定期的な気象通報を受けて航路を調整した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "国際的な気象通報網は、航空機の安全な運航に不可欠だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ラジオの気象通報は、中国大陸にあった高気圧が東行してかなり裏日本に迫り、北西風が強く吹き募ってきたことを報じた上、Ｔ市地方は二、三日うちにまた雪になるでしょうと有難くない予報をアナウンスした。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T22:34:03.043264+00:00Z"
     }
   }
 ]
