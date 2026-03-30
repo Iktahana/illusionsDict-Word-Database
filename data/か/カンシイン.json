@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "試験会場では、複数の監視員が受験生の不正行為がないか目を光らせていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プールの監視員は、子供たちが安全に遊べるよう常に注意を払っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "建設現場の監視員は、作業員が安全規定を遵守しているか毎日チェックする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼と横斜めの位置に一人の男が立つてゐて、確にデパートの監視員にまちがひなく、然もじつと彼の挙動に注意してゐた、彼はその日は帰つた。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T12:50:43.142069+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は熱心なアクアリストで、リビングには色鮮やかな熱帯の鹹水魚が泳ぐ巨大な水槽が鎮座している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「淡水魚と鹹水魚では、体内の塩分濃度を調節する仕組みが根本的に違うんだよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "潮が引いた後の磯溜まりに取り残された小さな鹹水魚たちが、次の満潮を待ちわびるように泳いでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水は、海水の流入によつて鹹水であるが、岩木川からそそぎ這入る河水も少くないので、その河口のあたりは淡水で、魚類も淡水魚と鹹水魚と両方宿り住んでゐるといふ。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T12:55:41.755829+00:00Z"
     }
   }
 ]

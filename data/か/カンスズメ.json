@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬の寒い朝、窓の外で小さな寒雀がチュンチュンと鳴いていた。寒そうだけど、元気いっぱいだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の書物には、寒雀は滋養があって病に効く薬鳥だと書かれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "寒雀が雪の積もった枝にとまって、じっとこちらを見ていた。まるで何かを伝えようとしているみたいだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "寒雀と言って、この大寒の雀は、津軽の童児の人気者で、罠やら何やらさまざまの仕掛けをしてこの人気者をひっとらえては、塩焼きにして骨ごとたべるのである。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T12:55:41.788028+00:00Z"
     }
   }
 ]
