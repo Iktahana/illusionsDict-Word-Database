@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この法案は、新たな企業体に対する規制を設けるものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "個人事業主から株式会社へ、企業体を変更する手続きを進めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "合併により、二つの企業体が一つに統合されることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "当社の顧客は、様々な業種の企業体と取引がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ、近頃一部の作家の間に流行しているように、小金をためて来た作家たちが、背後により大きい資本と結合して、出版企業体を組織し、株主や理事になって、利潤の分配に直接関係しはじめている人々は、作家といっても、それは例外である。",
@@ -60,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:36:49.888990+00:00Z"
     }
   }
 ]

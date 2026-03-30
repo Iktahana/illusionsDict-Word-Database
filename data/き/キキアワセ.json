@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "納期について、メーカーに聞き合せをした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は失くした財布について、駅の遺失物取扱所に聞き合せに行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "聞き合せの結果、その商品は在庫切れだと判明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『――僕の父は、あなたが生まれる五六年も前にアメリカへ渡ったのですが、それ以来ただの一度も日本へ帰らなかったことは、私の母をはじめ誰に聞き合せてみても、確な事実らしいのです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:31:12.413153+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この靴は、僕の足に合わせてわざわざ木型から作ってもらったんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「和菓子の落雁は、彫刻が施された木型に粉を押し込んで作るんだよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔ながらの鋳物工場には、長年使い込まれた木型がいくつも保管されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "木型が出来ましたので、大島如雲氏はそれを原型として鋳金にしましたが、なかなか能く出来て、原型をさらに仕生かすほどの腕で滞りなく皇居御造営事務局の方へ納まりました。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:31:12.365094+00:00Z"
     }
   }
 ]

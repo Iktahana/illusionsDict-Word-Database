@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この情報は、社外秘です。企業内でのみ共有してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "明日の会議は、企業内研修の一環として実施されます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「企業内でのコミュニケーションを円滑にするための施策を検討中だ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このキャンペーンは、企業内でのみ展開される限定的なものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一般の世界情勢につれて、革命化しつつあるとはいえ婦人大衆は企業内にあるとないとにかかわらず四方八方から反動文化にからみつかれる危険にさらされているのだ。",
@@ -148,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:36:49.891663+00:00Z"
     }
   }
 ]
