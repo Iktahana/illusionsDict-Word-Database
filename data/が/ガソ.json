@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この写真は画素数が足りないので、拡大するとモザイクのように荒れてしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「最近のスマホカメラは、もう画素数だけじゃ語れないレベルに進化してるよね」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "4Kテレビの圧倒的な画素密度により、まるで窓の外を眺めているような臨場感がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "映画素材から映画を作り上げる編集方法としてのモンタージュはそもそも映画始まって以来行なわれて来たものに相違ないのであるが、しかし初期の映画において、単に海岸に打ち寄せる波の遊びを見せたり、あるいは舞台演芸をそっくりそのまま写してみたりしたような場合にはあまり問題にならない事であった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T16:32:32.754552+00:00Z",
       "freq_rank": 14225
     }
   }

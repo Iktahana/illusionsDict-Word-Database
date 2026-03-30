@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "暗くなると、公園の入口に立つ街路灯がポツンと灯る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古くなった街路灯が点滅していて、ちょっと不気味だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの新しいLEDの街路灯、夜道がすごく明るくなったね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "台風で倒れた街路灯が、翌日には撤去されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして深い雨霧が街路灯に薄黄色い円を描く夜明けの街や、野菜や真桑瓜売りの荷車が雑沓する市場や、静かに濡れそぼつ大同江の船着場などをとぼとぼ徨い歩いた。",
@@ -84,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:45:07.935599+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "嵐の海で、不意のガストがヨットの帆を激しく揺らし、一瞬バランスを崩した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "山の稜線付近では、地形の影響で予測不能なガストが発生しやすく、登山者は常に注意を払う必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小型飛行機が着陸態勢に入った時、突然のガストに煽られ、機体が大きく傾いたが、パイロットは冷静に対処した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「おれは、ジャック・プレンダーガストだ」　と彼は云った。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:32:32.714507+00:00Z"
     }
   }
 ]

@@ -31,7 +31,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいモデルの車は、燃費の良いガソリンエンジンを搭載している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "環境規制の強化により、ガソリンエンジンの開発には新たな課題が生まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔ながらのガソリンエンジン特有の力強い加速感が今でも好きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ハイブリッド車は、ガソリンエンジンと電気モーターを効率よく使い分ける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "放送局の非常用発電ガソリンエンジンも停っていればしかたがないが、もしエンジンが働いていて放送をやっているとしたら、旗男の受信機には入ってくる筈だった。",
@@ -94,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:32:32.777462+00:00Z"
     }
   }
 ]
