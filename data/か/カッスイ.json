@@ -31,7 +31,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の夏は雨が極端に少なく、ダムの貯水率が低下して深刻な渇水に陥った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "市役所から渇水による時間断水のお知らせが届き、慌てて風呂桶に水を溜めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "渇水の影響で農作物の生育が遅れ、野菜の価格が高騰している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「このまま渇水が続けば、プールの授業は中止になるかもしれないね」と先生が言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山林濫伐を敢てして福を惜まなかつた結果は、禿山渇水を到處に造り出して、土地の氣候を惡くし、天候を不調にし、一朝豪雨あるに至れば、山潰え水漲りて、不測の害を世間に貽るに至るではないか。",
@@ -214,7 +247,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T06:29:20.040287+00:00Z",
       "freq_rank": 44033
     }
   }
