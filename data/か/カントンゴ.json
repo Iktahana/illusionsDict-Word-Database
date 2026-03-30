@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は標準中国語だけでなく、祖父母と話すための広東語も流暢に操る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ジャッキー・チェンの古い映画を字幕なしで楽しみたくて、広東語の勉強を始めました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "香港の市場では、英語よりも簡単な広東語で値段交渉した方が安くしてくれることが多いです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たしかに東洋人にはちがいないが、両親がわからないから、日本人だか中国人だか分らないといっている」「赤ちゃんのときは、何語を話していたのかね」「それは広東語だ。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T13:48:46.566633+00:00Z"
     }
   }
 ]
