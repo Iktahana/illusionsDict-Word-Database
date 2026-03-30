@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプロジェクトの成功蓋然性は、諸条件によって大きく左右される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "専門家は、システム障害の蓋然性を綿密に評価した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "報告書は、市場暴落の蓋然性が低いことを指摘している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この事象が発生する蓋然性は、無視できるほど小さいです」と専門家は述べた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼女は粗末な首巻の内に首をすくめながら、百に一つか、千に一つかと思われる、その旅館へ子供達が遊びに行ったということの蓋然性を、さまざまにはかりながら、凍てついた道を急いだ。",
@@ -284,7 +317,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T15:26:16.125498+00:00Z",
       "freq_rank": 35870
     }
   }

@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「旧字体を登録する際、どこの外字番号に割り当てたか記録しておかないと後で混乱するぞ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "顧客管理システムの移行作業中、特定の外字番号だけが文字化けしてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この古文書特有の漢字は、システム上の外字番号で管理されています」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「えーと、この特殊な記号の外字番号って、16進数でいくつだったっけ？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +76,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:26:16.091094+00:00Z"
     }
   }
 ]
