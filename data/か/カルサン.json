@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代、武士が着用した軽衫は活動的でありながら威厳を保った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "時代劇で見るカルサンは、現在の袴とはまた違った趣がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ポルトガル風のカルサンは、当時の日本のファッションに影響を与えたようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この絵巻に描かれている武士のカルサン、裾が広くて動きやすそうだな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こういう種類のではたとえばたっつけ袴のカルサンというのがインドへんから来ているかと思うと、イタリアにも類似の名が出て来たりするのである。",
@@ -172,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T10:38:48.106171+00:00Z"
     }
   }
 ]

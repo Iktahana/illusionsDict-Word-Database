@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の終わりの野原は、陽に焼けた枯れ草の匂いが満ちていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "風が吹くと、乾いた枯れ草がサラサラと耳に心地よい音を立てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家畜のために、冬の餌として大量の枯れ草を干しておいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "高嶽の絶頂は噴火口から吐き出す水蒸気が凝って白くなっていたがそのほかは満山ほとんど雪を見ないで、ただ枯れ草白く風にそよぎ、焼け土のあるいは赤きあるいは黒きが旧噴火口の名残をかしこここに止めて断崖をなし、その荒涼たる、光景は、筆も口もかなわない、これを描くのはまず君の領分だと思う。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T10:41:55.671214+00:00Z"
     }
   }
 ]

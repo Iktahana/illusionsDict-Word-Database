@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公園の古いベンチに座って読書をしていたら、カサリと軽い音を立てて枯葉が膝の上に落ちてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ねえ、この枯葉を山のように集めて、幼稚園のみんなで大きな焚き火をしたらきっと楽しいと思わない？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "強い北風に舞う枯葉が歩道の隅に吹き溜まりを作り、街並みに本格的な冬の訪れを告げている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "動物園にて灼きつく如く寂しさ迫りひとり來りて園内の木立を行けば枯葉みな地に落ち猛獸は檻の中に憂ひ眠れり。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T10:41:55.678346+00:00Z",
       "freq_rank": 28807
     }
   }

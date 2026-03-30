@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医師は、患者の皮膚にできた痛々しいカルブンケルを慎重に診察した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "抗生物質治療によって、カルブンケルの炎症が徐々に引いてきたそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史的な医学書には、カルブンケルに関する記述が多く見られ、昔から人々に恐れられていたことがわかる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現代の批評家たちが偉人の死体を不器用に解剖して精神的な腫れ物やカルブンケルにかかったらどうなるか考えてごらんなさい。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T10:38:48.174322+00:00Z"
     }
   }
 ]
