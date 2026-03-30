@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この古文書は、現代とは異なる仮名遣いが使われている。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供に正しい仮名遣いを教えるのは、意外と難しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「歴史的仮名遣い」と「現代仮名遣い」のどちらを採用するか、編集部で議論になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この作家の独特な仮名遣いが、作品の雰囲気を醸し出している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二葉亭も一つの文章論としては随分思切った放胆な議論をしていたが、率ざ自分が筆を執る段となると仮名遣いから手爾於波、漢字の正訛、熟語の撰択、若い文人が好い加減に創作した出鱈目の造語の詮索から句読の末までを一々精究して際限なく気にしていた。",
@@ -220,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T07:04:27.823171+00:00Z",
       "freq_rank": 44170
     }
   }

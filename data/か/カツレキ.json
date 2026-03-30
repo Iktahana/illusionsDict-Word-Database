@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "九代目團十郎が創始した活歴は、あまりに写実的すぎて当時の観客には不評だったらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "時代考証を徹底した活歴の舞台は、華やかさよりもどこか厳粛な空気感が漂っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「これは娯楽というより歴史教育だな」と、観客は史実に忠実な活歴劇を評した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "仕方を見せて見物を泣かせる目算のあてはずれ、発奮で活歴を遣って退け、手痍少々負うたれば、破傷風にならぬようにと、太鼓大の膏薬を飯粒にて糊附けしが、歩行たびに腹筋よれて、跛曳き曳き、「あ痛、あ痛。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T07:05:25.097262+00:00Z"
     }
   }
 ]

@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "いつかカトマンズを訪れて、ヒマラヤの麓を歩いてみたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "カトマンズの街は、独特の活気と歴史的な魅力に満ちている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ネパール料理を食べながら、カトマンズでの冒険談を聞かせてもらった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "飛行機がカトマンズの空港に着陸すると、遠くの山々が見えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "カトマンズまでの行路　その紳士の名はブッダ・バッザラ（覚金剛）その老僧はラサ府レブン大寺の博士でマーヤル（継子）というなかなか剽軽なお方でした。",
@@ -172,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T07:18:02.025612+00:00Z",
       "freq_rank": 32566
     }
   }

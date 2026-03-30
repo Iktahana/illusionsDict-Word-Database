@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「あ、欲しかった文庫本、角川書店から来週新装版が出るみたいだよ。それまで待とうかな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "角川書店が主催するライトノベルの新人賞に応募するため、彼は半年かけてプロットを練り上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「角川書店のロゴマークって、確か鳳凰がモチーフになっているんだっけ？格好いいよね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この間、学問のかたわらキリスト教の聖書について講義をしてきたことが多年であり、その一部は終戦後角川書店から単行本として出版された。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T06:56:44.181567+00:00Z",
       "freq_rank": 16285
     }
   }
