@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "出版前に誤字脱字がないか、担当者が仮刷りを何度もチェックした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "デザイナーから送られてきた仮刷りを見て、色の調整を依頼した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最終的な仕上がりを確認するため、印刷会社から送られてきた仮刷りを全員で確認した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は、少しばかりずり上っただけで、私たちが室を出て来た時とほとんど同じようにして寝ていて、弱ってもおり興奮してもいるようだった。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T10:54:02.608727+00:00Z"
     }
   }
 ]

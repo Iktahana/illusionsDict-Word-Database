@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本格的なダイエットを始めるために、まずは毎日の『カロリー計算』から始めてみようと思ってる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "アプリで食事の写真を撮るだけで『カロリー計算』してくれるから、すごく便利！",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると私の友人がソ連から帰って訪ねてきたが、これまた同じくカロリー計算とパンの話だけしかしない。",
@@ -52,7 +69,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T10:54:57.481899+00:00Z"
     }
   }
 ]

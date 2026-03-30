@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本議長が遅刻したため、ベテラン議員が一時的に仮議長を務めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "会議冒頭、仮議長が議事進行の順序について説明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "仮議長の進行で、滞りなく議案の審議が進んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "公の学成りて帰朝するや、時方に帝国議会の開設に逢ひ、公は憲法の与へたる特権に依りて貴族院に列したりしが、当時貴族院議長たりし伊藤侯は、此の帰朝者の政治的技倆を試験せむが為に一時仮議長の事を摂行せしめたりき。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T10:54:02.579988+00:00Z"
     }
   }
 ]

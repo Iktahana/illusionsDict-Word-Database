@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "裁判所は、両者の対立が激化するのを防ぐため、一時的な仮処分を命じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この紛争が解決するまで、不動産の権利保全のために仮処分が下されました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "仮処分決定により、相手方はその財産を売却できなくなります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "緊急性が高いため、正式な判決を待たずに迅速な仮処分が実施された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其の結果外国著作権の侵害事件が頻出するに至ったが、いずれも裁判所の仮処分命令で上演を差止められたり、著作権侵害の告訴を受けたりして、屈伏するの余儀なきに至った。",
@@ -60,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T10:54:02.586471+00:00Z",
       "freq_rank": 15044
     }
   }
