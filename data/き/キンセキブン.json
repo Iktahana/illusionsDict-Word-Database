@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "The team painstakingly documented the epigraph on a stone monument found at the ruins.",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "The meaning of the epigraph on a stone monument remained a subject of scholarly debate.",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "Researchers hope to unlock historical secrets by translating the epigraph on a stone monument.",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうしてかような資料は、西紀三世紀の頃の『魏書』をはじめとして、支那歴代の史書や、日本の上代の金石文などの中にもあるけれども、それらはいずれも分量が少なく或る一時代の音韻全般にわたってこれを知ることは出来ない。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T08:52:13.238393+00:00Z"
     }
   }
 ]
