@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父の旧宅を数年ぶりに訪ねると、庭の隅には昔と変わらず立派な梅の木が立っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "かつて文豪が筆を執った旧宅が記念館として整備され、今では多くの文学ファンが足を運んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「うわぁ、ここが昔住んでた旧宅か。柱の傷まで当時のままだよ」と彼は懐かしそうに目を細めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "晩年に到るまで、彼はこの旧宅に手を入れることは容易に承諾しなかった。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T03:05:58.440748+00:00Z"
     }
   }
 ]

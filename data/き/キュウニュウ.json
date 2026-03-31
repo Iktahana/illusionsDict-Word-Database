@@ -31,7 +31,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医者は喘息の発作時に、速やかに薬を吸入するよう指示した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供が誤って小さな部品を吸入してしまい、病院に運ばれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "アロマオイルの香りを深く吸入すると、リラックスできる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "有害なガスを吸入しないよう、マスクを着用してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その訳は肺臓へ吸入されたのは速やかに吸収され速やかに排出されるが、その他の方法で与えたものは長く肝臓に停滞するためであるとの事である。",
@@ -286,7 +319,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T03:05:58.484007+00:00Z",
       "freq_rank": 27178
     }
   }
