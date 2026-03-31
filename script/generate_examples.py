@@ -20,20 +20,18 @@ SCRIPT_DIR   = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 DATA_ROOT    = PROJECT_ROOT / "data"
 CHECKPOINT_DIR = PROJECT_ROOT / ".checkpoints"
-MAX_WORKERS  = 8      # 並列実行エージェント数
+MAX_WORKERS  = 3      # 3 Flash モデル × 1 並発 = 3 workers
 REPORT_SEC   = 3.0    # 進捗表示の更新間隔（秒）
-CHECKPOINT_SAVE_INTERVAL = 50  # N ファイル処理ごとに checkpoint を自動保存
-BATCH_SIZE   = 12     # 一回のAPI呼び出しで処理する語彙数（トークン削減の核心）
-FILE_CHUNK_SIZE = 120  # 一つのワーカーが担当するファイル数
+CHECKPOINT_SAVE_INTERVAL = 20  # N ファイル処理ごとに checkpoint を自動保存
+BATCH_SIZE   = 50     # 一回のAPI呼び出しで処理する語彙数（12→50: 4倍効率化）
 AUTO_COMMIT_INTERVAL = 1800  # 自動コミットの間隔（秒 = 30分）
+GLOBAL_RPM_INTERVAL  = 1.5   # グローバルリクエスト間隔（秒）≈ 40 RPM
 
-# AIモデル情報
+# AIモデル情報（Flash のみ — Pro は 2026/3/25 以降無料利用不可）
 MODELS = [
     "gemini-2.5-flash",
     "gemini-2.5-flash-lite",
-    "gemini-2.5-pro",
     "gemini-3-flash-preview",
-    "gemini-3.1-pro-preview"
 ]
 
 def parse_retry_delay(err: str) -> int:
@@ -70,49 +68,85 @@ def parse_retry_delay(err: str) -> int:
 class ModelManager:
     """
     複数 Gemini モデルのレート制限を管理。
-    各モデルのクールダウン時刻を記録し、利用可能なモデルを自動選択・待機する。
+    - 各モデルのクールダウン時刻を記録し、利用可能なモデルを自動選択
+    - BoundedSemaphore で同一モデルへの同時リクエスト数を 1 に制限
+    - グローバル token bucket で全モデル合計の RPM を制御（~40 RPM）
     """
     def __init__(self, models):
         self.models = models
         self.lock = threading.Lock()
-        # model -> epoch time when it becomes available again (0 = available now)
         self.cooldowns: dict[str, float] = {m: 0.0 for m in models}
-        self.preferred_index = 0  # 最後に成功したモデルのインデックス
+        self.semaphores: dict[str, threading.BoundedSemaphore] = {
+            m: threading.BoundedSemaphore(1) for m in models
+        }
+        self.preferred_index = 0
+        # グローバル限速: 全モデル合計で GLOBAL_RPM_INTERVAL 秒に 1 リクエスト
+        self._last_global_request = 0.0
 
-    def get_available_model(self) -> str:
+    def acquire_model(self) -> str:
         """
-        利用可能なモデルを返す。
-        全モデルがクールダウン中なら最も早く解除されるモデルまで待機してから返す。
+        利用可能なモデルのセマフォを獲得して返す。
+        使い終わったら release_model() を呼ぶこと。
         """
         while True:
+            if _shutdown_requested.is_set():
+                return self.models[0]
+
             with self.lock:
                 now = time.time()
-                # preferred モデルから順に探す
                 n = len(self.models)
+                candidates = []
                 for offset in range(n):
                     idx = (self.preferred_index + offset) % n
                     model = self.models[idx]
                     if self.cooldowns[model] <= now:
+                        candidates.append((idx, model))
+
+            # クールダウンしていないモデルのセマフォを非ブロッキングで試す
+            for idx, model in candidates:
+                if self.semaphores[model].acquire(blocking=False):
+                    # グローバル限速: 前回のリクエストから最小間隔を空ける
+                    with self.lock:
+                        now = time.time()
+                        wait = max(0.0, self._last_global_request + GLOBAL_RPM_INTERVAL - now)
+                        self._last_global_request = now + wait  # スロットを予約
                         self.preferred_index = idx
-                        return model
+                    if wait > 0:
+                        time.sleep(wait)
+                    return model
 
-                # 全モデルクールダウン中 → 最短解除を待つ
-                soonest_model = min(self.models, key=lambda m: self.cooldowns[m])
-                wait_sec = max(0.0, self.cooldowns[soonest_model] - now)
+            # 全モデルがビジーまたはクールダウン中
+            with self.lock:
+                now = time.time()
+                all_cooling = all(self.cooldowns[m] > now for m in self.models)
+                if all_cooling:
+                    soonest_model = min(self.models, key=lambda m: self.cooldowns[m])
+                    wait_sec = max(0.0, self.cooldowns[soonest_model] - now)
+                else:
+                    wait_sec = 0.5
 
-            ts = datetime.now().strftime('%H:%M:%S')
-            resume = datetime.fromtimestamp(self.cooldowns[soonest_model]).strftime('%H:%M:%S')
-            print(
-                f"\n[Rate Limit] 全モデルがクールダウン中。"
-                f"{wait_sec:.0f}秒待機 ({ts} → {resume}) ...",
-                flush=True
-            )
-            # 待機中も shutdown シグナルに反応できるよう細切れで待つ
-            deadline = time.time() + wait_sec
-            while time.time() < deadline:
-                if _shutdown_requested.is_set():
-                    return self.models[0]
-                time.sleep(min(5, deadline - time.time()))
+            if all_cooling:
+                ts = datetime.now().strftime('%H:%M:%S')
+                resume = datetime.fromtimestamp(self.cooldowns[soonest_model]).strftime('%H:%M:%S')
+                print(
+                    f"\n[Rate Limit] 全モデルがクールダウン中。"
+                    f"{wait_sec:.0f}秒待機 ({ts} → {resume}) ...",
+                    flush=True
+                )
+                deadline = time.time() + wait_sec
+                while time.time() < deadline:
+                    if _shutdown_requested.is_set():
+                        return self.models[0]
+                    time.sleep(min(5, max(0.1, deadline - time.time())))
+            else:
+                time.sleep(wait_sec)
+
+    def release_model(self, model: str) -> None:
+        """モデルのセマフォを解放"""
+        try:
+            self.semaphores[model].release()
+        except ValueError:
+            pass
 
     def mark_rate_limited(self, model: str, retry_after: int) -> None:
         """モデルをクールダウン状態にする"""
@@ -243,7 +277,7 @@ _JUNK_PATTERN_STRINGS = [
     r"営業会議で.*議論されました",
     r"実験の結果、.*性質が明らかになりました",
     r"著者は.*象徴的に表現しています",
-    r"教科書の第三章は.*內容です",
+    r"教科書の第三章は.*内容です",
     r"健康診断で.*相談しました",
     r"法的な観点から.*重要な問題です",
     r"アスリートは.*訓練しています",
@@ -315,6 +349,7 @@ class Progress:
 progress_lock   = threading.Lock()
 updated_count   = 0
 processed_count = 0
+total_batches   = 0
 last_report_t   = 0
 
 _ANSI_RE = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
@@ -336,48 +371,117 @@ def _to_checkpoint_key(file_path: Path) -> str:
         return str(file_path)
 
 # ──────────────────────────────────────────────────────────
-# バッチAPI呼び出し（最適化の核心）
+# スキャン & バッチ構築（扁平化パイプライン）
 # ──────────────────────────────────────────────────────────
 
-def generate_examples_batch(items: list) -> dict:
+def scan_pending_items(files_to_process: list) -> list[tuple]:
     """
-    複数語の例文を一括生成（トークン節約の核心）。
-    items: [(entry, reading, gloss, pos), ...] のリスト
-    returns: {"1": [{"text":"...", "citation":{...}}], "2": [...], ...}
+    全未処理ファイルをスキャンし、例文生成が必要な定義のリストを返す。
+    更新不要のファイルはその場で processed マーク。
+    returns: [(file_path, entry_idx, def_idx, entry_text, reading, gloss, pos), ...]
+    """
+    pending = []
+    skipped = 0
 
-    Before: N語 × 400token指令 = N×400 tokens
-    After:  1回 × 150token指令 + N語のデータ ≈ 150 + N×30 tokens
+    for fp in files_to_process:
+        try:
+            with open(fp, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+
+            file_pending = []
+            for ei, entry_obj in enumerate(data):
+                entry_text = entry_obj.get('entry', '')
+                reading    = entry_obj.get('reading', {}).get('primary', '')
+                pos        = ",".join(entry_obj.get('grammar', {}).get('pos', []))
+
+                for di, definition in enumerate(entry_obj.get('definitions', [])):
+                    std_examples = definition.get('examples', {}).get('standard', [])
+                    if is_low_quality(std_examples):
+                        file_pending.append(
+                            (fp, ei, di, entry_text, reading, definition.get('gloss', ''), pos)
+                        )
+
+            if file_pending:
+                pending.extend(file_pending)
+            else:
+                # 更新不要 → 即座に processed マーク
+                checkpoint_manager.add_processed(_to_checkpoint_key(fp))
+                skipped += 1
+
+        except Exception as e:
+            print(f"\n[エラー] {fp}: {e}")
+
+    if skipped > 0:
+        Progress.step(f"スキップ（更新不要）: {skipped:,} files")
+
+    return pending
+
+
+def create_batches(pending_items: list) -> list[list[tuple]]:
+    """
+    pending_items を BATCH_SIZE で切分。
+    同一ファイルの定義は同一バッチに収める（checkpoint の整合性のため）。
+    """
+    batches = []
+    current_batch = []
+    current_file = None
+
+    for item in pending_items:
+        fp = item[0]
+        if len(current_batch) >= BATCH_SIZE and fp != current_file:
+            batches.append(current_batch)
+            current_batch = []
+        current_batch.append(item)
+        current_file = fp
+
+    if current_batch:
+        batches.append(current_batch)
+
+    return batches
+
+# ──────────────────────────────────────────────────────────
+# バッチAPI呼び出し（-o json + 精簡プロンプト）
+# ──────────────────────────────────────────────────────────
+
+def generate_examples_batch(items: list) -> tuple[dict, str]:
+    """
+    複数語の例文を一括生成。
+    items: [(entry, reading, gloss, pos), ...]
+    returns: ({"1": [{"text":"..."}], ...}, model_name)
     """
     max_retries = len(MODELS) * 3
 
+    word_lines = "\n".join([
+        f"{i+1}. 表記:{entry} 読み:{reading} 品詞:{pos} 意味:{gloss}"
+        for i, (entry, reading, gloss, pos) in enumerate(items)
+    ])
+
+    prompt = (
+        '各語に自然な例文を3個、JSON出力。'
+        'キー="1","2",...、値=[{"text":"例文"}]。'
+        'テンプレ禁止。具体的場面。感動詞は会話文。\n\n'
+        f'{word_lines}\n\n'
+        '{"1":[{"text":"..."}],"2":[...]}'
+    )
+
     for _ in range(max_retries):
-        current_model = model_manager.get_available_model()
+        if _shutdown_requested.is_set():
+            return {}, ""
 
-        word_lines = "\n".join([
-            f"{i+1}. 表記:{entry} 読み:{reading} 品詞:{pos} 意味:{gloss}"
-            for i, (entry, reading, gloss, pos) in enumerate(items)
-        ])
-
-        # 精簡プロンプト（~150 tokens vs 旧 ~400 tokens）
-        prompt = (
-            '以下の語の自然な例文を各3〜5個、JSONオブジェクト形式で出力。\n'
-            'キーは番号（"1","2",...）。値は[{"text":"例文"}]の配列。\n'
-            'テンプレ表現禁止（「生活に欠かせない」「重要です」等）。'
-            '具体的な場面を想定。感動詞は会話文形式。\n\n'
-            f'{word_lines}\n\n'
-            '出力形式: {"1": [{"text": "..."}], "2": [...]}'
-        )
-
+        current_model = model_manager.acquire_model()
+        acquired = not _shutdown_requested.is_set()
+        if not acquired:
+            return {}, ""
         try:
             res = subprocess.run(
-                ['gemini', '-m', current_model, '-p', prompt],
+                ['gemini', '-m', current_model, '-p', prompt, '-o', 'json'],
                 capture_output=True, text=True, encoding='utf-8', timeout=180
             )
 
-            out = clean_ansi(res.stdout).strip()
-            err = clean_ansi(res.stderr).strip()
+            raw_out = res.stdout.strip()
+            err = res.stderr.strip()
 
-            # レート制限・モデル不可エラーの処理
+            # レート制限・モデル不可エラーの処理（stderr で判定）
             is_rate_limit = any(x in err for x in ("429", "Quota exceeded", "Rate limit"))
             is_unavailable = any(x in err for x in ("ModelNotFoundError", "not found", "INVALID_ARGUMENT"))
 
@@ -389,23 +493,29 @@ def generate_examples_batch(items: list) -> dict:
                 model_manager.mark_unavailable(current_model)
                 continue
 
-            match = re.search(r'\{.*\}', out, re.DOTALL)
+            # -o json の envelope をパース
+            response_text = ""
+            try:
+                envelope = json.loads(raw_out)
+                if "error" in envelope:
+                    err_msg = envelope["error"].get("message", "")
+                    if any(x in err_msg for x in ("429", "Quota", "Rate")):
+                        delay = parse_retry_delay(err_msg)
+                        model_manager.mark_rate_limited(current_model, delay)
+                        continue
+                response_text = envelope.get("response", "")
+            except json.JSONDecodeError:
+                # fallback: ANSI 除去して生テキストとして扱う
+                response_text = clean_ansi(raw_out)
+
+            # レスポンス内の JSON を抽出
+            match = re.search(r'\{.*\}', response_text, re.DOTALL)
             if match:
                 for attempt in [match.group(0), re.sub(r',\s*([}\]])', r'\1', match.group(0))]:
                     try:
                         result = json.loads(attempt)
-                        # citation はコードで自動付与（AIに生成させない）
-                        for key in result:
-                            if isinstance(result[key], list):
-                                for ex in result[key]:
-                                    if isinstance(ex, dict) and 'citation' not in ex:
-                                        ex['citation'] = {
-                                            "source": "幻辭AI",
-                                            "author": "Gemini",
-                                            "note": current_model
-                                        }
                         model_manager.mark_success(current_model)
-                        return result
+                        return result, current_model
                     except json.JSONDecodeError:
                         continue
 
@@ -415,101 +525,84 @@ def generate_examples_batch(items: list) -> dict:
             model_manager.mark_rate_limited(current_model, 30)
         except Exception:
             pass
+        finally:
+            if acquired:
+                model_manager.release_model(current_model)
 
-    return {}
+    return {}, ""
 
 # ──────────────────────────────────────────────────────────
-# ファイルチャンク処理
+# バッチ処理（1 バッチ = 1 API コール）
 # ──────────────────────────────────────────────────────────
 
-def process_file_chunk(file_paths: list) -> int:
+def process_batch(batch: list) -> int:
     """
-    ファイルのチャンクをまとめて処理。
-    1. 全ファイルをロードして更新が必要な項目を収集
-    2. バッチAPIで一括生成（大幅なトークン節約）
-    3. 結果をファイルに書き戻す
+    1 バッチの pending items を処理。
+    API 呼び出し → 結果をファイルに書き戻し → checkpoint 更新。
     """
     global updated_count, processed_count
 
-    # Step 1: ファイルロード & 保留項目の収集
-    file_data = {}
-    pending_items = []  # (fp, entry_idx, def_idx, entry_text, reading, gloss, pos)
+    if _shutdown_requested.is_set():
+        return 0
 
-    for fp in file_paths:
+    # API 呼び出し
+    batch_input = [(item[3], item[4], item[5], item[6]) for item in batch]
+    batch_results, model_name = generate_examples_batch(batch_input)
+
+    # 結果をファイル別に整理
+    file_updates: dict[Path, list] = {}
+    for j, item in enumerate(batch):
+        key = str(j + 1)
+        if key in batch_results:
+            fp, ei, di = item[0], item[1], item[2]
+            file_updates.setdefault(fp, []).append((ei, di, batch_results[key]))
+
+    # ファイルに書き戻し
+    local_updated = 0
+    all_files_in_batch = set(item[0] for item in batch)
+
+    for fp, updates in file_updates.items():
         try:
             with open(fp, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            file_data[fp] = data
 
-            for ei, entry_obj in enumerate(data):
-                entry_text = entry_obj.get('entry', '')
-                reading    = entry_obj.get('reading', {}).get('primary', '')
-                pos        = ",".join(entry_obj.get('grammar', {}).get('pos', []))
+            modified = False
+            for ei, di, new_exs in updates:
+                valid = [
+                    ex for ex in new_exs
+                    if isinstance(ex, dict) and not any(p.search(ex.get('text', '')) for p in JUNK_PATTERNS)
+                ]
+                if valid:
+                    for ex in valid:
+                        if 'citation' not in ex:
+                            ex['citation'] = {
+                                "source": "幻辭AI",
+                                "author": "Gemini",
+                                "note": model_name
+                            }
+                    if 'examples' not in data[ei]['definitions'][di]:
+                        data[ei]['definitions'][di]['examples'] = {'standard': [], 'literary': []}
+                    data[ei]['definitions'][di]['examples']['standard'] = valid
+                    modified = True
 
-                for di, definition in enumerate(entry_obj.get('definitions', [])):
-                    if 'examples' not in definition:
-                        definition['examples'] = {'standard': [], 'literary': []}
-                    std_examples = definition['examples'].get('standard', [])
-                    if is_low_quality(std_examples):
-                        pending_items.append(
-                            (fp, ei, di, entry_text, reading, definition.get('gloss', ''), pos)
-                        )
-        except Exception as e:
-            print(f"\n[エラー] {getattr(fp, 'name', str(fp))}: {e}")
-
-    # Step 2: バッチAPIで一括生成
-    api_results = {}  # (fp, ei, di) -> [examples]
-
-    for i in range(0, len(pending_items), BATCH_SIZE):
-        if _shutdown_requested.is_set():
-            break
-
-        batch = pending_items[i:i + BATCH_SIZE]
-        # items形式: (entry, reading, gloss, pos)
-        batch_input = [(item[3], item[4], item[5], item[6]) for item in batch]
-
-        batch_results = generate_examples_batch(batch_input)
-
-        for j, item in enumerate(batch):
-            fp, ei, di = item[0], item[1], item[2]
-            key = str(j + 1)
-            if key in batch_results:
-                api_results[(fp, ei, di)] = batch_results[key]
-
-    # Step 3: 結果をファイルに適用して書き戻す
-    modified_files = set()
-    for (fp, ei, di), new_exs in api_results.items():
-        valid_new = [
-            ex for ex in new_exs
-            if isinstance(ex, dict) and not any(p.search(ex.get('text', '')) for p in JUNK_PATTERNS)
-        ]
-        if valid_new:
-            file_data[fp][ei]['definitions'][di]['examples']['standard'] = valid_new
-            modified_files.add(fp)
-
-    local_updated = 0
-    for fp in file_paths:
-        if fp not in file_data:
-            continue  # ロード失敗したファイルはスキップ
-
-        if fp in modified_files:
-            if file_data[fp] and 'meta' in file_data[fp][0]:
-                file_data[fp][0]['meta']['updated_at'] = (
-                    datetime.now(timezone.utc).isoformat() + 'Z'
-                )
-            try:
+            if modified:
+                if data and 'meta' in data[0]:
+                    data[0]['meta']['updated_at'] = datetime.now(timezone.utc).isoformat() + 'Z'
                 with open(fp, 'w', encoding='utf-8') as f:
-                    json.dump(file_data[fp], f, ensure_ascii=False, indent=2)
+                    json.dump(data, f, ensure_ascii=False, indent=2)
                 checkpoint_manager.add_updated(_to_checkpoint_key(fp))
                 local_updated += 1
-            except Exception as e:
-                print(f"\n[エラー] 書き込み失敗 {fp.name}: {e}")
 
+        except Exception as e:
+            print(f"\n[エラー] {fp}: {e}")
+
+    # batch 内の全ファイルを processed マーク
+    for fp in all_files_in_batch:
         checkpoint_manager.add_processed(_to_checkpoint_key(fp))
 
     with progress_lock:
         updated_count += local_updated
-        processed_count += len(file_paths)
+        processed_count += 1  # バッチ数でカウント
 
     return local_updated
 
@@ -537,8 +630,8 @@ def auto_commit_worker():
                 continue  # 変更なし、スキップ
 
             ts = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-            with progress_lock:
-                cnt = updated_count
+            with checkpoint_manager.lock:
+                cnt = len(checkpoint_manager.updated_files)
 
             commit = subprocess.run(
                 ['git', 'commit', '-m', f'Auto-commit: {cnt} files updated ({ts})'],
@@ -585,10 +678,7 @@ def _probe_model(model: str) -> tuple[str, str]:
 
 
 def startup_check() -> None:
-    """
-    起動時にモデル疎通確認と進捗 stats を表示する。
-    全モデルを並列チェックするため数秒で完了する。
-    """
+    """起動時にモデル疎通確認と進捗 stats を表示。"""
     sep = "─" * 60
     print(f"\n{sep}", flush=True)
     print("  illusionsDict 例文生成スクリプト", flush=True)
@@ -638,32 +728,31 @@ _shutdown_requested = threading.Event()
 def main():
     def signal_handler(sig, frame):
         if _shutdown_requested.is_set():
-            return
+            print("\n[INFO] 強制終了します。", flush=True)
+            sys.exit(1)
         _shutdown_requested.set()
-        print("\n\n[INFO] 処理を中断しています...", flush=True)
-        checkpoint_manager.save_checkpoint()
-        print(f"[INFO] Checkpoint 保存完了: {len(checkpoint_manager.processed_files)} files processed", flush=True)
-        print(f"[INFO] 次回実行時に処理中断地点から再開できます。", flush=True)
-        sys.exit(0)
+        print("\n\n[INFO] シャットダウン要求を受信。実行中のワーカーの完了を待っています...", flush=True)
+        print("[INFO] もう一度 Ctrl+C で強制終了。", flush=True)
 
     signal.signal(signal.SIGINT, signal_handler)
     signal.signal(signal.SIGTERM, signal_handler)
     atexit.register(checkpoint_manager.save_checkpoint)
 
-    # 起動時チェック（モデル疎通確認 + stats）
+    # 起動時チェック
     startup_check()
 
-    # 自動コミットスレッドを起動
+    # 自動コミットスレッド
     commit_thread = threading.Thread(target=auto_commit_worker, daemon=True, name="auto-commit")
     commit_thread.start()
 
     Progress.group(
         f"例文の自動生成・品質改善プロセスを開始します "
-        f"(並列エージェント数={MAX_WORKERS}, バッチサイズ={BATCH_SIZE})"
+        f"(並列={MAX_WORKERS}, バッチ={BATCH_SIZE}語/APIコール, 限速=~{int(60/GLOBAL_RPM_INTERVAL)}RPM)"
     )
-    Progress.step(f"使用モデル候補: {', '.join(MODELS)}")
+    Progress.step(f"使用モデル: {', '.join(MODELS)}")
     Progress.step(f"自動コミット: {AUTO_COMMIT_INTERVAL // 60}分ごと")
 
+    # ── ファイル一覧 ──
     all_dirs  = sorted([d for d in DATA_ROOT.iterdir() if d.is_dir()], key=lambda x: x.name)
     all_files = []
     for d in all_dirs:
@@ -674,28 +763,42 @@ def main():
     all_file_keys = {_to_checkpoint_key(f) for f in all_files}
     valid_processed = checkpoint_manager.processed_files & all_file_keys
     already_processed = len(valid_processed)
-    remaining_files = total_files - already_processed
 
-    Progress.step(f"スキャン対象: {total_files:,} ファイル")
+    Progress.step(f"総ファイル数: {total_files:,}")
     if already_processed > 0:
         Progress.step(f"✓ 前回の進捗: {already_processed:,} ファイル既に処理済み")
-        Progress.step(f"→ 残り: {remaining_files:,} ファイル")
 
     files_to_process = [f for f in all_files if not checkpoint_manager.is_processed(_to_checkpoint_key(f))]
+    Progress.step(f"スキャン対象: {len(files_to_process):,} ファイル")
 
-    # ファイルをチャンクに分割
-    file_chunks = [
-        files_to_process[i:i + FILE_CHUNK_SIZE]
-        for i in range(0, len(files_to_process), FILE_CHUNK_SIZE)
-    ]
-    Progress.step(f"チャンク数: {len(file_chunks):,} (各{FILE_CHUNK_SIZE}ファイル × {BATCH_SIZE}語/APIコール)")
+    # ── スキャンフェーズ ──
+    Progress.step("ファイルスキャン中...")
+    pending_items = scan_pending_items(files_to_process)
 
+    if not pending_items:
+        Progress.ok("全ファイル処理済みです。")
+        Progress.endgroup()
+        return
+
+    unique_files = len(set(item[0] for item in pending_items))
+    Progress.step(f"処理対象: {len(pending_items):,} definitions ({unique_files:,} files)")
+
+    # ── バッチ構築 ──
+    batches = create_batches(pending_items)
+    global total_batches
+    total_batches = len(batches)
+    Progress.step(f"バッチ数: {total_batches:,} (各~{BATCH_SIZE}語/APIコール)")
+
+    est_minutes = total_batches * GLOBAL_RPM_INTERVAL / 60
+    Progress.step(f"推定所要時間: {est_minutes:.0f}分 (限速ベース)")
+
+    # ── 実行フェーズ ──
     global last_report_t
     last_report_t = time.perf_counter()
 
     try:
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            futures = {executor.submit(process_file_chunk, chunk): chunk for chunk in file_chunks}
+            futures = {executor.submit(process_batch, batch): i for i, batch in enumerate(batches)}
 
             for future in as_completed(futures):
                 if _shutdown_requested.is_set():
@@ -704,20 +807,26 @@ def main():
                 try:
                     future.result()
                 except Exception as e:
-                    print(f"\n[ERROR] チャンク処理中にエラー: {e}", flush=True)
+                    print(f"\n[ERROR] バッチ処理中にエラー: {e}", flush=True)
 
                 now = time.perf_counter()
                 if now - last_report_t >= REPORT_SEC:
                     with progress_lock:
                         last_report_t = now
                         Progress.bar_line(
-                            processed_count, total_files,
-                            f"{processed_count:,} / {total_files:,} files (更新済み: {updated_count:,})"
+                            processed_count, total_batches,
+                            f"batch {processed_count:,}/{total_batches:,} "
+                            f"(更新: {updated_count:,} files)"
                         )
 
         checkpoint_manager.save_checkpoint()
-        Progress.ok(f"プロセス完了。合計 {updated_count:,} 件のファイルを更新・最適化しました。")
-        Progress.step(f"Checkpoint 保存: {len(checkpoint_manager.processed_files)} files")
+        if _shutdown_requested.is_set():
+            print(f"\n[INFO] 安全にシャットダウンしました。", flush=True)
+            print(f"[INFO] Checkpoint 保存完了: {len(checkpoint_manager.processed_files)} files processed", flush=True)
+            print(f"[INFO] 次回実行時に処理中断地点から再開できます。", flush=True)
+        else:
+            Progress.ok(f"プロセス完了。合計 {updated_count:,} 件のファイルを更新しました。")
+            Progress.step(f"Checkpoint: {len(checkpoint_manager.processed_files)} files processed")
         Progress.endgroup()
 
     except Exception as e:
