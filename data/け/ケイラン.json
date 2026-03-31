@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新鮮な鶏卵を使ったオムライスは格別の味だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "鶏卵は、良質なたんぱく質を豊富に含む食材として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "毎日、朝食にゆで鶏卵を一個食べるのが習慣だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もとより一室を借受けて、逗留をしておったが、かほどの悩は大事じゃ、血も大分に出さねばならぬ、殊に子供、手を下すには体に精分をつけてからと、まず一日に三ツずつ鶏卵を飲まして、気休めに膏薬を貼っておく。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T15:29:53.772088+00:00Z",
       "freq_rank": 42242
     }
   }

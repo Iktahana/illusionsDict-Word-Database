@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "教科書には、様々な生物の進化の道筋を示す系統樹が載っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "発表者は、新たに構築した細菌の系統樹を聴衆に示した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この系統樹を見ることで、異なる種間の関係性を視覚的に理解できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『世界文学』（本多顕彰氏訳・岩波書店）は主として、世界文学的な普遍通用性を有った文学的源泉を五つ挙げて、真に文学的なものの世界史的系統樹立を解説している（バイブル・古典叙事詩と古典悲劇・シェークスピア・ダンテとミルトン・ファウスト物語の五つが之である）。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T15:19:31.766130+00:00Z"
     }
   }
 ]

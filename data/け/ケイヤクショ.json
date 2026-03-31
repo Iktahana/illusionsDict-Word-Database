@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "売買契約書に署名し、不動産の取引が成立した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "契約書の内容を隅々まで確認し、不明な点がないか確かめた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "重要事項説明の後に、無事、契約書を取り交わした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "母親は、あまりながい手術の間を身悶えして病室にまち、廊下を歩いては、『万一手術中に死亡の事有之候とも遺存これなく候』と手術契約書を出したことを考へて、もうあれが最後であったかもしれない。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T15:27:57.913372+00:00Z"
     }
   }
 ]
