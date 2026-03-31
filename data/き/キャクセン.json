@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "湾を横断する景色の良いクルーズのために、 **客船** に乗り込みました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "豪華な **客船** が国際港に接岸しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "夏のシーズンには、多くの観光客が **客船** で到着しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その **客船** は乗客のために様々なアメニティを提供していました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんな風だったから、瀬戸内海などを航行する時、後ろから追い抜こうとする旅客船や、前方から来る汽船や、帆船など、第三金時丸を見ると、厄病神にでも出会ったように、慄え上ってしまった。",
@@ -276,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T01:07:42.095213+00:00Z",
       "freq_rank": 20431
     }
   }

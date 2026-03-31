@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "おばあちゃんの家には、いつもきれいにしている客間がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大事なお客様なので、客間でおもてなししよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "客間は普段使わないので、少しほこりっぽい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雨の降る日（兄のうたへる）萩原朔太郎雨の降る日の縁端にわが弟はめんこ打つめんこの繪具うす青くいつもにじめる指のさき兄も哀しくなりにけり雨の降る日のつれづれに客間の隅でひそひそとわが妹のひとり言なにが悲しく羽根ぶとん力いつぱい抱きしめる兄も泣きたくなりにけり",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T01:07:42.101205+00:00Z",
       "freq_rank": 42268
     }
   }

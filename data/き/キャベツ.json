@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コールスローを作るのにキャベツをいくつか買わないと。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ファーマーズマーケットには、新鮮でパリッとしたキャベツがたくさんあったよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "キャベツか！おばあちゃんが美味しいキャベツの漬物を作ってくれたのを思い出すな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこには豚の脂肪や、キャベツや、焦げたパン、腐敗した漬物の臭いなどが、まざり合って、充満していた。",
@@ -238,7 +263,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T01:19:31.112502+00:00Z",
       "freq_rank": 9634
     }
   }
