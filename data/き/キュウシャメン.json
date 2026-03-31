@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スキー場の急斜面を、彼はあっという間に滑り降りていった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "山道を登っていくと、突然目の前に切り立った急斜面が現れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "工事現場では、急斜面での作業のために特殊な重機が導入されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この崖の急斜面を登るのは、熟練の登山家でも困難だろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此處は谷間に據る一｜小村で急斜面は茅屋が段を作つて叢つて居るらしい、車を出て見ないから能くは解らないが漁村の小なる者、蜜柑が山の産物らしい。",
@@ -284,7 +317,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T01:49:18.350372+00:00Z",
       "freq_rank": 37790
     }
   }

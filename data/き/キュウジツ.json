@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明日は休日だから、ゆっくりと家で映画でも見たり、読書を楽しんだりしようかな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "待ちに待った休日、家族全員で近くの湖畔へキャンプに出かけ、満点の星空を眺めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "休日には、いつも近所のカフェでモーニングを食べてから、公園を散歩するのが私のルーティンだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "就任早々、一週を五日として、六日目毎に休日を與へ、授業も毎日午前中だけにしたい、それゆゑに生徒が怠けるとは思はれない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T01:49:18.434952+00:00Z",
       "freq_rank": 3321
     }
   }
