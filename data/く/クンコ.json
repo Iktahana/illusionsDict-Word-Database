@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "学者は何十年もの歳月を費やして、その古典の訓詁を徹底的に調査した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この本は、古代中国の経典に対する詳細な訓詁をまとめた貴重な資料だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "単なる直訳ではなく、当時の言葉の使われ方を踏まえた訓詁が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "畢竟骨董はいずれも文字国の支那の文字であるが、文字の義からの文字ではなく、言語の音からの文字であって、文字は仮りものであるから、それに訓詁的のむずかしい理屈はない。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:24:11.513168+00:00Z"
     }
   }
 ]

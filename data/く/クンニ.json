@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医学書には、オーラルセックスの一形態としてクンニが記載されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "親密な関係における性行為の多様性について話す際、クンニという言葉が話題に上ることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「トシヲクンニワカルモノカ」（俊夫君に分かるものか）　またしても犯人のいたずら！",
@@ -60,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:20:59.676038+00:00Z"
     }
   }
 ]

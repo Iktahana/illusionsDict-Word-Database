@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "売上の推移を折れ線グラフにすることで、季節ごとの変動が明確になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "アンケートの結果を円グラフで表示し、回答者の割合を視覚的に示した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "数学の時間に、二次関数のグラフをノートに描く練習をした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近ごろ朝日グラフで、街頭のスケッチを組み合わせたページが出るが、ああいうものを巧みに取り合わせて「連句」にすることもできる。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T13:35:04.830244+00:00Z",
       "freq_rank": 5615
     }
   }

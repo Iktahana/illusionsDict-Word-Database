@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「隣の席の二人は、楽しそうに偶語を交わしていた。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「久しぶりに旧友と会い、積もる話に花を咲かせ、偶語を楽しんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「哲学的な偶語は、時に思わぬ発見をもたらしてくれる。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼の動もすれば沙上に偶語し、剣を按じてその君主に迫らんとしたる勇夫健卒も、何時の間にやら君臣の大義に支配せられ、従順なる良臣となり了れり。",
@@ -109,7 +134,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:30:06.928901+00:00Z"
     }
   }
 ]

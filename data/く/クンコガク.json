@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は中国の古典を読み解くために、訓詁学を専門的に学んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "訓詁学は、文字の字義や語彙の歴史的変遷を明らかにする学問だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "江戸時代の儒学者たちは、独自の視点から訓詁学を発展させた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鄭玄（中国、後漢の儒学者・訓詁学者）は云う、「同門の者を朋と云い、志を同じくする者を友と云う」と、師を同じくして教えを受け、願いを同じくして術芸を習い、道を同じくして学問に従い、志を同じくして徳の向上に努める、このような環境において人は自然と朋友助け合い、切磋琢磨して次第に成長を遂げる。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:24:11.514220+00:00Z"
     }
   }
 ]

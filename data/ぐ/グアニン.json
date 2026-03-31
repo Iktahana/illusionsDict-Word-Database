@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "DNAの主要な構成要素であるグアニンは、アデニン、シトシン、チミンと共に核酸を形成します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「グアニンって、DNAの設計図にある重要な部品なんだね！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この生化学的研究は、グアニンの合成経路における酵素の働きに焦点を当てています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ハトに同位体グアニンを食べさせると同位体尿酸として急速に取り除かれるが、臓器の核酸には殆ど同位体窒素が存在しなかった(66)。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:30:06.917819+00:00Z"
     }
   }
 ]

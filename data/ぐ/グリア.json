@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "神経系のグリア細胞は、ニューロンの機能を支える重要な役割を果たす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "グリアは脳の総細胞数の半分以上を占めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近の研究で、グリアの多様な機能が明らかになってきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すなわち我々の馬車の両側には、英国の特有の田園が展開し、方々に散在している田舎家は、今日の殷盛な人口を思わせ、またあっちにもこっちにも、大きな四角な塔の教会が、平原の地平線の上に屹立し、緑の濃い風景、――と、昔の東部アングリアの、光栄と殷盛を想わしめるものであった。",
@@ -188,7 +213,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:36:55.423407+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「私の愚意ではございますが、この件については再考の余地があるかと存じます。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「皆様の貴重なご意見を伺った上で、私の愚意を述べさせていただきます。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "これはあくまで私の愚意ですので、お気になさらないでください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本來から言へば、事に處し物に接するに於て吾人は須らく『當不當』を思ふべきで、『福無福』の如きは論ぜずして可なる譯であるが、こゝに幸福の説をなすものは、愚意所謂落草の談をなして人をして道に進ましめんとするに他ならぬのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:30:06.922670+00:00Z"
     }
   }
 ]

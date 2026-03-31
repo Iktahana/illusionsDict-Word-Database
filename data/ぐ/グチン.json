@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "目撃者は、見たものすべてを詳細に報告するように求められた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "コンサルタントは、市場分析について詳細に報告します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "問題を解決するために取った手順を、詳細に報告してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "差し当りて其処此処に宿泊せしめ置きたる壮士の手当てを如何にせんとの先決問題起り、直ちに東都に打電したる上、石塚氏を使いとしてその状を具陳せしめ、ひたすらに重井の来阪を促しけるに、頓て来りて善後策を整え、また帰京して金策に従事したり。",
@@ -126,7 +151,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:30:45.752519+00:00Z"
     }
   }
 ]

@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国家の安定は、君民の関係にかかっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "賢明な統治者は、君民双方の幸福を保証する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雙方に相當の主張は有るが、攻掠侵伐の爭亂が不節用の奢侈、無節度の生活に本づく場合の多いことも疑ふことの出來ない道理で、墨子の時代の君民皆放縱であつたに對し、墨子が節用を強調したのも確に一面の眞理を含んでゐる。",
@@ -196,7 +213,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:20:59.677877+00:00Z"
     }
   }
 ]

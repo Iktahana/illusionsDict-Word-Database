@@ -29,7 +29,24 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は君命に疑問を挟まず、従った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "君命に背くことは、重大な処罰につながりかねなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それにまた土肥の、安達の、三浦のといふ腰拔どもが、かしこ振つた面をして、そのやうなことを申すは第一に不忠ぢやの、やれ君命には背くなの、長いものには卷かれろのと、理を非にまげて意見をし居る。",
@@ -284,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:20:59.678575+00:00Z"
     }
   }
 ]

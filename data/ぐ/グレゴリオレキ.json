@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本でも明治時代に、太陰太陽暦からグレゴリオ暦に改暦された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "グレゴリオ暦は、1582年にローマ教皇グレゴリウス13世によって制定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "現代社会の生活は、グレゴリオ暦に基づいて成り立っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで驚いた当時のローマ法皇グレゴリオ十三世が法令を出して、一五八二年の一月四日の次の日を一月十五日と定め、爾後現行のグレゴリオ暦を用いることになった――とありますよ。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:42:29.494436+00:00Z"
     }
   }
 ]
