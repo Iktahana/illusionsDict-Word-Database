@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新鮮な車海老を塩焼きにして、贅沢な夕食を楽しんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "お祝いの席で、見事な車海老の天ぷらが振る舞われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "車海老の旬は夏から秋にかけてだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "赤い車海老はパセリの葉の蔭に憇ひ、ゆで卵を半分に切つた斷面には、青い寒天の「壽」といふ文字がハイカラにくづされて畫かれてゐた。",
@@ -167,7 +192,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T12:50:32.752657+00:00Z"
     }
   }
 ]

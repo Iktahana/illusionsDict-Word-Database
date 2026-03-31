@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は文章のリズムを整えるために、あえてここで句を切る手法を選んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「もっと読みやすくするために、適切な場所で句を切るようにしなさい」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "朗読の際、彼は言葉を噛みしめるように一拍置いて句を切った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "不人情だわ」「だって忘れたんだから仕方がない」「忘れるなんて、不人情だわ」「僕なら忘れないんだが、異人だから忘れちまったんです」「ホホホホ異人だって」「そこで結納も滞りなく済んでから、うちへ帰っていよいよ結婚の晩に――」でわざと句を切る。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:15:22.608532+00:00Z"
     }
   }
 ]

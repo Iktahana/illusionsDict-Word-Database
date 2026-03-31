@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "楽譜では、繰り返し記号を使うことで、同じフレーズを何度も書く手間が省ける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "印刷物で「〃」のような繰り返し記号を見かけることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この表では、同じ項目が続く場合、繰り返し記号で省略されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "／＼：二倍の踊り字（「く」を縦に長くしたような形の繰り返し記号）（例）おそる／＼-------------------------------------------------------　　　　上　あくまでも蒼く晴れ上つた空であり、渓谷には微風さへもない。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T12:49:21.596076+00:00Z"
     }
   }
 ]

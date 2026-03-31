@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園で、特徴的な冠毛を持つ黒猿が人気を集めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "黒猿はインドネシアのスラウェシ島に生息している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "テレビのドキュメンタリー番組で、黒猿の群れの行動が観察された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『琅邪代酔篇』三八に、〈横州猿を捕えて入貢す、故に打ち捕るを事とするは皆南郷の人、旬日村老一人来り告ぐ、三百余人合囲して一小黒猿を独嶺上に得、もし二百人を益し、ことごとく嶺木を伐らば、すなわち猿を獲べしと、その請のごとくす、三日の後一猿を舁ぎて至る〉。",
@@ -102,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T12:57:30.322392+00:00Z"
     }
   }
 ]

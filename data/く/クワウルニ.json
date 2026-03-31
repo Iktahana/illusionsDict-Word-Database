@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は非常に優秀なエンジニアである。加うるに、リーダーシップも兼ね備えているのが強みだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この物件は駅からのアクセスが良い。加うるに、家賃も相場より安く設定されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "連日の猛暑で体力は限界に達していた。加うるに、水不足も深刻な問題となっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それによると、この書の第二巻目はマンローの詳細なる評注に加うるに、物理学者のダ・アンドラデ（E. N. da C. Andrade）の筆に成るルクレチウスの科学的意義に関する解説を収録してあるということであった。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:12:24.710834+00:00Z"
     }
   }
 ]

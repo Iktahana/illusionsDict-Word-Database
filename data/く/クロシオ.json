@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本の南岸を流れる黒潮は、温暖な気候をもたらす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "黒潮に乗って、魚たちが北上する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "漁師たちは黒潮の動きを読み、漁を行う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "富士山は日本では三千七百七十八米突という抜群の標高を有しているが、太平洋方面は黒潮が流れるほどの暖かさで、かつ冬季は霽れて雨量が少なく、山腹以上の傾斜が急峻であるから、これも氷河を作る資格がない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T12:57:30.322957+00:00Z",
       "freq_rank": 31045
     }
   }

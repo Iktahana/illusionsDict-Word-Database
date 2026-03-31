@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "役人の目を盗んで深夜まで営業を続ける暗屋は、訳ありの客たちの溜まり場になっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "暗屋の狭い部屋で交わされるひそひそ話の中に、事件を解く重大なヒントが隠されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "かつてこの辺りには暗屋が立ち並び、夜な夜な怪しい賑わいを見せていたという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もし私が何かまちがったことを云ったらそのむすこらの一人でもすぐに私を外のくらやみに連れ出すだらう。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T12:51:35.031726+00:00Z"
     }
   }
 ]

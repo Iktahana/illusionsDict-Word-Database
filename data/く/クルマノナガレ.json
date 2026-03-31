@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝の通勤時間帯は、大通りの車の流れが非常に混雑している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "信号が青に変わると、滞っていた車の流れが一斉に動き出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "トンネル内で事故があり、完全に車の流れが止まってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "挟箱や鳥毛の槍を押し立てて舞踊しながら練り歩く百年前の姿をした「サムライ日本」の行進のために「モダーン日本」の自由主義を代表する自動車の流れが堰き留められてしまったのである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T12:50:32.756234+00:00Z"
     }
   }
 ]

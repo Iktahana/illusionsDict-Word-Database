@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ステーキにはたっぷりの黒胡椒が合う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "パスタに挽きたての黒胡椒をかけると香りが良い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この料理にはアクセントとして黒胡椒を少々加えます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は町における硝石、黒胡椒、およびシナモンの取引をほぼ独占し、真鍮製品、インジゴ、綿、羊毛、塩、索具、鉄、紙、およびあらゆる種類の英国製品の輸入においても、ブラウン商会を除き、他社の追随を許さなかった。",
@@ -55,7 +80,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T12:57:30.316866+00:00Z"
     }
   }
 ]

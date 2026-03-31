@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "実験室では、クロラールを含む試薬の取り扱いに細心の注意を払う必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "クロラールは有機合成化学において重要な中間体として用いられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古い文献には、クロラールがかつて鎮静剤として使われていた記録が残っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昨夜あれから興奮して、まるで眠れぬ上、調子が妙なのでゆうべおそく、木沢医師がよばれたそうだが、先生もちよつと手がつけられず、抱水クロラールかなんかのましてやつとねかしたというんだ。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:10:27.641608+00:00Z"
     }
   }
 ]
