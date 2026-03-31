@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本の女性の平均結婚年齢は、年々上昇傾向にある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼らの結婚年齢は若かったが、お互いを支え合い幸せな家庭を築いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "世界的に見ると、結婚年齢は国や文化によって大きく違うんだね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さっき触れた朝日新聞の諸家の見解の中で山脇高女の先生である竹田菊子氏が、男装のレビューガール等を慕うのは「この頃は昔と違って結婚年齢がおくれているから、結婚まで一つの遊戯をしようと考えているのではなかろうか」と述べていられるのは、現実の或る心理を捕えていると感じた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T16:40:46.759557+00:00Z"
     }
   }
 ]

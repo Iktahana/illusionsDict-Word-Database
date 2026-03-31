@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の売上は昨年と比べて桁違いに増えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は桁違いの資産を持つ大富豪だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その選手の体力は他のメンバーと桁違いだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちょっと考えるとある地方で大地震が数年以内に起こるであろうという確率と、あるつり橋にたとえば五十人乗ったためにそれがその場で落ちるという確率とは桁違いのように思われるかもしれないが、必ずしもそう簡単には言われないのである。",
@@ -205,7 +230,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T16:30:26.445267+00:00Z",
       "freq_rank": 32253
     }
   }

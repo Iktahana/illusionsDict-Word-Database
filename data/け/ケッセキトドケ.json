@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供が熱を出したので、学校に欠席届を出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "欠席届は、必ず保護者が記入するようにしてください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「あ、欠席届出し忘れてた！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "父死亡の電報を見た時でも、この場合その問題をどう片づけるかさえ考えはしなかったのだが、欠席届を書き終えた時、保証人なる槍田氏は三隅の小母さんの知り合いだから、通知かたがた三隅家に立ち寄ってその判を貰うように頼もうと思いつくと同時に、自分の心持もそのついでにいってしまおうと決心したのだ。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T16:43:57.404291+00:00Z"
     }
   }
 ]
