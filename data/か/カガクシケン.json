@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "土壌汚染の疑いがあるため、専門の機関に化学試験を依頼することにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新しい試薬の純度を確認するための化学試験が、ラボで夜通し行われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "化学試験の結果、基準値を超える有害物質が検出され、出荷は見合わせとなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "[以下略]茶葉の混ぜ物処理を検出する方法　茶の混ぜ物処理は、２種類の木の葉の植物学的特徴を比較し、幾つかの化学試験を行うことにより明らかになるだろう。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:17:41.585307+00:00Z"
     }
   }
 ]

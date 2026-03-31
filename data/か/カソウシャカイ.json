@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そのドキュメンタリーは、都市の片隅に生きる下層社会の人々の、知られざる日常を克明に描いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、過去に下層社会での経験があったため、困難な状況でも生き抜く術を知っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あの裏通りは、夜になると下層社会の連中が集まる場所だから、一人で近づくのは危ないよ。」と、地元住民は警告した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えば下層社会の低劣な品性の如きも教育の不備よりはむしろ精神欠陥に帰し、一時好んで下層社会に出入するやライフの研究者を任ずると共に下層社会に共通する悪俗汚習の病因たる精神欠陥を救うの教師を自任し、細さに下級の生活状態を究めて種々の自己流の精神医療の方法を案出して試みた。",
@@ -253,7 +278,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T05:47:56.086333+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "小説「蟹工船」は、これらの船での労働者の過酷な生活を描いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "カニ缶詰船は20世紀初頭の漁業にとって不可欠だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "蟹工船での労働は、極限の条件で知られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この蟹工船博光丸のすぐ手前に、ペンキの剥げた帆船が、へさきの牛の鼻穴のようなところから、錨の鎖を下していた、甲板を、マドロス・パイプをくわえた外人が二人同じところを何度も機械人形のように、行ったり来たりしているのが見えた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T07:29:26.541757+00:00Z"
     }
   }
 ]

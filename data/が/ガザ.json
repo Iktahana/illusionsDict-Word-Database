@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国際情勢をニュースで見ていたら、ガザ地区の状況が報道されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は学生時代、紛争地域についてのレポートを作成するためにガザについて調べた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「ガザの状況は、いつになったら平和になるんだろうね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「僕ノ親愛ナル新吉ヨ、僕ハイヨイヨ希ヒガカナツテ勇マシイ水雷艇ノ乗組員ニナツタ、ダガ僕ハ御国ノ士官ニナリ損ツタコトガザンネンダ。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T18:05:43.118026+00:00Z",
       "freq_rank": 15862
     }
   }

@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社の貸借対照表には、短期借入金と長期借入金が記載されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新規店舗の開店資金として、金融機関から数千万円の借入金がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "過去の借入金の返済計画を見直し、月々の負担を軽減するよう交渉した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の個人事業は、創業当初からの借入金を徐々に減らし、安定経営へと移行した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "合資株式合名又ハ自己ノ財産ニ非ル借入金ヲ以テ生産ヲ營ム後者ノ制限ハ財産ノ制限タル前者ト全ク別事ナリ。",
@@ -132,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T10:11:05.870715+00:00Z",
       "freq_rank": 14040
     }
   }

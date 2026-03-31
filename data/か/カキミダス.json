@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "静かに読書していたのに、隣の部屋の騒音で集中力を かき乱された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "穏やかな夜だったのに、突然の嵐が静寂を かき乱した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、彼女の心をかき乱すような言葉を平気で言う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今度のノーベル・プライズのために不意打ちをくらった世間が例のように無遠慮に無作法にあのボーアの静かな別墅を襲撃して、カメラを向けたり、書斎の敷物をマグネシウムの灰で汚したり、美しい芝生を踏み暴したりして、たとえ一時なりともこの有為な頭の安静をかき乱すような事がありはしないかというような気がする。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:43:30.455556+00:00Z"
     }
   }
 ]

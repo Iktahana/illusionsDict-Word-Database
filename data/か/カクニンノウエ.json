@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "応募書類の内容をよく確認の上、不備がないことを確かめてから提出してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "会議資料を参加者全員に配布する前に、誤字脱字がないかを確認の上、印刷に取り掛かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プロジェクトの進捗状況を細かく確認の上、次回のミーティングで改善策を提案したい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし美術史上の名作のどの一つをとって見ても、それが時代精神の反映でないものはない事実を考えて見れば、いま日本人としてのエスプリが、時局確認の上に立ち日本民族としての自覚の上にあらねばならぬことは余りにも自明である。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T15:19:52.560671+00:00Z"
     }
   }
 ]

@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私の祖父は熱心なカソリックで、毎週日曜日には欠かさず大聖堂へ通っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「カソリックの結婚式って、ステンドグラスが綺麗で厳かな雰囲気があるよね」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は留学中にカソリックの教えに触れ、キリスト教への理解を深めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "バチカン市国はカソリック教会の総本山として、世界中から巡礼者が集まる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ローマン・カソリック・カセドラルの屋上に伊太利の尼僧があらわれると御祈祷を始めた。",
@@ -268,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T06:27:12.888966+00:00Z",
       "freq_rank": 32276
     }
   }

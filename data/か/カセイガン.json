@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この山の頂上付近では、黒曜石のような火成岩が多く見られる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "建物の外壁には、耐久性に優れた火成岩が使われていることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "地学の授業で、花崗岩や玄武岩といった代表的な火成岩について学んだよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "信州の山岳の中でも、御嶽や駒ヶ岳などは、古くから多くの登山者を有していたが、宗教が権威を失った今日では、新しい登山家は、種々の理由からして、日本アルプスの中でも、殊に飛騨山脈を選び、飛騨山脈の中でも、最高点の槍ヶ岳や穂高岳の特色ある火成岩の大塊は特に多くの人々を引きつけているらしく思われる。",
@@ -204,7 +229,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T00:02:08.976579+00:00Z"
     }
   }
 ]

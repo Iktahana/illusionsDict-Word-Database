@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い家電のコンセントプラグを見ると、内部に可溶片が組み込まれているのがわかる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "過負荷がかかると可溶片が溶断し、回路が遮断されて火災を防ぐ仕組みだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電気工事士は、規定のアンペア数の可溶片を使用するよう指導している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その上、お由がまだ工場にいたころ、そこの試験係を勤めていた事実もあって、当時仲間の一人が試験中に感電死した時、可溶片が早く切れた為に只指先と足の裏に小さな傷を受けたまま美しく死んだ事件を見たこともあるそうである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T09:51:54.632058+00:00Z"
     }
   }
 ]

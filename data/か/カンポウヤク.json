@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "風邪のひきはじめには、葛根湯という漢方薬がよく効くらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お腹の調子を整えるために、毎日、処方された漢方薬を飲んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "漢方薬は、即効性はないかもしれないけど、じっくり効いて体質を改善してくれるそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この漢方薬は、甘草がたくさん入っていて、少し甘みがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この絢尭斎というは文雅風流を以て聞えた著名の殿様であったが、頗る頑固な旧弊人で、洋医の薬が大嫌いで毎日持薬に漢方薬を用いていた。",
@@ -124,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T15:00:32.834840+00:00Z",
       "freq_rank": 21907
     }
   }

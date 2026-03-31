@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「外見上は何の問題もなさそうに見えるけど、基板の奥の方で断線している可能性があるな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この果物、外見上は傷ひとつないのに、切ってみたら中が完全に腐ってたよ。ひどいな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ふうん、外見上は双子みたいにそっくりな兄弟だけど、話してみると性格は真逆なんだね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蚕や蛇が外皮を脱ぎ捨てるのに相当するほど目立った外見上の変化はないにしても、もっと内部の器官や系統に行われている変化がやはり一種の律動的｜弛張をしないという証拠はよもやあるまいと思われる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:38:55.137935+00:00Z"
     }
   }
 ]

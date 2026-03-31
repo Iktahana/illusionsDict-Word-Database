@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雪深い東北の村では、かつて女性たちが防寒のために大きな角巻を頭から羽織って歩く姿が見られた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「おばあちゃん、その角巻、すごく厚手で温かそうだね。昔からの手編みなのかな？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "モノクロ映画のワンシーンで、角巻をまとったヒロインが吹雪の駅舎で恋人の帰りを待つ姿が美しかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（あさ）（買って来た魚のはいっている籠やら、角巻――津軽地方に於ける外出用の毛布――やらを上手の台所のほうに運びながら）ああ、重かったとも何とも、石の地蔵様を背負って歩いてるみたいだったよ。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:38:40.535527+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「試験中、硫酸の化学式がどうしても思い出せなくて焦った。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ホワイトボードいっぱいに複雑な化学式が書き連ねられ、素人には暗号のように見える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この新しい化合物の正確な化学式を特定するには、さらなる分析が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昔の詩人ルクレチウスは、物質の原子はちょうどアルファベットのようなもので、種々な言語が有限なアルファベットの組み合わせによって生ずるごとく、各種の物質がこれら原子の各種の組み合わせによって生ずると書き残したが、この考えは近世になって化学式というものによっていくらか科学的に実現された。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:17:41.585095+00:00Z"
     }
   }
 ]

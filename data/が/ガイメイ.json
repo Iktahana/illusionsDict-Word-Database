@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「イギリス」はイングランドに対する外名だが、国内では最も一般的な呼称となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "その都市は現地の言葉と外名で呼び方が全く違うので、地図で確認する際に注意が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "歴史的経緯から、国の内外で異なる呼称（内名と外名）が使われる例は少なくない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其品は　いも　なすび　ふぢ豆の類なににてもよし　かいわり菜（備後方言まびき菜）　外名をしらず　きらひもの　たうなす　さつまいも　ぼうふら（南瓜）　太中。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:53:27.036671+00:00Z"
     }
   }
 ]

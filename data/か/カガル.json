@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ズボンの破れた膝の部分を、同じ色の糸で目立たないように縢る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ボタンが取れかかっていたので、自分でしっかりとシャツに縢り付けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "浴衣のほつれた脇の部分を、まつり縫いで丁寧に縢っておいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「のはらのまん中の　めつけもの　すっこんすっこの　栃だんご　栃のだんごは　　　結構だが　となりにいからだ　ふんながす　青じろ番兵は　　　気にかがる。",
@@ -101,7 +126,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T15:12:00.061137+00:00Z"
     }
   }
 ]

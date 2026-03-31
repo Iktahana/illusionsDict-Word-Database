@@ -31,7 +31,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パリのノートルダムカテドラルは、その壮麗な建築で世界的に有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "私たちは、歴史的なカテドラルの内部を見学し、その荘厳さに圧倒された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ゴシック様式のカテドラルは、高い天井とステンドグラスが特徴的だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この都市の中心部には、古いカテドラルがそびえ立っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ニュー・ヴォードヴィル・バンド〈ウィンチェスター・カテドラル〉、ナンシー・シナトラ〈シュガー・タウン〉、彼女の父親の〈ザッツ・ライフ〉、ロニー・ダヴ〈クライ〉、ボビー・ヴィントン〈カミン・ホーム・ソルジャー〉、サンディー・ポウジー〈シングル・ガール〉。",
@@ -214,7 +247,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T07:18:01.983250+00:00Z",
       "freq_rank": 35560
     }
   }

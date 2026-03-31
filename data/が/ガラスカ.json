@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "放射性廃棄物を安定した状態で保管するために、溶融したガラスと混ぜてガラス化する技術が進められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "過冷却状態の液体が結晶化せずに固まる現象を、物理学では「ガラス化」と呼ぶ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「キャンディを作るときに煮詰めすぎると、冷めた時にガラス化して透明な琥珀色になるんだよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "炭火はチラチラ青い焔を出し、窓ガラスからはうるんだ白い雲が、額もかっと痛いようなまっ青なそらをあてなく流れていくのが見えました。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:58:08.071882+00:00Z"
     }
   }
 ]

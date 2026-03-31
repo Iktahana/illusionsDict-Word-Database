@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "隣の部屋に住む気のいいおじいさんは、いつも採れたての家庭菜園の野菜を分けてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「あいつは本当に気のいい奴だから、無理な頼み事でも断りきれないんだよな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "旅先で道に迷った際、気のいい店主が仕事の手を止めて目的地まで案内してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日曜に天気のいいという確率、家族の甲乙丙の銘々が暇だという三つの確率、この四つがそれぞれ二分の一ずつだとしても、十六分の一しか都合のいい日の確率はない訳であるから、統計的に云えば思い立ってから平均十六週すなわち約四ヶ月待たなければならなかったとしても大して不思議はない勘定である。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T00:05:31.337377+00:00Z"
     }
   }
 ]

@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "CPUの内部にあるキャッシュメモリは、非常に高速な記憶素子で構成されている。これにより、メインメモリへのアクセス頻度を減らし、処理速度を向上させている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "DRAM（動的ランダムアクセスメモリ）は、微小なコンデンサとトランジスタからなる記憶素子を用いて情報を記憶する。定期的なリフレッシュが必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この新しいNANDフラッシュメモリは、より高密度で信頼性の高い記憶素子を採用している。これにより、大容量かつ長寿命なストレージが実現可能になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この記憶素子の設計が、メモリの性能を決定する鍵となる。」エンジニアたちは、微細化と低消費電力を両立させるための研究に日々取り組んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +76,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T19:49:55.349418+00:00Z"
     }
   }
 ]

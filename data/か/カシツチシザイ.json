@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その運転手は、事故の責任を問われ、過失致死罪で起訴された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "飲酒運転による重大事故は、過失致死罪として厳しく裁かれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弁護士は、被告の過失致死罪の成立を否定するため、慎重に弁護方針を練った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "メチルとは知らずに売ったが、それでも人が死ねばやはり過失致死罪なのだろう、やがて投獄される憂目に会うたが、今はそれに脱走という罪が二重に重なって、おまけに拾った財布の金を無断で使っている。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T05:49:55.321558+00:00Z"
     }
   }
 ]

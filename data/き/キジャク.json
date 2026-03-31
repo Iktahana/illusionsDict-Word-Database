@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この着尺は、一枚の反物から作られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "母は、古い着尺を使って座布団カバーを作ってくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "着尺の柄を選ぶのが、着物を作る上での楽しみの一つだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "戦争前の、そろそろ町に物資不足を訴へた時分にも、デパートといふデパート、その他、浅草、銀座、人形町……あたりの衣類店が、一斉にベニ赤ッぽいべらべらした染地の着尺ものを店頭に飾つたことがあつて、ぼくは町の「風紀衛生」の上に、この安染料ものは感服しないと思つたことがあつた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T22:34:03.078410+00:00Z"
     }
   }
 ]

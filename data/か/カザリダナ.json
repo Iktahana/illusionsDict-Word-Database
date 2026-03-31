@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "リビングの壁には、お気に入りのフィギュアを飾るための飾り棚が設置されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "アンティークショップには、小物を並べるのにぴったりの古い飾り棚がたくさんあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "キッチンのカウンター上には、手作りの陶器を飾るための小さな飾り棚が置かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よく拭き込んだ板敷の床は凸凹だらけの土間に変り、鏡の前に洋酒の並んだラック塗りの飾り棚の代りには縁台のようなものが並んで、そこには正札のついた果物の箱や籠や缶詰の類が雑然と並んでいた。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T04:58:54.822405+00:00Z"
     }
   }
 ]

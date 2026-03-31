@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この研究結果は、権威ある学術雑誌に掲載される予定だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最新の学術雑誌を購読して、自分の分野の動向を常に把握している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "学術雑誌に論文を投稿する前に、規定のフォーマットに沿って準備する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この現象については先年わが国のある学術雑誌で気象学上から論じた人があって、その所説によると旋風の中では気圧がはなはだしく低下するために皮膚が裂けるのであろうと説明してあったように記憶するが、この説は物理学者には少しふに落ちない。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:06:33.537982+00:00Z"
     }
   }
 ]

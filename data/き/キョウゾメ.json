@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は京都旅行のお土産に、素敵な京染の帯を選んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この呉服店では、伝統的な京染の着物が多く取り扱われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "祇園祭の時期になると、街ゆく人々の装いに京染の華やかさが増す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その隣の露店は、京染｜正紺請合とある足袋の裏を白く飜して、ほしほしと並べた三十ぐらいの女房で、中がちょいと隔っただけ、三徳用の言った事が大道でぼやけて分らず……但し吃驚するほどの大音であったので、耳を立てて聞合わせたものであった。",
@@ -204,7 +229,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T04:10:10.094061+00:00Z"
     }
   }
 ]

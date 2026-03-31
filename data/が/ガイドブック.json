@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "来週の旅行のために、新しい地域のガイドブックを何冊か買って読み込んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このカフェ、ガイドブックには載ってないけど、地元の人に人気みたいだね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔、海外旅行に行く時は必ず厚いガイドブックを持っていったものだけど、今はスマホで十分だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "観光地のガイドブックには、穴場スポットの情報が意外と少ないんだよね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『銀河ヒッチハイカーズ・ガイド』は、この手のガイドブックの宇宙旅行版という設定です。",
@@ -92,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T15:26:16.163969+00:00Z",
       "freq_rank": 8988
     }
   }

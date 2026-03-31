@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このPCはSSDを搭載しているため、起動もファイルの読み込みも非常に速い。高性能な記憶装置が、作業効率を格段に向上させてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "クラウドストレージは、物理的な記憶装置を持たずに、どこからでもデータにアクセスできる利便性を提供してくれる。まさに現代の保管庫だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "写真や動画などの大容量データを保存するために、外付けの記憶装置を購入した。これで、パソコンの容量不足の心配はなくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古いデータは、将来参照する可能性も考慮し、念のため別の記憶装置にバックアップを取っておくのが賢明だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "映画や音楽物を、高画質、高音質で記録できるくらいですから、当時パーソナルコンピューターで利用できた記憶装置とは、けた外れの容量を備えていました。",
@@ -268,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T19:49:55.348090+00:00Z"
     }
   }
 ]

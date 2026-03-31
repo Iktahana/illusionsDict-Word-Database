@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「ほら、この駅前の街図を見てよ。あの細い路地を抜ければ、目的地への近道になりそうだね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "スマホのバッテリーが切れてしまい、駅の改札口にあった古びた街図だけを頼りに予約したホテルを探した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "この観光用の街図には、主要なスポットだけでなく、地元民しか知らないような隠れ家的なカフェまで描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "図書館の郷土資料室で大正時代の街図を見つけ、すっかり様変わりしてしまった昔の街並みに思いを馳せた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "長崎は要塞地帯だもの、五万分の一が手にはいらぬのは当然だったばかりでなく、通俗な市街図すら、当時は手に入れることができなかった。",
@@ -276,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:26:16.096968+00:00Z"
     }
   }
 ]

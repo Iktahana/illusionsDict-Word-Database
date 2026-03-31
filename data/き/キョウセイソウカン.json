@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "紛争地域からの難民は、国際法に基づき、強制送還されるべきではないと強く訴えられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "不法滞在者に対する取り締まりが強化され、多くの外国人が強制送還されたというニュースを見たよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "『故郷へ帰らされるのは辛い…』強制送還される人々は、不安な表情で飛行機に乗り込んだらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは大事件になりつつあって、強制送還が適用され、そのあとは外国警察があとを引き継ぐと、ほのめかした。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T04:10:10.043848+00:00Z"
     }
   }
 ]

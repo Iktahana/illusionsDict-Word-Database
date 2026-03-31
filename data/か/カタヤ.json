@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "片やベテランの安定した演技、片や新人の爆発的なエネルギーがぶつかり合う見事な舞台だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "兄は慎重派で石橋を叩いて渡るタイプだが、片や弟は直感だけで突き進む猪突猛進型だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "片や豪華なフルコース、片や家庭的なお惣菜。どちらも選べないほど魅力的だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "花というものは植物の枝に偶然に気紛れにくっついている紙片や糸屑のようなものでは決してない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T06:03:17.257996+00:00Z",
       "freq_rank": 28955
     }
   }

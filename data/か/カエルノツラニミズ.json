@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "厳しいコーチからどれだけ怒鳴られても全く堪えていないルーキーを見て、先輩たちは蛙の面に水だと呆れている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "周囲からの激しい批判など蛙の面に水といった様子で、彼女は自分の信じた道を突き進んでいった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "息子にそろそろ受験勉強を始めろと毎日口酸っぱく言っているが、本人は蛙の面に水で一向に机に向かおうとしない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東　かつたいの痂うらみ西　蛙の面に水　東は悪因を有するものの徒に悪果を恨み歎ずるを笑ひ、西は冷※然として平らかなるものの如何ともす可からざるを憎めるなり。",
@@ -70,7 +95,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T12:59:19.855959+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大学の授業で郷土文学について学んでいるんだけど、この地方にはユニークな昔話がたくさん伝わっているんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女の小説は、いつも生まれ育った土地の歴史や人々の暮らしを色濃く反映していて、まさに郷土文学の傑作だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "今週末、図書館で開かれる郷土文学の朗読会に行こうと思ってる。どんな作品が紹介されるか楽しみだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此を要するに翁の川柳は、「柳樽」と云ふ江戸正調の郷土文学からは百里も二百里も隔つた地点で、フツ／＼と燃え、沸つてゐたのだ。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T05:50:30.634124+00:00Z"
     }
   }
 ]

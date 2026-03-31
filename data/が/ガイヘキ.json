@@ -31,7 +31,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "マンションの外壁塗装が、築10年を迎え数年ぶりに行われることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "建物の外壁に小さなひびが入っているのを見つけ、すぐに専門業者に連絡した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夏の日差しを効果的に遮るため、外壁には高性能な断熱材が施されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史ある教会の外壁には、長い年月の痕跡が深く刻まれ、風格を漂わせていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうなると両端から包囲するように、中央部までを喰い取って刳るから、一方の外壁を残して一方を欠いた噴火孔のようになる。",
@@ -278,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T15:53:27.007177+00:00Z",
       "freq_rank": 12509
     }
   }

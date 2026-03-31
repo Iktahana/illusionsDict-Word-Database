@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年の飲酒がたたり、彼は重い肝臓病を患った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "健康診断で肝臓病の疑いを指摘され、精密検査を受けることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "父は肝臓病と闘いながらも、最後まで仕事を続けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "この薬は肝臓病の進行を遅らせる効果が期待されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その肝臓というのは、肝臓病ではない死者から摘出し、予ねて貯蔵してあったものであり、そしてそれはその遺族が世界人類の幸福のために人体集成局部品部へ進んで売却したものなんだ。",
@@ -156,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T13:40:03.053751+00:00Z"
     }
   }
 ]

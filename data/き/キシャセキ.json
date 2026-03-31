@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "議会の記者席には、今日の採決を見守る大勢の記者が座っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はスポーツ中継で、いつも記者席から解説している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "サッカーの試合会場で、記者席からピッチを眺めながら記事を書いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "舞台裏での記者席は、演者の動きがよく見える特等席だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは真犯人の旧騎士吉田を今の新聞記者吉田に仕立ててそれをこの法廷の記者席の一隅に、しかも見物人にちょうどその目標となるべき左の顋下の大きな痣を向けるように坐らせておく必要があるのである。",
@@ -92,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T22:20:54.917227+00:00Z"
     }
   }
 ]

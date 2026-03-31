@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの建物は、基礎工学の専門家が設計に深く関わっているそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域の地盤特性を考慮し、基礎工学に基づいた最適な構造が提案された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は大学で基礎工学を専攻し、橋梁の設計に携わる技術者になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大阪大学基礎工学部に籍を置いていた一九七六（昭和五十一）年、山下は『コンピュートピア』の発行元であるコンピュータ・エイジ社が主催したイベントで、早稲田大学の西和彦と出会っていた。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T22:01:38.139636+00:00Z"
     }
   }
 ]

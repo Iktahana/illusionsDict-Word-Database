@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "リビングに大きな観葉植物を置いて、部屋の雰囲気を変えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は、部屋のあちこちに小さな観葉植物を飾るのが好きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "枯らさないように、観葉植物の水やりには気を配っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "湿度の高い環境を好む観葉植物は、浴室に置くと良いらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "花ばかりでなくいろいろ美しい熱帯の観葉植物の燃えるような紅や、けがれのない緑の色や、典雅な形態を見ればたれしも蘇生するここちのしない人はあるまい。",
@@ -84,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T16:04:40.114297+00:00Z",
       "freq_rank": 31961
     }
   }

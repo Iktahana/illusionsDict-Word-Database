@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋になると、庭の蛙手が鮮やかな赤色に染まり、季節の移ろいを感じさせてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "古い和歌に詠まれている蛙手とは、今の私たちがよく知るカエデやモミジのことだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "冷え込んだ山道を歩いていると、足元に落ちている蛙手の葉が霜で白く縁取られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……蛙手に、底を泳ぎ寄って、口をぱくりと、」「その口でか、その口じゃの。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-29T12:59:19.854201+00:00Z",
       "freq_rank": 20100
     }
   }

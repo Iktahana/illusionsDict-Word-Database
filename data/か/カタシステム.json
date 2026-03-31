@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プログラミング言語の型システムは、コードの安全性を高めるために重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "静的型システムを採用することで、開発段階でのエラーを減らすことができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この言語は柔軟な型システムを持っており、様々なデータ構造を表現しやすい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "情報処理小型システム事業部長としてオフィスコンピューター部門を率いていた渡部和は、黒字への転換のめどを見とどけてからかつてコンピューター開発を直訴した小林宏治の会長室に資料をたずさえて報告におもむいた。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T04:32:32.012385+00:00Z"
     }
   }
 ]

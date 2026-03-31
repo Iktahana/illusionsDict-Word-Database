@@ -30,7 +30,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今月の食費が予想以上に嵩んでしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "修理費が嵩むようなら、新しいものを買った方がいいかもしれない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "留学中の出費が嵩んで、親に援助を頼んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は趣味の道具を買いすぎて、かなりの金額が嵩んでしまったと後悔していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「あたしたちのして来たことは、まるで行燈をつけては消し、消してはつけるようなまどろい生涯だった」　彼女はメートルの費用の嵩むのに少なからず辟易しながら、電気装置をいじるのを楽しみに、しばらくは毎朝こどものように早起した。",
@@ -285,7 +318,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T04:58:54.783422+00:00Z",
       "freq_rank": 32706
     }
   }

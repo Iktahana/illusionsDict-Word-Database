@@ -29,7 +29,48 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日の市場は混乱しており、主要企業の株価が軒並み下落している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新製品発表のニュースを受け、そのIT企業の株価は急騰し、投資家を喜ばせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "アナリストは、来週の経済指標発表が株価に大きな影響を与えるだろうと予測している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は毎朝、出社前に必ず世界の株価動向をチェックするのが日課だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "円安の影響で、輸出関連企業の株価は堅調に推移している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "放送によるデータ受信（株価や為替レートは需要が多そう）、テレビ受信もある。",
@@ -284,7 +325,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T07:59:21.595851+00:00Z",
       "freq_rank": 2841
     }
   }

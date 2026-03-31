@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この研究の眼目は、新しい治療法の可能性を提示することにある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼のスピーチは長かったが、最後の数分に議論の眼目が凝縮されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "企画書の眼目を明確にすることで、承認がスムーズに進んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "芭蕉は、一物と他物との合体の瞬間に於ける妙といふことを、非常に大切にしたのであるが、そして恐らく此の事こそ俳句の最高眼目たるものでもあらうが、その眼目が射当てられるためには、蓋し情理的であるよりもおのづと感覚的である方が適切であるに相違ない。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T18:18:11.414593+00:00Z",
       "freq_rank": 31217
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "骨董品の買い取りをお願いしたら、思ったよりも高額な鑑定料を請求された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この絵画の真贋鑑定には、かなりの鑑定料がかかるらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、弁護士に相談する前に、まずは鑑定料の見積もりを求めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『だつて、お母さん、あなたあの叔父さんとお話をなさると、いつでも鑑定料とかいふものを取られていらつしやるんでせう、でも、私その折お金を一文も持つてなかつたんですもの。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:16:21.448076+00:00Z"
     }
   }
 ]

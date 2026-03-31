@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "深い霧に包まれた森を歩いていると、木々の葉から滴る樹雨で肩が濡れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "朝のブナ林は静寂に満ち、樹雨の音だけがかすかに聞こえていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "山の天気は変わりやすく、晴れていたかと思うと、霧が出て樹雨が降り始めることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かくて俄然として驚きさめると共に、その眼は例の如く、その手は早くも杖槍の一端にかかって、戸外の軒の下の方に注ぎました。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T22:20:54.877426+00:00Z"
     }
   }
 ]

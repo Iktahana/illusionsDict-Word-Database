@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "進化論は、生物学における最も有力な確説の一つとして、広く受け入れられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その科学的発見は、長年信じられてきた確説を覆す可能性を秘めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史学の分野では、この出来事に関する確説は、まだ定まっていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新しい証拠が出てくると、これまで確説とされていたものが、見直されることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "氷河の遺跡ということが、確説であるか否かは、氷河を見たことのない私は知らぬが、雪辷りの痕も、岩壁の擦面は婉曲になって、また擦痕も谷の方向に走っていることは、例を示すことが出来る。",
@@ -108,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:59:10.078607+00:00Z"
     }
   }
 ]

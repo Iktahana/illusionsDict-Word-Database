@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この文庫本は、紙表紙がボロボロになるまで何度も読み返した僕の宝物だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "豪華なハードカバーもいいけれど、手になじむ紙表紙の軽やかさも捨てがたい魅力がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「あ、コーヒーこぼしちゃった。せっかくの綺麗な紙表紙にシミができちゃったよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "自費出版するなら、コストを抑えるためにまずはシンプルな紙表紙で製本しようと考えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　この紙表紙の筆について、お嬢さんが、貸本屋として、先生と知己のいわれを聞いたことはいうまでもなかろう。",
@@ -132,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T08:28:27.548086+00:00Z"
     }
   }
 ]

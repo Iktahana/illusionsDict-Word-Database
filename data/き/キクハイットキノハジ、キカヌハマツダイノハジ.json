@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "道に迷って立ち往生してしまったので、「聞くは一時の恥、聞かぬは末代の恥」と自分を奮い立たせて通行人に道を尋ねた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「知ったかぶりをしてその場を凌いでも、結局は自分のためにならない。聞くは一時の恥、聞かぬは末代の恥だよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "幼い頃から父親に「聞くは一時の恥、聞かぬは末代の恥だ直球で、分からないことを恥じるな」と厳しく教えられてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "正しくは、聞くは一時の恥、聞かぬは末代の恥――と言わねばならないところを、顛倒してしまっているのだから、せっかくの格言俚諺が全然意味を逆転せしめてしまっている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:36:49.962636+00:00Z"
     }
   }
 ]

@@ -30,7 +30,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は長年の研究の末、ついに画期的な発明を考え出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "どうやってこの難局を乗り越えるか、チームで協力して解決策を考え出そう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供たちが、庭で新しい遊びを考え出していたよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "締め切りが迫る中、彼は必死でアイデアを考え出そうとしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼等の考え出すいろいろな革新は僕の周囲に死の機会を増し、彼等の説くところは僕を死に導き、または彼等の定める法律は僕に死を与えるのだ。",
@@ -269,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T11:26:13.212154+00:00Z",
       "freq_rank": 35039
     }
   }

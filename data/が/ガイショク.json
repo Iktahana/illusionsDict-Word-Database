@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「今日は結婚記念日だから、久しぶりに子供を預けて二人でゆっくり外食しようか」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "毎日の自炊に疲れてしまうと、つい駅前の定食屋で外食を済ませてしまうことが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は健康管理のために、外食の際も必ずサラダを追加して野菜を摂るように心がけている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何事もあまり神経に触らない様子で聞き流していますが、文吉が飯類は手料理のもの以外食べないのを知ってるものですから、やがて菓子だけを両手に一ぱい山盛りに持って来て呉れます。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T16:07:36.718824+00:00Z",
       "freq_rank": 9608
     }
   }

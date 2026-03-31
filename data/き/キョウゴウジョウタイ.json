@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "複数のスレッドが共有メモリに同時にアクセスした結果、予期せぬバグが発生し、競合状態を引き起こした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "データベースのトランザクション管理が不十分だと、競合状態が発生しやすくなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このコード、競合状態になりそうだから、ロック処理を追加しないと。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "非同期処理で状態が更新される際、競合状態を避けるための同期メカニズムが不可欠だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "無論解剖によらなければ、競合状態になっている二つのどっちが最終の死因だか判らないけれど、とにかくこの場合、出血が致死量に達する以前に、ラザレフが窒息で意識を失ってしまったことだけは確実なんだよ。",
@@ -52,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T04:46:10.624796+00:00Z"
     }
   }
 ]

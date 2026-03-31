@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "河川工事で川底を浚渫（しゅんせつ）していた。すごい量の土砂が出てきたよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ダイバーたちが、沈没船の残骸を川底で探していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この川の川底には、珍しい石がいくつか見つかるらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……　湯の宿と、湯の宿で、川底の巖を抉つた形で、緑青に雪を覆輪した急流は、颯と白雲の空に浮いて、下屋づくりの廂に呑まれる。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T12:19:17.318320+00:00Z",
       "freq_rank": 42310
     }
   }

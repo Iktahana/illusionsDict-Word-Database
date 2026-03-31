@@ -34,7 +34,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お盆の食卓に、茹でたての大きなガザミが並んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "漁師が仕掛けた網にかかったガザミを、市場で売っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "旬のガザミは、味噌汁の出汁にしても、身をほぐして食べても絶品だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「今日の夕食は、とれたてのガザミだよ！楽しみだね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "海が遠浅なので、私はよく潮の退いた跡へおり立って、蝦や、しゃこや、がざみや、しおまねぎや、鰈や、いろんな貝などを捕った。",
@@ -57,7 +90,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T18:05:43.119005+00:00Z"
     }
   }
 ]

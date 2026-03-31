@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "幼稚園児が大きな画用紙いっぱいに自由に絵を描いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "図工の時間に使う画用紙は、いつもA4サイズを指定される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "息子が描いた家族の絵が、冷蔵庫の画用紙に貼ってある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プレゼント用に、厚手の画用紙を選んでメッセージカードを作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「マウスと呼ばれる簡単な入力用具を使い、実際に画用紙の上で絵を書くように手を動かすというもので、我が国でも珍しい」と書いてある日本経済新聞は三月二十日付けであるところを見ると、エイプリルフールの冗談というわけでもないらしい。",
@@ -284,7 +317,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T17:58:08.065919+00:00Z",
       "freq_rank": 34262
     }
   }

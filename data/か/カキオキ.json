@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「先に家を出ます」という母からの書き置きがあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "帰宅すると、テーブルの上に夫からの書き置きが置いてあった。「夕食は済ませておくね」と書かれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "出かける前に、子供に今日の予定を書き置きで伝えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「遅れます」という同僚からの書き置きを見て、会議の開始時間を少し遅らせることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "へんな書き置きみたいなものを残して行きましたが、それがまた何とも不愉快、あなたはユダヤ人だったのですね、はじめてわかりました、虫にたとえると、赤蟻です、と書いてあるのです。",
@@ -284,7 +317,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T15:12:00.092065+00:00Z"
     }
   }
 ]

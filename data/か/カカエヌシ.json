@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "身売りされた娘は、新しい抱え主の店で下働きから始めることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "恩義ある抱え主からの頼みを、彼は断ることができなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "借金を返すため、彼女は抱え主の言うがままに働き続けるしかなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それというのも彼女もまた場末とはいいながら、ひとかどの芸者の抱え主として、自身はお化粧｜嫌いの、身装などに一向｜頓着しないながらに、抱えのお座敷着には、相当金をかける方だからであった。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T13:00:03.974478+00:00Z"
     }
   }
 ]

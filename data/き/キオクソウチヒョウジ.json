@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "タスクマネージャーを開くと、現在使用中のメモリ容量と、各プロセスが消費しているメモリ量が表示される。この記憶装置表示で、PCの負荷状況を把握できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この診断ツールは、ストレージデバイスの空き容量や使用状況を詳細に表示してくれる。記憶装置表示をチェックして、不要なファイルを削除しよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "システムモニタリング画面では、リアルタイムのCPU使用率とともに、記憶装置表示も確認できる。パフォーマンス低下の原因究明に役立つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このデバイスの記憶装置表示がおかしいぞ。」彼は画面を食い入るように見た。認識されている容量が、実際のものと大きく異なっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +76,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T19:49:55.349221+00:00Z"
     }
   }
 ]

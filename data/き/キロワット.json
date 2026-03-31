@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このエアコンは、消費電力が1キロワットなので、電気代が少し心配だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家庭用の太陽光発電システムは、一般的に数キロワットの発電能力を持っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "電動モーターの出力は、馬力ではなくキロワットで表記されることもある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その堰堤の高さ百八十尺、長さ一千尺コンクリート、貯水量十億立方尺、堰堤上流三里十二町、面積百七十一町、水量流域百二十三方里、発電機四台、励磁機二台、電力四万二千九百キロワット。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T07:30:10.991198+00:00Z",
       "freq_rank": 21801
     }
   }

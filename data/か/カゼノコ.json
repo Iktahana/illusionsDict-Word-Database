@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもは風の子って言うけど、この雪の中で半袖短パンで遊んでるなんて信じられないよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "真冬の校庭を走り回る小学生たちを見て、昔の人はよく『子供は風の子』と言ったものだと感心した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "風の子どころか、うちの息子はストーブの前から一歩も動こうとしないんだけど。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ある年の十二月末つ方、年は迫れども童はいつも気楽なる風の子、十三歳を頭に、九ツまでくらいが七八人、砂山の麓に集まりて何事をか評議まちまち、立てるもあり、砂に肱を埋めて頬杖つけるもあり。",
@@ -189,7 +214,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T05:47:56.045994+00:00Z"
     }
   }
 ]

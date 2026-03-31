@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "契約書の重要な条件が、わざと目立たないように括弧書きで小さく添えられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "本文だけでは説明が足りない専門用語の横に、括弧書きで英語表記を付け加える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "台本の台詞の後に「（苦笑しながら）」という括弧書きのト書きがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "・一文の息が長い　・括弧書きの内語が多い　・キャラの個性よりも、筋の奇天烈ぶりの方に重きがある　・言葉遊びはまだ少ない　ひとつめについては、単に文章が長いというわけではなく、文章が凝っているために長くなったということでもありません。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T06:29:20.002769+00:00Z"
     }
   }
 ]

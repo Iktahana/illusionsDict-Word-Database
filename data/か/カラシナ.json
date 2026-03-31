@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "味噌汁に刻んだからし菜を少し加えるのが好きだ、ピリッとして美味しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この郷土料理は、からし菜を主な材料として使っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "わあ、このサラダにからし菜が入ってる！ピリッとした辛さがたまらないよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よしやわざくれ、作品のモチーフとなる切情に殉ぜんかなと）　からし菜、細根大根、花菜漬、こういった旬の青味のお漬物でご飯を勧められても、わたくしは、ほんの一口しか食べられなかった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T09:05:58.122786+00:00Z"
     }
   }
 ]

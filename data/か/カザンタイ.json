@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この地域は環太平洋火山帯に属しており、古くから地熱発電が盛んに行われてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「富士火山帯の上にある温泉地って、やっぱり泉質が強そうなイメージがあるよね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "千島火山帯に沿って、美しい円錐形の山々が連なっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "旅人がアンデスの登山を悦ぶのは、麓が永久の春であるからだそうだが、山の天国は、発達した裾野を有するところの、富士火山帯に多くあらねばならない。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T21:25:21.921196+00:00Z"
     }
   }
 ]

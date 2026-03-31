@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "予てよりご要望いただいておりました新機能が、今月のアップデートで実装されます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この問題は予てより指摘されていたことだが、誰も真剣に取り組もうとしなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "社長は予てより健康に不安を抱えていたようで、今回の入院は仕方ないだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "予てより約束していた食事、今週の土曜日はいかがでしょうか。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "陳者、予てより御通達の、潮流研究用と覚しき、赤｜封蝋附きの麦酒瓶、拾得次第｜届告仕る様、島民一般に申渡置候処、此程、本島南岸に、別小包の如き、樹脂封蝋附きの麦酒瓶が三個漂着致し居るを発見、届出申候。",
@@ -284,7 +317,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T07:29:26.618586+00:00Z"
     }
   }
 ]

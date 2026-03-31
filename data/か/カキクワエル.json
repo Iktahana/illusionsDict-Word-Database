@@ -30,7 +30,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "議事録の最後に、補足事項としていくつかの意見を書き加えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "レポートを提出する前に、参考文献のリストを書き加えるのを忘れないように。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "手紙の余白に、家族への伝言を書き加えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "レシピの材料に、隠し味として少量の醤油を書き加えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明け暮れただ河面を眺め乍ら、張り亘った意識の中から知らず知らず磨き出されて来る作家本能の触角で、私の物語の娘に書き加える性格をゆくりなく捕捉できるかも知れない。",
@@ -141,7 +174,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T15:12:00.108923+00:00Z"
     }
   }
 ]

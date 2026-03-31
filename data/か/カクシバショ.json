@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は家の合鍵の隠し場所を忘れてしまい、結局、鍵屋を呼ぶ羽目になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "子供たちは、自分たちだけが知っているお菓子の隠し場所を庭の隅に作っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "警察は、容疑者が押収された薬物の隠し場所について、まだ口を割らないと発表した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また子を生むといつでもその子を取り上げられるので色々隠し場所を変えた末に、とうとう主人の書斎の書棚の奥に隠した猫もある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:59:10.034625+00:00Z"
     }
   }
 ]

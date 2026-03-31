@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "委員会のメンバーには、各分野の学識経験者が名を連ねている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい政策の策定にあたり、複数の学識経験者の意見を聴取した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は環境問題の学識経験者として、テレビの討論番組に出演した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は、自分はプロヴィデンスの中でも特に優れた学識経験者十名ほどに対し個別にこの情報を伝え、彼らの見方を確認し、いかなるものであれアドヴァイスを受けるつもりである、と言った。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:45:08.048566+00:00Z"
     }
   }
 ]

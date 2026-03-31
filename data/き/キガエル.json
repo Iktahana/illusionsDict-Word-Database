@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「式典が始まる前に、ネクタイを締め直してピシッとスーツに着替えないといけない。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「雨でびしょ濡れじゃないか！ 風邪を引く前に、早く乾いた服に着替えなさい。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「家に帰ったらすぐにパジャマに着替えて、ソファーでゴロゴロするのが僕にとって至福の時間なんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "母親の浴衣を借りて着替えると、蝶子の肚はきまった。",
@@ -288,7 +313,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T20:12:22.971702+00:00Z",
       "freq_rank": 26790
     }
   }

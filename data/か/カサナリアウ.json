@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本棚には、雑誌が何冊も重なり合って置かれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このパズルは、透明なピースが重なり合って絵が完成する仕組みだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "会議室の椅子が、片付けのためにきちんと重なり合わされていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このようにあるところでは満潮であるのに他のところでは干潮になったり、内海の満干の高さが外海の満干の高さの倍になるところのあるのは、潮の流れが狭い海峡を入るために後れ、また、方々の入口から入り乱れ、重なり合うためであります。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T04:58:54.752786+00:00Z",
       "freq_rank": 42576
     }
   }

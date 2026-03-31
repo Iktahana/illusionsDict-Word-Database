@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新入生は入学式で、学則について説明を受けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "学則で禁じられている行為なので、やめてください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "学生会は、時代に合わない学則の改正を求めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "寛政三年彼れ年十二、立志編を作りて曰く噫男児不学則已、学当超群矣、古之賢聖豪傑、如伊傅如周召者亦一男児耳、吾雖生于東海千歳之下、生幸為男児矣、又為儒生矣、安可不奮発立志以答国恩、以顕父母哉。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:06:33.571174+00:00Z"
     }
   }
 ]

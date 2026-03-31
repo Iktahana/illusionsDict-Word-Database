@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京セラは、セラミック技術を応用した様々な製品で知られている大手企業だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "父が昔、京セラで働いていたことがあると言っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この複合機、京セラの製品なんだ。結構、使いやすいよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "京セラドーム大阪、今日の試合も盛り上がってるかな？",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先行したソニーのパームトップは、「変わってもいいと思うよ」と宣言し、京セラの意欲作リファロは「システム手帳に化けて電子化のメリットをここに付けたほうが面白いのでは」と言いだした。",
@@ -100,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T04:10:10.050455+00:00Z",
       "freq_rank": 28302
     }
   }

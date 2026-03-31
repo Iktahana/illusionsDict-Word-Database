@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日の昼食は、かき玉とご飯で簡単に済ませた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寒い日には、温かいかき玉が体に染み渡る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "風邪気味なので、消化の良いかき玉を作ってもらった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "思出す、あの……五十段ずつ七折ばかり、繋いで掛け、雲の桟に似た石段を――麓の旅籠屋で、かき玉の椀に、きざみ昆布のつくだ煮か、それはいい、あろう事か、朝酒を煽りつけた勢で、通しの夜汽車で、疲れたのを顧みず――時も八月、極暑に、矢声を掛けて駆昇った事がある。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:43:30.424503+00:00Z"
     }
   }
 ]

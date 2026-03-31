@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "教授会は学の独立を守るため、大学当局の方針に異を唱えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "研究者は、政治的圧力に屈することなく、学の独立を堅持すべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この大学は、建学以来、学の独立を最も重要な理念としている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "百年以来、仏蘭西にて騒乱しきりに起り、政治しばしば革るといえども、その文運はいぜんたるのみならず、騒乱の際にも、日に増し月に進み、文明を世界に耀かしたるは、ひっきょう、その文学の独立せるがゆえならん。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:06:33.578077+00:00Z"
     }
   }
 ]

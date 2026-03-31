@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "匿名のカキコで、イベントの裏情報がリークされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの掲示板のカキコは、いつも辛口の意見が多いな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女が初めて掲示板にカキコした時、少し緊張したらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "関東の山村でカッコというのは蕎麦カキのことだが、岡山地方の田処で、カキコと謂っているのは米の粉を湯でかきまぜ、甘藷の煮たのなどとともに食う、飯の不足な急場に作るものだそうである。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-29T15:12:00.110822+00:00Z",
       "freq_rank": 15709
     }
   }

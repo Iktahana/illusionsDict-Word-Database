@@ -31,7 +31,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「最近の物価高騰は、世界情勢の不安定さと密接に関連していると言わざるを得ない。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「君の指摘した問題は、今回のシステム障害とは直接関連がないように見えるが……。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「あ、それなら昨日の会議で話した内容と関連するから、この資料も一緒に読んでおいて。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この二つの事件が実は裏で関連していたなんて、刑事ドラマのような展開だね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "云へば平凡なこととなるけれど、あれやこれやの作品が、その読む人の人格といふ点で関連し合ひ、ひいては文学一般の了得が、その人なりに満足され、つまり、競技に勝つだけでなく、そのフォルムも自分にとつて決定的である筈のものが最後的に探索されねばならないのである。",
@@ -270,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T15:07:36.795646+00:00Z",
       "freq_rank": 420
     }
   }

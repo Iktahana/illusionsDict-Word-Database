@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「自動運転の完全な実現には、AIだけでなく、5G通信や高精度センサーなどの関連技術の向上が欠かせない。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「特許出願にあたっては、先行する関連技術との決定的な差異を論理的に説明する必要がある。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この新型エンジン、基礎となる関連技術がしっかりしてるから、他社も簡単には真似できないだろうね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "リリースによれば、新会社の事業目的は「書籍、雑誌の出版及びパソコン関連技術開発」であるという。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:07:36.796560+00:00Z"
     }
   }
 ]

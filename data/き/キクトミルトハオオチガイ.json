@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のこと、怖い人だと思ってたけど、話してみたらすごく優しかった。まさに聞くと見るとは大違いだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "旅行ガイドでは絶景と紹介されていたが、実際に行ってみるとがっかりだった。聞くと見るとは大違いとはこのことだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "評判の悪い映画だったが、鑑賞してみたら意外なほど面白かった。聞くと見るとは大違いだな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたしと姉とは、まるで育ちも境遇も違うので、行ってもどんなものかと思ったのでしたが、来て見ると、聞くと見るとは大違いなので離れる事が出来なくなりました。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:36:49.959449+00:00Z"
     }
   }
 ]

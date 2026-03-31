@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "九州の阿蘇には、火山の噴火で形成された美しい陥没湖が点在している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ガイドは、この陥没湖の透明度の高さと、そこに生息する固有種について熱心に説明してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地図で調べてみたら、富士山にはいくつもの小さな陥没湖があることが分かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……湖心に吸込孔があって、湖底が稚児※淵につづいているもんだから、この湖水で死体が揚ったためしがないってことだったけど」「それは伝説だ……この湖は石灰質の陥没湖じゃないから、吸込孔などあろうはずはない。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:00:32.809054+00:00Z"
     }
   }
 ]

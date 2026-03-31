@@ -31,7 +31,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オークションに出品された名画が実は巧妙な贋作だったことが判明し、美術界に激震が走った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「本物と見紛うほどの出来映えだけど、筆致の勢いがこの画家のものとは決定的に違う。これは贋作だ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "贋作を掴まされないよう、高価な骨董品を買うときは必ず信頼できる鑑定士を同行させる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼はかつて、巨匠のスタイルを完璧に模倣した贋作を作り上げ、世間を欺いた過去がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "六朝から唐代まで掛けて、書法の事に就いて書いた本はいろ／＼ありますが、其の書き方と云ふものは大體弘法大師眞蹟書訣と云ふ本の書き方に類似して居りまして、大師の書かれたのは唐代に書かれたから、さう云ふ類似があると云ふことを信じて居りますから、贋作でないと云ふことを信じて居ります。",
@@ -78,7 +111,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T19:34:54.247255+00:00Z",
       "freq_rank": 36894
     }
   }

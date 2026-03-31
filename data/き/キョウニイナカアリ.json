@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都のど真ん中にこんなに静かで緑豊かな場所があるなんて。「京に田舎あり」って感じだね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この商店街の裏通り、昔ながらの風情が残っていて落ち着くんだ。観光客もあまり来ないし、「京に田舎あり」を地で行く場所だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "忙しい毎日だけど、ふと立ち寄った神社の裏手にある竹林が、心を癒やしてくれる。都会の中にこんな静寂があるなんて、「京に田舎あり」だなぁ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東　京の夢大阪の夢西　京に田舎あり　京の夢大阪の夢といへる諺、古より明解無し。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T05:50:30.635065+00:00Z"
     }
   }
 ]

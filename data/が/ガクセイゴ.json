@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「最近の学生語って略語が多すぎて、教授たちが会議で意味がわからず困惑している場面をよく見かけるよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "『詰んだ』とか『ワンチャン』みたいな学生語も、いつの間にか日常会話に定着して、大人の間でも普通に使われるようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「その独特な学生語、この学部の奴らにしか通じないから、バイト先でうっかり使うと変な目で見られるぞ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｙ書（学生語）出版も同時に大流行である。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:06:33.543039+00:00Z"
     }
   }
 ]

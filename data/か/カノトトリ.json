@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "辛酉の生まれの彼は、決断力があり、行動が素早い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "日本の歴史には「辛酉の変」と呼ばれる大きな政変があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "次の辛酉の年は、東京オリンピック開催の数年後になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "七日、辛酉、相模次郎朝時主、女事に依りて御気色を蒙る、厳閤又義絶するの間、駿河国富士郡に下向す、彼の傾公は、去年京都より下向す、佐渡守親康の女なり、御台所の官女たり、而るに朝時好色に耽り、艶書を通ずと雖も、許容せざるに依り、去夜深更に及びて、潜かに彼局に到りて誘ひ出すの故なりと云々。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T07:48:40.558948+00:00Z"
     }
   }
 ]

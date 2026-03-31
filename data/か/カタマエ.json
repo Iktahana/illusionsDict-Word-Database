@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このスーツは片前で、ボタンが一つだけだから、フォーマルな場面でも使いやすい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼が着ていたトレンチコートは、両前ではなく、片前だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔の男性用ジャケットは、片前が主流だったんだよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "羽織なしの引かけ帯、ゆるやかな袷の着こなしが、いまの身じろぎで、片前下りに友染の紅匂いこぼれて、水色縮緬の扱帯の端、ややずり下った風情さえ、杖には似合わないだけ、あたかも人質に取られた形――可哀や、お主の身がわりに、恋の重荷でへし折れよう。",
@@ -61,7 +86,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T06:03:17.245505+00:00Z"
     }
   }
 ]

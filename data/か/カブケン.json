@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔は、株券を大切に保管するのが投資家の務めだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "電子化が進み、紙の株券を目にする機会は少なくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "祖父の遺品の中から、古い株券が何枚か見つかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼女は松島と同じ家中の士族の家に産まれ、松島の従兄に嫁いだとき、容色もよくなかったところから、相当の分け前を父からもらい、良人が死んでから、株券や家作や何かのその遺産と合流し、一人娘と春日町あたりに、花を生けたり、お茶を立てたり、俳句をひねったりして、長閑に暮らしていた。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T08:30:17.472853+00:00Z",
       "freq_rank": 19781
     }
   }

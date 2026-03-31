@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "読み手が上の句の最初の一文字を発した瞬間、会場に札を弾く乾いた音が鋭く響き渡った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「百人一首の上の句は暗記してるんだけど、対となる下の句がどうしても思い出せないんだよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女が詠んだその和歌は、上の句で春の訪れを、下の句で消えない切なさを巧みに表現していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "和歌の上の句と同型だからというのも一つの説明にはなるが、それとは独立にも五七五のほうが短詩の形式としてすぐれていると思われる理由もなくはない。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T08:28:27.521663+00:00Z"
     }
   }
 ]

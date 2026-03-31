@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "友人に送る手紙は、彼の会社の「人事部気付」で郵送した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "応募書類を提出する際、「採用ご担当者様気付」と書くのがマナーだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔は「〇〇様方気付」と書いて郵便を送ることがよくあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "以上のことは、自身気付いたばかりのことであるから、云ふのがくすぐつたいが、自分の今迄を顧みても、最初詩の概念が分つたと思つたが、しかし書く時には、気分が失はれる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T22:57:38.540988+00:00Z",
       "freq_rank": 24838
     }
   }

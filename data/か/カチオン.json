@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "化学では、陽イオンは正に帯電したイオンである。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "実験では、様々な陽イオンの溶液中での振る舞いを観察した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "電気分解は、物質を分離するために陽イオンと陰イオンの移動を利用する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは「電気の実験研究」の第七篇になっているが、まずファラデーは電池の電極を、単に電流の入り口と出口に過ぎないからとて、アノード（昇り道）およびカソード（降り道）という名称をつけ、また液体内で分解している物に、アニオン（昇り行く物）およびカチオン（降り行く物）という名前をつけた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T04:53:28.262522+00:00Z"
     }
   }
 ]

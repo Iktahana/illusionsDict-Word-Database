@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ペットショップで、鮮やかな色のカメレオンが優雅に枝を歩いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供がカメレオンの変色能力に驚いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「まるでカメレオンみたいに、すぐに環境に馴染んでしまうんだね！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "兎や雷鳥が、雪の降る時に白色に変り、草の萌え茂る時に、その色に変るやうに、カメレオンのやうに、絶えず変色したり、尺取り虫見たいに、枯枝と同じ色をして、力んでピンと立つてゐれば、生命と云ふものは保つものなのだ。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T09:20:43.592146+00:00Z",
       "freq_rank": 37931
     }
   }

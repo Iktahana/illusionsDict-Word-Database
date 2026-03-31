@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「あの科学史家が指摘するように、ニュートンの錬金術への傾倒は単なる道楽ではなかった。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "科学史家の講演を聞いて、ガリレオの裁判が当時の政治状況にどれほど左右されていたかを知った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は一介の物理学者としてキャリアを始めたが、晩年は科学史家として多くの著作を残した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ギリシア哲学がバビロン・エジプトの技術学とどんなに密接な史的関係があるかは、科学史家や技術史家の想定する常識となっている。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:17:41.584936+00:00Z"
     }
   }
 ]

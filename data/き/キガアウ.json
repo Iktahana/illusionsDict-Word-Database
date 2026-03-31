@@ -30,7 +30,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "初めて会ったのに、まるで昔からの友人のように彼とは気が合った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "趣味も考え方も似ていて、彼女とは本当に気が合う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "職場の人とは仕事仲間としてうまくやっているけれど、特別に気が合う人はいないな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「あの二人、すごく気が合うみたいだね」「うん、見てて気持ちいいよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ何となしに気が合うて、死生を共にしようというだけでそこに生命知らずの連中が、黙って集まり合うたというだけで、そこに燃え熾っている火のような精神は文句にも云えず、筆にも書けない。",
@@ -269,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:12:22.941385+00:00Z"
     }
   }
 ]

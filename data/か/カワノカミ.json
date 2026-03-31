@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの地の言い伝えでは、毎年秋に河の神へ感謝の祭りが行われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "激しい水害の後、人々は河の神の怒りを鎮めようと祈りを捧げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古文書には、河の神が村人たちに豊かな恵みをもたらしたと記されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "璧を齎ちて河を渡りける時、河の神の、璧を得まくおもふより波を起し、蛟をして舟を夾ましめ其を脅し求むるに遇ひしが、吾は義を以て求むべし、威を以て劫すべからずとて、左に璧を操り右に剣を操り、蛟を撃ちて皆殺しにしけるとぞ。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T12:19:17.349209+00:00Z"
     }
   }
 ]

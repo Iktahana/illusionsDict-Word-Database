@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代に伝わったガラス絵は、板ガラスの裏側から色を塗り重ねて描かれる独特の技法だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「へえ、ガラス絵って裏から描くから、最後に描くものが一番手前に来るんだね」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "骨董品屋の隅で見つけた古いガラス絵には、当時の賑やかな街の様子が色鮮やかに残っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近ごろガラス絵を研究されるそうだがことしの絵にはどこかガラス絵の味が出ている。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:58:08.071629+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は観相術に長けており、相手の眉の形や鼻筋を見ただけで、その人の気性や運勢を言い当ててしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「へえ、観相術によると、耳たぶが厚くて大きい人は晩年の金運に恵まれるって言われてるんだね」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い書物を紐解くと、戦国時代の武将たちが家臣を登用する際に観相術を参考にしていたという記述がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『魂の煤煙』（１）を読んだとき私は思ったのですが、人間の顔やちょっとした身振のなかにその人を生み育てた環境や歴史を探ろうとする描写法は、小説として何も目新しいものではないとしてもこの作者の観相術にはなにか豊かで独自な魅力があるようでした。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T13:40:03.016178+00:00Z"
     }
   }
 ]

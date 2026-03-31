@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「ちょっとコンビニまで外出してくるね」と言って、彼は財布だけ持って家を出た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "今日は絶好の行楽日和なので、久しぶりに家族で遠くへ外出することにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "急な来客の連絡が入ったため、予定していた午後の外出を取りやめて家で待機した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一日外出して、我々の抱いて帰る印象は雑然として、而も果敢ないものである。",
@@ -272,7 +297,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T16:07:36.711021+00:00Z",
       "freq_rank": 6019
     }
   }

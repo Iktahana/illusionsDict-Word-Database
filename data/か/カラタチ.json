@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬の冷たい風の中、枸橘の生け垣だけが青々とした葉と鋭い棘を保っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "祖母の家の庭には、子供の頃からあった枸橘の木があり、春には白い花を咲かせる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この辺りでは、防犯対策として枸橘を庭の境界線に植える家が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "薄きたない白が、尾を垂れ、歩くにつれて首を揺り乍ら、裏のすきだらけの枸橘の生垣の穴を出入りした姿が今も遠い思い出の奥にかすんで見える。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T09:05:58.155051+00:00Z"
     }
   }
 ]

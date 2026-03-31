@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これらの領収書を合算すると、今月の経費はかなりの額になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最終的なスコアは、予選と決勝の合計点を合算して決定されます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「まずは、各部門の売上を合算して、全体の数字を出しましょう。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "単に利害勘定からいっても、私の父がこの土地に投入した資金と、その後の維持、改良、納税のために支払った金とを合算してみても、今日までの間毎年諸君から徴集していた小作料金に比べればまことにわずかなものです。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T17:33:57.315978+00:00Z",
       "freq_rank": 26111
     }
   }

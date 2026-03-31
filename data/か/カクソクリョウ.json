@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建築現場では、建物の正確な位置を出すために角測量が行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この地図は、古い角測量のデータに基づいて作成されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "土木技師は、河川工事の計画で角測量を実施した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "向って蝙蝠岳の残雪が、銀光りに輝いて、その傍に三角測量標が、空を突いて立っている、間の岳（赤石山脈）は森に隠れて見えない、冷い風が、暗い穴からでも来るように、ひいやりと吹く、鳥はひんから、ひんからと、朗らかに囀ずる、登るに随って、蝙蝠岳はほぼ正西に、間の岳は北西に、いずれも残雪白く、光輝を帯ぶ。",
@@ -188,7 +213,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T14:59:10.098857+00:00Z"
     }
   }
 ]

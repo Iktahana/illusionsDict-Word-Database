@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画の初期の歴史を学んだ時、キネトスコープが重要な役割を果たしたことを知った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "博物館で復元されたキネトスコープを覗くと、当時の短い映像が再生された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "トーマス・エジソンが開発したキネトスコープは、個人で映像を楽しむための装置だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（編）訳注(*1) a series of moving pictures、キングスフォードの生きていた時代は、エジソンのキネトスコープやリュミエール兄弟のシネマトグラフ以前でした。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T00:05:31.300480+00:00Z"
     }
   }
 ]

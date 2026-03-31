@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は、きれいな褐色の瞳をしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "パンがこんがりと褐色に焼けて、食欲をそそる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あ、このチョコレート、きれいな褐色だね！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼の肘の前にある灰皿の中の、喫ひ終つたばかりの喫殻から登る紫色の煙と、他の古い喫殻にそれが燃え移つて出る茶褐色の毒々しい煙とが、やゝもすれば彼の顔に打つ衝かつたが、そんなことには元来頓着ない彼であつた。",
@@ -205,7 +230,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T06:29:20.038171+00:00Z",
       "freq_rank": 22922
     }
   }

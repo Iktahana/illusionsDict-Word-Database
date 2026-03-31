@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これまでの経験を鑑みて、今回は慎重に計画を進めるべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "状況を鑑み、提案された案に修正を加えることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の健康状態を鑑みて、激しい運動は控えるよう医師が進言した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "歐洲思想變遷の史蹟を鑑みるに、羅馬統一以前は、別に是れ一個の世界にして、其の循環に於ても、亦國各々特に一期を始終して、全局の他期と相關かること少ければ、姑らく此に論ぜず。",
@@ -142,7 +167,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T11:26:13.238112+00:00Z"
     }
   }
 ]

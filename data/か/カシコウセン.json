@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私たちがリンゴの赤さを認識できるのは、表面で反射された特定の波長の可視光線を網膜が捉えているからだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "プリズムに光を通すと、無色透明に見えていた可視光線が赤から紫までの鮮やかな七色に分解される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "紫外線や赤外線は可視光線の範囲外に位置するため、特殊な機器を使わない限り私たちの目には見えない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "海中哨戒線は、陸にあるトーチカを、点々と海底にしずめたような恰好のものであったが、或る特殊な不可視光線によって、そこを通過する潜水艦などを捕えるような仕掛けになっていた。",
@@ -141,7 +166,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T21:25:21.976657+00:00Z"
     }
   }
 ]

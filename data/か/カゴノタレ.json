@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祭りの行列では、豪華な籠の垂れが風に揺れていました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古い寺院の宝物館で、かつて使われた籠の垂れを見学しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この絵巻物には、高貴な人物が乗った籠と、その美しい籠の垂れが描かれています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "真新しい白い浴衣が切子灯籠の垂れ紙にも見えたのでした」　女学校を卒業した先生は、それから一人で頻りに赤城の山頂へ閉じ籠って勉強するようになった。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T16:44:33.001713+00:00Z"
     }
   }
 ]

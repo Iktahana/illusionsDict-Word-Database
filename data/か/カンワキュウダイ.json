@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「ところで、話は変わるが、閑話休題、あのプロジェクトの進捗はどうなっている？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "講演者が長めのエピソードを話し終え、「さて、閑話休題、本題に戻りましょう。」と続けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "会議で予定外の話題が盛り上がった後、「では、閑話休題、当初の議題に戻ります。」と司会が促した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "茲に件の娘たるや、今もお話した通り、吉原に居る事を恥とし、待合を出す事を厭だと云つた心懸なんだから、まあ傍から勸めても、結綿なんぞに結はうよりは、惡くすると廂髮にでもしようといふ――　閑話休題、母子は其處等を見て歩くと、今言つた、其のお帳場が、橋向うの横町に一個あつた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T15:07:36.824409+00:00Z",
       "freq_rank": 22623
     }
   }

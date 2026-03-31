@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "野鳥の専門家が、調査のために山中に細いかすみ網を仕掛けていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "かすみ網にかかった小鳥を、優しく捕獲して足環をつけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "違法なかすみ網の使用は、野生動物保護の観点から厳しく禁じられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは十月の中頃から、かすみ網を張つて、昨夜泊つてゐた谷間を、朝早く出立して、長い旅を急がうとしてゐる鶫の種類を呼ぶための囮なので、亡父から伝はつた淳二の一つの道楽であつた。",
@@ -102,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T04:26:35.193705+00:00Z"
     }
   }
 ]

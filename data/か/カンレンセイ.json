@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「統計データ上は数字が動いているけど、この二つの事象に因果関係があるのか、それとも単なる関連性なのか、慎重に判断すべきだ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "指紋の照合結果と目撃証言との間に、何らかの関連性があるのではないかと刑事は睨んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "食生活と肌荒れの関連性を調べるために、一ヶ月間の食事メニューを細かく記録することにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "帆村が問題にしている洗面器の下の鼠の死骸と、この鳥籠の一件とは深い関連性があったのか。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:07:36.798227+00:00Z"
     }
   }
 ]

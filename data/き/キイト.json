@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母の家には、かつて養蚕で栄えた頃に使っていた、繭から生糸を紡ぐ道具が今も大切に保管されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "富岡製糸場で見学した、熱いお湯の中から細い生糸を器用に取り出す繊細な作業に思わず見入ってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "このスカーフは最高級の生糸を贅沢に使っているから、独特の光沢と滑らかな手触りがあるんです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "窪みの深さ二三間、幅一二間、その底に落ち集った川全帯の水は、まるで生糸の大きな束を幾十百｜捩じ集めた様に、雪白な中に微かな青みを含んでくるめき流るる事七八十間、其処でまた急に底知れぬ淵となって青み湛えているのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T21:11:09.284733+00:00Z",
       "freq_rank": 34069
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は卒業後も定職に就かず、学生崩れのような生活を送りながら、いつまでも古いアパートで小説を書き続けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "あのバーには、知的な会話を好むけれど社会には馴染めない、学生崩れの常連客が夜な夜な集まってくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「いい歳して学生崩れみたいな格好はやめろよって言われるんだけど、この気楽なスタイルが自分には合ってるんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "松島も父が佐倉藩の御典医であり、彼自身も抱えたちの前では帝大の医科の学生崩れのように言っていたので、銀子たちもそのつもりでいたが、ずっと後に彼の前身は洋服屋だということを言って聞かせるものもあった。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:06:33.542652+00:00Z"
     }
   }
 ]

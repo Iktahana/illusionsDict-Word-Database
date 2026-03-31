@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人生には禍福がつきもので、良いことも悪いことも受け入れるしかない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「禍福は糾える縄のごとし」とはよく言ったもので、彼の人生もまさにそうだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古代の人々は、禍福を占うことで未来を予測しようとした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは人間の福祉幸福を望んで造りなされたために、もちろん便利、迅速、知識的でありますが、しかしその内部には、人間の欲望、煩悩、愚痴等が働きかけて、禍福相半ばするものであります。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T07:59:21.568339+00:00Z"
     }
   }
 ]

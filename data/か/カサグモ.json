@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝日に照らされた富士山の頂上には、見事な笠雲がかかっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "登山家たちは、山の天候が崩れる前兆として、笠雲の出現に注意を払った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "窓の外を見ると、近くの山のてっぺんに、帽子のように笠雲が乗っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "従来、ただ天気の変りを予知さすだけに、峯の頂の天に掲げ出した、笠なりの雲も、近頃では、その色を黒白の二つに分け、黒の笠雲の場合は風雨のある前兆とし、白い笠雲の場合は風ばかりの前兆としたようなこまかさとなった。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T16:44:33.016814+00:00Z"
     }
   }
 ]

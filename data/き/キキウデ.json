@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は利き腕の右腕で、豪速球を投げ込んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "怪我で利き腕が使えなくなり、日常生活にも支障が出た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "字を書くときは、利き腕をしっかり固定するのがコツだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "力ずくでは馬子の方が強いらしく、辰蔵は忽ちその利き腕を捻じ曲げられて、床几の上に押し付けられると、床几はかたむいて倒れて、馬子も辰蔵に折りかさなって土間にころげた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:31:12.439891+00:00Z"
     }
   }
 ]

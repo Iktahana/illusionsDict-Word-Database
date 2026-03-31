@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父が語る戦時中の壮絶な体験を、孫の私が数ヶ月かけて聞き書きし、一冊の自分史としてまとめた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "民俗学のフィールドワークでは、その土地の古老たちからの聞き書きが、失われつつある風習を紐解く貴重な資料となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "若き記者は現場で目撃者の話を丁寧に聞き書きし、事実関係の矛盾を洗い出しながら記事の構成を練った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その調剤の次第については種々聞き書きまた考え置いた事もあるが、自分の家代々長生なりしに、父がよせば善いのに一代分限を起して割合に世を早くしたから、父も儲けざあ死ぬるまい、金が敵の世の中と悟り、あいなるべく金の儲からぬ工夫を専一にしおれば、余り金になりそうな話をするを好まぬ。",
@@ -134,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T20:31:12.445785+00:00Z"
     }
   }
 ]

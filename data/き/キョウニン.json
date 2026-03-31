@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この漢方薬には、咳を鎮める効果があると言われる杏仁が配合されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "デザートに杏仁豆腐を作ったよ。プルプルで、ほんのり甘い杏仁の香りがたまらない！",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "杏仁油は化粧品にも使われるけど、料理に使う場合は、加熱しすぎないように注意が必要だよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三　杏仁水　ある夏の夜、神田の喫茶店へはいって一杯のアイスクリームを食った。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T05:50:30.635379+00:00Z",
       "freq_rank": 30700
     }
   }

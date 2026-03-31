@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "30年前のゲームソフトが、箱も説明書も揃った完品の状態でオークションに出品されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「このフィギュア、パーツが一つ欠けてるから完品じゃないんだよね」とマニアが嘆く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "完品であれば数十万円の値がつくヴィンテージウォッチだが、これはベルトが社外品に交換されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "但十年の計画を二年につづめたるため（名は二年なるも出版の際修正に費やしたる時間を除いて実際に使用せるは二夏なり）また純文学学生の所期に応ぜんとして、本来の組織を変じたるため、今に至つて未成品にして、また未完品なるを免がれず。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T13:48:11.735086+00:00Z"
     }
   }
 ]

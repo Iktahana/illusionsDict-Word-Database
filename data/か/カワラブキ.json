@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この界隈は古い町並みが保存されており、立派な瓦葺きの家が整然と軒を連ねている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「やっぱり日本家屋は瓦葺きに限るね」と、祖父は新築の屋根を満足そうに眺めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "瓦葺きの屋根は重厚感があるが、最近は耐震性を考慮して軽量な素材に葺き替える家も増えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "隣町のお寺の本堂が、数年がかりの修繕を終えて見事な瓦葺きに蘇った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "外神田の河岸近くの一帯は、あの大火に不思議に焼け残ったのであるが、その黒い土蔵や、昔風の瓦葺きの屋根、寂びた白壁などが並んだ落ち付いた町並みと、柳原あたりの（この辺は昔もあまり立派な町並みではなかったが）バラックを見比べると、坐ろに今昔の感に打たれざるを得ない。",
@@ -268,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T11:43:20.366778+00:00Z"
     }
   }
 ]

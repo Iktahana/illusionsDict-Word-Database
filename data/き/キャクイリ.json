@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "平日の昼公演にしては、かなりの客入りで立ち見も出ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "悪天候の影響で、今夜のライブは客入りが芳しくない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "幕が上がる直前、舞台袖からそっと客入りを確認して深く息を吐いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "店に羊頭を掛けてその肉を売らんというものあり、客入りてこれを需むればこれに狗肉を与う、知らざる者は見て羊肉となし、しかして恠しまず、世間政論を業とする者これに類すること多し。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T01:07:42.061822+00:00Z"
     }
   }
 ]

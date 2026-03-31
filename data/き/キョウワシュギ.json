@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は熱心な共和主義者であり、国民による統治の重要性を常に説いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "18世紀の啓蒙思想は、ヨーロッパにおける共和主義の広がりを後押しした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「共和主義の精神こそ、この国の自由と平等の礎だと信じています。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "共和主義、革命主義、社會主義、共産主義、民政主義、自由主義、進歩主義、無神主義、自然主義、個人主義。",
@@ -245,7 +270,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T05:52:48.882177+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「ニンジンにはベータカロチンが豊富に含まれているから、残さず食べなさいね」母は食卓でよくそう言っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "カロチンは体内でビタミンAに変換され、皮膚の健康維持や夜間の視力の調整を助ける役割を果たす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "サプリメントで手軽にカロチンを摂取するのも良いが、やはり旬の緑黄色野菜から直接取り入れるのが一番だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "植物の色素カロチンがＡと同樣の效力があることは、瑞典のオイラー教授によつて確められ、また酵母、麥角等より得らるゝエルゴステリンに紫外線を照射すれば、Ｄが出來ることも、ウィンダウス教授によつて明かにせられた。",
@@ -118,7 +143,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T10:54:57.478696+00:00Z"
     }
   }
 ]

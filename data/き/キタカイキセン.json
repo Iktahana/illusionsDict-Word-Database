@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏至の日、北回帰線の真下では太陽が天頂を通り、影が消える不思議な光景が見られる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ヘンリー・ミラーの『北回帰線』を読んだけど、当時のパリの退廃的な雰囲気が凄かったよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "飛行機のモニターを見ていると、ちょうど今、北回帰線を越えて熱帯地方に入ったことがわかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "エラトステネス（Eratosthenes 紀元前二七五―一九四年）はアレキサンドリアで、夏至と冬至の正午における太陽の高度を測定し、それを基にして南北回帰線間の距離が地球大円周の八三分の一一に当るということを算定した（この値は実際より約一パーセント強だけ大きい）。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T23:09:13.258782+00:00Z"
     }
   }
 ]

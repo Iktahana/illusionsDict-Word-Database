@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭に植えた莢迷の木が、今年はたくさんの赤い実をつけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ハイキングコースの脇で、白い花をつけた莢迷を見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "秋になると、莢迷の葉が美しく紅葉する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しからばすなわちその真鳥住む卯名手の神社の云々の歌に在るスガとは一体何を指しているのかと言うと、それはスイカズラ科（忍冬科）のガマズミのことであって、すなわちスガノミとはそのガマズミの実である。",
@@ -182,7 +207,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:58:08.035151+00:00Z"
     }
   }
 ]

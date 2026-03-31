@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は熱心なカトリック教徒で、毎週教会に通っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その大学はカトリック系の学校として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "カトリックの聖歌隊の歌声は、とても美しかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はカトリックの教えに基づいて、慈善活動に尽力している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "家の奥まつた部屋の中で、終日雀の鳴聲を聽きながら、優しく、惱ましく、恥かしげに、思ひをこめて針仕事をして居る娘を見る時、私はいつもこの抒情味の深い、そして多分に加特力教的な詩人の言葉を思ひ起す。",
@@ -284,7 +317,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T07:18:02.048780+00:00Z",
       "freq_rank": 7352
     }
   }

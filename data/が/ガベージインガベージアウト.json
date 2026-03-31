@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "入力データの前処理を怠ると、どんなに高度な分析モデルを使っても意味がない。まさにガベージイン・ガベージアウトだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "政治家が根拠のない情報ばかり発信すれば、国民の判断も鈍る。ガベージイン・ガベージアウトを招くだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このプロジェクト、初期の要求定義が曖昧だったんだ。だから、今になって色々問題が出てる。ガベージイン・ガベージアウトの典型例だよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "AIに学習させるデータが偏っていたら、生成される結果も偏る。ガベージイン・ガベージアウトの原則は、AI開発でも重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +76,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T17:58:08.005889+00:00Z"
     }
   }
 ]

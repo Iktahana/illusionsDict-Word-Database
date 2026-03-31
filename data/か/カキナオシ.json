@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "誤字脱字があまりに多すぎて、せっかく書いた手紙を最初から書き直しになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この企画書、コンセプトは面白いけどデータが古いから、もう一度書き直しかな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "住所を書き間違えてしまったので、予備の履歴書を出して最初から書き直しをした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、その刹那から可成りな心身の疲れにも拘らず、こまかく推敲しつつ全部を書き直し、更にそれを三度書き直して、最後の筆を置いたのが忘れもしない十月十七日の夜の十二時近くなのであつた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-29T14:43:30.433059+00:00Z",
       "freq_rank": 17808
     }
   }

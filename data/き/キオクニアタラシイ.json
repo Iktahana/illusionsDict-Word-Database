@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "去年の夏フェスでのあの盛り上がりは、まだ記憶に新しい。本当に最高の体験だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "先日発表された新技術のニュースは、まだ業界関係者の記憶に新しいことだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の突然の引退劇は、多くのファンにとって今も記憶に新しい出来事だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのいたましい変事の記憶がまだ世人の記憶に新しいのに、今度はまた新しい皇帝が皇后とスイッツルの湖畔をドライブしていたとき、不慮の事故を起こして、そのために若く美しいアストリード皇后陛下はその場で崩御され皇帝も負傷され、ただうしろの座席に乗っかっていた運転手だけが不思議にかすり傷一つ負わなかった。",
@@ -189,7 +214,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T19:49:55.350633+00:00Z"
     }
   }
 ]

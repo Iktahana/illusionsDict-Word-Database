@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この星の公転軌道には驚くほどの規則性があり、天文学者たちの研究対象となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供が寝る前の読書習慣は、彼の生活に良い規則性をもたらしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "データを分析した結果、株価の変動にある程度の規則性が発見された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それが歴史にとつて有する重要性は、それがその規則性、就中その周期性の故に、歴史的時間を刻むための單位を與へるといふばかりでなく、その根本的な重要性は、寧ろ、人間のあらゆる歴史的活動が自然の基礎の上に於て行はれ、從つてまたつねに自然によつて制約される方面を有するといふ所に存してゐる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T22:01:38.137061+00:00Z"
     }
   }
 ]

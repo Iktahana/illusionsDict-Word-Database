@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雪が降り積もる静かな田園風景に、一羽の寒鴉（かんあ）が黒い影を落としていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "寒い冬の朝、枝に止まる寒鴉（かんあ）の鳴き声が、凍てついた空気に響き渡った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "枯れ木に群がる寒鴉（かんあ）の姿は、冬の訪れを告げる風物詩のようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此処に見られる感性は、古来「寒月」だの「寒鴉」だの「峯上の松」だのと云つて来た、純粋に我々のものである。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T11:43:20.412609+00:00Z"
     }
   }
 ]

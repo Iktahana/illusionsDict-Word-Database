@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "分析の結果、この肥料の窒素含有率は目標値に達していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "製品の品質基準では、不純物の含有率を0.1%未満に抑える必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この鉱石の金含有率が予想以上に高かったので、採掘計画が見直された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "食品の栄養成分表示に、脂質含有率も加えるべきだという意見が出ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昇龍丸が発見した海底の真珠貝は、貝殻も巨大であるが、真珠の含有率も甚だ良好であったのみならず、良質の真珠が多く、畑中の指が銀白色の真珠をつまみだすたびに、期せずして一同の口から歓声があがった。",
@@ -52,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T18:18:11.416503+00:00Z"
     }
   }
 ]

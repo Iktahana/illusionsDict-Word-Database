@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "高血圧が原因で眼底出血を起こし、一時的に視力が低下してしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "検査の結果、網膜の細い血管が破れて眼底出血があることがわかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「先生、眼底出血って、放っておくと失明の危険もあるんですか？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　北原白秋の晩年を書くことをわすれたが、視力が減退、糖尿病及び腎炎に発する眼底出血で、駿河台の杏雲堂に入院、私も見舞に行ったが、廊下にテエブルが出ていてそこで見舞客の記帳が行われるほど、にぎやかな病院生活であった。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T18:21:08.394200+00:00Z"
     }
   }
 ]

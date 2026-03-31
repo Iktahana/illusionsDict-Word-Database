@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「お客様、こちらの書類にサインと捺印をお願いできますでしょうか」「はい」「畏まりました、それでは手続きを進めさせていただきます」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "「明日の会議室の予約、10時からA会議室に変更しておいてくれる？」「畏まりました。参加者の皆様にもスケジュールの変更を通知しておきます」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "「コースのデザートですが、ナッツ類を外して用意してもらえませんか」「畏まりました、シェフに申し伝えて別のアレルギー対応メニューをご用意いたします」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "阿難　――畏まりました。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T21:25:21.978654+00:00Z"
     }
   }
 ]

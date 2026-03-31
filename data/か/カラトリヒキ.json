@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は巧妙な空取引で多額の利益を得ていたが、ついに逮捕された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "株価を吊り上げるための空取引が横行していると噂されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この会社は、売り上げを水増しするために架空の空取引を繰り返していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "猪野は小さい時分から、米の大問屋へ奉公にやられ、機敏に立ち働き、主人の信用を得ていたが、主人が亡くなり妻の代になってから、店を一手に切りまわしていたところから、今までの信用を逆に利用し、盛んに空取引の手を拡めて、幾年かの間に大きな穴をあけ、さしも大身代の主家を破産の悲運に陥れたものであった。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T09:51:22.030863+00:00Z"
     }
   }
 ]

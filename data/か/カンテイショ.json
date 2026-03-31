@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その古い絵画には、有名画家の署名入りの鑑定書が添えられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "指輪を購入する際、正規の鑑定書が付いているか必ず確認すべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、希少な切手コレクションの鑑定書を依頼するため専門家を訪ねた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "任せきりだとはいうものゝ、鑑定書には必ず眼をとおされ、助手の手にあまるような問題には決して労力を惜まれなかったが、どう観察しなおしても、以前ほどの熱はなく、教室でぼんやり時を過されることが度々であった。",
@@ -204,7 +229,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T15:16:21.446848+00:00Z"
     }
   }
 ]

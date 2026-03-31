@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "解剖学の授業で、豚の眼球を使って構造を学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "転倒した際に、木の枝が眼球に当たりそうになり、ヒヤッとした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の眼球は、強い光を浴びてキラキラと輝いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私の眼の周囲には、萌黄にぼかされた穂高の峰々が、神経の電線に燃えついて、掻き消されそうもない、私は眼球の上へ、人さし指を宛てて、グリグリとやって見たが、一、二尺の先を見つめるのが精々で、森の梢は、その燃えさかりの※の中に、暗を縦横に引っ掻き廻し、入り乱れて手を突き、肱を張っている。",
@@ -245,7 +270,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T19:34:54.205999+00:00Z",
       "freq_rank": 21342
     }
   }

@@ -30,7 +30,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このカフェは私のお気に入りで、週末によく来るんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は誕生日プレゼントに、お気に入りのブランドのバッグをもらって喜んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近見つけたこの本は、すっかり私のお気に入りになったよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼のお気に入りの場所は、駅前の小さな公園だそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし何となく陰気に薄暗くじめじめして、妙に気味の悪い厭な感じがしたので、夫人が直覚的に反対したにもかかわらず、ヘルンは一見して大いに気に入り、『面白いの家』『面白いの家』と、子供のように嬉しがって、是非それを買おうと言った。",
@@ -285,7 +318,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T23:18:42.351459+00:00Z",
       "freq_rank": 15842
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は幼い頃からの夢を叶え、有名な歌劇団に入団した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "ミラノ・スカラ座歌劇団の来日公演のチケットは、発売後すぐに完売した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "その歌劇団は、古典的な演目だけでなく、現代的な創作オペラにも意欲的に取り組んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数時間後、僕は岡山で下車すると、巡業中の歌劇団のポスターを横眼で見ながら、車を硝子張りの、「金髪バー」の前でとめて、酒杯の中に沈んで行った。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T22:59:42.607653+00:00Z"
     }
   }
 ]

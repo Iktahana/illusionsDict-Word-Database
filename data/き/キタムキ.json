@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この部屋、北向きだから昼間でも少し暗いけど、夏は涼しくて過ごしやすいんだよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "北向きの窓は直射日光が入らないため、絵画や古本を飾るには最適な環境と言える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "冬場の北向きの部屋は底冷えがするので、厚手のカーテンを引いて防寒対策を徹底する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかもその花は、一つのこずえの尖端に、十数個から二十ぐらい、鈴生りに群って、波頭のせり上るように、噴水のたぎるように、おどっているところは、一個｜大湊合の自然の花束とも見られよう、その花盛りの中に、どうかすると、北向きに固く結んだつぼみが見える。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T23:47:53.959060+00:00Z"
     }
   }
 ]

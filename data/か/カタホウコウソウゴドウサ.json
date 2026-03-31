@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この古いシステムでは、ユーザーはただ情報を入力するだけで、システムからの応答は一切ない。まさに片方向相互動作だね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "チャットボットの初期バージョンは、ユーザーからの質問に答えるだけでした。お互いに情報をやり取りするような、片方向相互動作とは言えませんでした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このゲームのUIは、ボタンを押すと画面が変わるだけ。プレイヤーからの入力が、ゲーム側に一方的に伝わるだけの片方向相互動作に終始している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T06:03:17.243228+00:00Z"
     }
   }
 ]

@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アプリケーションの起動時に謎のエラーメッセージが表示され、画面がそのまま固まってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ねえ、PCの起動時に妙な異音がするんだけど、これハードディスクが壊れる前兆かな？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "サーバーの起動時には、各サービスが正しく初期化されているかをコンソールログで注視する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ゲームの起動時に派手なロゴが流れる時間は、裏側で膨大なデータをメモリにロードしている待ち時間だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "起動時に拡張メモリ上に漢字フォントを読み込み、主メモリにテキストＶＲＡＭに相当する領域を確保する。",
@@ -52,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T22:57:38.624367+00:00Z"
     }
   }
 ]

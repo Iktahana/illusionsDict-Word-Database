@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "資料の準備が間に合わず、かような次第で、本日の発表は来週に延期させていただきます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "予期せぬシステムトラブルが発生し、かような次第で、サービスを一時停止せざるを得ません。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の献身的な協力がなければ完成しなかったでしょう。かような次第で、深く感謝いたします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かような次第で、私が昨夜秋川家の塀をのり越えて人様の庭に忍び込んだのはたしかなことで申し訳ありませんけれども、やす子の死については全く存じませんです」　早川辰吉は、こう云つて不安気に一座を見渡した。",
@@ -205,7 +230,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T09:51:54.631583+00:00Z"
     }
   }
 ]

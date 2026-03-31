@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明日の予報は快晴だ。がしかし、山の天候は変わりやすいから雨具は外せない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "犯人の動機はほぼ判明した。がしかし、肝心の凶器の行方が依然として不明のままだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は完璧な嘘をついたつもりだった。がしかし、わずかな指先の震えを私は見逃さなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "石も多いがしかしそれに生え越して瑞々と茂った、赤松、樅、山毛欅の林間を抜けて峯と峯との間の鞍部に出られた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T18:05:43.119879+00:00Z"
     }
   }
 ]

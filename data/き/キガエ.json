@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「スポーツバッグの中に、ジムで使う予定の着替えを丸ごと入れ忘れてきちゃった。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「ふぅ、やっと家に帰れた。とりあえず楽な着替えを持って、熱い風呂に入ってくるよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「子供の着替えって、なんでこんなにすぐ泥だらけになっちゃうんだろうね。洗濯が追いつかないよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "風呂から出て奥の間へ行くと一同の着替えがそろえてある。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T20:12:22.968012+00:00Z",
       "freq_rank": 8099
     }
   }

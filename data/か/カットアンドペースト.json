@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この文章、ちょっと長すぎるから、別のドキュメントにカットアンドペーストしよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「それはコピー＆ペーストじゃなくて、カット＆ペーストだよ。元の場所から消えちゃうからね！」と、弟が教えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "メールの本文を編集する際、よくカットアンドペーストを使います。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本家の技をなぞったうえに、画面上での訂正や文書の保存、カット＆ペースト、欧文ならスペルのチェックと、従来のタイプライターをはるかに超えてみせた。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T06:44:16.251245+00:00Z"
     }
   }
 ]

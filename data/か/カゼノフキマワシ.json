@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "いつもは家事なんて一切しない夫が急に皿洗いを始めるなんて、一体どういう風の吹き回しだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "部長が自腹で寿司を奢ってくれるなんて、明日は雪でも降るんじゃないかというくらい珍しい風の吹き回しだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "どういう風の吹き回しか、何年も音信不通だった兄から突然電話がかかってきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ここに奇妙な事には、昨年日光の山中旅行では、常に凹垂れの大将となり、一行の厄介者であった吾輩、今日はいかなる風の吹き回しか、その元気｜凄まじく、水戸の津川五郎子と前後して先頭に立っている。",
@@ -109,7 +134,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T05:47:56.048193+00:00Z"
     }
   }
 ]

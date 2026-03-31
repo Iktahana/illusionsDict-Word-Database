@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議では、事実に基づいた議論がしたいのに、彼ばかり感情論に訴えかけてくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その件については、感情論ではなく、冷静にデータを見て判断すべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "政治的な議論で感情論が先行すると、建設的な解決策が見えなくなることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大多数の諸君の知らるるごとく、アダム・スミスは近世経済学の開祖とも称さるべき人であるが、氏が今より百五十余年前（一七五九年）に公にした『道徳感情論』を見ると、氏は次のごとく述べている。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T12:55:41.746552+00:00Z"
     }
   }
 ]

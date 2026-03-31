@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この発明は、医療分野において画期的な進歩をもたらすだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の提案は、従来の常識を覆す画期的なものだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その画期的な技術が、新たな産業の創出に繋がった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ガリレー、トリツェリ、ヴィヴィアニ、オットー・フォン・ゲーリケ、フック、ボイルなどといったような人がはなはだ粗末な今から見れば子供のおもちゃのような道具を使って、それで生きた天然と格闘して、しかして驚くべき重大な画期的実験を矢継ぎばやに行なったのがそもそもの始まりである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T06:22:41.427093+00:00Z",
       "freq_rank": 7807
     }
   }

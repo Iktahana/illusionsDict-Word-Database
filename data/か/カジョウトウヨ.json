@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "強力な鎮痛剤の過剰投与により患者が一時的に意識不明の重体となり、病院側は医療過誤を認めて家族に謝罪した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "麻酔医は、術中の急激な血圧低下が麻酔薬の過剰投与によるものではないかと疑い、ただちに点滴の速度を落とすよう指示した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "動物実験の段階において、その新薬は規定量の10倍を過剰投与した場合でも、マウスの臓器に明らかな毒性を示さなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ヨウ素　前に述べたように甲状腺腫はヨウ素の欠乏によるという古くからの考えは、1800年代には中毒量の過剰投与によって否定された（1）。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T01:48:26.406684+00:00Z"
     }
   }
 ]

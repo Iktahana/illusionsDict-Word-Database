@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鳥の鳴き声をフィールドレコーディングするため、高性能なマイクとカセットレコーダーを抱えて森に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "記者がインタビューの内容を漏らさないよう、カセットレコーダーの録音スイッチを入れる手元に注目が集まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔の講義が録音されたカセットレコーダーを再生すると、今は亡き教授の独特な話し方が鮮明に蘇ってきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ＨＣ―20の本体には、液晶のディスプレイに加えて、補助記憶として使うマイクロカセットレコーダーと小さなプリンターまで組み込まれており、西はこのマシンにもマイクロソフトのベーシックを売り込んでいた。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T00:02:09.001647+00:00Z"
     }
   }
 ]

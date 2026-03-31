@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "タイプライターの時代には、「重ね打ち」で文字を濃くすることがあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この印字は「重ね打ち」されているようで、かすれていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "修正箇所は、新しい文字を「重ね打ち」するのではなく、訂正印で対応します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――が、彼が荒神を斬った途端に、追いかぶさった投げ槍小六、重ね打ちに、三尺余りの大刀をふり下ろして、せいたかの肩から背すじにかけて、後ろ袈裟にばさりと斬り据えた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T04:58:54.757213+00:00Z"
     }
   }
 ]

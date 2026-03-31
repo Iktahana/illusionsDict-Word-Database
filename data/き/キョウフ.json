@@ -34,7 +34,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "暗闇の中、突然の物音に彼は**恐怖**を感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "あの映画は、子供が見るにはあまりにも**恐怖**に満ちていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大勢の観衆の前で話すことへの**恐怖**を克服するために、彼は何度も練習を重ねた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「きゃー！なんだあれ！？」と、彼女は悲鳴と共に**恐怖**の声を上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "新婚まもなく若い稚気のぬけなかった夫人は、恐らく恐怖にふるえながらも、人生の最も楽しく忘れ得ない夢を経験したのだ。",
@@ -289,7 +322,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T05:50:30.674664+00:00Z",
       "freq_rank": 2881
     }
   },

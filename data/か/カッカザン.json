@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "富士山は現在休止状態だが、れっきとした活火山だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "近くの活火山が噴火警戒レベルを引き上げ、住民に緊張が走った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "活火山帯に位置する国では、常に噴火の脅威と隣り合わせだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊に日本北アルプスの飛騨山脈南部などでは、硫黄岳という活火山の降灰のために、雪のおもてが、瀝青を塗ったように黒くなることがある、「黒い雪」というものは、私は始めて、その硫黄岳の隣りの、穂高岳で見た、黒い雪ばかりじゃない、「赤い雪」も槍ヶ岳で私の実見したところである。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T06:22:41.425152+00:00Z"
     }
   }
 ]

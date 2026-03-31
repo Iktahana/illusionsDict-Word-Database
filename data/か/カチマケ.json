@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スポーツの世界では、勝ち負けがすべてではないとよく言われるが、やはり勝つ喜びは大きい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子どもの頃は、どんな遊びでも勝ち負けにひどくこだわり、負けるとよく泣いていたものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "今回のプロジェクトは、勝ち負けという結果よりも、そこから何を学ぶかが重要だとチームで共有した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "原文が英語で書かれていたにしろ、勝ち負けの力学が支配する中で、成立の手順には与えられる性格が強かったにしろ、やはり美しいと思う。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-30T06:22:41.391799+00:00Z",
       "freq_rank": 20983
     }
   }

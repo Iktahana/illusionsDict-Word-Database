@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプロジェクトは、親会社と兄弟会社（きょうだいがいしゃ）が共同で推進している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "グループ内の兄弟会社（きょうだいがいしゃ）との連携を強化することで、シナジー効果を狙う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、数年前に買収された兄弟会社（きょうだいがいしゃ）から出向してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……安南の順化に「ボニゾール兄弟会社」という醸造会社がありましてね、そこで「帝王」という三鞭酒を売出していますが、皇室秘蔵の秘宝に型取ってそれと同じようなロゼット型の切子の上底を作ってある。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T04:10:10.101466+00:00Z"
     }
   }
 ]

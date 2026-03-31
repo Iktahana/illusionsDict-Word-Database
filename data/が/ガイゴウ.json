@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "水星が外合の位置にあるとき、地球から見て太陽の向こう側にあるため観測は難しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "内惑星が太陽の向こう側で一直線に並ぶ現象を「外合」と呼ぶ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "次の金星の外合は来月観測される予定だが、太陽に近すぎるため肉眼では見えないだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "紺屋の白袴、医者の不養生ということもあるが、物理の学徒等が日常お互いに自由に話し合う場合の用語には存外合理的でないものが多数にあって、問題の「速度のはやい」などもその一例である。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T16:07:36.679457+00:00Z"
     }
   }
 ]

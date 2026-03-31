@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最新の科学論文を引用して、自説の妥当性を客観的に証明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は一晩中、海外の科学論文を読み漁って最新の知見を取り入れている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この科学論文、図表が非常に整理されていて分かりやすいね」と教授が感心した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "専門誌に投稿した科学論文の査読結果が届き、彼は緊張した面持ちでメールを開いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "科学論文や報告書などをバサバサ拾い読んだり飛ばし読んだりする程度ならいいが、それによって小説やエッセイや哲学や歴史の本を読もうなどという気分にはとてもなれない。",
@@ -108,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-29T15:12:00.020362+00:00Z"
     }
   }
 ]

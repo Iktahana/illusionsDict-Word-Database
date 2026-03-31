@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その博物館には、江戸時代の有名な漢学者の書簡が展示されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は長年、中国の歴史と文化を研究し続けているベテランの漢学者だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "国際会議で、各国の著名な漢学者たちが意見を交わした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もともと実験の教授というものは、軍隊の教練や昔の漢学者の経書の講義などのように高圧的にするべきものではなく、教員はただ生徒の主動的経験を適当に指導し、あるいは生徒と共同して新しい経験をするような心算ですべきものと思う。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T11:26:13.218261+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ウィーンの楽友協会ホールは、クラシック音楽の殿堂として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は地元オーケストラの楽友協会に長年貢献してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "楽友協会の定期演奏会は、常に高い評価を得ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしその楽友協会における初演は決して成功とは言い難く、この曲を成功に導いたのは、それから二年後、ブラームス自身がブレーメンの寺院において指揮した時からで、今ではドイツ国民の胸に、最も敬虔な曲として深く深く印象付けられている。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T18:05:43.079250+00:00Z"
     }
   }
 ]

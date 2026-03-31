@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代、各藩は優秀な人材を育成するために独自の学問所を設立した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "昌平坂学問所は、江戸幕府が直轄する教育機関として重要な役割を担った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "古文書を読み解くと、当時の学問所での厳格な日課や生活の様子が浮かび上がってくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二日、癸酉、昵近の祗候人の中、芸能の輩を撰びて結番せらる、学問所番と号す、各当番の日は、御学問所を去らず参候せしめ、面々に時の御要に随ふ、又和漢の古事を語り申す可きの由と云々。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-30T18:05:43.074747+00:00Z"
     }
   }
 ]
