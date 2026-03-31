@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "光ファイバー通信において、群速度の遅延は信号の歪みの原因となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "物理の実験で、パルス波が媒質中を伝わる群速度を計測した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "分散のある媒質では、位相速度と群速度が一致しないことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――物質波は超光速度を持つ波動現象で、物体のもつ力学的な速度はこの物質波に於ける群速度に相当する（A. Haas, Materiewellen und Quantenmechanik, 3 Aufl., S. 24）。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T14:15:21.997709+00:00Z"
     }
   }
 ]

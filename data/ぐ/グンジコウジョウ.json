@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつてこの静かな村には大きな軍事工場があり、多くの若者が動員されて働いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "空襲の標的となった軍事工場は、一夜にして無惨な瓦礫の山へと変わり果てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "軍事工場の跡地は現在、平和記念公園として整備され、歴史を伝える役割を担っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これはかなり長続きしたのだが、戦争で徴用になり、どういふはずみか、あちこちの軍事工場へ転々と引き廻され、処もあらうに、上州の山の中の、焼け石とスヽキの原のまんなかで、労務に適せずといふ軍医の証明をもらつて、やつと自由なからだになつた。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T13:48:36.763463+00:00Z"
     }
   }
 ]

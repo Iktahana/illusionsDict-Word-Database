@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの店の経営者は、顧客のニーズをよく理解している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は若くして成功したIT企業の経営者だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "経営者として、常に従業員の幸福を願っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし現代ではまだ、学者で新聞雑誌にものを書くことが悪い意味でのいわゆるジャーナリズムの一部であるように考える理由なき誤解があるのと、また一方では新聞雑誌の経営者と一般読者とが、そういうものの真価値を充分に認識しないのとで、この種の特殊文学はまだ揺籃時代を脱することができないようである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T14:13:53.181577+00:00Z"
     }
   }
 ]

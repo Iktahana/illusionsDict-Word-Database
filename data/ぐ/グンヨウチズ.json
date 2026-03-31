@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "特殊な記号で記された軍用地図には、一般の地図には載っていない秘密の道がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "作戦会議室のテーブルに広げられた軍用地図を囲み、将校たちが議論を重ねた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "敵の手に軍用地図が渡らないよう、敗走する際にすべての資料を焼却した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "奏楽（中欧作曲家の円舞曲）　ルナアト・パリヤアニ中尉は、その晩、自分の部屋に帰ると、早速、ブレンネル地方の軍用地図をひろげ、条約で仮に決定されたアルプスの分水線に赤い線を書き入れ、コンパスで、重要な地点間の距離を測り、明日の集合地たるメンデル・パスまでの自動車道を選びました。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T14:03:18.773363+00:00Z"
     }
   }
 ]

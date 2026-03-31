@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経営上の判断ミスが、会社の業績悪化につながった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "それは経営上の機密事項であり、部外者には話せない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は経営上の課題を解決するため、専門家のアドバイスを求めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この組織は、ブルジョア婦人雑誌の経営上あるまとまった経済基礎となるばかりか、婦人大衆に向って絶え間なく反動ブルジョア文化を宣伝煽動して行く上にもまた実に有効に利用されるブルジョア文化組織網となっているのである。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T14:13:53.182421+00:00Z"
     }
   }
 ]
