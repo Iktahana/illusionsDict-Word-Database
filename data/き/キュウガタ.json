@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新型スマートフォンが発表された途端、私の持っている機種は一気に旧型になってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あのカメラの旧型は、最新モデルにはない独特の描写力があり、今でもファンが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "旧型の家電でも、丁寧に手入れをすれば長く使えることを祖母が教えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "如何に因襲の旧型を根本的に破壊するツモリであっても、日本文で書く以上は日本の在来の文章語や俗談口語の一と通りを究めねばならなかった。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T01:59:30.129813+00:00Z",
       "freq_rank": 28502
     }
   }
