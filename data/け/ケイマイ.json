@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "兄妹で力を合わせ、両親の誕生日プレゼントを用意した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "幼い頃は兄妹喧嘩もよくしたが、今はとても仲が良い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "兄妹の絆は、何があっても途切れないものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "兄妹は五尺にも足らぬ胡桃の木の下に、二尺角位に乾し草の屋根を葺いて、その下に雫で背中を濡らしながら、木の幹を抱き、向き合つて跼んでゐた。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T16:12:52.905005+00:00Z",
       "freq_rank": 21667
     }
   }
