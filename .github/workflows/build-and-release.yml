@@ -1,0 +1,46 @@
+name: Build SQLite & Release
+
+on:
+  push:
+    branches: ["*"]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build SQLite database
+        run: python script/json_to_sqlite.py
+
+      - name: Compress database
+        run: gzip -9 -k illusions_dict.db
+
+      - name: Generate version tag
+        id: version
+        run: |
+          VERSION=$(date -u +'%Y.%-m.%-d.%H%M%S')
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "Version: $VERSION"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          name: ${{ steps.version.outputs.version }}
+          body: |
+            Automated SQLite build from commit ${{ github.sha }}
+
+            Branch: `${{ github.ref_name }}`
+          files: |
+            illusions_dict.db.gz
+            illusions_dict.db
