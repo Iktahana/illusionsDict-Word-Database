@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ダイビングスポットとして有名な場所には、美しいサンゴ礁が広がっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地球温暖化の影響で、世界のサンゴ礁が危機に瀕している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "サンゴ礁は、多くの海洋生物の住処となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "のみならず、船長畑中利平、通辞今村善光らの手記によれば、この秘境は今日真珠の産地たるスールー海のどの地点でもなく、ボルネオの無人の陸地に沿うたサンゴ礁の海底で、今日もその名を知られず所在を知られぬ未開の秘境であるらしい。",
@@ -174,7 +199,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T09:17:00.461695+00:00Z",
       "freq_rank": 38482
     }
   }
