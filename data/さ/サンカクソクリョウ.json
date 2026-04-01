@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地図を作るために、測量士たちは三角測量の技術を使っています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この山頂にある石碑は、三角測量の基準点として使われたものだそうです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "GPSがない時代、三角測量がいかに重要だったかが分かりますね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "向って蝙蝠岳の残雪が、銀光りに輝いて、その傍に三角測量標が、空を突いて立っている、間の岳（赤石山脈）は森に隠れて見えない、冷い風が、暗い穴からでも来るように、ひいやりと吹く、鳥はひんから、ひんからと、朗らかに囀ずる、登るに随って、蝙蝠岳はほぼ正西に、間の岳は北西に、いずれも残雪白く、光輝を帯ぶ。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T09:10:20.790531+00:00Z"
     }
   }
 ]

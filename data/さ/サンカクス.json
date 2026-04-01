@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大きな川の河口に広がる三角州は、肥沃な土地として知られています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "空から見下ろすと、複雑に入り組んだ三角州の地形がよく分かります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この辺りは昔、三角州だったため、地盤が少し軟らかいんですよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "島が生まれるという記事なども、地球物理学的に解釈すると、海底火山の噴出、あるいは地震による海底の隆起によって海中に島が現われあるいは暗礁が露出する現象、あるいはまた河口における三角州の出現などを連想させるものがある。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T09:10:20.789305+00:00Z"
     }
   }
 ]

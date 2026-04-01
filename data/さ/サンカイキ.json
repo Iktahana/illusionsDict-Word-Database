@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "来月、祖父の三回忌の法要を執り行う予定です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は亡くなった友人の三回忌に合わせて、お墓参りに行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "三回忌を過ぎると、遺族の悲しみも少しずつ癒えていくものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それに来年は、一級｜仙格が進んで、鈴鹿の神になる事になっておるが、両親は今年が十三回忌に当るから、此の七月にまた法要をしてくれようとしておるが、それでは到底鈴鹿の神になる事ができぬ。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T09:05:02.447141+00:00Z"
     }
   }
 ]

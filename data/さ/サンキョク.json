@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は正月の縁側で、祖母が奏でる箏、三味線、尺八の三曲を聴くのが楽しみだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "日本の伝統音楽である三曲合奏は、静かで美しい調べが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この三曲の音色、心が洗われるようだね。日本の文化って本当に奥深い。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本の民衆音楽中でも、歌詞を主としない、純粋な器楽に近いものとしての三曲のごときも、その表現せんとするものがしばしば自然界の音であり、また楽器の妙音を形容するために自然の物音がしばしば比較に用いられる。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T09:09:38.520960+00:00Z"
     }
   }
 ]

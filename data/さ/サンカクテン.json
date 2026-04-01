@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山道を歩いていると、突然、見慣れない三角点を見つけました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域は、昔の測量によって多くの三角点が設置されています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地図に載っている三角点を目指して、ハイキングに出かけよう！",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "前面には阜のような山が二つ、小隆起をしている、赤沢岳頂上の三角点も、大空を指さしている、谷は次第に高くなる、高くなると共に蹙まって来て、雪の蜿ねり方も、波のように烈しいが、嘉門次の語るところに依ると、雪の下は大小の石塊ばかりで、雪解けがしたら、却って歩きづらくて堪まらないということだ。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T09:10:20.791110+00:00Z"
     }
   }
 ]

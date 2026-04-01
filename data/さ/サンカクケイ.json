@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供のパズルには、様々な色や大きさの三角形のピースがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "道路標識の中には、注意を促すために三角形の形をしたものがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は砂浜に棒で大きな三角形を描いて遊んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何しろ、もう三十余年前にただ一度実見したきりなので記憶がはなはだたしかでないが、網を張った叉手の二等辺三角形の両辺の長さが少なくも九尺くらいあり、柄竿の長さもほぼそのくらいあるかと思われ、とにかくずいぶん大きなものであるので、それを自由に操作するには相当の腕力を要するものであったように思う。",
@@ -159,7 +184,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T09:05:02.454911+00:00Z",
       "freq_rank": 15174
     }
   }

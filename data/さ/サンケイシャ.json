@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "週末になると、全国から多くの参詣者がその寺院を訪れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "祭りの日は、参詣者で境内がごった返していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "参詣者は厳粛な面持ちで本堂へと進んでいった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そればかりではない、足利時代の『鷹筑波集』からも、猿楽狂言からも、また貞徳の「独吟百韻」からも、富士｜詣の群衆のざわめきは、手に取るように聞えるが、それらの参詣者は、皆この村山口を取ったものであるらしい。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T09:11:30.540441+00:00Z"
     }
   }
 ]
