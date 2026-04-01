@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、重要な書類に署名するために朱墨（しゅずみ）を取り出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "書道では、黒い墨だけでなく、朱墨（しゅずみ）も使われることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あっ、間違えちゃった！この朱墨（しゅずみ）の跡、どうやって消そう…」と子供が困った顔をした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その包箱の見返しの中央にＭＩＣＨＡＥＬ・ＳＨＩＲＯと読める朱墨と、黒い墨の細かい組合わせ文字の紋章みたいなものが、消え消えに残っているところを見ますと、私のカンでは多分天草一揆頃日本に渡って来て、ミカエル四郎と名乗る日本人が秘蔵してたものじゃないか知らんと……ヘエヘエ。",
@@ -174,7 +199,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:19:41.372060+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "愛知県の常滑焼は、きめ細かな朱泥を用いた急須が世界的に知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "朱泥の茶器で淹れたお茶は、カドが取れて味がまろやかになると言われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い中国の朱泥の鉢は、盆栽愛好家の間で宝石のように珍重される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それそれその戸袋に載った朱泥の水差、それに汲んだは井戸の水じゃが、久しい埋井じゃに因って、水の色が真蒼じゃ、まるで透通る草の汁よ。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:13:07.985855+00:00Z"
     }
   }
 ]

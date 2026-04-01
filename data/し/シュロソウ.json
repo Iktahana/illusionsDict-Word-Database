@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山道で、葉の形が特徴的な**棕櫚草**を見かけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "**棕櫚草**は、その毒性から誤食に注意が必要な植物である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この葉っぱ、**棕櫚草**じゃない？触らない方がいいかも。」と植物に詳しい人が言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "採集植物シモツケソウ　クカイソウ　ルリトラノオ　キンバイソウ　ヤナギラン　ウスユキソウ　ヨブスマソウ　ノブキ　バイケイソウ　シュロソウ　ヒメユリ　シラヤマギク　オタカラコウ　タムラソウ　キオン　谷を上れば、右が霧ヶ峰主峰たる車沢山（？",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:23:53.818945+00:00Z"
     }
   }
 ]

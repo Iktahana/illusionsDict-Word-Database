@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "情報の鮮度を確かめるために、まずは本の出版年を確認した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "出版年によって、使われている漢字の字体や仮名遣いが大きく異なる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "同じ著者の作品でも、出版年を追って読むとスタイルの変化がわかる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今日ごく手近な出版年鑑を開いて、明治初年から四分の一世紀間に亙るところを見ると、実に新聞発行の盛なのと、執筆者たちが刑罰をくって、罰金、禁獄に処せられていることのおびただしいのは誰しもびっくりするであろうと思う。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:11:00.720073+00:00Z"
     }
   }
 ]

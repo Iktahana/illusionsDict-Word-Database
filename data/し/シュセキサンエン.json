@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この化合物は、特定の金属イオンと反応して酒石酸塩を形成する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "分析の結果、サンプルにはカリウム酒石酸塩が含まれていることが判明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "医薬品の分野で、酒石酸塩が安定剤として利用されることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この溶液に、一度に少量づつ、前もって熱して水分を除いて置いた、熱い乾いた純粋な重炭酸カリウム（酒石酸塩でも市販の重炭酸カリウムでもない）を、最後に入れたものが溶けないようになるまで、入れる。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:05:32.301664+00:00Z"
     }
   }
 ]

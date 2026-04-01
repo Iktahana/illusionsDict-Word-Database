@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "裁判員制度によって選ばれた市民たちが、緊張した面持ちで法廷に出廷し、検察官の冒頭陳述に耳を傾けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "重要な証人として出廷を求められた彼は、真実を語るべきか沈黙を守るべきか、前日の夜まで悩み抜いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "離婚調停の場で、夫婦は顔を合わせないよう配慮されながらも、それぞれ指定された時間に裁判所へ出廷した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "はじめ判事らが出廷せしとき、白糸は徐かに面を挙げて渠らを見遣りつつ、臆せる気色もあらざりしが、最後に顕われたりし検事代理を見るやいなや、渠は色｜蒼白めて戦きぬ。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:20:10.485111+00:00Z",
       "freq_rank": 30910
     }
   }

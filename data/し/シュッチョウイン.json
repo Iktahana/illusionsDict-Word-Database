@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場でのトラブル対応のため、本社から派遣された出張員が、現場のスタッフと夜通しで原因究明にあたった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "駅のホームで、大きなキャリーケースを引きながらネクタイを締め直しているのは、これから地方へ向かう出張員だろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "出張員として海外拠点を飛び回る毎日は刺激的だが、時差ボケと慣れない食事に体力が削られるのも事実だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ウン道庁の出張員なら山を越すと直ぐ下の小屋に居たと仰しやるのです、御安心なさい此処から一里位なもので訳は有りません、朝行けばお昼前には帰つて来られますサ。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:20:10.481679+00:00Z"
     }
   }
 ]

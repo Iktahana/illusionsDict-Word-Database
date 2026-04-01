@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今月は結婚式が重なったので、予想外の出費が続いて財布が寂しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新しいパソコンを買うのは大きな出費だが、仕事の効率を考えれば必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "毎日のランチ代を少し節約するだけで、月々の出費をかなり抑えられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は、こっそり帳場へ行って、このたびの祝宴の出費について、一切を記して在る筈の帳簿をしらべた。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:11:00.724453+00:00Z",
       "freq_rank": 10467
     }
   }

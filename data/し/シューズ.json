@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ジョギングを始めるために、クッション性の高いランニングシューズを購入した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "玄関には、家族全員分のシューズが整理整頓されて並んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "泥だらけになったシューズを、週末に時間をかけてゴシゴシと洗った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "靴屋の安売――運動靴に、平常靴に、雪靴に、金と赤のイヴニングシューズまで寄せて一円五十銭也と括りの紐の結び目に正札で下って居ます。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:26:54.708967+00:00Z",
       "freq_rank": 12184
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "隣国との国境紛争が激化し、ついに政府は出兵の決断を下した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "平和維持活動のための海外出兵について、国内で激しい議論が交わされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "出兵のニュースを聞いて、戦地に送られる若者の家族は不安を募らせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "共同出兵と云っている癖に、アメリカ兵は、たゞ町の兵営でペーチカに温まり、午後には若い女をあさりにロシア人の家へ出かけて行く。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:11:00.726979+00:00Z",
       "freq_rank": 31855
     }
   }

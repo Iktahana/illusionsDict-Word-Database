@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カーナビに目的地を入力すると、現在の出発地からの最短ルートと予想到着時刻が瞬時に表示された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "登山計画書には、出発地から山頂までのルートだけでなく、天候が悪化した際のエスケープルートも詳細に記載した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長距離トラックの運転手にとって、出発地での荷積みの手際が、その後の配送スケジュール全体に大きく影響する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（二）奇異の血汐　徒歩出発地は前にいう太平洋沿岸方面の常州水戸で、到着地は日本海沿岸の越後国直江津の予定。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:20:10.489220+00:00Z"
     }
   }
 ]

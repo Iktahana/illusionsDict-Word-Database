@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生が大きな出席簿を開き、名前を呼ぶと、教室に元気な返事が響いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "出席簿の備考欄には、遅刻や早退の理由が細かく書き込まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "授業の前に、出席簿を職員室から教室まで運ぶのが日直の仕事だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "机の前に端座して生徒の清書を点検したり、作文を観たり、出席簿を調べたり、倦ぶれた時はごろりとそこに寝ころんで天井をながめたりしている。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:10:01.363974+00:00Z"
     }
   }
 ]

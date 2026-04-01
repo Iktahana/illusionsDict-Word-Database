@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "褒められて、彼女の顔に一瞬**朱が注いだ**。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "興奮のあまり、彼の頬に**朱が注いで**いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「え、私がそんなこと言ったの？顔に**朱が注いで**きちゃった！」と彼女は恥ずかしそうに言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その透切した衣の背に肩に、一城下をかけて、海に沈む日の余波の朱を注ぐのに、なお意気は徹って、血が冴える。",
@@ -61,7 +86,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:23:53.823118+00:00Z"
     }
   }
 ]

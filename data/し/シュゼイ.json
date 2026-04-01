@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "政府は、酒税の引き上げを検討している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "酒税収入は、国の財政にとって重要な柱の一つだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "酒税法が改正され、ビールの税率が変わった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "早くに横浜へ出、開港企業家の一旗組に伍すも、性その質でなく、南太田新田の牧場と酪業経営に失敗し、一時、県庁書記、酒税官など勤めたが続かず、当時、根岸競馬場附近に住み、内外人の幼児を集めて、母と共に、寺小屋式幼稚園みたいなことをしていた。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:05:32.306395+00:00Z",
       "freq_rank": 32395
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "甲子園のニュースを見ると、自分の出身校が出ていなくてもついつい応援してしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "履歴書に記入した出身校の偏差値ではなく、実力で評価してくれる会社を選んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "同窓会で久しぶりに出身校を訪れたら、校舎が新しくなっていて驚いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三流の専門学校を出て役所入りをした福次郎は、出身校がどんなに出世に作用するものであるか、身にしみて知らされていた。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:10:01.356380+00:00Z"
     }
   }
 ]

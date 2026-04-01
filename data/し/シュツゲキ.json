@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "敵艦隊の接近を受け、空母からは次々と戦闘機が出撃していった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "救助要請を受けた特殊部隊は、わずか十分で準備を整えて現場へ出撃した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「全機、出撃！」という司令官の号令が基地内に響き渡り、緊張感が高まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼らに先だって夏のうちに天山へと出撃した弐師将軍はいったん右賢王を破りながら、その帰途別の匈奴の大軍に囲まれて惨敗した。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:11:48.382146+00:00Z",
       "freq_rank": 18812
     }
   }

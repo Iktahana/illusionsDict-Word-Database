@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "酒造業は、日本の伝統産業の一つとして、今も盛んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "酒造業の従事者は、地域経済を支える重要な存在だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "近年、酒造業は輸出を拡大し、国際的な市場にも進出している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御覧、私のこの左腕に残つてゐる傷痕は――或る肚黒い酒造業者の酒倉をおそつて、番犬と格闘した思ひ出の痛手だ。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:05:32.310834+00:00Z"
     }
   }
 ]

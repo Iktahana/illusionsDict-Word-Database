@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広大な屋敷の中心に位置する主殿は、金箔や彫刻で豪華に飾られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "賓客をもてなすための厳かな儀式は、格式高い主殿の広間で行われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "平安貴族の邸宅において、主殿は家族の生活と接客の両方の中心だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鎮守の神主殿は、あの境内の大樟へかじりついたと申しますなり、妙蓮寺の和尚様は、裏の竹藪へ遁込みましたと申します。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:13:07.986382+00:00Z"
     }
   }
 ]

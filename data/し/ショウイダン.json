@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "空襲の夜、空から降ってくる焼夷弾が夜空を不気味な赤色に染めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "焼夷弾から噴き出す油脂は水では消えず、瞬く間に家々を飲み込んでいった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "不発の焼夷弾が庭先で見つかり、近隣住民には避難勧告が出された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "千箇の焼夷弾の中で路面や広場に落ちたり河に落ちたりして無効になるものが仮りに半分だとすると五百箇所に火災が起る。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:34:31.035933+00:00Z"
     }
   }
 ]

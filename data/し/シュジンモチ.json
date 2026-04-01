@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その頃、多くの武士は主人持ちとして仕官していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "主人持ちの侍は、主君の命令に絶対服従した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「私は、譜代の藩主にお仕えする主人持ちの武士として、誇りを持っております」と若侍は語った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "場所といい、事件といい、主人持ちの彼に取っては迷惑重々であったが、よんどころない羽目と覚悟をきめたらしく、かれは検視の終るまでおとなしくそこに抑留されていた。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:19:41.369256+00:00Z"
     }
   }
 ]

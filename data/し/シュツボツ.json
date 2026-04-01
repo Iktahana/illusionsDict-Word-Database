@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この辺りは最近クマが出没するので、散歩の際は鈴を携帯してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "深夜の繁華街には、怪しげな格好をした人々が出没する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は神出鬼没で、いつどこに現れるか誰にも予測できない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "会話が、少しもわからず、さりとて、あの画面の隅にちょいちょい出没する文章を一々読みとる事も至難である。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:13:07.971989+00:00Z",
       "freq_rank": 15252
     }
   }

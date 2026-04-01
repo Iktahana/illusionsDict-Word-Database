@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東大寺の修二会、いわゆる「お水取り」の大きな松明が夜空を焦がす様子は、見る者を圧倒する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「修二会が始まると、奈良の人々は『もうすぐ春が来るね』と季節の移ろいを感じるんだよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "練行衆と呼ばれる僧侶たちが、修二会の期間中に厳しい修行を積み、人々の平和を祈り続ける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "興福寺東西金堂の鎮守河上・氷室両社の神が、右二堂の仏の為の御薪を積む儀が、二月初めの修二会に併せ行はれた昔から、時を経ていつか西金堂ばかりに執り行ふことになり、更におなじ寺の南大門の芝に、処を定めるに到つたのである。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:13:59.109549+00:00Z"
     }
   }
 ]
