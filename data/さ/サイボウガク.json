@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "細胞学の研究は、生命現象の基本を理解するために不可欠だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は大学院で細胞学を学び、細胞の分化について深く研究した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「細胞学の授業、ミクロの世界を覗くみたいで面白いね！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すると又、第十九世紀の後半になって自然科学が驚くべき発達を遂げ、有名なダーウィンの進化論や、細胞学説などがあらわれ、機械説が復活されて今日に至って居りますが、先年物故した大生理学者ヂュ・ボア・レーモンなどは、どちらかというと生気説に傾いて居りました。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:31:57.182882+00:00Z"
     }
   }
 ]

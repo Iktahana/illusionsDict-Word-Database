@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このドキュメントの最終更新日は、昨日の日付になっています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「ソフトウェアの最終更新って、いつだったっけ？」「確か、先週の金曜日だったと思うよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "サーバーの最終更新時刻を確認してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "2015（平成27）年10月9日初訳　　　2015（平成27）年12月26日最終更新※この翻訳は、「クリエイティブ・コモンズ 表示 3.0 非移植 ライセンス」（https://creativecommons.org/licenses/by/3.0/deed.ja）によって公開されています。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:14:21.869917+00:00Z"
     }
   }
 ]

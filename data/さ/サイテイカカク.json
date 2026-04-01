@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オークションで、出品者は最低価格を設定することができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この商品の最低価格は、市場調査に基づいて決定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "残念ながら、彼の提示した価格は最低価格に達していなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "コンポーネント形式をとらず、すべての要素を一体化させたマルチ16の最低価格は、白黒ディスプレイ、メモリー一二八ＫＢ、五インチのフロッピーディスクの構成で七三万円とされた。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:30:18.584077+00:00Z"
     }
   }
 ]

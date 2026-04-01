@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "役員会で、新製品の最終決定が下された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この件について、もう最終決定は出た？」「いや、まだ検討中だよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最終決定は、来週の会議で発表される予定です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして私が自分の判断力を信じ得る限り、この議論は、啻にゴドウィン氏が解する広い意味における人間の可完全化性に対してのみならず、また一般社会の形態及び構造における極めて顕著な改善に対しても、最終決定的な反対論であると思われる。",
@@ -69,7 +94,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:14:21.868585+00:00Z"
     }
   }
 ]

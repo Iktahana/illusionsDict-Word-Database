@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "グラフの描画にあたり、Y軸の**最初の値**は0から始めるのが一般的だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このシミュレーションでは、物体の**最初の値**として速度ゼロを設定した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "レポート作成のため、プロジェクト開始時の**最初の値**を再確認する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "八十兩といふ値段はたぶん和蘭船が日本人に賣渡した最初の値段ではあるまいが、そのへんにも「貧書生」らの苦しみがあつたわけで、しかしその「貧書生」らこそ「――それから後は塾中にエレキトルの説が面目を新にして、當時の日本國中最上の點に達して居た――」と申して憚らなかつたのであらう。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:26:50.308390+00:00Z"
     }
   }
 ]

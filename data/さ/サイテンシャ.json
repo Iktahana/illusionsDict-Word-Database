@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "小論文の採点者は、表現力だけでなく論理的な思考力も重視する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "資格試験の採点者として、彼は多くの答案を評価してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "採点者は、与えられた採点基準に従って厳正に評価を行う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし今のようにして置くと、兎に角賑かだから五点貰えないとも限らない」「まさか」「いや、入学試験の時には何千枚という答案を見るんだから、採点者も好い加減頭が馬鹿になっている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:30:18.594522+00:00Z"
     }
   }
 ]

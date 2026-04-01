@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国民の権利を守るため、最高裁判所は憲法に基づいて判断を下す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "政府案第十二条は、この五人の委員が「任命後最高裁判所長の面前に於て正規の宣誓書に署名してからでなければその職務を行ってはならない」としている。",
@@ -196,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T07:11:56.299258+00:00Z",
       "freq_rank": 9724
     }
   }

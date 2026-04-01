@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "強いサイクロンが接近しており、住民は避難を促された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "熱帯地方では、サイクロンによる被害が甚大になることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ニュースでサイクロンの進路が報じられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は列車の軋む響きを聴いたが、それは数多の若い心や、たくさんの死をも厭わぬ忠誠心それに賞賛に値する信念や、愛と勇気とを溢れんばかりに乗せて、中国大陸の田園にある熱病へと、また幾多のサイクロンのような死の渦巻へと運び去っていくのであった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:09:31.948770+00:00Z"
     }
   }
 ]

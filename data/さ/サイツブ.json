@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "食卓に並べられたさいつぶは、北海道の郷土料理として有名です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "お酒のつまみには、コリコリとした食感のさいつぶがよく合います。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "市場には新鮮なさいつぶが並び、多くの観光客が買い求めていました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すい星の頭の、まるいところは、無数の小さいつぶがあつまってできているので、地球や月のような天体とはちがうのですが、いくら度のつよい望遠鏡でも、そこまではわかりません。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:21:30.529736+00:00Z"
     }
   }
 ]

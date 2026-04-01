@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "物語は、主人公が宿敵と対峙する場面で最高潮に達した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "龍宮の高貴なもてなしも、この素張らしいお土産に依つて、まさに最高潮に達した觀がある。",
@@ -284,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T07:11:56.304048+00:00Z",
       "freq_rank": 27262
     }
   }

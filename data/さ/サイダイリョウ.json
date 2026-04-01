@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この薬は、一日の最大量を守って服用してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "エンジンの最大量を引き出すためには、定期的なメンテナンスが不可欠です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "一度に運べる最大量は、トラックの積載量で決まります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "クライビヒも、思惟作用は、思惟對象の最大量が思惟内容の最小量をもつて表象され、評價され、推論式で組み立てられるやうに、計畫的に行はるべきである、といつてゐる。",
@@ -125,7 +150,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:21:30.520905+00:00Z"
     }
   }
 ]

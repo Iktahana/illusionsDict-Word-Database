@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "敵国の細作が、重要な情報を盗み出そうと潜入した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史書によると、彼は細作として敵陣に送り込まれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "スパイ映画では、細作が常に危険な任務を遂行している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かつて薩摩の人に聞きしは、太閤本願寺僧をしてその国を細作せしめしより、島津大いに恨み一向宗を厳禁せしも、士庶のその宗旨を奉ずる者、弥陀仏像を柱の中に収め朝夕｜看経して維新後に及べり、と。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:12:45.723136+00:00Z"
     }
   }
 ]

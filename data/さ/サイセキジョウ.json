@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの採石場は、現在では使われなくなり、自然に還りつつある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "週末に訪れた採石場跡は、独特の景観で写真撮影に人気だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域は、昔から良質な石が採れるため、多くの採石場があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は炭鉱の地代及び採石場の地代についても論じているが、これに対しても同一の議論が当てはまる、――すなわち鉱山または採石場に対し与えられる報償は、それから採掘され得る石炭または石材の価値に対して支払われるのであって、土地の本来的なかつ不可壊的な力とは何らの関係もない。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:17:59.164100+00:00Z"
     }
   }
 ]

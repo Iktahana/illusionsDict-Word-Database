@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年愛された歌手が、ついに最後の舞台に立つことになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この劇団にとって、今日の公演が最後の舞台となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「最高の最後の舞台だったね！」と観客が拍手喝采を送った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "心中もその宿を出て、近所の海岸から入水するか、山や森へ入り込んで劇薬自殺を企てるたぐいは、旅館に迷惑をあたえる程度も比較的に軽いが、自分たちの座敷を最後の舞台に使用されると、旅館は少からぬ迷惑を蒙ることになる。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:11:56.056568+00:00Z"
     }
   }
 ]

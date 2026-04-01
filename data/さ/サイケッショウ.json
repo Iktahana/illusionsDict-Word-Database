@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "不純物を取り除くため、物質を再結晶させた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "再結晶のプロセスは、結晶の純度を高めるのに有効だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "実験では、化合物の再結晶に成功した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この研究は“非常に高度な化学的能力と手技”をもって遂行され、たとえば分析的によって本質的に純粋であると判っていても“トリプトファンとヒスチジンは５回も再結晶した”と、総説の著者は書いた（96）。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:09:31.953549+00:00Z"
     }
   }
 ]

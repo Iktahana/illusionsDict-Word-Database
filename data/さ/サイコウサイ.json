@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この複雑な事件は、最終的に最高裁で争われることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二〇〇三年一月一五日、連邦最高裁によってこの訴えは退けられたが、ステファン・ブレヤー判事とジョン・ポール・スティーブンズ判事は、二〇年延長を憲法違反とする反対意見を付した。",
@@ -204,7 +213,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T07:11:56.297921+00:00Z",
       "freq_rank": 5484
     }
   }

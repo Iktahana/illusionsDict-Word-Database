@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その画家が晩年に発表した絵画は、彼の最高作として高く評価されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この会戦は三万五千をもって墺軍の六万五千に徹底的打撃を与えた、大王の会戦中の最高作品であり、大王のほとんど全会戦を批難したナポレオンさえ百世の模範なりとして極力賞讃したのである。",
@@ -68,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:11:56.299793+00:00Z"
     }
   }
 ]

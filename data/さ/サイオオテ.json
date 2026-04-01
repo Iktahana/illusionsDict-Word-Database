@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "社長の最終的な裁可を得て、このプロジェクトは正式に始動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "法案は国会で可決されたが、政府の裁可を待ってから施行される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の提案は、会議で多くの賛同を得たが、最終的な裁可は保留された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大型コンピューター用パッケージ・ソフトの販売とサポートで独立系ソフトハウスの最大手の地位を築いてきたアシストが、パーソナルコンピューター用に九千七百円の優しい文房具シリーズをぶつけるに至った経緯にはすでに触れた。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T07:12:45.677689+00:00Z",
       "freq_rank": 18750
     }
   }

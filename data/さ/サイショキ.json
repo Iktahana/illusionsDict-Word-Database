@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その病気は、最初期の段階で発見すれば完治する可能性が高いらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この文明の歴史は、最初期の遺跡から読み解くことができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プロジェクトの最初期に発生した問題は、後の工程に大きな影響を及ぼした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "とにかく昌造及び幸八による、日本人によつて創られた最初期の蒸汽船はのろいながらも日本の海を進水したのであつた。",
@@ -165,7 +190,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:15:42.155437+00:00Z"
     }
   }
 ]

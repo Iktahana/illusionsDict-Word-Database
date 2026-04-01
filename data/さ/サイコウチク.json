@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年使われてきたシステムを、最新の技術で再構築することになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "メーカー固有の技術の枠を離れ、標準技術の舞台に移った青空文庫は、ａｚｕｒを得て再び、初心にあった、読みやすさ、表現力の豊かさを再構築できた。",
@@ -142,7 +151,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:11:56.303823+00:00Z"
     }
   }
 ]

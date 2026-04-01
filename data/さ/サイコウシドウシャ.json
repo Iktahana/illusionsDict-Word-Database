@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国民の安全のため、最高指導者は厳格な統制を敷くことを決定した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "アメリカの避難坑は、氷河狂といわれた北見博士によって護られ、日本の避難坑は、志々度博士を最高指導者として護られていた。",
@@ -76,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T07:11:56.300753+00:00Z"
     }
   }
 ]
