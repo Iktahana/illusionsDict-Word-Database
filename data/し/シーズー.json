@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "友人の家で飼っているシーズーは、とても人懐っこくて可愛い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "シーズーの長い毛は、毎日丁寧にブラッシングしてあげる必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ペットショップで、小さなシーズーの子犬がちょこちょこ歩いている姿に癒された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "動物嫌いだったはずの母が、突然連れ帰ってきたシーズー犬と家族の日常を描いた、『ロン吉百までわしゃ九十九まで』という物語の作者は、これまた犬嫌いだったはずの長女です。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T23:33:20.045025+00:00Z"
     }
   }
 ]

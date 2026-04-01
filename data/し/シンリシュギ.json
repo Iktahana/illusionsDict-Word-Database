@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "フッサールは、論理学を心理主義から解放しようと試みた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "心理主義は、客観的な真理を個人の主観的な意識に還元する傾向がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の哲学は、伝統的な心理主義とは一線を画している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東京に自分の青春なぞあると思ったのは、間ちがいだったと、私は東京の心理主義文化に歪められた自分の青春を抱いて、三勝半七のお園のように、「お気に入らぬと知りながら、未練な私が輪廻ゆゑ、そひ臥しは叶はずとも、お傍に居たいと辛抱して、是まで居たのがお身の仇」と呟いて、東京にさよならしたのである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T23:25:24.946155+00:00Z"
     }
   }
 ]

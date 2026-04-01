@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この小説は、映画化を記念して、新装版が発売された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "図書館で探していた古い資料が、新装版で再販されているのを見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "先生のおすすめで、古典文学の新装版を読み始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "定本：「岡本かの子作品集」沖積舎　　　1990（平成2）年7月20日初版発行　　　1993（平成5）年6月30日新装版発行※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T23:10:34.839843+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "機関室は船の心臓部だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その会社の研究開発部門は、まさに心臓部だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その古代都市の心臓部は厚い壁で守られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「昨二十二日午後二時ごろ左京区下鴨××町実業家小郷虎吉氏は京極の映画館××館の公衆電話のなかで、何者かの手で心臓部へ鋭利な刃物を突き刺されて苦悶中を発見、最寄りの××病院へかつぎ込んで手当を加えたが、二時三十分落命した。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T23:08:09.167597+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女はコンテストの審判者として、公平な視点で参加者の作品を評価した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "芸術作品の真価を理解するには、優れた審判者としての目が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は人々に審判者としての厳しさと、同時に慈悲の心も示した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただそれらの間の優劣を区別する場合の目標は、著者の主観によって選まれた問題の構成のしかたとその解法の選択いかんによって決定されるのであって、この優劣判断の際には、また審判者の個性のいかんによって、必ずしも衆議一決というわけに行かない場合がある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T23:16:19.136863+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "標高が高くなるにつれて、植生が変わり森林帯も変化していく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "極地に近い森林帯では、樹木が低木化する傾向にある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_content": "この山脈には、多様な森林帯が存在し、貴重な動植物が生息している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでも、森林帯に入るとさすがに涼しい、中でもシャスタ樅と呼ばれる喬木の一種は、この山、特有とまでゆかなくても、この山の産として最も名高いのであるが、富士の落葉松を、富士松と呼ぶたぐいであるかも知れない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T23:29:32.044092+00:00Z"
     }
   }
 ]
