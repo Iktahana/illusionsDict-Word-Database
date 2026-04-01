@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒い日には、温かい昆布茶を飲むと体が芯から温まり、ホッと一息つける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "祖母の家に行くと、いつも美味しい昆布茶と手作りのお菓子を出してくれるのが楽しみだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ほのかな塩味が特徴の昆布茶は、和菓子だけでなく、意外にも洋菓子ともよく合う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "相手は表具屋の息子で、それ、あんたも知ってるやろ、昆布茶一杯でねばって、その代りチップは三円も呉れてた人や。",
@@ -190,7 +215,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:33:25.922833+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "レストランでは、子供用の椅子と食器を用意してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この遊具は子供用なので、大人が使うのは危険です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "旅行のために、子供用の小さなリュックサックを買った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実際自分らの子供の時分に自由党のけんかの頻繁であったころは鍬の柄をかつぎ回ったりまたいわゆる仕込み杖という物騒なステッキを持ち歩くことが流行して、ついには子供用のおもちゃの仕込み杖さえできていたくらいである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:22:27.498623+00:00Z"
     }
   }
 ]

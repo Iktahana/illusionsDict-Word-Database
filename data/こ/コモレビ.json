@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "森の小道を歩いていると、木漏れ日が地面に描く斑模様がキラキラと揺れていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「窓から差し込む木漏れ日が暖かくて、ついうとうととお昼寝してしまったよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "木漏れ日を浴びながら読書をする時間は、彼にとって何にも代えがたい癒しのひとときだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうだと言ってくれ」　ニタのほほが交互に赤くなったり青くなったりする様は朝風に揺れる夏の木漏れ日のよう。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T04:51:37.025921+00:00Z",
       "freq_rank": 44753
     }
   }

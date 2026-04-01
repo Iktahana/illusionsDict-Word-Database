@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本には言霊という思想があり、言葉が現実に影響を与えると信じられてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「不吉なことを言うな、言霊が宿るぞ」と祖母によく叱られたものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "前向きな言葉を口にし続けることで、言霊の力で運気が上がると信じている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つまりは言霊の生命といつても眼に見えぬ微塵数の原子から発すること、かの細菌の作用と同一に、わたくしには空おそろしくさへ考へられる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T04:24:05.641708+00:00Z",
       "freq_rank": 23451
     }
   }

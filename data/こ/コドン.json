@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "DNAの塩基配列の３つ一組が、特定のコドンを形成する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "コドンはアミノ酸を指定し、タンパク質合成の設計図となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "遺伝子暗号はコドンによって解読され、生命活動を支えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いつも何かと言うと私の知恵袋にしておったアンタを、直接に松倉｜様に引合わせて、私とも膝をば突合わせたなら、三人寄れば何とやら、よい知恵が出まいとも限らぬ……と言う私の一生涯の知恵を絞ったドンドコドンのドン詰めの思い付きじゃが、ドウかいな。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:22:27.499554+00:00Z"
     }
   }
 ]

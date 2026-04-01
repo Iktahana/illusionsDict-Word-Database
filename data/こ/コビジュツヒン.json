@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "家宝として代々受け継がれてきた古美術品が、ついに日の目を見た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その古美術品は、オークションで高値で落札された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "博物館には、世界的に価値のある古美術品が数多く収蔵されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "歴史上の遺蹟や古美術品の案内や紹介ならばともかく、科学上の権威においてはそのような ambiguity はあり得べからざる事ではないかという人があるだろうが、不幸にして科学上の事柄でも畢竟五十歩百歩である。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:32:20.245476+00:00Z"
     }
   }
 ]

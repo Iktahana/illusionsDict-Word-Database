@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "準備不足が原因で失敗を招いてしまった。この故に、次回のプロジェクトでは徹底的な事前調査を行う必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は人一倍努力家であり、常に高い目標を掲げている。この故に、周囲の同僚からも一目置かれる存在なのだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "気候変動により農作物の収穫量が激減している。この故に、食料価格の高騰は避けられない深刻な問題となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この故にこそあの歌こそはおまへのうたでまたわれわれの雲と風とを御する分のその精神のうたである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:26:35.649625+00:00Z"
     }
   }
 ]

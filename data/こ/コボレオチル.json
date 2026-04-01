@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "急いで歩いていると、持っていたスープが cup (カップ) から spill over and fall (こぼれ落ちる) そうになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "満杯のバケツを運んでいると、歩いているうちに水が spill over and fall (こぼれ落ちる) ことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "台車から転げ落ちた荷物が、地面に spill over and fall (こぼれ落ちる) ように散らばった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ひつくりかへつたまま、つまり、腹を上にしたまま泳いで、さうして浦島は龜の甲羅にくつついて、宙返りを半分しかけたやうな形で、けれどもこぼれ落ちる事もなく、さかさにすつと龜と共に上の方へ進行するやうな、まことに妙な錯覺を感じたのである。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:38:41.309462+00:00Z"
     }
   }
 ]

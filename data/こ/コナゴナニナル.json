@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "台風で窓ガラスが粉々になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は怒りで皿を壁に投げつけ、粉々にした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "事故で車が粉々になり、原型をとどめていなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その一個を取って、ハタと叩きつけると、床に粉々になるのを見向きもしないで、躍上るように勢込んで寝台に上って、むずと高胡坐を組んだと思うと、廊下の方を屹と見て、「馬鹿な奴等！",
@@ -109,7 +134,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:23:22.610557+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼を待つこと小半時、ようやくバスが到着した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "会議は小半時で終わる予定だったが、議論が白熱し延長された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小半時もすれば、夕飯の準備が整うだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いひさしてお力は溢れ出る涙の止め難ければ紅ひの手巾かほに押當て其端を喰ひしめつゝ物いはぬ事小半時、坐には物の音もなく酒の香したひて寄りくる蚊のうなり聲のみ高く聞えぬ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:26:10.106683+00:00Z"
     }
   }
 ]

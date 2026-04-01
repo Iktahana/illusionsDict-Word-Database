@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ホテルの最上階には、隠れ家のような小部屋があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この小部屋、すごく落ち着くね。読書にぴったりの空間だ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "猫が日当たりの良い小部屋で気持ちよさそうに昼寝をしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その癖わざとしたと云つても好いやうな不注意から、余計な迂路をしたり、好く知つてゐる町で、ちよいと道に迷つたりして、自分の小部屋に帰つた時は、もう夜に入つてゐた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:41:59.850817+00:00Z"
     }
   }
 ]

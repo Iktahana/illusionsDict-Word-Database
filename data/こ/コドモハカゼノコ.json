@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雪が降る寒い日でも、子供たちは元気に外で遊んでいる。まさに子供は風の子だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「うちの子、半袖で外に出たがってるわ。子供は風の子って言うけど、風邪ひかないか心配ね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大人は厚着なのに、子供だけ薄着で走り回っている。子供は風の子とはよく言ったものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「仲間」「へい」「栗毛はゆうべ帰らなかったな」「馬よりは、あの子はいったい、何処へ行っちまったんでしょう」「伊織か」「いくら子供は風の子だって、まさか夜どおし、駆け歩いているわけでもないでしょうに」「心配はない。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:22:27.495653+00:00Z"
     }
   }
 ]

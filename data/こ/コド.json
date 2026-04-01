@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この曲線は、弧度で表すと約1.5ラジアンになります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "角度を度数法から弧度に変換する計算をしています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "三角関数では、弧度法を使うと計算が簡潔になることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ああ　いのちの孤獨、われより出でて徘徊し、歩道に種を蒔きてゆく、種を蒔くひと、みづを撒くひと、光るしやつぽのひと、そのこども、しぬびあるきのたそがれに、眼もおよばぬ東京の、いはんかたなきはるけさおぼえ、ぎたる彈く、ぎたる彈く。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:22:53.907821+00:00Z"
     }
   }
 ]

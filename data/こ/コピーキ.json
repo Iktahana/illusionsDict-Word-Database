@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オフィスにあるコピー機が故障して、急いで修理を依頼した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "コンビニのコピー機で、履歴書を白黒で数枚印刷した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あー、コピー機、インク切れちゃったよ！」と、同僚が困っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ずらりと並んだコピー機に学生たちが張り付き、吐き出されてきたコピーを専用の機械が製本のためにばたばたと二つに折っていく光景を思い浮かべると、なんだかその様が、書き手と読み手の願いのすれ違いを象徴しているように思えてきます。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:34:02.476537+00:00Z"
     }
   }
 ]

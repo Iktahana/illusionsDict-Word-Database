@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古いコンピューターでは、数値計算を高速化するためにコプロがよく使われていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「このシステム、グラフィック処理に特化したコプロを積んでるから、描画が滑らかだね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "現在の高性能CPUには、複数の機能を持つコプロが統合されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さらにインテルはコピーしたマイクロコードの製品への組み込みの可否を巡ってＡＭＤと法廷で争っているが、同様の権利が８０２８７コプロセッサーの訴訟で認められた経緯から見れば、今後予定される裁定でＡＭＤの３８６互換チップが法的お墨付きを得る可能性は高い。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:41:59.845654+00:00Z"
     }
   }
 ]

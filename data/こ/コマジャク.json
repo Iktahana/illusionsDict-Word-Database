@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代の建築現場では、中国から伝わった高麗尺を用いて寸法が測られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "歴史博物館で、発掘された当時の高麗尺の実物を間近で見た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「高麗尺の一尺は、今の単位に直すと約35センチメートルになるんだね」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ一つ関野君が高麗尺・唐尺の関係から、今の建築物を以て大化以前の設計にかかるものなりと論断せられたるの一事は、当時往々にして斯道学者間の傾聴するところとなり、今においてなおこれを信ぜんとするものが無いではない。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:39:16.452829+00:00Z"
     }
   }
 ]

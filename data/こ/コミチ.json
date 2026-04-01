@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「森の中の静かな小道を歩いていると、鳥のさえずりが心地よく響いてくる。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「村の外れにある小道は、地元の子供たちの格好の遊び場になっている。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「大通りを外れて一本小道に入ると、そこには江戸時代の面影を残す街並みが広がっていた。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此處らに未だ家も何もなかつた昔から此の地藏尊は此の山腹の小道の傍に立つて居て、さうして次第に開ける此の町の發展を見守つて來たであらうが、物を云はぬから聞いて見る譯にも行かない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T04:45:06.723027+00:00Z",
       "freq_rank": 24435
     }
   }
