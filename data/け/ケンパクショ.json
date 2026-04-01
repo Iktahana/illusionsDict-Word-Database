@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "住民は、行政の改善を求める建白書を連名で提出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史的資料の中から、明治時代の教育改革を訴える建白書が発見された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その建白書には、市民一人ひとりの切実な願いが込められていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "温健派の山内容堂は、幕府の命運既に尽きたるを察して、幕府をしてその終りを全うせしむる意味で、大政奉還の止むなき所以を説いた建白書を、慶喜に呈した。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:34:54.523491+00:00Z"
     }
   }
 ]

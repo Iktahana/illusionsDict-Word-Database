@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの評論家は、当代きっての健筆家として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "健筆家である彼は、新聞や雑誌に多くの寄稿をしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は優れた健筆家だが、あまり人前に姿を見せることはない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「愉快でしょうな、御自分でお創造になった世界の中に生きておられるということはね」「それがさ、他で考えるほど愉快なものじゃありませんよ」「でも貴方は健筆家でいらっしゃるから、ほんとうに結構ですわ」　とマダム・ヴァンクールはにやにや笑いながら妙に皮肉ないい方をした。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:34:54.527550+00:00Z"
     }
   }
 ]

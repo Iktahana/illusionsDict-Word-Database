@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明日の午前中は会社の一斉健康診断があるため、今夜の食事は夜9時までに済ませなければならない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "健康診断の結果、コレステロール値が基準を大幅に上回っていたので再検査になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "学校で行われる健康診断では、視力や聴力のほか、脊柱の側彎がないかなどもチェックされる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "当区内の鵞口瘡は此六日を以て悉皆主治したとの話をした十二日　午前警視庁の巡回獣医来る　健康診断のためである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:25:08.340360+00:00Z"
     }
   }
 ]

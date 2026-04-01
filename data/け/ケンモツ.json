@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "神前には、季節の野菜が献物として供えられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大名が将軍に珍しい品を献物として贈った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この寺では、毎朝仏前に献物を捧げている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "新らしい家と云うものが、ちっとも、贅沢な、フリーボラスな気分を醸さず、素朴な、自分等各々の献物によって形造られ、豊かにされた巣、心の棲家と云う落付きを持つ便利と云う点を云えば、米国風のアパートメントは勝れていましょうが、人間の心の要求の何ものかを、どうも殺していると感ぜられます。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:46:04.315192+00:00Z"
     }
   }
 ]

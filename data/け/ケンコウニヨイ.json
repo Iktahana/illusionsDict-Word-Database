@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "緑茶はポリフェノールが豊富で、健康に良いと言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "適度な運動は、心臓だけでなく精神の健康に良い影響を与える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ねえ、このサプリメントって本当に健康に良いの？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自然のままの岩、砂岩、砂利、は一般に有機物を分離したり酸化することによって水を浄化するが、粘土はこのような健康に良い影響を同じように及ぼすことはない。",
@@ -111,7 +136,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:24:13.903036+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古いラジオの修理には、動作原理を理解した上で適切な検波器を選ぶ必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この高感度検波器は、微弱な電波も確実に捉えることができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "研究室では、様々なタイプの検波器の性能比較が行われていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このほうの玄人に聞いてみると、飲食店や店頭にある拡声器が不完全なためにそういう事になるので、よく調節された器械で鉱石検波器を使ってそして耳にあてる受話器を使えばそんなことはないそうである。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:34:54.522548+00:00Z"
     }
   }
 ]

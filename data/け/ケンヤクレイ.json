@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代には、贅沢を禁じる倹約令が度々出された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "藩は財政難を乗り切るため、厳しい倹約令を発布した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "倹約令が出されたことで、町から華やかな祭りが消えた時期もあったという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかもよ、御倹約令の出るまでは、お前、内股まで白粉を塗ってさ」「御倹約令といやあ、今に、清元常磐津習うべからずってことになるてえぜ」「そうなりゃ、しめたものだぜ。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:40:01.925591+00:00Z"
     }
   }
 ]

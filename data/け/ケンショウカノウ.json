@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その仮説は非常に独創的だが、科学的に検証可能な形で提示されていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "誰でも同じ実験を行えば同様の結果が得られる、検証可能なデータこそが信頼の証だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "AIのアルゴリズムを公開することで、外部の専門家による検証可能な体制を整えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数学的操作や特に又実験による実証的な検証可能な事物関係を代言するような論理・範疇組織・でなければ、自然科学の集約的な方法になれない筈であるが、こうした範疇を一定の意図の下に私は技術的範疇と呼ぶべきだと考える＊。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:28:17.496331+00:00Z"
     }
   }
 ]

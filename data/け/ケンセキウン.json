@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "空には小さな巻積雲が点々と広がり、秋の気配を感じさせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夕焼けに染まる巻積雲は、まるで魚の鱗のようだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "巻積雲が現れると、天気が下り坂になると言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはおもてが軟玉と銀のモナド半月の噴いた瓦斯でいっぱいだから巻積雲のはらわたまで月のあかりは浸みわたりそれはあやしい蛍光板になっていよいよあやしい匂か光かを発散しなめらかに硬い硝子さへ越えて来る。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:31:19.469413+00:00Z"
     }
   }
 ]

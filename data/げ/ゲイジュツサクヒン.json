@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "何百年も前に描かれた芸術作品が、今なお私たちの心を揺さぶるのはなぜだろうか。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この美しい庭園そのものが、自然と人間の技術が調和した一つの芸術作品と言える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "修復師の手によって、長い間眠っていた芸術作品が当時の輝きを取り戻した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "成程それが時勢の然らしめる所かも知れないが、もしさうならば差当つて芸術作品の創造をしなくなるのが当然であらう。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:50:47.156175+00:00Z"
     }
   }
 ]

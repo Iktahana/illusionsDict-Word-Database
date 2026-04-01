@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「裁判所は、検事控訴を認め、新たな審理を開始することになった。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「検事が控訴を断念したため、判決は確定した。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「検事控訴の期限が迫っている。弁護士チームは、今後の対応を協議している。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "と同時に、二年前に保釈出獄した電車事件の連中も、一審で無罪になったのを検事控訴の二審でまた無罪になり、さらに検事の上告で大審院から仙台控訴院に再審を命ぜられ、そこで初めて有罪になったのをこんどはこちらから上告して大審院で審議中であったのだが、急に保釈を取消されてやはり東京監獄に入監された。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:37:40.536965+00:00Z"
     }
   }
 ]

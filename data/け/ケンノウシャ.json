@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "博物館の新しい展示品は、匿名の献納者から寄贈されたものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "献納者の方々のおかげで、このプロジェクトが実現しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は長年にわたり、大学に多額の寄付をしてきた献納者だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "当時はヒョロヒョロの貧弱な苗でいかにも献納者の懐具合を語っているようだった杉の若木が、今では日本の輪奐美に、うるわしい調和を見せて、寄進元の頭の良さを示している。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:34:10.113777+00:00Z"
     }
   }
 ]

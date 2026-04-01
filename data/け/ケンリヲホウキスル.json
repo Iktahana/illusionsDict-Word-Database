@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は弁護士と相談し、訴訟を起こす権利を放棄した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "契約書にサインすることで、一部の権利を放棄することになる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「本当にこの権利を放棄するつもりですか？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「厭なら仕方が無い、権利を放棄する迄さ、其代り此腕環を貰う事は出来ないぞ」　腕環の貰えぬのは閉口である、「それなら参りましょう」と二人共答えた。",
@@ -93,7 +118,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:41:33.589217+00:00Z"
     }
   }
 ]

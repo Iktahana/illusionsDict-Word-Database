@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イギリスの古都ケンブリッジには、世界的に有名な大学がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は留学先としてケンブリッジを選び、異文化の中で勉学に励んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ケンブリッジの街並みは歴史を感じさせ、散策するだけでも楽しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "南米にベッカリーという獣二種ありて、後足に三趾を具うるので前後足とも四趾ある東半球の猪属と異なり、また猪と違うて尾が外へ見われず、鹿や羊に近くその胃が複雑し居る（一九二〇年版『剣橋動物学』十巻二七九頁）。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T00:34:54.531591+00:00Z",
       "freq_rank": 13481
     }
   }

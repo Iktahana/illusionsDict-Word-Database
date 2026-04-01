@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "柳並木が続く川沿いには、かつて多くの芸者屋が軒を連ねていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その芸者屋には、厳しい修行を積んだ質の高い芸妓が多数在籍していることで有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い地図を頼りに歩いてみると、かつての芸者屋の建物がひっそりと残っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "芸者屋をしている表店と彼女の住っている裏の蔵附の座敷とは隔離してしまって、しもたや風の出入口を別に露地から表通りへつけるように造作したのも、その現われの一つであるし、遠縁の子供を貰って、養女にして女学校へ通わせたのもその現われの一つである。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:50:47.150041+00:00Z"
     }
   }
 ]

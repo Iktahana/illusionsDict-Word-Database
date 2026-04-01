@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨晩の飲み会では、部長が鯨飲して周囲を驚かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はストレスが溜まると、決まって鯨飲する癖がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "医者から鯨飲を控えるように忠告された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "カストリ焼酎などという何が何やら、わけのわからぬ奇怪な飲みものまで躍り出して来て、紳士淑女も、へんに口をひんまげながらも、これを鯨飲し給う有様である。",
@@ -134,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:44:44.035471+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国境には厳重な検問所が設けられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "山道の途中に、野生動物の進入を防ぐ検問所があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この先、検問所があるから気をつけようね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "波止場の検問所の前で、沢山の将校から調べられた時、富岡は最も愚直なスタイルをつくつてね、英語やフランス語でべらべらと将校連が話しあつてゐても、その方をちらつとも見ないのださうですよ。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:46:04.316763+00:00Z"
     }
   }
 ]

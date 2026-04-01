@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい研究プロジェクトのために、多額の研究費が確保された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「研究費の申請、もう提出した？」と先輩が尋ねてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "限られた研究費の中で、最大の成果を出すべく努力している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで、国家なり個人なりが一人の学者に生活の保障と豊富な研究費を与えてくれて、そうして好きな事を勝手に研究させてくれればこれほど結構なことはないが、そういう理想的な場合が事実上存在するかどうかを考えてみる。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:23:14.432049+00:00Z"
     }
   }
 ]

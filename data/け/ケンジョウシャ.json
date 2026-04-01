@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "バリアフリーの設計は、健常者だけでなく全ての人にとって使いやすいものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "障害の有無にかかわらず、健常者も共に支え合える社会を目指すべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "健常者の目線だけでは気づかない不便さが、街の中にはまだ多く存在する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "コンピューターにテキストを読ませるスピーチシンセサイザーや、キーを押すたびに声で操作が確認できる盲人用の電卓といった製品には、マイクロコンピューターの巻き起こした変革の波が健常者のみならず障碍者まで巻き込んでいることを印象づけられ、強い感銘を受けた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:30:57.128688+00:00Z"
     }
   }
 ]

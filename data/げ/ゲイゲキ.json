@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "領空に侵入しようとする敵機に対し、直ちにスクランブルをかけて迎撃に向かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "自衛隊のシステムが自動的に脅威を感知し、迎撃態勢を整えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "敵の奇襲を水際で迎撃することに成功し、被害を最小限に抑えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マカロフ提督追悼の詩（明治三十七年四月十三日、我が東郷大提督の艦隊大挙して旅順港口に迫るや、敵将マカロフ提督｜之を迎撃せむとし、倉皇令を下して其旗艦ペトロパフロスクを港外に進めしが、武運や拙なかりけむ、我が沈設水雷に触れて、巨艦一爆、提督も亦艦と運命を共にしぬ。",
@@ -110,7 +135,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T00:50:47.143147+00:00Z",
       "freq_rank": 17095
     }
   }

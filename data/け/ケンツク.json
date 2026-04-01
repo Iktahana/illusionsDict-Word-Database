@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遅刻した彼は、上司から剣突くを食らった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "まったく、また剣突くを食らうところだったよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の剣突くは厳しかったが、そのおかげで反省することができた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "六　三河島のお組の親許を訪ねて帰った八五郎から聴くと、お組はそこへも帰らず、正直そうな両親は娘が行方不明と聞いて、庄司家へ行って剣突くを喰わされ、どうしようもない不安な日を送っているのでした。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:32:17.332714+00:00Z"
     }
   }
 ]

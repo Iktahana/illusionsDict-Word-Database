@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この難病の治療法を開発するため、複数の研究班が協力している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "研究班のリーダーとして、彼は常にチームをまとめ上げている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "私たちの研究班は、新しい遺伝子編集技術に取り組んでいます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は二万円近くの金を犠牲にし、旅順大学の研究班をダシにつかって、その邸内の一隅に、実験室外には音響の洩れないという防音室を建て、多くの備付器械のうちに、予め、子宮の寸法から振動数をきめて、そのような都合のよい音を出す器械を混ぜて購入したのだった。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:23:14.431665+00:00Z"
     }
   }
 ]

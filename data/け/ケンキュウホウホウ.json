@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、既存の研究方法に囚われず、新しいアプローチを試みた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この研究方法では、倫理的な配慮が特に重要となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この研究方法、本当に効果があるのかな？」と彼は疑問を呈した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数十種の実験を皮相的申訳的にやってしまうよりも、少数の実験でも出来るだけ徹底的に練習し、出来るだけあらゆる可能な困難に当ってみて、必成の途を明らかにするように勉める方が遥かに永久的の効果があり、本当の科学的の研究方法を覚える助けになるかと思う。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:23:14.434834+00:00Z"
     }
   }
 ]

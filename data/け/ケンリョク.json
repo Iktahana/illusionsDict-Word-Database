@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は若くして莫大な権力を手に入れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その国の権力は、ごく一部のエリート層に集中している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "権力は人を狂わせることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "駅員の不機嫌顔甚だしきも官線はやはり官線だけの権力とか云うものあるべしと、かしこみて願い奉りようよう切符を頂戴して立ちいずれば吹き上ぐる朝嵐に藁帽飛んでぬかるみを走る事｜数間、ようやく追い付きて取止めたれど泥にまみれてあまり立派ならぬ帽の更に見ばえを落したる重ね／＼の失敗なり。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T00:41:33.582934+00:00Z",
       "freq_rank": 2364
     }
   }
