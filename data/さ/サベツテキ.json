@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「その発言は、非常に差別的であり、許容できません。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このような差別的な政策は、早急に見直されるべきです。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、人種差別的な言動を繰り返す人物として知られています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "科学上ではなんらかの画紀元的の進展を与えた新しい観念や学説がほとんど皆すぐれた頭脳の直観に基づくものであるという事は今さらに贅言を要しない事であるにかかわらず、昔も今も通有な一種の偏狭なアカデミックの学風は、無差別的に直観そのものを軽んじあるいは避忌するような傾向を生じている。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T08:47:11.606903+00:00Z"
     }
   }
 ]

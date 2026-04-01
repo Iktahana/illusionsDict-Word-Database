@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広大なサバンナには、草食動物がたくさん生息しています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "アフリカのサバンナを旅して、野生動物の雄大な姿を観察したい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "サバンナの夕日は、空をオレンジ色に染め上げ、息をのむほど美しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「お嬢様の名前でやすが……何てったっけなア……えらくムズカシイ名前で……石橋……スサ……バンナ……スサバンナ……てったっけなア……？",
@@ -56,7 +81,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T08:52:28.590158+00:00Z",
       "freq_rank": 37075
     }
   }

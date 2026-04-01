@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薩長同盟は、明治維新の原動力となった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "幕末の動乱期、薩長が手を組んだことは歴史の大きな転換点だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "薩長の藩士たちは、新しい日本の形を模索した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから藤原氏三代百余年間の平泉の栄華があり、文治五年、源頼朝に依つて奥州は平定せられ、もうその頃から、私たちの教科書はいよいよ東北地方から遠ざかり、明治維新にも奥州諸藩は、ただちよつと立つて裾をはたいて坐り直したといふだけの形で、薩長土の各藩に於けるが如き積極性は認められない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T08:37:19.160345+00:00Z",
       "freq_rank": 44470
     }
   }

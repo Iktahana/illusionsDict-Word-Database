@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "撒哈拉砂漠は、世界で最も広大な砂漠の一つとして知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ラクダに乗って撒哈拉砂漠を旅する夢を抱いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "撒哈拉の夜空は、満点の星が輝き、息をのむほど美しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　簪の花が凜として色が冴えたか気が籠って、屹と、教頭を見向いたが、その目の遣場が無さそうに、向うの壁に充満の、偉なる全世界の地図の、サハラの砂漠の有るあたりを、清い瞳がうろうろする。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T08:38:29.038760+00:00Z",
       "freq_rank": 30713
     }
   }

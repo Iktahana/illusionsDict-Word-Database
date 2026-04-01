@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の冬は、例年にない寒さが続いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夜遅くまで外にいたので、体の芯まで寒さが染みた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寒さに負けず、毎朝ジョギングを続けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実際あの頃の政府は、馬鹿な悪い親で、大ばくちの尻ぬぐいに女房子供の着物を持ち出し、箪笥はからっぽ、それでもまだ、ばくちをよさずにヤケ酒なんか飲んで女房子供は飢えと寒さにひいひい泣けば、うるさい！",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T08:54:32.436063+00:00Z",
       "freq_rank": 41161
     }
   }

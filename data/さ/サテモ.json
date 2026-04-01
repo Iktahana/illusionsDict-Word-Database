@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私たちは屋台で鶏肉のサテーを注文し、香ばしいピーナッツソースと共に楽しんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このレストランは、本格的なインドネシア風サテーで有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女が作ったサテーは、スパイスの効いたタレが絶妙だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "或る口の惡るきお人これを聞きて、扨もひねくれし女かな、今もし學士が世にありて札幌にもゆかず以前の通り生やさしく出入りをなさば、虫づのはしるほど嫌やがる事うたがひなしと苦笑ひして仰せられしが『ある時はありのすさびに憎くかりき、無くてぞ人は戀しかりける』とにも角にも意地わるの世や意地惡るの世や。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T08:44:56.330003+00:00Z"
     }
   }
 ]

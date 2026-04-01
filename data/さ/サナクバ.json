@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "計画通りに進めよ、然くば（さなくば）予期せぬ問題が発生するだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「すぐに謝罪しろ。然なくば、二度と口をきかん！」と彼は怒鳴った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この薬は用法・用量を守って服用しなさい。然く（さなく）ば、副作用が出る可能性がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "若し然なくば隱見出沒、氣長く我船の後を追ふ内、本船が何時か海水淺き島嶼の附近か、底に大海礁の横る波上にでも差懸かつた時、風の如く來り、雲の如く現はれ出でゝ、一｜撃の下に其處に我が船を撃沈する積かも知れぬ。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T08:40:12.834843+00:00Z"
     }
   }
 ]

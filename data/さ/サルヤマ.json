@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園の猿山では、たくさんの猿たちが自由に遊び回っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "猿山のボス猿が、他の猿たちに威嚇する様子が見られた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは、猿山にいる猿たちの動きに夢中になっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然るにたゞ單に其の法律には盲從せずして、造化の其の法律の精神を體得し、其の法律の如何なるものであるかを知りて之を運用し、被治者の地位たる野猿山羊の羣より超越して仕舞つて、漸やくにして治者、即ち造化の分身たる地位に到達せんと欲して居るのが人類の情状で、古來の賢哲は皆幾分か其の望を達し得て居るのである。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T09:00:14.369752+00:00Z"
     }
   }
 ]

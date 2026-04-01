@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦士は、丁寧に作られた鮫鞘に刀を慎重に滑り込ませた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "暗い漆塗りの鮫鞘は、松明の光の下で鈍く光っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "刀を鞘に収める際、鞘を傷つけないように注意した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "関東｜縞の袷に、鮫鞘の長脇差を佩して、脚絆草鞋で、厳重な足ごしらえをした忠次は、菅のふき下しの笠を冠って、先頭に立って、威勢よく歩いていた。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T08:57:07.885137+00:00Z"
     }
   }
 ]

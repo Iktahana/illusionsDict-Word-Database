@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "森の奥深くで、小夜鳴き鳥の美しい歌声が響き渡っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "詩人は、小夜鳴き鳥の歌声に耳を傾け、インスピレーションを得た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "伝説では、小夜鳴き鳥は悲しい恋の歌を歌うと言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さて、この林のなかに、うつくしいこえでうたう、一｜羽のさよなきどりがすんでいましたが、そのなきごえがいかにもいいので、日びのいとなみにおわれているまずしい漁師ですらも、晩、網をあげにでていって、ふと、このことりのうたが耳にはいると、ついたちどまって、ききほれてしまいました。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T08:56:44.246778+00:00Z"
     }
   }
 ]

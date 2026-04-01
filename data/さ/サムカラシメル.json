@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この部屋は窓が開いているので、室内の空気を寒からしめる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夜の冷気が肌を寒からしめ、思わず身震いした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "氷点下の風が、旅人の体を寒からしめる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その彼の言葉が若しも聞えたならば、凡そ僕等の心胆を寒からしめる類ひに相違ないのだらうが、聞えぬぶんには至極長閑で、無声映画を見物するやうでもあり、またこちらの仕事の助手を見つけたかの体裁でもあつた。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T08:54:32.433210+00:00Z"
     }
   }
 ]
