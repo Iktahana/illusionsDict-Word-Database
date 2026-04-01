@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お寺で開かれた講会に参加し、高僧の説法を熱心に聴いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "講会の会場は、真理を求める多くの人々で埋め尽くされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "年に一度の講会に向けて、経典の読み込みを進めておく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いつかノールウェーのビェルクネス教授が来てこの輪講会の席上で同教授一流の気象学を講じたときたいそう面白いと思って感心したが、列席のドイツ気象学者たち誰一人感心したように見えなかった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:43:10.035932+00:00Z"
     }
   }
 ]

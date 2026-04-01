@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "上司の高圧的な態度に、部下たちは不満を募らせていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は常に高圧的な口調で話すため、周囲から敬遠されがちだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "高圧的な交渉術は、短期的な成果は生んでも長期的な関係構築には不利だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もともと実験の教授というものは、軍隊の教練や昔の漢学者の経書の講義などのように高圧的にするべきものではなく、教員はただ生徒の主動的経験を適当に指導し、あるいは生徒と共同して新しい経験をするような心算ですべきものと思う。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:38:04.307173+00:00Z"
     }
   }
 ]

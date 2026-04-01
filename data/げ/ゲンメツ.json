@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の理想主義的な考え方は、現実の壁にぶつかり幻滅を感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "長年憧れていた人物の裏の顔を知り、彼女は幻滅した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「あーあ、期待していただけに幻滅が大きかったよ。」と彼はため息をついた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もし彼に妻子がなかったら、日本に幻滅した最初の日に、再度また『まだ知らぬ新しい国』を探すために、あてのない漂泊の旅に出発したにちがいなかった。",
@@ -246,7 +271,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T01:28:17.833564+00:00Z",
       "freq_rank": 26702
     }
   }

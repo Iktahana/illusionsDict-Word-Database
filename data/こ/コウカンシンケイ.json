@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ストレスを感じると、交感神経が優位になり、心拍数が上がったり汗をかいたりします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "朝の目覚めと共に交感神経が活発になり、体が活動モードへと切り替わります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ヨガや瞑想は、過剰に活動した交感神経を落ち着かせる効果があると言われています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "花草の原のいづくに金の家銀の家すや月夜蟋蟀　月夜の蟋蟀の声を金鈴銀鈴と聞く心持からその栖家が「金の家銀の家」となるので、交感神経による音感と視感との交錯である。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T01:45:22.744662+00:00Z",
       "freq_rank": 27750
     }
   }

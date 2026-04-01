@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "源平の合戦は、日本の歴史を大きく動かした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "源平物語は、源氏と平氏の争いを描いた軍記物語だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "源平の時代には、多くの武士が活躍した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんなことから考えてみると、我国固有の国民思想を保存し涵養させるのでも、いつまでも源平時代の鎧兜を着た日本魂や、滋籐の弓を提げた忠君愛国ばかりを学校で教えるよりも、時にはやはり背広を着て折鞄でも抱えた日本魂をも教える方がよくはないかという気がしたのである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T01:27:18.567057+00:00Z",
       "freq_rank": 40485
     }
   }

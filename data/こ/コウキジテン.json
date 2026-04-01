@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "康煕字典は、中国清代に編纂された大規模な漢字字典である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "漢字の成り立ちや意味を調べる際、康煕字典は非常に頼りになる資料だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は古い書物から引用された難解な漢字を、康煕字典で painstakingly 調べていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "普通に深山に住むニクといいて山羊に似た獣をカモシカともカモシシとも呼ぶ（『重訂本草啓蒙』四七）が、丹峯和尚の『新撰類聚往来』上に字音豹と『康煕字典』にあるのみ、説明がない。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:48:42.121620+00:00Z"
     }
   }
 ]

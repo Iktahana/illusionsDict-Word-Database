@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人名のカタカナ表記には揺れがあるため、公式文書では必ず原綴を併記する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "辞書で単語の語源を辿っていくと、ラテン語の古い原綴に突き当たった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "論文の注釈欄に、翻訳に際して参照した専門用語の原綴を一覧にして載せた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（作業者注：必要と思った場合は、英文のままにされていた人名についても適宜カナ書きに変更し、原綴りや英語名を括弧で追記しています）",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:25:50.810305+00:00Z"
     }
   }
 ]

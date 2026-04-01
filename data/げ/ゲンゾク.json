@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は長年の修行の末、僧侶の身分を還俗し、一般社会で新しい人生を始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "有名な僧侶が還俗するというニュースは、世間に大きな驚きを与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "還俗した彼が、再び俗世で幸せを見つけることができるのか、皆が心配していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そいつは元は上野の山内の坊主で、歌女寿よりも年下なんですけれども、女に巧くまるめ込まれて、とうとう寺を開いてしまって、十年ほど前から甲州の方へ行って還俗していたんですが、故郷忘じ難しで江戸が恋しくなって、今度久し振りで出て来て、早速歌女寿のところへ訪ねて行くと、女は薄情だから見向きもしない。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:24:46.520425+00:00Z"
     }
   }
 ]

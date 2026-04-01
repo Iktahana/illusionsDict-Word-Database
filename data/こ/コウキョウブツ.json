@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「公園のベンチや遊具はみんなで使う公共物ですから、大切に扱いましょう」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "公共物を故意に壊した場合、刑法の器物損壊罪に問われる可能性がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「歩道橋の手すりに落書きをするなんて、公共物を私物化するのもいい加減にしてほしい」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは、わたしたち日本の国民が、すべての公共物を自分たちの計画と資力・労力で建て、それを自分たちで愉快に使う場所とする習慣がなかったからです。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:49:53.205079+00:00Z"
     }
   }
 ]

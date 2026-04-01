@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公園では、お年寄りたちが楽しそうにゲートボールに興じていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ゲートボール大会の決勝戦は、接戦の末にドラマチックな幕切れとなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「おばあちゃん、今度ゲートボールのコツ教えてよ！」「あら、いつでもいいよ！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "冬にはゲートボール場になっている向かいの広場が見渡せていたのが、葉が育ち、小さな実がなり始めると、ボールを叩く高い音は聞こえても朝起き鳥の元気なプレイヤーの姿は見えなくなった。",
@@ -94,7 +119,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T01:31:14.501400+00:00Z",
       "freq_rank": 36444
     }
   }

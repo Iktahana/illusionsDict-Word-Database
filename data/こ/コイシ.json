@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "靴の中に入った小さな小石が当たって、歩くたびに痛みを感じる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "海岸で波に洗われて丸くなった小石を拾い、旅の思い出にする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "子供たちが公園の池に向かって、誰が遠くまで小石を投げられるか競っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "便なき幼兒のうたへる歌萩原朔太郎うすらさびしき我が身こそ利根の河原の石ひろひひとり岸邊をさまよひて今日も小石をひろふほど七つ八つとなりにけり",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T01:34:59.352476+00:00Z",
       "freq_rank": 24407
     }
   }
