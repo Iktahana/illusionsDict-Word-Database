@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回のプロジェクトは、正式な契約書ではなく、お互いの信頼に基づく紳士協定で進めることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "国際社会では、成文化されていない紳士協定が時に大きな影響力を持つことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼らは口約束ではあったが、それが紳士協定であることを互いに理解していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「紳士協定だから安心している」と母はいっても、またもしその社長が死んだり変心したりしたなら、法律的にも私たちは追い出され、母や私たちは僅かな金を握ったまま、うろうろと行き場所をもとめねばならなくなる。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:47:44.830279+00:00Z"
     }
   }
 ]

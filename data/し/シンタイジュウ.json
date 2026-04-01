@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は身体中が痛くて、ベッドから起き上がれなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "高熱で、身体中が熱い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "激しい運動の後、身体中に乳酸が溜まっているのを感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今更、この期になってびくつくまいぞ」　娘の冴えまさる美しい顔を見ると、その毒心もつい鈍るので翁は眼を娘から外らしながら声を身体中から振り絞るべく、身体を揉み揺り地団太踏みながら叫んだ。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T23:03:12.151553+00:00Z"
     }
   }
 ]

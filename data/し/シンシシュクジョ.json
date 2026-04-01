@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "皆様、本日はようこそお越しくださいました。紳士淑女の皆様にご挨拶申し上げます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "会場には、正装した多くの紳士淑女が集まっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "司会者が『これよりパーティーを始めます、紳士淑女の皆様』と宣言した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後に待っている人のことなどはまるで考えないで、自分さえ切符を買ってしまえばそれでいいという紳士淑女達のことであるから、切符売子と色々押し問答をした上に、必ず大きな札を出しておつりを勘定させる、その上に押し合いへし合いお互いに運動を妨害するから、どうしても一人｜宛平均三十秒はかかるであろう。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:47:44.831604+00:00Z"
     }
   }
 ]

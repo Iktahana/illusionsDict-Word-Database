@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女の家族は皆、とても信心深い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は信心深いが、それを人に押し付けることはない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "信心深い人々が、教会のミサに集まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "信心深いイワンは安息日の礼拝に出席するのを怠るようなことはなかったとしても、その他の日は、一日爐ばたに寝そべって独将棋をしたり、遊園地へ行って観覧車に乗ったり、さもなければ二階の窓から遠方の嶺に雪の積っている山を眺めたりして、気儘に暮すばかりでありました。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:53:48.235667+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "シャルルマーニュは、最初の神聖ローマ皇帝として戴冠したことで知られる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "神聖ローマ皇帝は、ヨーロッパの歴史において重要な役割を果たした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は神聖ローマ皇帝の権威を背景に、広大な領土を支配した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこで早速法王ヨハネ十二世は外交手段を揮い、盛儀を執行い、「汝を神聖ローマ皇帝となす」　と宣言し、その冠を頭上に置き、「イタリイ王をも兼ねよ」と追加して云った。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:55:40.183545+00:00Z"
     }
   }
 ]

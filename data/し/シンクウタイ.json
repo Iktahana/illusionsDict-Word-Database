@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "飛行機が突然真空帯に入り、大きく揺れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "真空帯を抜けると、機体は安定を取り戻した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "真空帯の予測は難しく、パイロットも神経を使う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自然、熱風のつむじが捲き起って、あらゆる地の物を枯葉のごとく宙へ奪い去ってゆくと、あとには一瞬、乾き切った巨大な真空帯が生じ、およそ虫一匹の生物もないかのような死界に似たしじまが耳をツーンと通る。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:37:52.339957+00:00Z"
     }
   }
 ]

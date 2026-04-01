@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "自律神経系には、体の様々な機能を制御する神経節が点在している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "脊髄の近くには、多くの感覚神経節が集まっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この病気は、特定の神経節に炎症が起こることで発症する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今、仮に「伊」を部位の中枢と定め、「仁」を中央の中枢と定めて論ずるに、「伊」および「イ」は脊髄もしくは各部位の神経節にして、「仁」は脳髄なりと想定することを得べし。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:41:32.840945+00:00Z"
     }
   }
 ]

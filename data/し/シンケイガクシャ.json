@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その神経学者は、患者の複雑な脳の症状を正確に診断しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "学会には世界中から多くの著名な神経学者が集まり、最新の研究成果を発表しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供の頃から脳の仕組みに興味があり、将来は神経学者になりたいと思っています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "シャルコーのもとでフランスの神経学者たちは脳および脊髄の目立たない疾患の診断に非常に正確さを与え、新しい解剖学的、生理的、実験的な研究の結合した結果は、以前は内科学で最も目立たない複雑な領域を明白で確実なものにした。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:45:31.027804+00:00Z"
     }
   }
 ]

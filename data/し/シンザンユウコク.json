@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "絵画に描かれた深山幽谷の風景は、見る者を圧倒する迫力があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は都会の喧騒を離れ、深山幽谷で静かに暮らすことを選んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域には、深山幽谷にひっそりと佇む秘境の温泉がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その中の一評者が「一時は紀行文は前人の未だ踏まない深山幽谷の奇景を、紹介するのを職とするような傾向であった、いや今でも、そういう好奇心で、紀行を書いている人もあるようだが、これはつまらぬことだろう」と言って、明らかに私に当たっている。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:46:37.147262+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "政府は少子化対策として、新しい育児支援の新制度を導入した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新制度への移行に伴い、多くの企業で人事評価システムが見直された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "来年度から始まる新制度について、説明会が開催される予定だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "若し舊制度、舊組織が衰朽の極に達し、社會が自然に崩壞する時、如何なる新制度、新組織が之に代るのが自然の大勢であるかに關して、何等の思想も智識もなく、之に參加する能力の訓練もなかつた日には、其社會は革命の新しい芽を吹くことなくして、舊制度と共に枯死して了ふのです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:55:40.180442+00:00Z"
     }
   }
 ]

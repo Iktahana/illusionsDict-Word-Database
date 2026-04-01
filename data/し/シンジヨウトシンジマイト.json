@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "信じようと信じまいと、私はUFOを見たんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "信じようと信じまいと、この話は本当なんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "信じようと信じまいと、彼は宝くじに当たったらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現実のいずれの相が真実でありいずれの相が虚偽であるか、そういうことを信じようと信じまいと、または、それの見分けがつこうとつくまいと、芸術のなかに現実を或は再現し或は飜訳し或は建立する場合、作家はただ自分の真実に頼るより外はない。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:53:48.230129+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "定期健康診断で心疾患のリスクを指摘され、生活習慣の改善を勧められた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "高齢化社会において、心疾患は主要な死因の一つとなっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "家族に心疾患の既往があるため、幼い頃から健康に気を付けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "多くのヒトの食事では亜鉛：銅の比が高いので相対的な銅欠乏が起き、これが虚血性心疾患を高くする要因であると、示唆された（67）。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:47:44.832248+00:00Z"
     }
   }
 ]

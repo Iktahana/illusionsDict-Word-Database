@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お寺：「こちらのお寺では、心願成就のご祈祷を毎日行っています。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "受験生：「合格発表の日、私の心願成就を信じて、ひたすら祈りました。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "物語：「長年の努力が実り、ついに彼の心願成就の時が訪れた。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "魔を除け、死神を払う禁厭であろう、明神の御手洗の水を掬って、雫ばかり宗吉の頭髪を濡らしたが、「……息災、延命、息災延命、学問、学校、心願成就。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:41:30.847808+00:00Z"
     }
   }
 ]

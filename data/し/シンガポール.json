@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅行者：「来月、シンガポールへ旅行に行く計画を立てています。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ビジネスマン：「シンガポールは、アジアのハブとして経済的に非常に発展しています。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "友人E：「シンガポール料理って、どんなものがあるんだろう？楽しみだな！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "下甲板の新嘉坡へ行く印度の行商人相手の物売りが上陸してしまうと汽笛が垂直に空から落下傘となって人々のうえに舞いおりる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T22:41:30.842921+00:00Z",
       "freq_rank": 5546
     }
   }

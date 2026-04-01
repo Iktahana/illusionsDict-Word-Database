@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "真珠貝は、美しい真珠を生み出す海の生き物だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの店のアクセサリーは、珍しい種類の真珠貝を使っているらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "真珠貝の養殖は、この地域の重要な産業である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが今から七年前にジュボアという人がＸ線で真珠貝の写真を撮り珠を験する事を考え出したが、なにしろ沢山な貝の写真を撮るのはかなりに手数でもあり費用もかかるところから、実業社会の注意を惹くに至らなかった。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:52:46.718597+00:00Z"
     }
   }
 ]

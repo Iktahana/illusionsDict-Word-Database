@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人工知能の発展は、やがてシンギュラリティに到達すると言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "特異点としてのシンギュラリティは、科学技術が予測不能な進化を遂げる時点を指す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "SF小説では、シンギュラリティ後の世界がしばしば描かれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "芸術の価値はだから思想の価値に帰着するのであるが、併し思想の価値はそのシンギュラリティーにあるのでなくて正にその普遍性に、即ちその社会的生命にあるのである。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:37:52.332126+00:00Z"
     }
   }
 ]

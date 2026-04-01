@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒い日に古い傷が神経痛でうずく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "坐骨神経痛に悩まされ、歩くのも辛い毎日だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "医者は、鎮痛剤と温熱療法で神経痛を和らげるよう勧めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "七八年前まで元気でおりまして、相変らず東海道を往来しておりましたが、神経痛が出ましたので流石の父も、我を折って私の家へ落着きました」　小松技師の家は熱田に近い処に在った。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T22:41:32.843861+00:00Z",
       "freq_rank": 36973
     }
   }
