@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古いパソコンには白黒ディスプレイが使われており、それがまた味がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白黒ディスプレイは目に優しいと言われていて、長時間作業しても疲れにくい気がする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このレトロゲームは白黒ディスプレイで遊ぶと、より一層雰囲気が増して面白い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "九インチのブラウン管白黒ディスプレイを備えた８０８８マシンのポータブルＩは、飛行機の座席の下に収まる寸法で、約一二キログラムと確かに持ち歩けなくはない重量に収まっていた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:20:17.339083+00:00Z"
     }
   }
 ]

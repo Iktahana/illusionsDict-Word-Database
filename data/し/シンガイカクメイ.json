@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "辛亥革命は、清朝を倒し、中国に共和制をもたらした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "孫文は、辛亥革命の指導者として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「1911年の辛亥革命って、日本の明治維新とほぼ同時期だよね」と、歴史の授業で習った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "辛亥革命を望見して　大正十一年、彼は、はじめて革新倶楽部に入党して犬養毅の傘下に位置を占める政治的立場を確立したが、それも長続きはせず、彼が外遊より得た確信が、日独伊同盟の理想を念願するようになり、次第にヒトラー、ムッソリーニの人間的影響をつよくうけ入れるようになったことだけは事実であろう。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:32:26.426656+00:00Z"
     }
   }
 ]

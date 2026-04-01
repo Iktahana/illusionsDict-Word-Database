@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "こんなひどいことをするのは、一体誰の仕業だ！",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "警察は、この事件が悪質な犯罪組織の仕業だと見て捜査を進めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「やだ、私のプリンがなくなってる！これは絶対弟の仕業だわ！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "信仰とやらも少し薄らいでまいったのでございましょうか、あの口笛も、ひょっとしたら、父の仕業ではなかったろうかと、なんだかそんな疑いを持つこともございます。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T22:28:46.029968+00:00Z",
       "freq_rank": 20095
     }
   }

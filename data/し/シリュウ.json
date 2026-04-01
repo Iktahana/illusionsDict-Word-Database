@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この大きな川は、いくつもの支流が合流してできている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "地図上で、幹線道路から外れた小さな支流の道を探した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "上流の支流には、まだ多くの自然が残っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "太郎坊附近の、黄紅朱樺の疎らな短木の中を、霧は幾筋にもなって、組んず、ほぐれつして、その尖端が愛鷹山の方向へと流れて行く、振り返れば、箱根｜火山彙には、雲が低く垂れて、乙女峠から金時山の腰へかけて、大河の逆流するばかり、山と山との間は、幾つにも朝雲が屯ろして、支流が虚空の方々に出来る。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T22:31:53.342980+00:00Z",
       "freq_rank": 33324
     }
   }

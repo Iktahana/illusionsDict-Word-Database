@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "放課後、いつも市立図書館で宿題をしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "市立図書館には、幅広いジャンルの本が揃っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ねぇ、新しい小説、市立図書館に入荷されたかな？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現在のところでは上野の帝国図書館にしろ蔵書の量と種目とでは決して満足と云えないし、日比谷の市立図書館を、東亜の大首都東京市の代表図書館であると云わなければならないことには、些か忸怩たるものがありはしないだろうか。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:12:42.533439+00:00Z"
     }
   }
 ]

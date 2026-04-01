@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "関西風のお雑煮には、甘口の白味噌が欠かせない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白味噌を使った料理は、まろやかで上品な味わいが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "スーパーで、京都産の美味しい白味噌を見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "去年の正月ある人に呼ばれて東京一流の料亭で御馳走になったときに味わった雑煮は粟餅に松露や蓴菜や青菜や色々のものを添えた白味噌仕立てのものであったが、これは生れてから以来食った雑煮のうちでおそらく一番上等で美味な雑煮であったろうと思われる。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:22:07.259583+00:00Z"
     }
   }
 ]

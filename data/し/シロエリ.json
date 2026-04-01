@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は清潔感のある白襟のブラウスを好んで着ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_content": "白襟のシャツは、ビジネスシーンでもフォーマルな場面でも活躍する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_content": "白襟の制服は、生徒たちの清楚な印象を引き立てる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "裳を厭う砂ならば路に黄金を敷きもせん、空色の洋服の褄を取った姿さえ、身にかなえば唐めかで、羽衣着たりと持て囃すを、白襟で襲衣の折から、羅に綾の帯の時、湯上りの白粉に扱帯は何というやらん。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:19:17.985705+00:00Z"
     }
   }
 ]

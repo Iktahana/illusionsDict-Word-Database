@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい「使用人」は、すぐに家の仕事に慣れ、周囲の評価も高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は会社の「使用人」として、長年にわたり忠実に勤務してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の貴族の館には、たくさんの「使用人」がいたらしいよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明治の初期には皆三の祖父に当る器量人が、銀行の頭取などして、華々しく社交界にもうって出たが、後嗣はひとりの娘なので、両親は娘のために銀行の使用人の中から実直な青年を選んで娘の婿に取った。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T22:08:46.462268+00:00Z",
       "freq_rank": 26674
     }
   }

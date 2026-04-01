@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "書店には最新の新刊書がずらりと並んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "私は毎週、気になる新刊書をチェックするのが楽しみだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この作家の最新刊書は、発売前から話題になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殺人鬼、吸血鬼、などと憎むべきものを鬼と呼ぶところから見ても、これはとにかく醜惡の性格を有する生き物らしいと思つてゐると、また一方に於いては、文壇の鬼才何某先生の傑作、などといふ文句が新聞の新刊書案内欄に出てゐたりするので、まごついてしまふ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:32:26.421418+00:00Z"
     }
   }
 ]

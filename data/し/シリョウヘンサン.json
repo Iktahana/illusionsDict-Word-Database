@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この国では、古くから重要な史料編纂が行われてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の研究は、戦国時代の史料編纂の歴史に新たな光を当てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "史料編纂のプロセスは、非常に時間と労力がかかる作業だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大正四年、葛原氏編纂の勾当日記には、東京帝国大学史料編纂官、和田英松というお人の序文も附加せられて在るが、それには、「葛原勾当は予が郷里｜備後の人にして音楽の技を以て其名三備に高かりき。",
@@ -237,7 +262,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:31:53.348365+00:00Z"
     }
   }
 ]

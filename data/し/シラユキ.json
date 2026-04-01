@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝起きると、庭一面が白雪に覆われていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "山頂には、一年中溶けない白雪が積もっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白雪が舞い落ちる中、クリスマスソングが流れていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "〔卑屈の友らをいきどほろしく〕宮沢賢治卑屈の友らをいきどほろしく粘土地二片をはしりてよぎり崖にて青草黄金なるを知りのぼりてかれ草黄なるをふめば白雪きららに落ち来るものか一列赤赤ならべるひのきふたゝび卑屈の友らをおもひたかぶるおもひは雲にもまじへかの粘土地なるかの官庁に灰鋳鉄のいかりを投げよ",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:15:55.910922+00:00Z"
     }
   }
 ]

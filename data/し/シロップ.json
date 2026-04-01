@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パンケーキにはたっぷりのメープルシロップをかけて食べるのが好きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "風邪薬のシロップは、甘くて飲みやすい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "かき氷にイチゴシロップをかけてもらった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕は何を云つてゐるのか如何なる錯乱に掠められてゐるのか蝶々はどつちへとんでいつたか今は春でなくて、秋であつたかではあゝ、濃いシロップでも飲まう冷たくして、太いストローで飲まうとろとろと、脇見もしないで飲まう何にも、何にも、求めまい！",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T22:21:08.672331+00:00Z",
       "freq_rank": 25045
     }
   }

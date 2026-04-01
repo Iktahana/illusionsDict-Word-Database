@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の片隅に植えた白山吹が、今年も清楚な花を咲かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白山吹の白い花は、新緑の季節によく映える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "生け花に白山吹の枝を使うと、とても上品な雰囲気になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山吹に似たものでは、同じイバラ科の白山吹、ケシ科の山吹草等があります、かの太田道灌と山吹の里の少女の物語に『七重八重花は咲けども山吹の実の一つだになきぞかなしき』という和歌があります。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:28:46.020061+00:00Z"
     }
   }
 ]

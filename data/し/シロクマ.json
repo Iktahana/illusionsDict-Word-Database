@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園のホッキョクグマは、広いプールで気持ちよさそうに泳いでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白熊は極寒の地で生きるため、厚い毛と脂肪を持っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地球温暖化の影響で、白熊の生息地が年々減少しているというニュースを見た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕は怖くなつて、とてもそのアメリカの小母さんの顔が見てはゐられなくなつて、窓の方に眼を向けると、雪の原には月が一面に青々と光つて、なんだか白熊たちは雪達磨をこしらへてゐるのでした。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:20:17.337519+00:00Z"
     }
   }
 ]

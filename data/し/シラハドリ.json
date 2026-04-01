@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画の主人公は、敵の白刃取りを鮮やかに決めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白刃取りは、武術の達人のみがなせる技だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼が白刃取りを披露すると、観客からどよめきが起こった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところでこの男がまた真剣｜白刃取りを奉書の紙一枚で遣付けようという男だったから、これは怪しからん、模本贋物を御渡しになるとは、と真正面からこちらの理屈の木刀を揮って先方の毒悪の真剣と切結ぶような不利なことをする者ではなかった。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T22:08:09.735515+00:00Z"
     }
   }
 ]
