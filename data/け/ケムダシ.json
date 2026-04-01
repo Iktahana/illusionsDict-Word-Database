@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い家の屋根には、趣のあるレンガ造りの煙出しがあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "暖炉を使う冬の間は、煙出しから常に煙が立ち上っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "煙出しの掃除を怠ると、煙が室内に逆流することがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この屋根の上に蘆が生えて、台所の煙出しが、水面へあらわれると、芥溜のごみが淀んで、泡立つ中へ、この黒髪が倒に、髻から搦まっていようも知れぬ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T21:47:23.822009+00:00Z"
     }
   }
 ]

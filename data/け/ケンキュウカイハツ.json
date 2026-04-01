@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "教授は、執筆のために今学期は研究休暇中です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "研究休暇を取ることは、専門的な活性化のための貴重な機会となり得る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は、海外の大学での研究休暇を賄うための助成金を受け取った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『マイコン入門』（廣済堂出版）の著者であり、〈ミスター半導体〉の大内淳義副社長や、わが国コンピュータ研究開発の草分けで、ソフトウエア技術の第一人者、水野幸男取締役らも、このマイコン勉強会で若い女性講師の『マイコンの動かし方』『プログラムの作り方』といった実技指導、講義の聞き役に回る。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T23:56:42.183173+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "幼い子供が、重い荷物を運ぶ両親を一生懸命手伝う姿は、とても健気（けなげ）で応援したくなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "病気の家族を献身的に支える彼女の態度は、周囲の人々から健気（けなげ）だと称賛された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "困難な状況にもめげず、目標に向かって努力し続ける彼の姿は、本当に健気（けなげ）だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "思えば思うほどひとり壁立｜万仭の高さに挺身して行こうとする娘の健気な姿が空中でまぼろしと浮び、娘の足掻く裳からはうら哀しい雫が翁の胸に滴って翁を苦しめた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T21:46:54.031301+00:00Z",
       "freq_rank": 27389
     }
   }

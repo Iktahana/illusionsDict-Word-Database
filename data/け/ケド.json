@@ -32,7 +32,35 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日は晴れているけど、明日は雨が降るらしいよ。",
+              "speaker": "A",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この映画は面白かったけど、結末があまりにも予想外だった。",
+              "speaker": "B",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "行きたいお店はたくさんあるけど、今は時間がないんだ。",
+              "speaker": "C",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ああ、その空さへもうすくもり、かみつけの山に雪くれば、魚らひそかに針をのみ、ま芝は霜にいろづけど、ひとり岸邊に針を垂れ、來らむとする冬を待つ。",
@@ -279,7 +307,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-03-31T21:46:54.026645+00:00Z",
       "freq_rank": 161
     }
   },
@@ -313,7 +341,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "KEDO（朝鮮半島エネルギー開発機構）は、北朝鮮への軽水炉提供を目的として設立された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "国際情勢の緊迫化により、KEDOの活動は大幅に縮小された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "KEDOに関する過去の合意事項について、専門家が解説を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ロンドンの宿に同宿していた何とかいう爺さんが、夕飯後ストーヴの前で旨そうにパイプをふかしながら自分等の一行の田所氏を捉まえて、ミスター・ターケドーロと呼びかけてはしきりにアイルランド問題を論じていた。",

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "糖尿病の合併症であるケトン体の上昇は、緊急の処置が必要となる場合がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "医師は、患者の血液検査でケトン体の値が高いことを確認し、厳重な経過観察を指示した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "断食や極端な低炭水化物食は、体内のケトン体の生成を促進することが知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "燃えないグルコースの血液中の蓄積そのものもひどい悪を引き起こすが、脂肪およびタンパク質の分解で大量に作られるケトン体とくにβ−ヒドロキシ酪酸によって致死的な最期を迎えることになると現在では普通に考えられている。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T21:46:54.025116+00:00Z"
     }
   }
 ]

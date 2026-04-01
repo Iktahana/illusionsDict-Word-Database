@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "結核性の病変は、X線写真で特徴的な影として現れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は結核性の関節炎と診断され、リハビリを受けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "結核性髄膜炎は、重篤な合併症を引き起こすことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "親父の結核性の喘息が非道くなったのもその叔父のせいだし、親類や友達に見限られて、コンナ貧民窟に潜り込んで、死ぬのを待つばかりの哀れな身の上になったのもその叔父のお蔭だという。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-03-31T21:03:15.100680+00:00Z"
     }
   }
 ]
