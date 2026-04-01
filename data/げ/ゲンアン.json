@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議で提出された企画の原案は、いくつかの修正を経て最終決定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この新製品のデザインは、彼の描いた原案が基になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "まずは原案を作成し、そこから具体的な内容を詰めていくことにしよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後にＪＩＳ X ０２１３と名付けられる規格の第三水準第四水準漢字原案は、一九九八年一二月に示され、翌一九九九年二月末を締め切りとして公開レビューが行われることになっていた。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T00:59:29.959793+00:00Z",
       "freq_rank": 10223
     }
   }

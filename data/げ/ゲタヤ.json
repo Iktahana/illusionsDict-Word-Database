@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "商店街の端にある古い下駄屋では、職人が客の足の形に合わせて鼻緒のきつさを調整してくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "お祭りの前に新しい下駄を新調しようと、親子で老舗の下駄屋を訪れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "下駄屋の店頭に並ぶ色とりどりの鼻緒を見ているだけで、心が華やいだ気分になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「今な奥さん、坊ちやが隣り下駄屋から――あれ何言ふか、野球手袋な、あれお主婦さに出して貰ふ彼方駆けたで。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:55:27.169872+00:00Z"
     }
   }
 ]

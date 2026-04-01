@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国際社会は、原子兵器の全面廃絶を求めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "原子兵器の脅威は、依然として世界平和にとって大きな問題だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は原子兵器の歴史について講演を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "平和のために世界十数億の人々が立ち、原子兵器使用禁止のアッピールに数億の人が署名しつつある今日、どんな恥しらずの戦争火つけ人でも、「平和のために」という口実によらなければ、戦争という人類的犯罪に人々をかり立てることは不可能になって来ているからである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:18:00.237663+00:00Z"
     }
   }
 ]

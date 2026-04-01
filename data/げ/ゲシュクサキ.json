@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "来月から東京の下宿先に引っ越します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大学の近くに良い下宿先が見つかってよかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はしばらく友人の下宿先に泊まらせてもらっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まだ肩みあげのついたまゝの、裾下一寸五分も白い足が覗いている短い着物に、十八の成熟した体を包んでお君が上本町九丁目の軽部の下宿先に初めて写本を届けて来たとき、二十八の軽部は、その乱暴ないろ気に圧倒されて、思わず視線を外らし、自分の固定観念にしがみついた。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:54:55.043796+00:00Z"
     }
   }
 ]

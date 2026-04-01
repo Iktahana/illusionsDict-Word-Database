@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "無事に登頂を果たした一行は、夕闇が迫る前に慎重に下山を始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "下山途中に足を挫いてしまい、仲間に支えられながらなんとか麓まで辿り着いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "下山した後に飲む冷たい水は、どんな飲み物よりも美味しく感じられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は東北生れの癖に、寒さに弱く、ごほん、ごほん變な咳さへ出て來て、たうとう下山を決意した。",
@@ -256,7 +281,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T00:53:57.064800+00:00Z",
       "freq_rank": 17079
     }
   }

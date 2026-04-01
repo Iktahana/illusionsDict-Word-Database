@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "モルモットは温厚な性格のげっ歯類で、子供でも世話しやすいのが魅力だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "げっ歯類は病原菌を媒介することもあるため、野生の個体には不用意に触れない方がいい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "多くのげっ歯類は夜行性で、夜になると活発に動き回ってエサを探す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ネズミなどのげっ歯類が移動して人に近づき、げっ歯類に疫病が起きるとその病気は人々に伝染する機会が増えた。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:57:04.639188+00:00Z"
     }
   }
 ]

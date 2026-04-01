@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山の頂上にある奥宮に対し、麓には参拝しやすい下宮が鎮座している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "階段を降りきった先にある下宮には、地域の守り神が祀られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祭りの行列は、上宮を出発して賑やかな街中を通り、下宮へと向かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二十五日　宮川の池に沿いて、宮川の窪を登り、岩壁を直進して、御幣岳の最南峰に登り、各峰を縦走して、二十一日の来路と合し、降路は下宮川谷に入りて、梓川に下り、上高地温泉に帰宿。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:53:57.055633+00:00Z"
     }
   }
 ]

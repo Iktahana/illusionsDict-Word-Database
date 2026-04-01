@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議室では、新しい開発方針をめぐって深夜まで激論が交わされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "些細な意見の食い違いから、いつの間にか激論へと発展してしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "テレビの討論番組で、二人の政治家が外交問題について激論を戦わせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "激論われはかの夜の激論を忘るること能はず、新らしき社会に於ける「権力」の処置に就きて、はしなくも、同志の一人なる若き経済学者Ｎと我との間に惹き起されたる激論を、かの五時間に亙れる激論を。",
@@ -238,7 +263,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T00:53:57.052765+00:00Z",
       "freq_rank": 30187
     }
   }

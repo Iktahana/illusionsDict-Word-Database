@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の田んぼ一面に広がる紫雲英のピンク色の花は、まるでお花の絨毯のようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「あ、紫雲英が咲いてる！昔はこれを摘んで花冠を作ったものだよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "紫雲英は根粒菌の働きで土を豊かにするため、昔から緑肥として重宝されてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今日では、田の草どころでなく、わざと紫雲英草を種子蒔き前の田に植えて、空中窒素を地中に吸い取らせて土地を肥沃します。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:07:33.780149+00:00Z"
     }
   }
 ]

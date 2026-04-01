@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本屋には様々なジャンルの月刊雑誌が並んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は毎号欠かさずその月刊雑誌を購読している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最新号の月刊雑誌を買いに、彼は書店へ向かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現在でも月刊雑誌の編集部では随筆の類は「中間物」と称する部類に編入され、カフェーの内幕話や、心中実話の類と肩をならべ、そうしていわゆる「創作」と称する小説戯曲とは全然別の繩張り中に収容されているようである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T00:57:23.816401+00:00Z"
     }
   }
 ]

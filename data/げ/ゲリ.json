@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨夜食べた生ものがあたったのか、朝から激しい下痢に見舞われてトイレから一歩も出られない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "旅行先で水道水を飲んでしまい、ひどい下痢と腹痛に襲われて現地の病院へ行く羽目になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ストレスが溜まるとすぐに下痢をする体質なので、大事なプレゼンの前には必ず整腸剤を飲むようにしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "僕、病勢は変りなく、熱はなくなりましたが下痢は酷くおもゆとミルクでアゴ伸びるばかり（お粥をちょいと食うともういけません、情けない腹になりやがったものです）けれど懸命に頑張って居りますから此の手紙がそちらへ着く頃には（それが一ヶ月もかかるのでしたら）退院して本隊を追ッ掛けている筈です。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T01:11:34.918573+00:00Z",
       "freq_rank": 13102
     }
   }
