@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新型ロケットの打ち上げをコンピュータ上で何度もシミュレートし、安全性を高める。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "人口推移をシミュレートした結果、将来的な労働力不足が深刻化することが判明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新薬の効果を細胞レベルでシミュレートし、開発期間の大幅な短縮を目指す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本質において万能物真似機械であるコンピューターは、これまで『タイプライター』をシミュレートして、パーソナルコンピューターと名乗っていた。",
@@ -120,7 +145,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T15:47:17.862620+00:00Z",
       "freq_rank": 27902
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冷え込みが厳しかった翌朝、庭の土を持ち上げるように立派な霜柱ができていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "登校中の小学生たちが、サクサクと音を立てて霜柱を踏みながら歩いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "霜柱の結晶を顕微鏡で覗いてみると、細長い氷の柱が幾重にも重なっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "庭の日かげはまだ霜柱に閉じられて、隣の栗の木のこずえには灰色の寒い風が揺れているのに南の沖のかなたからはもう桃色の春の雲がこっそり頭を出してのぞいているのであった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T15:35:03.120519+00:00Z"
     }
   }
 ]

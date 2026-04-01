@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経済の悪化は、しばしば社会不安を引き起こす原因となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "政府は、社会不安を抑えるために、迅速な対策を講じる必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "マスメディアは、社会不安の広がりを報道し、国民の関心を高めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊にヨーロッパでは強力な国家が狭小な地域に密集して永い間、深刻な闘争をくり返し、科学文明の急速な進歩に大なる寄与をなしたけれども、その覇道的弊害もますます増大して今日、社会不安の原因をなし、清水氏の主張の如く、これも根本的に刷新することが不可能である。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T15:53:33.383111+00:00Z"
     }
   }
 ]
