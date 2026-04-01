@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の訪れとともに、山には美しいシャクナゲの花が咲き乱れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "公園の散策路には、色とりどりのシャクナゲが植えられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "シャクナゲの堂々とした花姿は、見る人を魅了する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上り初めると蝶ヶ岳が見える、この山もそれに続く熊村岳（宛字）も、谷から渦まき※る飛沫のような霧に、次第に包まれて来る、足許には白花石楠花や、白山一華の白いのが、うす明るく砂の上に映っている。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:22:24.782318+00:00Z"
     }
   }
 ]

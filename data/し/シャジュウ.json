@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この電気自動車は、バッテリーを搭載しているため、従来のガソリン車よりも**車重**が重い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "終電車重い響を残して帰つた・星があつて男と女・霙ふる、売らなきやならない花をならべる・霙ふるポストへ投げこんだ無心状・ぬかるみをきてぬかるみをかへる不幸はたしかに人を反省せしめる、それが不幸の幸福だ、幸福な人はとかく躓づく、不幸はその人を立つて歩かせる！",
@@ -100,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:11:41.716796+00:00Z"
     }
   }
 ]

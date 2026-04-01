@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村の奥には、古くから信仰されている石神が祀られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この石神に願掛けをすると、子宝に恵まれるという言い伝えがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "毎年、多くの人々が石神の前で手を合わせ、豊作を祈る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "石神の庄助がさきに立って、そのあとから、練瓦場の人たちが三人ばかり、肌ぬぎになったり、網を持ったりして、河原のねむの木のとこを、こっちへ来るから、ぼくは、きっと発破だとおもった。",
@@ -254,7 +279,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:22:24.774834+00:00Z"
     }
   }
 ]

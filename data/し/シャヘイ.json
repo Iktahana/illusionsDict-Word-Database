@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "放射線から身を守るため、厚い鉛板で遮蔽された部屋に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "敵の攻撃から部隊を守るため、地形を利用した遮蔽が重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "太陽光を遮蔽するために、窓にブラインドを取り付けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼女の眼前に差し出されて、行手の半分程も遮蔽して居るワルトンの顔を、彼女はさもさも邪魔物のように自分の頭を下へ幾分下げて、左手の芝生を覗いた。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T18:20:00.742264+00:00Z",
       "freq_rank": 27280
     }
   }

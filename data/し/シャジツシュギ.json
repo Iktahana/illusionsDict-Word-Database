@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "19世紀のフランス文学では、社会の現実を描く**写実主義**が隆盛を極めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼の実証主義写実主義の現われとしてその筆によって記録された雑多の時代世相風俗資料は近頃ある人達の称える「考現学的」の立場から見て貴重な材料を供給するものであることは周知なことである。",
@@ -285,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:11:41.714586+00:00Z"
     }
   }
 ]

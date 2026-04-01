@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "金閣寺には、仏舎利を安置する舎利殿がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "舎利殿の内部は、厳かな雰囲気に包まれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "多くの参拝者が、舎利殿の前で手を合わせ祈りを捧げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "希臘の神殿を彷彿せしむるような円柱の立ち並んだ金堂、平城京の朝集殿と伝えらるる講堂、及びその西側に細長く建っている舎利殿、小さく可憐な二階造の鼓楼、この四つの伽藍が秋の光りを一杯にうけて粛然と静まりかえっている状景は無比である。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:29:13.627887+00:00Z"
     }
   }
 ]

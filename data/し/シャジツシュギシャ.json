@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その小説家は、人間の内面を深く掘り下げる**写実主義者**として評価されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "現実主義者は、象徴的気分を喜ぶはずがない、日本画壇には写実主義者や、象徴主義者はまことに多いが、郷倉氏のやうなタイプの現実主義者は至つて少ないのである。",
@@ -228,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:11:41.715202+00:00Z"
     }
   }
 ]

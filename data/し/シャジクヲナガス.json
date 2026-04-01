@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "突然の豪雨で、あっという間に道路が冠水し、まさに**車軸を流す**ような降り方だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此時今迄は晴朗であつた大空は、見る／＼内に西の方から曇つて來て、熱帶地方で有名な驟雨が、車軸を流すやうに降つて來た。",
@@ -237,7 +246,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:11:41.713233+00:00Z"
     }
   }
 ]

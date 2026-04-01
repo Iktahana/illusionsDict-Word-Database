@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "若い頃は娑婆気も強かったが、年を取るにつれて執着が薄れてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は僧侶になり、娑婆気から離れた生活を送っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この世の栄華よりも、心の平安を求め、娑婆気のない生き方をしたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「でもね、娑婆気だの、洒落だの、見得だの、なんにもそんな態とでなしに、しようと思って、直ぐあの中へ、頭からお宝を撒ける人は、まあ、沢山ほかには無い。",
@@ -222,7 +247,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T18:20:00.733691+00:00Z"
     }
   }
 ]
