@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歌川広重の浮世絵「東海道五十三次」は世界的に有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の旅人は、五十三次を歩いて京を目指した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "五十三次の宿場町には、それぞれ独自の歴史がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何も急く旅でもなしいっそ人力で五十三次も面白かろうと、トウトウそれと極ってからかれこれ一月の果を車の上、両親の膝の上にかわるがわる載せられて面白いやら可笑しいやらの旅をした事がある。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:41:58.694807+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨日発生した強盗事件は、未だ犯人が捕まっていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "警察は連続強盗事件の犯人を追っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その日のニュースは、大きな強盗事件の話題で持ちきりだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "７　××署ではつい二、三カ月前にも白昼、住井貿易商を襲った強盗事件でさんざん味噌をつけて、警視庁からお目玉を頂戴している矢先のことでもあるので、西村商会社長の変死事件に対しては近来まれにみる緊張ぶりを示した。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:35:38.807262+00:00Z"
     }
   }
 ]

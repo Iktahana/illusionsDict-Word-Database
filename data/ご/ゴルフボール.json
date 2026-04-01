@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ゴルフボールが林の中に飛んで行ってしまい、探すのに苦労しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ティーショットで、新しいゴルフボールを思いっきり打ちました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あのゴルフボール、よく見ると小さな傷がたくさんついてるね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "退院して湯河原で静養中に、ゴルフボールを一ダース退院祝いにぶらさげて遊びに行くと、さっそく箱をあけボールをとりだして眺めたり撫でたり、まるで舐めやしないかと思うような喜びようであった。",
@@ -78,7 +103,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:56:44.439461+00:00Z"
     }
   }
 ]

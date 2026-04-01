@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、五十肩で腕が上がりにくくなってきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "医者に診てもらったら、軽い五十肩だと診断された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "五十肩の予防には、適度な運動とストレッチが効果的だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「四十肩とか五十肩とかいうんだそうで、こう腕が痛くちゃ、軽業稼業は上がったりだといっておりました」「とんだ邪魔をしたな、それじゃ寝酒の方を続けてくれ」　平次はこんなことで小屋の調べに見きりをつけたのです。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:41:58.694317+00:00Z"
     }
   }
 ]

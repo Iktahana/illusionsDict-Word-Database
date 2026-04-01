@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医者は彼の五臓に異常がないか、詳しく検査した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "激しい運動の後、五臓六腑に染み渡るような冷たい水が欲しくなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この薬は五臓の働きを助けると言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鴨長明の方丈記を引用するまでもなく地震や風水の災禍の頻繁でしかも全く予測し難い国土に住むものにとっては天然の無常は遠い遠い祖先からの遺伝的記憶となって五臓六腑にしみ渡っているからである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:45:57.584148+00:00Z"
     }
   }
 ]

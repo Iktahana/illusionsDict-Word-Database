@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漢方薬局で冷え性に効く薬を相談したら、呉茱萸が配合されたものを勧められた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "呉茱萸は非常に苦いが、その分、胃腸の働きを助ける効果が強いと言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い医学書を開くと、呉茱萸を用いた様々な処方が詳しく記載されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "茱萸と称える者には二つあって一は呉茱萸、一は食茱萸であるが、九月九日に使用するのは主として呉茱萸（Evodia 属の者）の実である。",
@@ -239,7 +264,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:51:55.494376+00:00Z"
     }
   }
 ]

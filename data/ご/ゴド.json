@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "音楽理論では、完全五度は安定した響きを持つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の歌声は、ピアノの五度の和音とよく調和していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "バイオリンの弦は、完全五度の関係で調弦されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かくて視たところを綜合して言えば、山の頸部は、三十五度の傾斜から、次第に緩和して二十度、十五度、十度と、延んびりした線を、大裾野へ引き落し、末端は五度位にちぢんでいるが、富士山の如く、草山三里、木山三里、石山三里という割り当ては、シャスタには応用出来ない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:49:31.732316+00:00Z"
     }
   }
 ]

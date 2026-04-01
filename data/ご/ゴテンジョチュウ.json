@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "御殿女中たちは、大奥の複雑な人間関係の中で生きていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "幼い頃、御殿女中のお話を聞くのが好きだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "御殿女中の仕事は、見た目以上に重労働だったに違いない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その中で淀君と三成の情交を述べた處、または御殿女中の亂行の件に來たりすると、私の入院日數の七十餘日の間一日も休まずに附き添つてゐてくれたその若い武井さんは、聲をひそめたり、飛ばして讀んだりした。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:47:08.572748+00:00Z"
     }
   }
 ]

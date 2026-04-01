@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "教室の壁には大きな五十音図が貼ってあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は五十音図を見ながら、発音の練習をした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供向けの日本語学習アプリには、カラフルな五十音図が含まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして、五十音図は後に出来たものであるけれども、五十音図で同行または同段に属する仮名に相当する奈良朝の諸音は、その実際の発音を研究した結果、やはり互いに共通の単音をもっていたことが推定せられる故、説明の便宜上、行または段の名をも用いることとした。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:41:58.693992+00:00Z"
     }
   }
 ]

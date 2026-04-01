@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "偽造品は元の絵に極似しており、専門家でさえ騙されてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "息子は外見も気性も母親に極似していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新しいAIモデルは、人間の思考プロセスに極似するように設計された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "第六　神代文字之卷　第五の文書は標記して大日本天皇國太古代上々代神代文字之卷と題し、第四の文書の標題と極似してゐるが御皇譜の三字を失つてゐる。",
@@ -159,7 +184,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:40:21.508461+00:00Z"
     }
   }
 ]

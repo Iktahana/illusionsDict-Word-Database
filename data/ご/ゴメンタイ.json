@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "四角錐は、1つの底面と4つの側面を持つ五面体の一種である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "三角柱は、上下の2枚の底面と3つの側面で構成される五面体だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "図形の授業で、厚紙を切って色々な五面体の模型を組み立てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その飾窓にある腕環は、そういうモードの極限をとらえていて、伸子に名のしれないそのサファイア色のどっしりした長方形の石は鋭い十五面体に截られ、質のいい小粒なダイアモンドにつながれている。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:53:05.030316+00:00Z"
     }
   }
 ]

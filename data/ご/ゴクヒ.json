@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この計画は極秘裏に進められており、関係者以外には一切漏らされていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大統領は、極秘事項として、その会談の存在を隠蔽した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼らは極秘裏に連絡を取り合い、誰にも知られずに次の作戦を練った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしその器械の構造は勿論一切を極秘密にしているから分らぬが、とにかく磁力を利用したもので、これを載せた船の向かう処一定の距離にある沈設水雷をことごとく爆発して無効にするそうである。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T06:40:21.509453+00:00Z",
       "freq_rank": 15239
     }
   }

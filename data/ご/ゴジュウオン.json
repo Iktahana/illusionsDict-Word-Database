@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本語を学ぶ際、まず五十音を覚えることから始める。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "五十音表は、日本語学習者にとって非常に役立つツールだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は五十音を完璧に暗記している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして、五十音図は後に出来たものであるけれども、五十音図で同行または同段に属する仮名に相当する奈良朝の諸音は、その実際の発音を研究した結果、やはり互いに共通の単音をもっていたことが推定せられる故、説明の便宜上、行または段の名をも用いることとした。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T06:41:58.693524+00:00Z",
       "freq_rank": 35848
     }
   }

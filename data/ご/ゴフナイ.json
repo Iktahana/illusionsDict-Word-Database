@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史小説の主人公は、御府内の様子を視察するために夜の町を密かに歩き回った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "当時は御府内に住むことが一つのステータスであり、多くの人々が憧れていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "地図を広げて、かつての江戸城を中心とした御府内の広がりを確認してみる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "隅田川本流大川に橋のかかつたのは、萬治三年の兩國橋――最初は大橋、または二洲橋――と名附けられ、對岸の深川、本所は（もとの名、永代島、牛島）とうに御府内に抱へこまれてゐて、橋こそなかつたが、芦や葭の生へた洲ばかりだと思ふと大違ひの賑はしいところであつたのだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:50:45.678668+00:00Z"
     }
   }
 ]

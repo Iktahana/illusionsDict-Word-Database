@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "掃除を怠っていた部屋の隅から、突然大きなゴキブリが這い出してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ゴキブリを一撃で仕留めるべく、スプレーを手に持ってじっと隙間を監視する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "どんなに嫌われても生き延びるゴキブリの生命力には、ある種の畏怖さえ感じる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "チャイナ中国の貿易船のネズミとゴキブリだらけの黴臭えおんぼろ箱のなかで終わるとかありえねえ。",
@@ -86,7 +111,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T06:39:07.285070+00:00Z",
       "freq_rank": 16733
     }
   }

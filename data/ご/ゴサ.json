@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "精密機器の測定において、コンマ数ミリの誤差も命取りになりかねない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "理論値と実測値の間にわずかな誤差が生じている原因を、チームで究明する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「多少の誤差はあっても、全体の傾向を把握するには十分なデータだよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一体近来の汽船には鉄を多量に使用するため、ややもすれば船体の鉄材が船の生命――羅針盤の磁石に感じて多少の誤差を起させる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T06:40:33.589207+00:00Z",
       "freq_rank": 11144
     }
   }

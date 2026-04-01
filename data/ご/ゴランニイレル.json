@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私の書いた絵を、先生にご覧に入れたいのですが、よろしいでしょうか。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この新しい企画書を、役員にご覧に入れて、ご意見を伺いたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼が一生懸命作った作品を、両親にご覧に入れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "客と主人との間の話で、今日学校で主人が校長から命ぜられた、それは一週間ばかり後に天子様が学校へご臨幸下さる、その折に主人が御前で製作をしてご覧に入れるよう、そしてその製品を直に、学校から献納し、お持帰りいただくということだったのが、解ったのであった。",
@@ -165,7 +190,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:57:01.292651+00:00Z"
     }
   }
 ]

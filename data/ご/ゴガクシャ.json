@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議には、著名な「語学者」（言語学者）のパネルが登場しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「語学者」（言語学者）として、彼女は多くの言語における文法構造についての深い理解を持っています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "多くの「語学者」（言語学者）は、AIのための自然言語処理にも携わっています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかもこれが語学者として名声の高い宮森氏の訳であり、内外共に最近の「名訳」として好評されてるのを見ては、いよいよ以て詩の翻訳の不可能性を痛感する次第である。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T06:35:39.597548+00:00Z"
     }
   }
 ]

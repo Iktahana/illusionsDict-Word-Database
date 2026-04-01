@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テレビやインターネットが普及したことで、現代の娯楽は実に多種多様になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "厳しい労働の合間に、仲間とささやかな娯楽を楽しむことが唯一の生きがいだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "公共の場における娯楽施設は、地域住民の貴重な交流の場としても機能している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "異性が相｜共に遊ぶ娯楽が日本にはあまりになさ過ぎる。",
@@ -253,7 +278,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T06:54:11.801292+00:00Z",
       "freq_rank": 6841
     }
   }
