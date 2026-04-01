@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その法案に反対する大規模な抗議運動が起こった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "抗議運動は平和的に行われ、大きな混乱はなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "抗議運動の結果、政府は政策の一部見直しを余儀なくされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "レストランでのシット・インは、黒人を差別することに対する本能的な義憤によって動かされた抗議運動なのだが、人種差別の単なる撤廃ではなく、そのような人種差別がおこなわれているアメリカの一部分をとおし、アメリカ全体を批判し否定することであった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:54:15.973192+00:00Z"
     }
   }
 ]

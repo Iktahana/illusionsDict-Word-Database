@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "欠席した授業の講義録を友人にメールで送ってもらった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "教授の熱い語り口をそのまま再現した講義録が、試験対策に非常に役立った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "後世の学生のために、この貴重な特別セミナーの講義録を作成しておく必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし考えてみると、多くの自然科学の学生がその研究の対象とする自然を見るのに、あるいは教科書を通しあるいは教師の講義録を通して見るのみで、自分の眼で自分の頭で自然を観察するものが果して幾何あるだろうかという事を考えざるを得なかった。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:57:20.304518+00:00Z"
     }
   }
 ]

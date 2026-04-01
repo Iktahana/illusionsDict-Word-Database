@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "血液検査の結果、好酸球の数値が基準値よりもかなり高く、アレルギー反応が出ている可能性を指摘された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "好酸球は白血球の一種であり、寄生虫の感染や喘息などのアレルギー疾患に関与している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "顕微鏡で血液の塗抹標本を観察すると、赤く染まった顆粒を持つ好酸球がはっきりと確認できた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "血液にはアルカリ性色素と親和性をもつ細胞（好塩基球）があり他の種類の細胞（好酸球）は酸性色素に親和性がありさらに他の種類の細胞（好中球）は中性色素と親和性があった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:00:38.671337+00:00Z"
     }
   }
 ]

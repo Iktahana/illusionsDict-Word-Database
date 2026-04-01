@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜の工場街を歩くと、規則的な機械音と作業の灯りが幻想的な雰囲気を作り出している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "かつて活気に溢れていた工場街も、今では閉鎖された建物が目立つようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "映画のロケ地として選ばれたのは、古びた赤レンガの建物が並ぶ工場街だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一般にこの市は（他の市もそうかも知れないが）奇妙なことには、工場街と富豪の屋敷街がぴったりくっついて存在しているということである。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:06:49.536368+00:00Z"
     }
   }
 ]

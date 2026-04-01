@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国道沿いには、周辺のレジャー施設を紹介する大きな広告板が並んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "駅のホームにある広告板を見ながら、次に旅行に行く場所をぼんやりと考えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "台風の影響で強風が吹き荒れ、古い広告板が倒壊する恐れがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "路次｜角の電柱に懸かつた医者の広告板なのだが、その姓をどう読んでいいか分らなかつた、そのまはりに蛾が沢山、それを照明してゐる電燈のまはりにも、とまつたり飛んだりしてゐる。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:58:11.505038+00:00Z"
     }
   }
 ]

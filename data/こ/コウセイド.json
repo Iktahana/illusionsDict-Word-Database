@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この工場では、高精度なレーザー加工機を使って微細な部品を製造している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "最新の気象モデルにより、従来よりも高精度な台風の進路予測が可能になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "高精度な天秤を用いて、薬品の重さをミリグラム単位で正確に量る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もっともそのためには精密な計画と行き届いた考察なしには手を出せないことは言うまでもないことであるが、その際得る数字の最高精度は少なくも最初には必ずしも問題にならないのである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:10:06.207608+00:00Z"
     }
   }
 ]

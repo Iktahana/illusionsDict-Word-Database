@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "平安時代の『枕草子』も、現代の目で見ると、意外と口語文に近い部分がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、退屈な専門書よりも、生き生きとした口語文で書かれた小説を読むのが好きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この朗読CDでは、古典文学を親しみやすい口語文で再構成して上演している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近き文壇に於ける我が小説の低落は、彼等がその芸術的に訓練されない猥雑の口語文を以てした為に、外国文学に見る如き高貴な詩人的の心を失い、江戸文学の続篇たる野卑俗調の戯作に甘んじ、一歩もそれから出ることができなかったのだ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:03:49.945325+00:00Z"
     }
   }
 ]

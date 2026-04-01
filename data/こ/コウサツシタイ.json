@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山中の廃屋から身元不明の絞殺死体が発見され、警察は殺人事件として捜査を開始した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ミステリー小説の第一章は、雪の密室で発見された絞殺死体の描写から始まる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "鑑識官たちは、絞殺死体の首周りに残された微細な繊維片を慎重に採取した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "むろん疑いもない電燈コードによる絞殺死体で、格闘の際の出来事であろう、舌の途中を大きく噛切っている事が間もなく警察医によって発見された。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:00:38.667761+00:00Z"
     }
   }
 ]

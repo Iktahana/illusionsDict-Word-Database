@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、木工芸の分野で名高い工芸家だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "若い工芸家たちが集まり、新しい作品展を開催した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔ながらの技法を守り続ける工芸家の情熱に感動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その上、秀吉は、都市経営策として、美術工芸の名工を京都｜烏丸に集めたので、京都は美術工芸の中心地となり、本阿弥光悦とか野村宗達などの優れた工芸家があらはれ、桃山風の華美な工芸品を作つた。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:56:06.121193+00:00Z"
     }
   }
 ]

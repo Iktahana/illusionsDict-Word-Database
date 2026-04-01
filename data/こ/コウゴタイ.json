@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の小説は、堅苦しい文章ではなく、親しみやすい口語体で書かれており、多くの読者に支持されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この翻訳は、原文の雰囲気を損なわずに、自然な口語体で表現されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "脚本家は、登場人物の個性を際立たせるために、それぞれ異なる口語体でセリフを書き分けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "地の文はこれまで書き慣れた口語体、対話は現代の東京語で、只山岡大夫や山椒大夫の口吻に、少し古びを附けただけである。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:03:49.943504+00:00Z"
     }
   }
 ]

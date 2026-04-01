@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親知らずが横向きに生えていたため、普通の歯医者ではなく口腔外科を紹介された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "顎の骨を骨折した患者が、口腔外科の緊急手術を受けることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "口腔外科での抜歯は怖かったが、麻酔のおかげで痛みを感じずに済んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "やがて近処の医者が呼ばれて来たが、その診察によると老婆の病は歯根骨膜炎といって、口腔外科の医者に手術をしてもらわなければならないという事であった。",
@@ -158,7 +183,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T01:57:20.318356+00:00Z"
     }
   }
 ]

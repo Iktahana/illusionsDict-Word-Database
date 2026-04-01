@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "休日の公衆浴場は、近所の人々で賑わっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は毎日、仕事帰りに公衆浴場で汗を流すのが日課だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔ながらの公衆浴場は、地域のコミュニティの場となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは警察署の聴取書綴のなかから発見したものであったが、事件は築地の或る公衆浴場の流し場で、仲間同士らしい裸の客がわあわあ喋っているのを、盗み聞きしていた一｜浴客が、後にまたそれを他の者へ得々として喋っているところを御用となったものであった。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:03:46.618219+00:00Z"
     }
   }
 ]

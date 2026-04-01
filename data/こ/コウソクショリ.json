@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "AIによる高速処理を活用することで、何万枚もの画像の中から特定の人物を瞬時に見つけ出す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "複雑な3Dゲームを快適に動かすには、高性能なGPUによる高速処理が欠かせない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「このソフト、高速処理って謳ってる割には、起動するまでめちゃくちゃ時間がかかるなあ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ａ４の縦長のディスプレイを採用していたアルトに対し、ブルーのあざやかな画面を横長（一〇二四×八〇〇ドット）にとったスターは、大きなデータの高速処理に適したビットスライス方式★のマイクロコンピューター、２９０１を採用して高度なグラフィックスの処理要求に応えようとしていた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:13:52.466370+00:00Z"
     }
   }
 ]

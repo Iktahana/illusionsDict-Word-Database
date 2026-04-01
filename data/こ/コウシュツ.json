@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この用語の定義については、本章の後半で後出する詳細な解説を参照していただきたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "論文の構成上、重要なデータはあえて後出のグラフにまとめ、結論の説得力を高めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "先ほど言及した仮説の根拠は、後出する実験結果によって裏付けられることになる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Je me suis dit : Laisse,Et qu'on ne te voie.qu'on ne te voie !!!　　　　　――――――――――　以後出来る限り、僕は詩論の断片をお送りします。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:04:34.429113+00:00Z"
     }
   }
 ]

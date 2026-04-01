@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "学校で習う文法は、書き言葉に特化したものが多いが、口語文法は話し言葉のルールを体系化する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "現代日本語の口語文法は、時代とともに変化しており、新しい表現も次々と生まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は、大学で口語文法を専門に研究し、話し言葉の奥深さを探求している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其を民間伝承、即、異郷趣味を唆る様な、特殊な地方風俗・名産・方言或は――既に固定した文学用語・枕ごと以外に、古典的な清純な感情を起す体言・用言・助辞なども、現代通用の粗雑な整頓せられない都鄙の口語文法などから、識別採用する風雅意識は十分にあつた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T02:03:49.945766+00:00Z"
     }
   }
 ]
