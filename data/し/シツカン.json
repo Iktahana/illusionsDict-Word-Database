@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「このソファは本革ならではのしっとりとした質感が素晴らしい。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「3DCGの制作では、金属や布の質感をリアルに再現するのが難しい。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「手に取った時の独特な質感が、この陶器の最大の魅力だ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もちろん彼の意味する詩は、形式上の詩――抒情詩や敍事詩の韻文學――でなく、一般文學の本質感たるべき詩、即ち「詩的情操」を指してゐるのだ。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T14:29:47.804442+00:00Z",
       "freq_rank": 15199
     }
   }

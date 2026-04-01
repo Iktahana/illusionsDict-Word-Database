@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国からの補助金が減らされる中、全国の市町村は独自の財源確保に必死になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ゴミの分別ルールは住んでいる市町村によって異なるため、引っ越しの際は注意が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "災害発生時には、市町村を越えた広域的な支援体制が速やかに構築されるべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "無月謝ヨリ生ズル負擔ハ各市町村此レヲ負フベク、教科書ハ國庫ノ經費ヲ以テ全國ノ學校ニ配布スベシ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T14:26:27.027303+00:00Z",
       "freq_rank": 2749
     }
   }
