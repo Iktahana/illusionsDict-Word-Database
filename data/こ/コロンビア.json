@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コロンビアは、南米大陸の北西部に位置し、豊かな自然と文化を持つ国だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は、コロンビアのコーヒー生産地域を訪れ、その独特の風味を体験した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "コロンビアの首都ボゴタは、アンデス山脈の高地にあり、活気あふれる都市である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ボブ・スタインとの出会い　コロンビア大学で心理学を、ハーヴァード大学の修士課程で教育学を専攻したスタインは、エンサイクロペディア・ブリタニカ社の社長にコンサルタントとして雇われていた時期、ヴィデオディスクとコンピューターを組み合わせて、新しい用途を開く研究に取り組みました。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T05:19:25.184971+00:00Z",
       "freq_rank": 12664
     }
   }

@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "何度失敗しても、彼は懲りないで新しい事業に挑戦し続ける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "中にはコリント式やイオニヤ式、ドリヤ式なぞいう恐ろしく気取ったのもあるが、しかしその生地がセメント塗りで恰好だけ作ってあるので、却てつまらなく見える。",
@@ -116,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:00:30.700507+00:00Z"
     }
   }
 ]

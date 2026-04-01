@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これと言った特徴のない、ごく普通のマンションだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "風邪をひいたが、これと言った症状もなく、すぐに治った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "これと言った趣味もなく、休日は家でゴロゴロしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところがですな、きまった俸給と、そのほかに何やかやと――まあ臨時加俸とか、賞與金とか、追加手當とか、膳部料とか、それから一時賜金とか――そんなものを除いては何ひとつその、つまりこれと言った資産になるような、重みのある金はないというわけなんです。",
@@ -229,7 +254,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:01:36.296973+00:00Z"
     }
   }
 ]

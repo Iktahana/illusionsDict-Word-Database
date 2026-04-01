@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この限定セールこそが、まさに我々の殺し文句ってわけさ！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしたら、十番館で踊っていただけなくなりますわねえ」　これくらいの殺し文句は、陽子も使えるくらい、――頭がよかった。",
@@ -205,7 +214,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:09:37.537862+00:00Z"
     }
   }
 ]

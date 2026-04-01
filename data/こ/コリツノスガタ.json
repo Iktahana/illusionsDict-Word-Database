@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "多くの東アジアの言語は、膠着語や屈折語とは異なり、比較的孤立語の傾向が強い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一日わが孤立の姿、黙視し兼ねてか、ひとりの老婢、わが肩に手を置き、へんな文句を教えて呉れた。",
@@ -52,7 +61,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:00:30.692424+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これでもかと言うほど働いたので、今夜はぐっすり眠れるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はこれでもかと言うほど詳細に、事件の経緯を語った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新商品のプロモーションは、これでもかと言うほどテレビCMが流されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一人は手も足も黒々と陽にやけた、いかにも山男といったたのもしそうな中年の男で、もう一人のほうは、見た眼に感じはいいが、チョコチョコした軽率そうな男で、ガイドというものの苦労を、これでもかというほど誇張して話す。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:01:36.295946+00:00Z"
     }
   }
 ]

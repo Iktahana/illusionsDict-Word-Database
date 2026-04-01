@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "まさかこれ程の規模の災害になるとは、誰も予想していなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女の優しさが、これほどまでに心に染みるなんて。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "これほど美しい景色は、世界中どこを探しても見つからないだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "が、これ程、怖れなく、と云ふよりも生への執着を抛棄して、死の方へ引つ張られるやうにズルズルと考へ込んで、あらゆる生への努力を、六ヶ月間も打つ棄つてしまつたことは初めてであつた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T05:01:36.302954+00:00Z",
       "freq_rank": 37678
     }
   }

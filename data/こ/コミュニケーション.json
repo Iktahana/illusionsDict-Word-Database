@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "円滑な人間関係を築くためには、良好なコミュニケーションが不可欠です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "チーム内でのコミュニケーション不足が、プロジェクトの遅延を招いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "非言語コミュニケーションも、意思疎通において重要な役割を果たします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "核攻撃を受けて通信線の一部が途絶えても、全面的なコミュニケーションの途絶に陥らないよう備えた、網の目状の〈打たれ強い〉通信網が原点だったと言うのです。",
@@ -217,7 +242,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T04:54:18.762142+00:00Z",
       "freq_rank": 1728
     }
   }

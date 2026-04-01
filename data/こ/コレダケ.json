@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これだけ(これだけ)の犠牲を払ってでも、目標を達成したい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、これだけ(これだけ)の努力をすれば、必ず成功すると信じている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「これだけ(これだけ)の熱意があれば、どんな困難も乗り越えられるだろう。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「此の錢で外の物買つて喰つた方がえゝから此れ丈は遣るとすべえよ、折角勘定もしたもんだからよ、俺ら大層よくなつたんだから大丈夫だよ」お品はいつた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T05:05:13.544635+00:00Z",
       "freq_rank": 14870
     }
   }

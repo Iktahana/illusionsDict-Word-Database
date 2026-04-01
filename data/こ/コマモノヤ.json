@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母は昔、町の角に小さな小間物屋を営んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "母は、小間物屋で売っているビーズで、手作りのアクセサリーを作るのが好きだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この小間物屋、品揃えが豊富で見ていて楽しいね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その石段の両側には、土産物の寄木細工を売る店や、かういふ町に適当な小綺麗の小間物屋や、舶来煙草を飾つた店や、中庭に廻廊のある二層三層の温泉旅館が、軒と軒とを重ね合せて、ごてごてと不規則に並んで居る。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:58:07.989211+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "網にかかった大量の魚の中に、漁獲対象外の魚が混獲されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "混獲されたウミガメを保護するため、漁法が改善された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "混獲を減らすための技術開発が、持続可能な漁業にとって不可欠だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし一方に、地震の前日北浦で種々の魚類が混獲され、また岩館と八森でマスが平常の数倍も漁獲された事実については、「微細な地鳴りが局所に感じただけでも、そう言う結果になるのではなかろうか」と、微細な振動の効果で説明した。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:19:44.025071+00:00Z"
     }
   }
 ]

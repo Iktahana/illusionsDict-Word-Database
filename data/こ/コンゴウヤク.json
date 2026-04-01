@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医師は、解熱剤と咳止めをあらかじめ調合した混合薬を処方してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "複数の成分が含まれる混合薬を飲む際は、飲み合わせによる副作用に注意が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この混合薬は、長年の臨床研究を経て最も効果的な配合比率が導き出されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ローマの多くの医師は小部屋を持っていてそこで処方したり混合薬をつくる自由化奴隷であり、自由化奴隷または奴隷の、助手または学生によって助けられた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:21:36.170955+00:00Z"
     }
   }
 ]

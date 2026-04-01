@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これはと見込まれた若手社員が、突然会社を辞めてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女がこれはと閃いたアイデアは、会議で高く評価された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "これはという時に限って、いつも邪魔が入るものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殺人鬼、吸血鬼、などと憎むべきものを鬼と呼ぶところから見ても、これはとにかく醜惡の性格を有する生き物らしいと思つてゐると、また一方に於いては、文壇の鬼才何某先生の傑作、などといふ文句が新聞の新刊書案内欄に出てゐたりするので、まごついてしまふ。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:01:36.301560+00:00Z"
     }
   }
 ]

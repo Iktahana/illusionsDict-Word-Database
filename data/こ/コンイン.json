@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二人は長い交際期間を経て、ついに婚姻する運びとなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "海外で暮らすためには、正式な婚姻証明書が必要だと言われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "両親の婚姻記念日は毎年家族みんなでお祝いしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "界隈の昇華した名家々々の流れを相互に婚姻を交えている間に、家の人間に土より生い立てる本能の慾望を欠き、夢以外に食慾が持てない咀嚼力の精神になってしまったのも原因の一つであろう。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T05:19:44.018691+00:00Z",
       "freq_rank": 12455
     }
   }

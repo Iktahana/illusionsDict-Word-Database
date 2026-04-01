@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "愛玩動物として飼育される独楽鼠は、その愛らしい仕草で人気がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "実験動物として、独楽鼠が使われることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この独楽鼠、名前は『チュウタ』だよ。よく回し車で遊んでるんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は伸々とした如何にも軽妙な態度で二三の婦人と気持よく言葉を取り交わしながら、小刻みな足どりで次ぎから次ぎへと移って行った、というよりは、踵の高い靴をはいて、いつも婦人たちのぐるりをコソコソ駈けまわるので独楽鼠などと呼ばれている小柄な年寄の伊達男がよくやるように、チョコチョコ歩きまわったものである。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:58:07.986912+00:00Z"
     }
   }
 ]

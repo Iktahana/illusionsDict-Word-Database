@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公園の中にある人工の小山は、子供たちの絶好の遊び場になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "小山の頂上まで登ると、町全体を一望することができてとても気持ちがいい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "落ち葉を掃き集めてできた小山の中に、猫が隠れて昼寝をしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水禽の大鉄傘を過ぎて、おっとせいの水槽のまえを通り、小山のように巨大なひぐまの、檻のまえにさしかかったころ、佐竹は語りはじめた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T05:14:17.627669+00:00Z",
       "freq_rank": 10200
     }
   }

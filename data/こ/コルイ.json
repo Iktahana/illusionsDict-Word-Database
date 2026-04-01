@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「こりゃ又！雨が急に強くなってきたじゃないか！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二千余年の長夜の暗漸やく明けて、この国に新らしき生命の光もゆるや、彼も亦単身｜孤塁、吟杖を揮つて赤門校裡の書窓より新声を絶叫したるの一人なりき。",
@@ -284,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T05:00:30.703540+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は小利口すぎて、本当の賢さとは違う気がする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小利口なやり方でその場をしのいだが、後で大きな問題になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小利口な子供は、親の裏をかくのが得意だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なんて珍らしくもない話に大仰に驚いて見せたり、一から十まで嘘ばかりの社交を行ひ、天晴れ上流の客あしらひをしてゐるつもりのケチくさい小利口の大馬鹿野郎どもに、この龍宮の鷹揚なもてなし振りを見せてやりたい。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T04:58:50.846318+00:00Z"
     }
   }
 ]
