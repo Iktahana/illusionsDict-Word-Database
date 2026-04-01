@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この地図は5万分の1の縮尺で描かれており、実際の距離を正確に算出できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "模型の製作にあたっては、実物の1/700という縮尺を忠実に再現した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "縮尺の異なる複数の地図を比較することで、土地利用の変化がより鮮明になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "釈迦の相似形となれ、釈迦の諸徳をみなその二万分一、五万分一、或は二十万分一の縮尺に於てこれを習修せよ。",
@@ -134,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:04:39.612508+00:00Z",
       "freq_rank": 32382
     }
   }

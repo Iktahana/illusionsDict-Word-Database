@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広州は、珠江デルタに位置する重要な港湾都市だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つまりこの地方の守護大名、佐々木佐渡ノ判官高氏殿こそがその人なので……と、土岐左近は、一応の紹介の辞でもすましたような、したり顔で「足利家も源氏の御嫡流、佐々木殿も頼朝公以来の名族。",
@@ -100,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T19:59:19.996536+00:00Z"
     }
   }
 ]

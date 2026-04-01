@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "粛啓　陽春の候、皆様におかれましてはますますご清祥のこととお慶び申し上げます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "粛啓　突然のお便りで失礼いたしますが、折り入ってお願いしたいことがございます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "粛啓　平素は格別のご高配を賜り、厚く御礼申し上げます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "粛啓　いつでも人間をやめ得る覚悟を考えており候えども、覚悟の腰がふらついて困り候う。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T20:04:39.606769+00:00Z"
     }
   }
 ]

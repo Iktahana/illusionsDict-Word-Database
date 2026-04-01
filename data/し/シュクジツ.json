@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今度の祝日は月曜日なので、週末と合わせて3連休になるのが楽しみだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祝日はデパートの混雑が予想されるため、買い物は平日のうちに済ませておく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "カレンダーをめくりながら、次の祝日がいつ来るかを指折り数えて待っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、自分はこれまでに、これとよく似た幻滅を感じさせられた色々の場合を想い起しながら、またあてもなく、祝日の人通りに賑わう銀座の方へ歩いて行った。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-01T20:04:39.617203+00:00Z",
       "freq_rank": 7275
     }
   }

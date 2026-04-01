@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は明らかに酒気を帯びていたので、運転はさせられなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あら、少し酒気帯びていらっしゃる？楽しかったのね！」と友人は笑った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "健康診断で、酒気を帯びている状態での検査は避けるように言われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こういう時に、宗右衛門が酒気を帯びていると、銓を側に引き附けて置いて、忍耐を教えるといって、戯のように煙管で頭を打つことがある。",
@@ -101,7 +126,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T19:45:22.788432+00:00Z"
     }
   }
 ]

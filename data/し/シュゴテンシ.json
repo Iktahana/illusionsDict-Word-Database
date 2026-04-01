@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "珠江を眺めながら、旅の疲れを癒した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "出来合ひの聖母マリヤか架空の佳人を守護天使にして窃かに溜息をまぎらす方が、むしろ絶望の息苦しさを多少ともまぬかれたに相違ないのだ。",
@@ -116,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T19:59:19.996738+00:00Z"
     }
   }
 ]

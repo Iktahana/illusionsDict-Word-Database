@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ホテルのロビーは、チェックインを待つ宿泊客で混雑していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "宿泊客の利便性を高めるため、全客室に高速Wi-Fiを導入した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この旅館は、宿泊客一人ひとりに合わせた細やかなサービスが自慢だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはみな東京の罹災者で、男女あわせて十組の宿泊客があったが、宿帳に記された住所姓名も年齢も西田さんの家族とは全然相違しているのです。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T19:53:25.909874+00:00Z"
     }
   }
 ]

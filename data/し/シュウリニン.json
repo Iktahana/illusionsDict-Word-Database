@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、地元の州立大学で国際関係学を専攻している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "迷信深い織機修理人マズレヴィチが祈りを上げる哀れな声が尚も黴臭い玄関中に響き渡っていたが、今度ばかりは気にならなかった。",
@@ -84,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T19:39:16.951085+00:00Z"
     }
   }
 ]

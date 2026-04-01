@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "研究者は、珠孔の構造を詳細に観察した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この倉は、地上に柱を立て、その脚の上に板を挙げて、それに、五穀及びその守護霊を据ゑて、仮り屋根をしておく、といふ程度のものであつたらしく、「神座なる棚」の略語、くらの義である。",
@@ -260,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-01T19:59:19.997581+00:00Z"
     }
   }
 ]
