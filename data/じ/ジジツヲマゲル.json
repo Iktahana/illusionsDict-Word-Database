@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供たちが集まったので、みんなで懐かしい**ジジ抜き**をして遊んだよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もちろん、寓話作者としてはここで老名人に掉尾の大活躍をさせて、名人の真に名人たるゆえんを明らかにしたいのは山々ながら、一方、また、何としても古書に記された事実を曲げる訳には行かぬ。",
@@ -85,7 +94,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T01:24:41.074863+00:00Z"
     }
   }
 ]

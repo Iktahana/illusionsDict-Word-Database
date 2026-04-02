@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "記者は事件の真相を明らかにするため、関係者に聞き込みを行い、**事実を調べる**ことに専念した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何かの間違い、と思ったが、また考え直してみると、事実無根というわけでもない。",
@@ -285,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T01:24:41.073939+00:00Z",
       "freq_rank": 34229
     }
   }
