@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "軒先に垂れ込めし提灯が、夜の闇にゆらめく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "桜の花びらが、風に舞いながら枝から垂れ込めり。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "長い髪が顔に垂れ込め、彼女の表情を隠していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "若葉の垂れ込めた二階の廻廊を通る靴音が淋しく響くだけで、樹の幹の間一面に並んでいる緑の椅子と卓とには一人の客もなく、ただ白い花ばかりがいたずらに散っていた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:50:00.875052+00:00Z"
     }
   }
 ]

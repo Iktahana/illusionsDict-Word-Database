@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "バルト三国を旅した際、タリンの旧市街の美しい街並みに心を奪われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "タリンは世界でも有数のIT先進都市として知られ、電子政府の仕組みが整っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "港からフェリーに乗って、ヘルシンキから日帰りでタリンを訪れる観光客も多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "少しナフタリン臭くなっているかも知れませんけど、ね、」と私のほうに向き直って言って、「うちのひとには、もう、なんにも要らないのです。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T22:44:56.495205+00:00Z",
       "freq_rank": 35137
     }
   }

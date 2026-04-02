@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パソコンで「あ」と打って単漢字変換を繰り返し、目的の字を探し出す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この地名は珍しい単漢字が使われているので、読み方を知らない人が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "熟語として入力するより、単漢字で一文字ずつ変換した方が早い場合もある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "単漢字変換のイージーワード　１・０版は「これじゃ売り出しても勝負にならんわ」というわけでデビューには至らず、一九八五年九月、五百字までの一括変換をサポートするバージョン２・１で初めて発売となった。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:55:12.319696+00:00Z"
     }
   }
 ]

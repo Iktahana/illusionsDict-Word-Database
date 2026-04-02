@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本語入力で「き」と打ってスペースを押すと、単漢字変換の候補がずらりと並ぶ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "変換効率を上げるために、よく使う字が単漢字変換の最初に来るよう学習させた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "文節変換でうまくいかない時は、単漢字変換で一文字ずつ確定させていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "単漢字変換のイージーワード　１・０版は「これじゃ売り出しても勝負にならんわ」というわけでデビューには至らず、一九八五年九月、五百字までの一括変換をサポートするバージョン２・１で初めて発売となった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:55:12.320267+00:00Z"
     }
   }
 ]

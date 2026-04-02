@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "英語には「cat」や「dog」のように、単音節の単語が非常に多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日本語は開音節構造のため、純粋な単音節の概念が英語とは少し異なる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼の返事はいつも「あぁ」とか「うむ」とか、単音節に近いものばかりだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は語尾を多くの場合単音節に見たいので、「ほ・さぐ」と言ふ様な形は考へにくいのだが、此方面で考へて見ると、「ほ開く」とでも語源が説かれさうである。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:49:51.863867+00:00Z"
     }
   }
 ]

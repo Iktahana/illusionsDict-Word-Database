@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "平安時代の貴族の邸宅では、部屋の仕切りに優雅な垂れ布が使われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寝殿造りの家屋には、風を通すための垂れ布がかけられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "儀式の場では、華やかな文様の垂れ布が空間を荘厳に飾った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "アラムハラドは長い白い着物を着て学者のしるしの垂れ布のついた帽子をかぶり低い椅子に腰掛け右手には長い鞭をもち左手には本を支えながらゆっくりと教えて行くのでした。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:50:00.878326+00:00Z"
     }
   }
 ]

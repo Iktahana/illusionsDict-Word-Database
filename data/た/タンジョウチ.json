@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は自分の誕生地である小さな村を誇りに思っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "有名な作家の誕生地には、多くの観光客が訪れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は年老いてから、自分の誕生地に戻り、静かに暮らした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "英國又實ニ其ノ謬説ノ誕生地ナルヲ以テ、今尚「ジヨンブル、ソサイテー」ト名クル如ク英帝國其者ヲ組合視シ會社視シテ悉ク社會契約説ニ基ク立法ナラザルナシ。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:59:09.070629+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このアルゴリズムの収束性を証明するために、単調性に着目した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "関数の単調性を調べることは、グラフの概形を把握する上で非常に重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この数列、単調性は持っているんだけど、収束するかどうかはまた別の話だね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "くそったれ野郎のメイザーは誰かがこの忌々しい単調性の檻から飛び出し遂せるのを恐れていたんだ――誰か彼奴に呪いをかけるか、夜、血でも啜るかしてくれたらいいのにな！",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T23:01:38.176282+00:00Z"
     }
   }
 ]

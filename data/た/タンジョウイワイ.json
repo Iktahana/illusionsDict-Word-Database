@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母の誕生祝いのために、家族みんなで集まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は友人の誕生祝いに、手作りのケーキをプレゼントした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供の誕生祝いには、たくさんのおもちゃが贈られた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ヘロドトスが言った通り、ペルシアは暖国だがその人誕生祝いに馬肉を饗し、また全で馬、驢、駱駝を烹用いて、ギリシア人が、かほどの美饌を知らぬを愍んだから、どの国で馬肉を食ったって構わぬはずだと。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:59:09.069043+00:00Z"
     }
   }
 ]

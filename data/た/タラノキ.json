@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の山でたらの木を見つけたので、柔らかそうな新芽をいくつか摘んできた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "たらの木には鋭い棘があるから、山菜採りのときはうっかり素手で触らないように気をつけなさい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "庭に植えたたらの木が大きく育ち、夏には白い小さな花をたくさん咲かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "喜節見訪竹の里人下総のたかし来たれりこれの子は蜂屋大柿吾にくれし子下ふさのたかしはよき子これの子は虫喰栗をあれにくれし子春ことにたらの木の芽をおくりくる結城のたかし吾は忘れず　多くの場合に人に畏敬せられた先生にして、こんなことの有ったのは世人も少しく意外に感ずるのであろう。",
@@ -88,7 +113,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:47:18.948952+00:00Z"
     }
   }
 ]

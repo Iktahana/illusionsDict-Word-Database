@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "これほど大規模なシステムを短期間で構築するのは、技術的にかなり厳しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は短期間で驚くほど日本語を上達させ、周囲を驚かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "短期間の滞在だったが、地元の人々と触れ合えたのは素晴らしい経験だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "前期の作業で取りまとめられた「検討課題」は「はじめに」で、「…全体の検討には少なくとも３年程度は要すると考えられるが、比較的短期間で結論が出ることが見込まれるものに関しては、平成17年秋頃を目途に報告を取りまとめることが望まれる。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T22:55:12.328343+00:00Z",
       "freq_rank": 7196
     }
   }
