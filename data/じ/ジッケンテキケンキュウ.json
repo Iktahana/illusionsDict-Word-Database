@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この論文は、最新の実験的研究に基づいて、その仮説を検証している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "社会科学の分野でも、実験的研究が増加しており、より客観的な知見が得られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この実験的研究の結果は、私たちの常識を覆すかもしれません」と研究者は予見した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なお一般弾性体の破壊に関してその弱点の分布や相互の影響あるいは破壊の段階的進歩に関する実験的研究を行い、破壊という現象に関するなんらかの新しき方則を発見する事も必ずしも不可能ならざるべし。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T02:17:51.458838+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経験と観察に基づいた実験科学は、現代科学の基礎を築いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の研究は、単なる理論ではなく、確かな実験科学の証拠に裏打ちされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「魔法じゃなくて、ちゃんと実験科学で証明できることだけを信じるべきだよ」と教授は語った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一体電子を借りなければ説明の出来ないような諸現象がまだ発見されず、物質の最小部分が原子だとして充分であった時代において、原子は更に一層微細なる部分より成ると論ずる人があったとすれば、その人は空想家か哲学者であって少なくも実験科学者ではない。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T02:17:51.445837+00:00Z"
     }
   }
 ]

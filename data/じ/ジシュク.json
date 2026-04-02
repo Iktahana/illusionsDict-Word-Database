@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "緊急事態宣言中は、国民に自粛が求められた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、軽率な発言を自粛するように心がけている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この状況では、派手なイベントの開催を自粛するのが賢明だ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども、わたくしがこの寮へ来るまでは、それをそれほど現す機会も事件もなし、池上自身も、わたくしを懲らして逃げられてはと自粛したためもありましょうか、わたくしに殆どその事を忘れさせるほど何事もなく済みました。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T02:22:53.648340+00:00Z",
       "freq_rank": 15371
     }
   }

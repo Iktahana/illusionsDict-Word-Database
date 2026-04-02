@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、来月開催される大規模イベントの実行委員に選ばれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "実行委員一人ひとりが、イベント成功のために責任を持って役割を果たしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「実行委員の皆さん、本当にお疲れ様でした！おかげで素晴らしいイベントになりました」と来場者は感謝した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ひたおもて君が直なる言挙は聴いさぎよし心に徹る　（加納子爵）涙共に下るこの声この子らぞ愛しとは思へ亦聴き難し　（学生委員）ある夜の父兄実行委員会経過深憂に堪へず、奔命に疲る。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T02:17:51.462573+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "教育現場では、生徒の自主性が育まれるような指導が求められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、指示待ちではなく、自ら考えて行動する自主性を持っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この仕事は、高い自主性が要求されるが、やりがいもある。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一般人の生活水準の低下と社会的自主性の低減は、日本のブルジョア文学の独特な伝統が、ヨーロッパのイッヒ・ロマンとはまた異った歴史性をもつ私小説について自我の啓発、探求をもとめているにかかわらず、遂に芸術の中に語るに足るだけの自我の内容と発動とを、作家生活の実質から喪失させてしまっているのであった。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T02:22:53.649454+00:00Z"
     }
   }
 ]

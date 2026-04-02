@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "多くのインディーズ映画は、自主制作の形式をとっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、数年かけて自主制作した短編映画を、オンラインで公開した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「自主制作のドキュメンタリー番組が、大きな反響を呼んだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ジョセフ・スタンバーグが自主制作で撮り、チャップリンに高く評価されて公開の運びとなった『救ひを求むる人々』は、浚渫船を舞台とした映画です。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T02:22:53.649886+00:00Z"
     }
   }
 ]

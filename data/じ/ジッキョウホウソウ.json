@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "重要な会見の模様が、テレビで実況放送された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼のスピーチは、その場で実況放送され、多くの人々に感動を与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "事故現場からの実況放送は、事態の緊迫を伝えていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "駅の附近のバアのラジオは私を追いかけるようにして、いまは八時に五分まえである、台湾はいま夕立ち、日本ヨイトコの実況放送はこれでお仕舞いである、と教えた。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T02:15:08.735325+00:00Z"
     }
   }
 ]
