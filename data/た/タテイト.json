@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "織物を作るには、まず「縦糸」を機に張る作業から始める。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この生地は「縦糸」に絹を使い、横糸に綿を織り交ぜている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "機織り機で「縦糸」をピンと張ることが、織物の仕上がりを左右する重要な工程だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ごくごくわずかな部数の本を出会いの場としても、書き手の与えてくれる縦糸と、読み手の心が紡ぎ出す横糸を編み、大切な人生の一こまを織りあげることはできるのです。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T22:03:19.293694+00:00Z",
       "freq_rank": 2123
     }
   }

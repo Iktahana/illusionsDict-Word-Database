@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "物理学では、宇宙は我々が認識する3次元空間と1次元の時間に加え、さらに多くの多次元を持つと考えられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは単なる言葉の上のアナロジーではあるが、連句はやはり異なる個性のおのおののＸＹ、すなわちＸ１Ｙ１Ｘ２Ｙ２Ｘ３Ｙ３……によって組み立てられた多次元の世界であるとも言われる。",
@@ -100,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:38:57.206463+00:00Z",
       "freq_rank": 38742
     }
   }

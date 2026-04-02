@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "縦の糸が経（たて）、横の糸が緯（ぬき）。その交差から生まれる布に、二人の人生を重ね合わせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "経緯を自在に操る熟練の職人の手元では、次第に複雑な幾何学模様が浮かび上がっていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "上質な絹の経緯を使って織り上げられた帯は、しなやかでありながらもしっかりとした腰がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "想像するがままに任せた山、感情を塗りかえした山、その山の暗き森と、深い谷、過去へと深く行き、遠く行くだけ、紀念は次第に成熟する、石の上を走っている水の面の経緯は、幾世の人の夢を描いては消し、消しては描いているのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T22:00:03.125482+00:00Z",
       "freq_rank": 3828
     }
   }

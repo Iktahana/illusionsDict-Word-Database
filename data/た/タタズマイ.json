@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その古い旅館は、歴史を感じさせる堂々とした佇まいをしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女の凛とした佇まいは、周囲の人々を自然と引きつける魅力がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "路地裏に見つけた小さなカフェは、隠れ家のような静かな佇まいだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼らの中の古老は気象学者のまだ知らない空の色、風の息、雲のたたずまい、波のうねりの機微なる兆候に対して尖鋭な直観的｜洞察力をもっている。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:38:08.993090+00:00Z",
       "freq_rank": 31331
     }
   }

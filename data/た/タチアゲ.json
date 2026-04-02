@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい会社の立ち上げは、大変な挑戦だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "パソコンの立ち上げに時間がかかるようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このアプリの立ち上げは、数秒で完了する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後に日本語ワープロと呼ばれることになるこのマシンの試作機開発をスタートさせた一九七七年秋、横綱は当時一部のマニアが騒ぎ始めていたマイコン・キットを完成品に仕上げて個人用のコンピューターとして売り出す第二のプロジェクトも立ち上げていた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:45:05.586956+00:00Z"
     }
   }
 ]

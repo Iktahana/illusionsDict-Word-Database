@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "杖代わりにするには、少し細すぎる竹の杖（たけのつえ）だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、滑りやすい山道でバランスを取るために、丈夫な竹の杖（たけのつえ）を使った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古い稽古場には、数本の竹の杖（たけのつえ）が壁に立てかけられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まずこれならば狼の餌食になってもそれは一思に死なれるからと、路はちょうどだらだら下なり、小僧さん、調子はずれに竹の杖を肩にかついで、すたこら遁げたわ。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:43:07.129802+00:00Z"
     }
   }
 ]

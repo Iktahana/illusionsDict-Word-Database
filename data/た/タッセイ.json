@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "悲願だった世界大会での優勝を達成し、選手たちは涙を流して喜び合った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "プロジェクトの達成を記念して、チーム全員で豪華なディナーを楽しむことにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日々の小さな習慣を積み重ねることが、大きな目標を達成するための唯一の近道だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然るに茲に、観念的な、或ひは宗教的な要求の達成といふことよりも、修辞的、心理的要求の達成といふことの方が、遥かに多くの人の歯に合ふといふことがある。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:59:15.684462+00:00Z",
       "freq_rank": 1819
     }
   }

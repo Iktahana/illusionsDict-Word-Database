@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "縦書きの雑誌記事の中で、西暦の数字だけが縦中横でレイアウトされており、視認性が高まっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "DTPソフトの設定で縦中横を適用し、二桁の数字が一行に綺麗に収まるように調整した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日本語の美しい縦書き組版において、縦中横の使い方は読みやすさを左右する重要なテクニックだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数式で書き現わすと、この問題の分泌量Ｈがざっと H = H0 + A sin nt のような形で書き現わされその平均水準のH0」は縦中横］と振幅Ａとが各個人の各年齢で色々になる量だとする。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:00:03.118964+00:00Z"
     }
   }
 ]

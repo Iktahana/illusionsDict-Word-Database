@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代ギリシャでは、ゼウスやアテナをはじめとする多くの神々を崇拝する多神教が信仰されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし山川の美に富む西欧諸国に入り込んだ基督教は、表面は一神でありながら内実はいつの間にか多神教に変化した。",
@@ -276,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:38:57.202633+00:00Z",
       "freq_rank": 41809
     }
   }
