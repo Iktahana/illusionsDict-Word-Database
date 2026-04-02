@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "装置の内部には、回転を伝えるための軸棒が通っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "軸棒が曲がってしまったため、部品全体を交換する必要が生じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この構造では、負荷がかかる軸棒に特に高い強度が必要とされる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "珍らしく感じたのは、その部屋の外側に二千年前の汲み上げポンプの軸棒が残ってることで、深さ約三六米あるそうだが、周りに鉄柵を繞らして手を触れさせないように大事に防護してあった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T00:15:23.534952+00:00Z"
     }
   }
 ]

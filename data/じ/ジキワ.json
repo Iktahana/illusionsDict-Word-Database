@@ -33,7 +33,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "部下は、社長に直接、改善点を直話で伝えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此は私の内へ來て（久保勘）と染めた印半纏で、脚絆の片あしを擧げながら、冷酒のいきづきで御當人の直話なのである。",
@@ -288,7 +297,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T00:07:13.237973+00:00Z"
     }
   }
 ]

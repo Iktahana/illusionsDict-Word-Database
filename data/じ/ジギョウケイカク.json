@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい事業計画の策定が、経営陣の最優先課題となった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "投資会社の意見を入れて事業計画から〈コンピューター〉という文字を外し、ＤＥＣは組み合わせによってコンピューターや機器のコントローラーを作ることができる回路モジュールの開発から着手した。",
@@ -108,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T00:07:13.245551+00:00Z"
     }
   }
 ]

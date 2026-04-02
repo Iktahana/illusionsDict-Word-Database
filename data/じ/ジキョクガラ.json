@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "時局柄、多くの企業が慎重な投資姿勢をとっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私はことの意外に呆れてしまったが、果して間もなくあるビルディングの地下室にある理髪店へ行くと、金縁眼鏡をかけたそこの主人はあなたのような髪は時局柄不都合であると言って、あれよあれよと驚いている間に、私の頭を甲型か乙型か翼賛型か知らぬがとにかく呉服屋の番頭のような頭に刈り上げてしまった。",
@@ -156,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T00:07:13.235984+00:00Z"
     }
   }
 ]

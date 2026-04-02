@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "行列の次元数を計算することで、その方程式に独立な解がいくつあるかが分かる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この多次元空間におけるベクトルの次元数は、データの項目数と一致する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "計算量を削減するために、情報の損失を最小限に抑えつつ次元数を減らす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして舞台芸術は一見これと同様であるように思われるにかかわらず、実は次元数においても、また各次元の範囲においてもはなはだしく制限されたものであるということが了解されるであろう。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T00:33:16.573706+00:00Z"
     }
   }
 ]
