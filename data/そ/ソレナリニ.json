@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は経験が浅いが、それなりに仕事はできる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このレストランは高級ではないが、それなりに美味しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "準備はそれなりに整った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "大体何か充ち足りた心なり環境なりがないからだ、といふやうに癇癪まぎれに思つてみることもあるが、仮りにどんな環境が降つて湧いたつて、その変化の当座こそ充ち足りた気持を招来しもこそすれ、慣れてしまへばやつぱりそれなりに暗い時が来るなら来ようといふ風にしか思へないんだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:54:03.302731+00:00Z"
     }
   }
 ]

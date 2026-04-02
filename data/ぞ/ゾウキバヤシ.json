@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の日差しが木漏れ日となって、雑木林の地面に美しい模様を描いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供の頃、秘密基地を作ったのは、あの静かな雑木林の中だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "秋の気配を感じさせる、赤や黄に色づいた雑木林の風景は、心を和ませる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一群の人たちは、遅塚麗水、大町桂月、江見水蔭、田山花袋、久保天随、坪谷水哉などであるが、花袋が紀行文家と言われた時分は、自然派文学勃興以前のことで、文章に感傷癖はあったが、淡泊清新、ことに武蔵野あたりの原野や雑木林の寂しさを、淡彩的に点描するのに巧みであった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:58:39.784306+00:00Z",
       "freq_rank": 29690
     }
   }

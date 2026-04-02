@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "犯人は盗品を山中に蔵匿していたが、警察に発見されてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "証拠隠滅のため、彼は機密書類を倉庫の奥深くに蔵匿した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "密輸業者は、麻薬を船舶の隠し部屋に蔵匿していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御当家へ迷惑は懸ないから、帰るまでああして蔵匿て置いて下さらないか、衣服に血が附てたり、おどおどしている処を見ると、邪慳な姑にいびられる嫁か。",
@@ -102,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T19:01:17.211797+00:00Z"
     }
   }
 ]

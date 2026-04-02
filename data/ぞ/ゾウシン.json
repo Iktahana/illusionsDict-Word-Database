@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "健康増進のため、毎日のウォーキングを始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "相互理解の増進が、国際平和に不可欠である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "企業は、社員のスキル増進を支援する研修プログラムを提供している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人間の能力がこれに比例して増進しない限りは、十人並の人間一生の間に物理学の全般にわたって一通りの知識だけでも得ようとするのはなかなか容易な事でなくなる。",
@@ -279,7 +304,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:57:04.882150+00:00Z",
       "freq_rank": 11131
     }
   }

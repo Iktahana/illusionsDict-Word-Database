@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この件につきましては、何卒ご尊慮を賜りたく、お願い申し上げます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の提案は素晴らしいものだったが、最終的には社長のご尊慮によって決定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ご尊慮を拝察し、私ども一同、精一杯努力する所存でございます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「嘉平は二十五歳にして薩摩守樣の召すところとなり、當時齊彬公樣は歐文書類を版本としてあまねく御藩中に學ばしめんとの御尊慮によつてひそかに嘉平に御洩談あらせらる――」。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:52:15.199528+00:00Z"
     }
   }
 ]

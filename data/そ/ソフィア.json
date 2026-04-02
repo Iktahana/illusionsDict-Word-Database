@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ブルガリアの首都ソフィアは、美しい建築物で有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "いつかソフィアを訪れて、歴史的な教会を見てみたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ソフィア空港に到着し、まず街の中心部に向かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "又、彼女が「野獣」と呼ぶようにしか教えられていなかった急進的な一団のロシア人の中には、クロポトキンがその「思い出」の中に、愛惜をもって美しく描いている有名なソフィア・ペロフスカヤのような秀抜な革命的な若い女もいた。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:37:38.106703+00:00Z",
       "freq_rank": 17304
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先のことを心配しても仕方ない。「その時はその時」と割り切るしかない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「もし失敗したらどうするの？」と聞かれたが、「その時はその時だよ」と答えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "計画が変更になる可能性もあるが、その時はその時で臨機応変に対応しよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "うんと翻弄してやろう……もしも冗談から駒が出たら――何かまうもんか、その時はその時のことだ……という万一の僥倖をも、心の奥底では度外視してはいなかった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:39:22.607098+00:00Z"
     }
   }
 ]

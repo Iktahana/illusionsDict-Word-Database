@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テーブルを拭くために、きれいな雑巾を用意してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "床の汚れを落とすために、固く絞った雑巾で何度も拭いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あー、もう！このシミ、雑巾でこすっても全然落ちないじゃない！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その朝は早々起きて物置の二階から祭壇を下ろし煤を払い雑巾をかけて壇を組みたてようとすると、さて板がそりかえっていてなかなか思うようにならぬのをようやくたたき込む。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:58:39.786088+00:00Z",
       "freq_rank": 24351
     }
   }

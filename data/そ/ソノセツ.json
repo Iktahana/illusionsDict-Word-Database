@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先日は大変お世話になりました。その節は本当にありがとうございました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "またその節は、どうぞよろしくお願いいたします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼とは学生時代からの友人だが、その節はよく一緒に遊びに行ったものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この仕事はどうも私には荷が勝った仕事ですが、いずれ勤先とも話がつきましたら専心この計画にかかって私の生涯の事業にしたいと思いますので」　その節は、亡父の誼みもあり、東海道愛好者としても呉々も一臂の力を添えるよう主人に今から頼んで置くというのであった。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:39:22.601181+00:00Z"
     }
   }
 ]

@@ -32,7 +32,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医療行為のため、患部の毛をすべて剃り落とす必要があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そう言えば、わたしも覚えがあるが、これで眉でも剃り落とす日が来てごらん――あの里帰りというものは妙に昔の恋しくなるものですよ。",
@@ -63,7 +72,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:41:14.929557+00:00Z"
     }
   }
 ]

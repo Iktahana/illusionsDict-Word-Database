@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の行動は、いつもそろばんずくで、人情味がない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの会社の社長は、そろばんずくでしか動かないと評判だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「彼の親切は、どうせそろばんずくだろう。」と友人が皮肉った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何ごとも算盤ずくめのお前には、そんなおれの親切が腑に落ちかねて、済みません、済みません、一生恩に着ますなんて、泪をこぼさんばかりにしながらも、内心は、こいつどこまで親切な奴だろうと、いくらか呆れていたろう。",
@@ -87,7 +112,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:51:03.740541+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は若い頃から社会問題に関心を持ち、熱心なソーシャリストとして活動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その政治家は、福祉国家の実現を目指すソーシャリストとして国民から支持を得た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ソーシャリストの思想は、格差社会の是正を訴える点で共通している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "トロツキズムを研究するには、畢竟一つの思想を産んだに過ぎぬトロツキー自身の著作よりも、胡乱なビラや「ソーシャリスト・アピール」といった新聞の方がふさわしい。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:52:15.203624+00:00Z"
     }
   }
 ]

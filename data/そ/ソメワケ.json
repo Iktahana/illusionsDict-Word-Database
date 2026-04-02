@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その絹のスカーフは、見事な染め分けの例だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女のコレクションは、着物に見事な「染め分け」技法を特徴としていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "そのデザインは、染め分けによる調和のとれたブレンドを示していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山頂近く、紺青と紫とに染められた岩の割目を綴るわずかの紅葉はもう真紅に色づいているが、少し下がった水準ではまだようやく色づき初めたほどであり、ずっと下の方はただ深浅さまざまの緑に染め分けられ、ほんのところどころに何かの黄葉を点綴しているだけである。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:43:25.865315+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「そして、そなた（其文字）、この件についてどう思うかね？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "長老は若い学者に語りかけた。「そなた（其文字）は、どのような知恵を持っているのか？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「私（わたくし）の前に立つそなた（其文字）、あなたの意図は何であるか、話してみなさい。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "故に被告の言葉を直接聞いた豫審判事には被告の心持がよく分つてゐても、調書の文字となつて他人が見れば、其文字次第で大分解釋が違うて參ります。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:43:25.869554+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "そんなこんなで、あっという間に一日が過ぎてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そんなこんなしているうちに、外はすっかり暗くなっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そんなこんなありましたが、無事にプロジェクトは完了しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そんなこんなで前借のこと親方に言い出すのは全く厭だったけど、言わないじゃおられんから帰りがけに五円貸してくれろと言うと、へん仕事は怠けて前借か、俺も手前の図々しいのには敵わんよ、そらこれで可かろうって二円出して与こしたのだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T19:01:57.379079+00:00Z"
     }
   }
 ]

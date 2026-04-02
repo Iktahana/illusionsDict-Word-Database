@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「明日も雨だってさ」「そりゃそうだ。梅雨だからね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「このケーキ、本当に美味しいね！」「そりゃそうだ、有名店のパティシエが作ったんだから。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「こんなに寒いのに、半袖で出かけるなんてどうかしてるよ」「そりゃそうだ、風邪ひくよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｔ「大勢を手に掛けたとあって、　錦糸堀五百石の御邸は　御取り潰しになり……」　「とうとう浪人生活」と云えば、五郎蔵「そりゃそうだろう」半次尚も、Ｔ「その上、　そのおきよって女が　見掛けによらんあばずれでしてね」　と話し続ける半次。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:42:34.665297+00:00Z"
     }
   }
 ]
