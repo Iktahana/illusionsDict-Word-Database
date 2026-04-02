@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の片隅に、春になると可憐な花を咲かせる多年生の草本を植えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "森の入り口付近には、太陽の光を求めて背の低い草本が密集して生えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "木本植物とは異なり、草本は茎が木質化せず柔らかいのが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たとえば東京市の近年の火災について少しばかり調べてみた結果でも、市民一人あての失火の比率とか、また失火を発見して即座に消し止める比率とか、そういう人間的因子が、たとえば京橋区日本橋区のごとき区域と浅草本所のごとき区域とで顕著な区別のあることが発見されている。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:35:02.273105+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "物語の結末は読者の想像に任せることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この絵の解釈は、鑑賞者の想像に任せるという意図がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "事件の真相は、皆さんの想像に任せるしかないね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、象牙の塔のガラス窓の中から仮想ディノソーラス「ジャーナリズム」の怪奇な姿をこわごわ観察している偏屈な老学究の滑稽なる風貌が、さくら音頭の銀座から遠望した本職のジャーナリストの目にいかに映じるかは賢明なる読者の想像に任せるほかはないのである。",
@@ -197,7 +222,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:23:34.269743+00:00Z"
     }
   }
 ]

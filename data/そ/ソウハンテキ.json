@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "被告と原告の主張は、事実関係において完全な相反的な内容となっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女はダイエット中だが、甘いものを食べたいという相反的な欲求に苦しんでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "景気回復への期待とインフレへの懸念という、相反的な感情が市場に混在している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これが競技者においては、チームＡＢ……の闘争において「Ａが勝つ」「Ｂが勝つ」の相反的判断が共在して緊張的構成を形成するにしても、自らが属するチームがＡあるいはＢである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:26:39.987220+00:00Z"
     }
   }
 ]

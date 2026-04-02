@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の果敢な戦いぶりは、多くの兵士たちの心を壮とした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "武田麟太郎が市井の現実にまびれることを新しい人間性発見への小路としたのとは異って、広津和郎のこの思想は、いわば前者が現実にまびれゆくという自身の意図に我から壮とする身振りをもじっと眺めてゆこうとする態度である。",
@@ -261,7 +270,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:24:19.861411+00:00Z"
     }
   }
 ]

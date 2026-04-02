@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アインシュタインは、あらゆる慣性系で物理法則が同じ形を保つという相対性原理を基礎に置いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ガリレイの相対性原理を学ぶことで、ニュートン力学における空間の捉え方が理解できた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "特殊相対性理論の第一の柱は、この相対性原理が電磁気学にも適用できると考えた点にある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかしアインシュタインは古い昔のガリレーをほじくって相対性原理を掘りだし、ブローイーは塵に埋もれたハミルトンにはたきと磨きをかけて波動力学を作りあげた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:20:57.466541+00:00Z"
     }
   }
 ]

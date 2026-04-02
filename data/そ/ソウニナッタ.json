@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "階段を踏み外して、危うく転落しそうになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あの山は眠ったことがないから、醒めたこともないというような、澄した顔つきをしている、私たちとの距離は、いよいよ遠くなった、その間を煙のように、眼先を霧が立って、右へ往きそうになったり、左へ思い出して、転がったりしている。",
@@ -268,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:24:19.872205+00:00Z"
     }
   }
 ]

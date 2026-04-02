@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "太平洋を横断する航路には、長距離飛行に適した最新鋭の双発機が導入された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "エンジントラブルが発生したが、双発機だったため片方のエンジンだけで無事に着陸できた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "滑走路には、多くの乗客を乗せた巨大な双発機が離陸の瞬間を待っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それどころか、昨夜、この宿に案内するまでは勿論、今朝、まだ早くから駐在へ顔を出して百万べんも頭をさげ、お蔭さまで命びろいをしましたと繰り返すその男に向つて、いや、君の命を救つたのは、この自分ではない、そうはつきり言うべきであつたと、彼は、あとから、後悔の念がむらむらと起つた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:26:39.984733+00:00Z"
     }
   }
 ]

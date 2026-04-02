@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "植民地時代の総督府は、現在博物館として利用されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでこの際そういう家屋の存在を認容していた総督府当事者の責任を問うて、とがめ立てることもできないことはないかもしれないが、当事者の側から言わせるとまたいろいろ無理のない事情があって、この危険な土角造りの民家を全廃することはそう容易ではないらしい。",
@@ -268,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:24:19.860633+00:00Z"
     }
   }
 ]

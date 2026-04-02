@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "曾祖母は100歳を超えても耳がしっかりしており、いつも穏やかな笑顔で曾孫の私を迎えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "曾祖母がよく作ってくれた、少し甘めの素朴な煮物の隠し味を、母が今でも再現しようとしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "曾祖母から聞いた不思議な昔話には、今の効率優先の時代にはない人生の知恵が詰まっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あるいはまた曾祖母の使い慣れたのを大切に持ち伝えたものであったかもしれないのである。",
@@ -256,7 +281,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:16:05.470999+00:00Z"
     }
   }
 ]

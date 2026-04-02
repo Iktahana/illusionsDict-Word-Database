@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいレンズの装着は非常に簡単でした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この銃にはサイレンサーが装着されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女はスマートフォンに保護ケースを装着した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "胡同様、無慙にも顔面の皮膚を剥ぎそられ何処の者とも判明せざれど年齢二十三四歳位にて、サムライの仮装着を着けたるところより多分前夜何処かの仮装舞踏会に出席したる日本人にあらざるかと推測さる。",
@@ -70,7 +95,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T17:24:37.716583+00:00Z",
       "freq_rank": 8013
     }
   }

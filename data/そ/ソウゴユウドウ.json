@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "トランスの一次コイルに交流電流を流すと、相互誘導によって二次コイルに電圧が発生する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "理科の実験で、二つのコイルを近づけて相互誘導の原理を確かめた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無線充電器の上にスマートフォンを置くと、相互誘導を利用してエネルギーが伝送される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……これは電気学的に説明が出来るんじゃ、感応作用、相互誘導作用、じゃよ――、つまり考える、ということによって脳に一種の電流が生じる、これに感応して相手の脳髄に電流が誘起されるのが以心伝心という現象なんじゃ。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:07:41.217008+00:00Z"
     }
   }
 ]

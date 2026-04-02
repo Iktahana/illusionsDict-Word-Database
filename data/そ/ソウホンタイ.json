@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "標高が上がるにつれて森林が消え、高山植物が咲き乱れる美しい草本帯に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "広大な草本帯が広がるその地域では、放牧が行われ、のどかな風景が続いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "気候変動の影響で、この地域の草本帯の分布範囲が年々狭まっていることが懸念されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "多くの高山は闊葉樹林の次に針葉闊葉の混淆林があり、次に針葉樹林となり、灌木帯、草本帯となるのであるが、白馬岳には信州惻には全く針葉樹林が欠けている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:35:02.274901+00:00Z"
     }
   }
 ]

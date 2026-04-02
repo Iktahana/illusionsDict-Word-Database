@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この建物には、高性能な送風（そうふう）システムが設置されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "夏場は、窓を開けて自然な送風（そうふう）を取り入れるのが一番だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "工場では、有害なガスを排出するために、強力な送風（そうふう）設備が必須となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そんな理屈はどうでもよいとして、こうまでも「流行」という、えたいの知れぬ人工的非科学的な因子が、送風器械としては本来科学的であるべき器具の設計に影響を及ぼすものかと驚かれるくらいである。",
@@ -222,7 +247,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:28:26.558770+00:00Z"
     }
   }
 ]

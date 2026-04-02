@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本の総人口は、減少傾向にあると言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "世界の総人口は、今後も増加すると予測されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この都市の総人口は、100万人を超えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "初発患者が発見つてから、二月足らずの間に、隔離病舎は狭隘を告げて、更に一軒山蔭の孤家を借り上げ、それも満員といふ形勢で、総人口四百内外の中、初発以来の患者百二名、死亡者二十五名、全癒者四十一名、現患者三十六名、それに今日の診断の結果で復二名増えた。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T17:15:52.976033+00:00Z"
     }
   }
 ]
