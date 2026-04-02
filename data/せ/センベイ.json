@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お茶請けに、パリパリの煎餅を一枚食べた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お土産屋さんには、色々な味の煎餅が並んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供の頃、祖母が焼いてくれた手作り煎餅が美味しかったな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小さなバスケットや信玄袋の中から取り出した殘りものゝ鹽煎餅やサンドウイッチを片付けて居た生徒達の一人が、さういふものゝ包紙を細かく引き裂いては窓から飛ばせ始めると、風下の窓から手を出して其れを取らうとするものが幾人も出て來た。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T15:04:23.697041+00:00Z",
       "freq_rank": 34323
     }
   }

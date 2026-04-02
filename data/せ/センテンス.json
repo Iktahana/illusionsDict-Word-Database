@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "各回答について、完全なセンテンス（文）を書いてください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "裁判官は、有罪判決を受けた男に長いセンテンス（刑罰）を言い渡した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は緊張のため、まとまったセンテンス（文）を形成するのに苦労した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "プルウストの文章はプルウストの話し方が少し難かしい上に、今云つたインテイメイトな話し方で、大層譯すのに困難な長いセンテンスを持つてゐるやうだ。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T15:03:46.647561+00:00Z",
       "freq_rank": 21192
     }
   }

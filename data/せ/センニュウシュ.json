@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は自分の**先入主**をなかなか捨てられないタイプだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その問題に対する彼の発言は、強い**先入主**に基づいていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「それは君の**先入主**ですよ。一度冷静になって考えてみてください」と、助言者は言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（中略）大体われ／＼の文学が軽佻で薄っぺらなのは一に東京を中心とし、東京以外に文壇なしと云う先入主から、あらゆる文学青年が東京に於ける一流の作家や文学雑誌の模倣を事とするからであって、その風潮を打破するには、真に日本の土から生れる地方の文学を起すより外はない。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T14:56:50.493617+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋になると、庭のフェンスを覆うように**仙人草**が咲き誇る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "白い可憐な花を咲かせる**仙人草**は、秋の風物詩だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この山の斜面にたくさん咲いている、あの白い花は**仙人草**だよ」と、ガイドが教えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "到る處荒れた藪の端や土手の瘠せた篠の梢に乘り掛つて、之を噛めば齒がこぼれるといはれて居る毒な仙人草が其の手を幾らでも延して思ひ切つて蟠つた蔓が白い花を一｜杯につけて、さうして活々としたものは自分のみであることを誇るものゝ如く、秋風に吹かれつゝ白い布の樣にふは／＼と動いた。",
@@ -70,7 +95,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T14:56:50.498085+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "卒業生たちは、新たな門出を祝う宣誓式に臨みました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "新入社員研修の一環として、会社の理念に対する宣誓式が行われました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「これより、誓いの言葉を述べます」という司会者の声とともに、厳かな宣誓式が始まりました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "厳かな入学宣誓式が行われて、自分も大勢の新入生の中にまき込まれて大講堂へ這入ったが、様子が分らないのでまごまごしていると、中に一人物馴れた日本人が居ていろいろ注意してくれて助かった。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T14:38:32.403769+00:00Z"
     }
   }
 ]

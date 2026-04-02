@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この伝統工芸品は、先祖伝来の技法を用いて作られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "先祖伝来の品々が、屋根裏部屋から続々と見つかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この刀は、うちの先祖伝来の宝物なんだ。」と、彼は静かに語った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」Ｔ「大吉が俺がまこと武士なら　先祖伝来の千五百石　戴いて、錦糸堀に　くすぶってるわ」　と言い放ち、更に、Ｔ「有難い事に　俺は武士じゃない」　半次が「武士でなかったら何ですい」　大吉、Ｔ「自由気儘の　悪たれ小僧よ」　言い度い事言って了うと大吉出掛けようとするので、　五郎蔵がとめた。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T14:40:51.216485+00:00Z"
     }
   }
 ]

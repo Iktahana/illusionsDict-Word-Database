@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "センナは、古くから便秘薬として利用されてきた植物です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このハーブティーには、センナの葉が配合されており、穏やかな効果が期待できます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "センナの成分は、腸の働きを促進することで知られています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は天国へも昇れば、シルレルのところへお客にも行く――ところがまるで霹靂のように、こうした致命的な言葉が突然、彼の頭上で鳴り渡ると共に、彼はやはり自分が地上にあって、それも＊３センナヤの広場か、酒場の近くに佇んでいるのに気がつく、そして又もや味気ない日常生活が彼の面前にそそり立つのである。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T14:54:42.008688+00:00Z"
     }
   }
 ]

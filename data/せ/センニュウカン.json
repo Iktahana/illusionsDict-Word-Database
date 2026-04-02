@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい文化に触れる際は、**先入観**を捨てて、柔軟な心で受け入れることが大切だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の発言は、彼の持つ**先入観**を強く反映していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「それは君の**先入観**だよ。実際は違うかもしれない」と友人は指摘した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "以上の所説は、一見はなはだしく詭弁をろうしたもののように見えるかもしれないが、もし、しばらく従来の先入観をおいて虚心に省察をめぐらすだけの閑暇を享有する読者であらば、この中におのずから多少の真の半面を含むことを承認されるであろうと信ずる。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T14:56:50.491770+00:00Z",
       "freq_rank": 12983
     }
   }
