@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園で、首の長いジラフが優雅に草を食んでいる姿は、とても印象的だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供向けの絵本で、ジラフが主人公のお話を見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ジラフのように首が長かったら、もっと高いところにある本棚の本も楽に取れるのにな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たとえば獅子やジラフやゼブラそのものの生活姿態のおもしろいことはもちろんであるが、その周囲の環境ならびにその環境との関係が意外な新しい知識と興味を呼び起こす場合がはなはだ多い。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:54:04.569552+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本語の文法では、名詞や動詞に付く助動は、活用や意味を複雑にする要因となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この文の「～ようだ」は、推量を表す助動として機能している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古文では、助動の活用形を正確に理解することが読解の鍵となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かように変化した形は鎌倉時代以後口語には盛に用いられたのであって、それがため、室町時代には動詞の連用形が助詞「て」助動詞「たり」「つ」などにつづく場合には口語では常に変化した形のみを用いるようになり、また、助動詞「む」「らむ」も「う」「ろう」の形になった。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:36:23.299206+00:00Z"
     }
   }
 ]

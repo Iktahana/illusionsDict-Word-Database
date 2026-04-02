@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "若い頃、彼女は裕福な家庭で女中奉公をしていた経験がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "女中奉公は、現代ではあまり一般的ではないが、昔は多くの女性が従事していた職業だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女の祖母は、女中奉公をしながら、家族のために必死にお金を貯めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "弟の純次は低能に近いといっていいから尋常小学だけで学校生活をやめたのはまずいいとしても、妹のおせいに小樽で女中奉公をさせておかねばならぬというのは、清逸の胸には烈しくこたえていた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:36:23.295420+00:00Z"
     }
   }
 ]

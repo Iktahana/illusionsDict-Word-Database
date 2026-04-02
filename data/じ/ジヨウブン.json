@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この野菜には、健康維持に不可欠な滋養分（じようぶん）が豊富に含まれています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "偏った食事は、体に必要な滋養分（じようぶん）が不足する原因になります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "妊娠中は、胎児の成長のために、特に多くの滋養分（じようぶん）を摂取する必要があります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」（腹の具合が良かろう筈がねえじゃないか、医者にもかけねえ、薬も飲まさせねえ、軟かい滋養分も食べさせない、その代りに子供の守をさせてる！",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:54:04.565360+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "震災で全てを失ったが、彼は自力更生（じりきこうせい）の精神で、ゼロから街を再建しようと決意した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "誰かの支援を待つのではなく、自力更生（じりきこうせい）こそが本当の強さだと彼女は信じている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の自力更生（じりきこうせい）の物語は、多くの人々に勇気と希望を与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "最近、日本の田舎の村々が自力更生、自給自足を叫んで盛んに組合制度を利用されるのは、やはり不自然な文化の弊害に負けまいとして、自然生活の根本の中へ最新文化を消化し入れた英断であって、その智慧は、仏智にも達するものであります。",
@@ -125,7 +150,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:54:04.571998+00:00Z"
     }
   }
 ]
