@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "宴の席で、彼は即興詩を詠み上げ、皆を驚かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "即興詩は、その場の感情や風景を瞬時に言葉にする芸術だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古典文学には、多くの即興詩が収められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "即興詩の、聴手は喜ぶものであれど、歌ふ身になつてみれば心許ないわざであらう。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:09:57.583285+00:00Z"
     }
   }
 ]

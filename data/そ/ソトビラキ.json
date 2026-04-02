@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この部屋の窓は外開きなので、開ける際は周りに気を付けてください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "玄関の扉が外開きだと、靴の脱ぎ履きがしにくい場合がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "非常口のドアは、避難時にスムーズに開くように外開きに設計されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "須山はその直ぐ横を如何にも背広を小馬鹿にしたように、外開きの足をツン、ツンと延ばして歩いてゆく。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:26:07.195504+00:00Z"
     }
   }
 ]

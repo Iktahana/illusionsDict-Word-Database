@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "強風で、家の外扉が勢いよく閉まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "倉庫の外扉は、頑丈な鍵でしっかりと施錠されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "玄関の外扉には、魔除けの飾り物が吊るされていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一度、と教会最寄りの者は言った、外扉をガチャガチャするおぞましい音がしたんです。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:27:35.098204+00:00Z"
     }
   }
 ]

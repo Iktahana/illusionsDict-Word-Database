@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "蕎麦屋で頼んだ、薬味たっぷりの蕎麦つゆが麺によく絡んで美味しかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "家で蕎麦を作る際、めんつゆは市販のものを使うが、少し出汁を足して蕎麦つゆを手作りすることも。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "濃いめの蕎麦つゆが好きな人もいれば、あっさりした味を好む人もいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:30:13.539230+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お弁当箱の外蓋をしっかり閉めて、汁漏れを防ぐ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "コーヒーの魔法瓶は、内蓋と外蓋の二重構造になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この薬瓶は子供が開けられないように、特別な外蓋が付いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "外蓋が、ぱたんと閉じられた。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:26:07.195987+00:00Z"
     }
   }
 ]

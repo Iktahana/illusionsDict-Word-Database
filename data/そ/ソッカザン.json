@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その巨大な活火山には、いくつもの側火山が付随していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "側火山から噴煙が上がり、遠くの街からも見ることができた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地質学者は、主火山の活動が側火山の形成に影響を与えると説明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊に青木原一帯の丸尾（先人の説によれば「転び」のなまりならんという）を超越して、多くの側火山と噴気口を行列させている。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:09:57.576572+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の絵は、技術的には粗笨だが、強烈な個性がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "粗笨な言葉遣いは、相手に不快感を与える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その道具は粗笨な作りだが、意外と丈夫で長持ちした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "假に句讀訓詁を事とせざるは可なりとするも、書を讀んで句讀訓詁を顧みざるが如き習慣を身に帶ぶるに及んでは、何事を爲すにも、粗笨にして脱漏多く、違算失計、甚だ多きを致すを免れざるものである。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:31:46.930180+00:00Z"
     }
   }
 ]

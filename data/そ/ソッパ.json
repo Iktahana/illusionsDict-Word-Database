@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は笑顔が魅力的だが、少し反っ歯なのが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供の頃は反っ歯でからかわれたこともあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "反っ歯を矯正するために、歯科医に相談した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "与次郎の説によると、あの女は反っ歯の気味だから、ああしじゅう歯が出るんだそうだが、三四郎にはけっしてそうは思えない。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:18:09.895878+00:00Z"
     }
   }
 ]

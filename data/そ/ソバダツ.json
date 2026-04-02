@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遠くの山並みが、夕焼けを背に堂々と峙つていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その偉業は、後世に語り継がれるべき伝説として、人々の記憶に峙つている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "荒々しい岩山が、静かに海に向かって峙つていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "草津はと上州の西端にありて、信州と前後一帶の山脈直ちに之により峙つ故を以て、長野の地と相離ること遠からず。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:30:13.537420+00:00Z"
     }
   }
 ]

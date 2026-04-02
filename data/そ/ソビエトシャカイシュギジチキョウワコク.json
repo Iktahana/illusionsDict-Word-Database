@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "タタール・ソビエト社会主義自治共和国は、ロシア連邦内の地域の一つだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ソビエト社会主義自治共和国は、その自治権の範囲において、共和国とは異なる位置づけにあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "バシキール・ソビエト社会主義自治共和国の文化遺産は、今日でも尊重されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:30:13.547608+00:00Z"
     }
   }
 ]

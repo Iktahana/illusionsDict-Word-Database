@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大物ばかりを狙う刑事は、鼠輩には目もくれない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの程度の鼠輩が、私たちに歯向かえるわけがない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は自分を大物だと信じているが、実際はただの鼠輩だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "余輩は区々たる一二｜鼠輩を相手に論議する事を好まずと雖も、陋劣なる平凡主義者の実例として更に些か記する処なき能はず。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:30:34.969472+00:00Z"
     }
   }
 ]

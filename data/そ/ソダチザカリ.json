@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "育ち盛りの子供には、栄養バランスの取れた食事が大切だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "中学生の息子は育ち盛りで、何を食べてもすぐにお腹が空くらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "育ち盛りの時期に、十分な睡眠を取ることは非常に重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は少女時代から娘時代にかけて、育ち盛りの前を阻まれた女です。",
@@ -117,7 +142,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:08:05.326967+00:00Z"
     }
   }
 ]

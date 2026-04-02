@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その訴訟事件は、メディアで大きく報じられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、多くの訴訟事件を手がけるベテラン弁護士だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この訴訟事件は、社会に大きな影響を与えるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それは所長が知人から頼まれて肝油の分析をしてやった、その分析表が訴訟事件の証拠物件となり、分析業者や化学者の団体から抗議が出てだいぶ面倒な問題になったのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:12:21.354579+00:00Z"
     }
   }
 ]

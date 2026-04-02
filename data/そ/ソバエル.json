@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供たちが庭で無邪気に戯れている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子猫が毛糸玉と戯れて、楽しそうに遊んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は大人になっても、時々いたずらっぽく戯えることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちらほら梅の咲きそうな裏庭へ出て、冷い頸元にそばえる軽い風に吹かれていると、お島は荐に都の空が恋しく想出された。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:30:34.972007+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "神社に参拝し、感謝の気持ちを込めて供え物を捧げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "お墓参りでは、故人の好物だったお菓子を供え物として持っていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "仏壇には、毎日新鮮な花と水の供え物が欠かせない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "烏帽子姿の神官が、神前の供え物を、その白木の三宝を一つ一つに片づけていた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:26:07.206846+00:00Z",
       "freq_rank": 40059
     }
   }

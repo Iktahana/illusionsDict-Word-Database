@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ショパンの即興曲は、ピアニストにとって憧れのレパートリーだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女はコンサートで、自作の即興曲を情感豊かに演奏した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その映画のサウンドトラックには、美しい即興曲が使われていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、私がよく知るように、幾日も立て続けで肘掛椅子にゆったりもたれかかりながら、即興曲を作ったり古版本を読んだりしているときほど、ホームズが真に恐るべきときはない。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:09:57.582911+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "街で芸能人のそっくりさんを見かけ、思わず二度見してしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は、ある有名な女優のそっくりさんとしてテレビに出演した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "コンテストには、エルビス・プレスリーのそっくりさんが大勢集まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "巡業と言えば、エルヴィス・プレスリーのそっくりさんのバンドで、姉はリード・ギターを担当していたこともある。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:09:57.588935+00:00Z"
     }
   }
 ]

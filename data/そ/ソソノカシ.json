@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "悪友の唆しに乗って、彼は悪い道に足を踏み入れてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "魔女の唆しによって、王子は深く眠りについた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その唆しには乗らず、自分の意志で判断することが大切だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "誤解をなくするために断っておきたいと思う事は、左に地名と対応させた外国語は要するにこじつけであって、ただある一つの可能性を示唆し、いわゆる作業仮説としての用をなすものに過ぎないという事である。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:10:39.493938+00:00Z"
     }
   }
 ]

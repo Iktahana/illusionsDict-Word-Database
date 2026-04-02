@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "桜が舞う季節、多くの学生が卒業を迎える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大学を卒業したら、海外で働きたいと思っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "学んだことを活かし、社会に貢献できる人材に卒業したい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし利休に至っては、時にまるで赤児のよう、時にはまるで賢者のよう自由自在に振舞って、しかも一向そつがないのであります。",
@@ -111,7 +136,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:19:58.945679+00:00Z"
     }
   }
 ]

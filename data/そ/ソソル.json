@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいプロジェクトは、彼の挑戦意欲を強くそそるものだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このミステリー小説は、読者の好奇心をそそる巧妙な仕掛けが満載だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "食欲をそそる香ばしい匂いが、レストランから漂ってきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "狭苦しい銀子の家も、二階の見晴らしがよくなり、雨のふる春の日などは緑の髪に似た柳が煙り、残りの浅黄桜が、行く春の哀愁を唆るのであった。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:10:39.495830+00:00Z",
       "freq_rank": 27018
     }
   }

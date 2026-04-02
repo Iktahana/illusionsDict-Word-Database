@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このアパートには、エアコンが備え付けになっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ホテルの部屋には、コーヒーメーカーが備え付けで置いてあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新築の家には、最新のシステムキッチンが備え付けられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一つのピアノとかオルガンとかに備え付けられているキーは限られている。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:26:07.205936+00:00Z",
       "freq_rank": 25309
     }
   }

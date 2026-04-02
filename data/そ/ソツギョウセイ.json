@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "美術大学の学生は、卒業制作として大規模なインスタレーションを制作した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女の卒業制作は、多くの来場者の注目を集めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "卒業制作の展示会が、ギャラリーで開催された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "古いその学校の卒業生の教授が校旗を先導しに入って来た。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:19:58.949389+00:00Z",
       "freq_rank": 7149
     }
   }

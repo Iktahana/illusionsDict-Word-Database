@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その巨大な像は、公園の丘の上で静かに聳え立っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "海岸沿いの断崖絶壁が、荒波に向かって力強く聳え立っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "伝説の城が、雲を突き抜けるほど高く聳え立っていたという言い伝えがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夕暗に聳える恵那山は真っ白に雪を被っていた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:30:13.548351+00:00Z",
       "freq_rank": 32375
     }
   }

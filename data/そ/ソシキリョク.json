@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の会社は、その高い組織力で多くのプロジェクトを成功させてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "チームの組織力を高めるために、定期的なミーティングが重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "災害時において、地域の組織力が住民の安全を確保する上で不可欠だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "資本主義経済の死物狂いの攻勢は企業内にあっては最も組織力の弱い、不熟練工としての婦人労働者群に集注される。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T18:12:21.344518+00:00Z"
     }
   }
 ]

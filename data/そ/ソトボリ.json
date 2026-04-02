@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸城は、内堀だけでなく広大な外堀にも守られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "お城の周りの外堀を船で巡る観光ツアーが人気だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "かつては敵の侵入を防ぐために、深い外堀が重要な役割を担っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その大暴れの最中に、外堀から黒雲をまき起して、金色の鱗をかゞやかしながら天上に昇つた怪物のあることを、多数の人が目撃した。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:26:07.196987+00:00Z",
       "freq_rank": 41589
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "議会は、大統領に対する訴追の決議を採択した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "弾劾裁判で、その公務員の訴追が審議された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "証拠不十分のため、訴追は見送られることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところがこんどの新刑事訴訟法第二七九条ではついにこれを法文の上に現わして「犯人ノ性格、年齡及境遇並犯罪ノ情状及犯罪後ノ情況ニ因リ訴追ヲ必要トセザルトキハ公訴ヲ提起セザルコトヲ得」と規定するに至った。",
@@ -290,7 +315,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "訴追委員会は、集められた証拠を精査した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その汚職事件の訴追委員会が、調査を開始した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "訴追委員会の決定により、捜査が本格化した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -304,7 +354,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T18:19:58.943597+00:00Z",
       "freq_rank": 20673
     }
   }
