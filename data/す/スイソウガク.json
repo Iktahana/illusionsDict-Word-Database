@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は高校時代、吹奏楽部でクラリネットを担当していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "吹奏楽コンクールに向けて、部員たちは連日練習に励んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この曲、吹奏楽アレンジで聴くのもいいね！原曲とはまた違った感動がある。」と、コンサートで聴いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蕪村七部集が艶麗豪華なようで全体としてなんとなく単調でさびしいのは、吹奏楽器の音色の変化に乏しいためと思われる。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T08:46:10.903698+00:00Z",
       "freq_rank": 12165
     }
   }

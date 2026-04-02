@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数学的論理学は、哲学と数学の境界領域に位置し、思考の構造を分析します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "コンピュータサイエンスにおける形式的検証は、数学的論理学の原理に基づいています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、数学的論理学の講義で、ゲーデルの不完全性定理について学び、深い感銘を受けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其他近代の論理学に数えられるものには内在論者のシュッペや、ヴント、ランゲ、リール、其他を数え得るが、最後に、形式論理学の最も徹底した形態として、数学的論理学を挙げねばならぬ。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T09:00:18.882197+00:00Z"
     }
   }
 ]

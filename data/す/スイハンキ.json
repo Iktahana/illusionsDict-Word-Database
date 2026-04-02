@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生は、授業中に常に丁寧な言葉遣いをすることで、生徒たちの垂範となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ここに誕生したソニーの歴史的第一号製品は、この年の十一月に完成を見た電気炊飯器、エレクトリック・ライス・クッカーだったのであります。",
@@ -100,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:52:53.517333+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このお店では、数種類のお茶を取り揃えており、お客様のお好みに合わせて選べます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "科学実験では、数種類の方法で生成された物質の特性を比較分析しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この製品ラインナップには、数種類のカラーバリエーションがあります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鶴は洗面所で歯を強くみがき、歯ブラシを口にふくんだまま食堂に行き、食卓に置かれてある数種類の新聞のうらおもてを殺気立った眼つきをして調べる。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T09:00:18.893387+00:00Z",
       "freq_rank": 22104
     }
   }

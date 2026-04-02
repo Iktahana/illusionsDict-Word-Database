@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "酸性溶液中では、水素イオンの濃度が高くなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "生体内のpHバランスは、水素イオンの精密な制御によって保たれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このリトマス試験紙、酸性なので赤色に変わります。これは水素イオンが多い証拠です。」と、理科の授業で習った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "のみならず、焼かれた皮膚の局部では蛋白質が分解して血液の水素イオン濃度が変わったり、周囲に対する電位が変わったり、ともかくもその付近の細胞にとっては重大な事件が起こる。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:46:10.902115+00:00Z"
     }
   }
 ]

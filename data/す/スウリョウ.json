@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "注文した商品の数量に誤りがないか、納品書を確認する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "原料の数量を調整して、製品の品質を一定に保つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "このチケットは発行数量が非常に少なく、入手が困難だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでもし各種母音に相当する口腔の形状大小を規定する若干の数量が定められれば、歌の口調というものはこれらの量を時間の函数として与える数個の方程式で与えられることになるので、従って口調というものの科学的研究がとにかくも可能になる訳である。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T09:01:59.299124+00:00Z",
       "freq_rank": 6783
     }
   }

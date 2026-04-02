@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "トイレが詰まって自分ではどうにもならず、慌てて近所の水道屋さんに電話した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "水道屋の主人は、熟練の技であっという間に水漏れ箇所を修理してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "24時間対応の水道屋さんが来てくれたおかげで、真夜中の水トラブルが解決した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ある井戸の所有者が修繕費を節約するために水道屋にポンプの鉛を普通の２倍の厚さにするように注文した例をラム博士が述べている。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:55:43.078997+00:00Z"
     }
   }
 ]

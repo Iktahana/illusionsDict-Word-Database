@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本質を見失い、末の問題にばかりこだわっていては、事態は一向に好転しない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼の指摘は確かに正しいが、今回の議論においては末の問題に過ぎない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「それは末の問題だ、まずは全体の構成を固めよう」とリーダーが促した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すべて人間に関する事は、どのような瑣末の問題でも、深くこれを思う時は、次第にその関連するところが多くなって、終に「人生の行方」というような大問題に連なり結ばれるものである。",
@@ -101,7 +126,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T09:03:44.149795+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ASCIIコードでは、'0'から'9'までの数字集合には連続したコードが割り当てられています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "データベースのフィールド定義で、この列には数字集合のみを許可するように設定しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "文字エンコーディングによっては、数字集合の表現方法が異なる場合があります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "諸君になお常識なるものありや」（沈黙長し）南西太平洋軍総司令官「敢えて反駁いたすようでおそれ入るが、｜わが国の人口はなるほど一億三千万人であるが、反｜枢軸国の人口総計は……」大統領「僅か三十五億人ではないか。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T09:04:21.838113+00:00Z"
     }
   }
 ]

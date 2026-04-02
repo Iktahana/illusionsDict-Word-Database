@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "証明したい命題が正しいことを、数学的帰納法を用いて示しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "数学的帰納法は、自然数に関する命題を証明する上で非常に強力な手法です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このアルゴリズムの正当性は、数学的帰納法によって厳密に証明できます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数学的操作が結局例の数学的帰納法の原理に立っていると同様に、概念分析は、所謂演繹の原理に立っているが、この原理が普遍性を持っていればこそ、古来論理学と言えば主として演繹論理学に限るとさえ考えられたのである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T09:00:18.881799+00:00Z"
     }
   }
 ]

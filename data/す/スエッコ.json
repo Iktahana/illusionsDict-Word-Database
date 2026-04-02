@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "三人兄弟の末っ子として育ったせいか、彼は甘え上手で世渡りがうまい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "末っ子のわがままに家族全員が振り回されるのは、我が家の日常風景だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「いつまでも子供扱いしないで」と、末っ子の妹がむくれて言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「わたしはよくよく子供に運がない」　おまきはいつも愚痴をこぼしていたが、それでも末っ子の七之助だけは無事に家に残っていた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T09:03:44.144629+00:00Z",
       "freq_rank": 26642
     }
   }

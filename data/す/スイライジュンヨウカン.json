@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "第一次世界大戦では、水雷巡洋艦が敵艦隊に大きな損害を与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今の世に、かくも驚く可き速力をもつて居る船は、水雷驅逐艦か、水雷巡洋艦の他はあるまい、あの燈光の主體は果して軍艦の種類であらうか。",
@@ -52,7 +61,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:55:55.306073+00:00Z"
     }
   }
 ]

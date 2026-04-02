@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その推理作家の新作は、発売と同時にベストセラーになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが推理作家が勢に乘つて來て、凡、「血みどろ」「拔け穴知らず」など言ふ技術を競ふばかりで、探偵小説本來の目的など言ふことは考へても見ないやうである。",
@@ -108,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:55:55.309360+00:00Z"
     }
   }
 ]

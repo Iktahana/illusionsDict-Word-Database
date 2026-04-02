@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村の古い水車小屋は、今もなお川のせせらぎと共に静かに佇んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供の頃、祖父と夏休みに訪れた水車小屋で、粉ひきの仕事を見学させてもらったのが懐かしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この辺りの地域では、かつて多くの水車小屋が穀物生産の要となっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「西部劇通信」だの「ゼーロン」だのを書いた昭和五年の頃は、彼の返り咲きの観があつたし、評判がよかつたのであるが、あの頃のものよりも、それから暫く後に書いた、水車小屋の壁に凭れて月の明りで手紙を読む短篇なぞの方が、遙かに牧野さんらしいものであると思はれる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:50:47.611195+00:00Z"
     }
   }
 ]

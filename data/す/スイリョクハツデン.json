@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本には、豊かな水資源を活かした水力発電所が数多く存在する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "水力発電は、燃料を必要としないため、比較的安定したコストで電力を供給できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "将来的なエネルギー供給を考えると、水力発電の役割はますます重要になるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その問題ならば、自分が帰つたところで、手ブラで帰つたのでは、邪魔になるだけなのだから、それよりも、年来の目論見である、水力発電所に関する長編でも、書きあげようと、発電所の見おろせる鳥屋にガン張つてゐた。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T08:57:54.678623+00:00Z"
     }
   }
 ]
