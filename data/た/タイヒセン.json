@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "貨物列車は、本線上の旅客列車の通過を待つため、待避線に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "駅には複数の待避線があり、列車の行き違いをスムーズに行っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あ、あの列車、待避線に入ったぞ。もうすぐ特急が来るんだな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それによると、二月二十五日の朝、田中支隊を乗せた汽車が待避線に着くと、香田小隊が将校斥候になって出発したが、その夜九時頃になって、その将校斥候から報告が来た。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T20:45:28.946200+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この図書館の膨大な蔵書は、大きく分けて文学、歴史、自然科学の3つのカテゴリーに大別される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "多様な人間の性格をたった4つの血液型に大別するのは、いささか強引すぎる分類かもしれない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "海洋の植物プランクトンは、その形態や細胞構造によって大きく数種類に大別することができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勿論その要素それ自身に、各その味いがあるのであるから以上の如き差別は、仮定の上に概括して云うことであるけれども、大別して云うならば、味いをもって勝ってる佳作と、要素をもって勝ってる佳作と、概括した差別は云うことが出来る訳である。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T20:59:53.966186+00:00Z",
       "freq_rank": 21572
     }
   }

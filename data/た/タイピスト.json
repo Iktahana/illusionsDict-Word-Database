@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔は、タイピストの需要が高かった時代があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は優秀なタイピストで、どんな書類でも正確かつ迅速にタイプしてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「わあ、タイピストさんってすごい！こんなに早く打てるなんて、魔法みたい！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それが団十郎の孫にあたるタイピストをつれて散歩しているところを不意に写真機を向けて撮る真似をされたので平生妻君恐怖症にかかっているらしい社長はこの靴磨きを妻君からわざわざさし向けられた秘密探偵社の人とすっかり思い込んでしまってこの実はフィルムのはいっていない写真機の買収にかかる。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T20:45:28.951419+00:00Z"
     }
   }
 ]

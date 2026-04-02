@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このプラスチックは、優れた耐熱性を備えているため、電子レンジでの使用も可能だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "帆村の気づいたところは、第一に非常に早乾きがすること、第二に、固まってしまえば鋼のような強い弾力を帯びること、第三に耐熱性に富んでいるらしい非常に優秀な漆喰だった。",
@@ -52,7 +61,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T20:39:54.093445+00:00Z"
     }
   }
 ]

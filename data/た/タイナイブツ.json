@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い仏像の腹部から、驚くほど精巧な胎内仏が見つかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三寸二分、金無垢の大日如来というのは、本堂の奥に安置した教祖の木像の胎内仏で、別にお厨子を作って見えるところに安置したのは、少しでも寺内を賑やかにしようという住職の商売気、そこを見込んで怪盗風太郎が、昨夜一と晩のうちに盗み出してしまったのです。",
@@ -92,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T20:39:54.086736+00:00Z"
     }
   }
 ]

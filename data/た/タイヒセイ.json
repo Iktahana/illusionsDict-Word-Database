@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は貸費生として大学に通い、将来は学費を返済することを誓っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "貸費生向けの就職説明会が、学内で開催された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「貸費生って、学費を借りてるんだっけ？大変だね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "博士の父が、明治の初年に、同縣の友で好い位地を得てゐた某の世話で、月給十五圓の腰辨當を拜命して、東京に住むやうになつた時から、食ふ筈の肴を食はず、着る筈の着ものを着ずに、博士の學資を續けて、博士が其頃の貸費生といふものになりおふせる迄にしたのは、此母君の力である。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T20:45:28.945996+00:00Z"
     }
   }
 ]
