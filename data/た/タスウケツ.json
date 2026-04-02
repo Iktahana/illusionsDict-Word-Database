@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "議論が平行線を辿ったため、公平を期すために多数決で新しいリーダーを決定することにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "多数決で一度決まったことには、たとえ内心で反対していても組織の一員として従わなければならない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "何でも安易に多数決で決めてしまうのは、少数派の正当な権利を排除する「多数の暴虐」を招く恐れがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして相互の人格・才幹・技倆・能力・体力に非常なる懸隔があって、ある一人の偉大なる強者の下に衆者平伏して文句なしにその命に屈服した時代でありました（後世になって発達した多数決という選挙の形式と比較して研究するのはいたって趣味あることでありますが、こはまたいつかお話することに致します）。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:31:50.914003+00:00Z",
       "freq_rank": 19467
     }
   }

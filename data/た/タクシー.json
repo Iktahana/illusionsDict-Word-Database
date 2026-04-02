@@ -36,7 +36,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "終電を逃してしまったので、駅前の乗り場からタクシーで帰ることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "雨が激しくなってきたので、通りかかったタクシーを拾って会社へ向かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「タクシーを一台、明日の朝八時に呼んでおいていただけますか」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "椰子の樹下のタクシーに英国人十数人が一人の女を胴あげにして一塊になると喚声の間に泣き叫ぶ女の哀調をのこして砂塵をたてて見えなくなってしまった。",
@@ -283,7 +308,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:25:19.906017+00:00Z",
       "freq_rank": 2873
     }
   }

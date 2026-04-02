@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "特殊なフィルターを装着した望遠鏡を覗くと、太陽の表面に小さな黒いシミのような太陽黒点がいくつか確認できた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "太陽黒点の数が多い年は、太陽表面での爆発現象が起きやすく、地球上の短波通信に障害が出ることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "17世紀の天文学者たちは、太陽黒点の動きを観察することで、太陽自体が回転していることを突き止めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たとえば太陽黒点と日本の一部分のある特定の気象要素との間に或る相関を見つけたというのが、太陽黒点が地球の気象に関係するという事を始めて見つけたかのごとく報ぜられるような種類のものがはなはだ多いのである。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:10:04.361554+00:00Z"
     }
   }
 ]

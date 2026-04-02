@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この料亭では、使い捨ての竹箸ではなく、上品な漆塗りの箸が出された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｎ教授は長い竹箸でその一片をつまみ上げ「この中にはずいぶんいろいろなえらいものがはいっていたんだなあ」と言いながら、静かにそれを骨壺の中に入れた。",
@@ -212,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:29:44.196582+00:00Z"
     }
   }
 ]

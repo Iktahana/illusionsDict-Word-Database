@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その俳優は、演技だけでなく、歌やダンスもこなす多芸多才ぶりで、舞台に欠かせない存在だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "多芸多才、能文達筆の氏にとっては、堂々たる本格探偵小説の長編に精力を集中するのがいちばん適しているのではないかと思う。",
@@ -86,7 +95,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:29:44.207869+00:00Z"
     }
   }
 ]

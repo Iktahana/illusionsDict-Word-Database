@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "田植えの時期になると、農家の人々は早朝から田んぼで忙しく働きます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "昔ながらの田植えは、地域の人々が協力して行う大切な行事でした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「さあ、みんなで田植えをしよう！」子供たちは歓声をあげて田んぼに駆け出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "親爺もおふくろも、兄も、それから僕も、田植えと、田植えのこしらえに額や頬に泥水がぴしゃぴしゃとびかゝる水田に這入って牛を使い、鍬で畦を塗り、ならしでならした。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:16:17.806120+00:00Z",
       "freq_rank": 14692
     }
   }

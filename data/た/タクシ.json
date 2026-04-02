@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "書斎の中央には、黒壇の重厚な卓子が置かれ、その上に古い書物が並んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "窓際の小さな卓子を囲んで、二人は静かに午後のティータイムを楽しんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "明治時代の洋館には、当時の意匠を凝らした卓子が当時のまま残されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は前夜の飲過ごしでぐつたりして、少し卓子の割合には高過ぎる椅子に腰掛けて、煙草を喫つたり本を読みかけてみたり、と、急に思ひ出して此の日頃方々で受取つた名刺の整理をしたり、――要するに何の野心もなく、その日第一回の食事を済ましたばかりのところであつた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:25:19.902766+00:00Z",
       "freq_rank": 32677
     }
   }

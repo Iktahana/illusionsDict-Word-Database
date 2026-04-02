@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "天気図を見ると、台風がこのまま北上して関東に上陸する可能性が最も確からしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "科学者たちは、宇宙の起源に関する最も確からしい仮説を立てようと日々腐心している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼の証言は細部まで一貫しており、他の誰の言葉よりも確からしいと感じられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この（１）（２）（３）（４）いずれも当面の問題に対しては実に貧弱なデータで、これだけからなんらの確からしい結論も導き出せないことは科学者を待たずとも明白なことである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:29:36.816714+00:00Z"
     }
   }
 ]

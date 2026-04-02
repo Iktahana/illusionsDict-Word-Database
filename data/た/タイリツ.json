@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "開発計画を巡って、住民側と企業側の意見が激しく対立し、説明会は紛糾した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "伝統的な価値観を守ろうとする保守派と、改革を推進するリベラル派の対立は深まる一方だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "些細な誤解から二人の友情に亀裂が入り、修復不可能な対立関係に陥ってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "内容価値と技巧価値は対立してはゐませんよ。",
@@ -255,7 +280,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:07:10.404965+00:00Z",
       "freq_rank": 3021
     }
   }

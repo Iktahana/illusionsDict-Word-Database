@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この海域の大陸棚はプランクトンが豊富で、古くから世界有数の好漁場として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大陸棚の地下には膨大な天然ガスや石油が眠っている可能性があり、資源開発の期待が高まっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "海岸からなだらかに続く大陸棚を抜けると、海底は急激に深くなり深海の世界へと繋がる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "陸地から海にはいるものは、大陸棚に沈澱してしまうので、大洋の深海までは届かない。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:07:10.401432+00:00Z",
       "freq_rank": 43911
     }
   }

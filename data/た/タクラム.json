@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ライバル会社は、画期的な新製品のシェアを奪おうと裏工作を企んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は脱獄を企むために、数ヶ月かけて看守の交代時間を克明に記録した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "平和な村に危機が迫っているとも知らず、賊は深夜の襲撃を企んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "処へ、幾条も幾条も家中の縁の糸は両親で元緊をして、颯さらりと鵜縄に捌いて、娘たちに浮世の波を潜らせて、ここを先途と鮎を呑ませて、ぐッと手許へ引手繰っては、咽喉をギュウの、獲物を占め、一門一家の繁昌を企むような、ソンな勘作の許へお嬢さんを嫁られるもんか。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:26:06.189477+00:00Z",
       "freq_rank": 39823
     }
   }

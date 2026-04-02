@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「はし」のように、箸・橋・端といった複数の意味を持つ多義語の習得は外国人にとって難しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "辞書を引くと、その多義語にはページを跨ぐほど多くの語義が解説されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日常会話でよく使う単語ほど、実は意外な意味を含んでいる多義語だったりする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "伸子は、腹のたつ気持を抑えたぎごちない低い声で、「お母様の世間だけが、世間のすべてでもなさそうよ」と云った。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:19:58.921301+00:00Z"
     }
   }
 ]

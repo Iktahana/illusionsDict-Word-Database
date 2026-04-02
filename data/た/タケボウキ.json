@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝、庭師が竹ぼうきで落ち葉を丁寧に掃き集めていた。カサカサという音が心地よい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あんな助平で騒々しか鳥はわしゃ好かん」　晩飯をすました三太が、裏庭へ出てみると、爺さんは傍らに竹ぼうきを投げだしたまま、土蔵の石段にしょんぼり腰をかけていた。",
@@ -54,7 +63,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:29:44.199080+00:00Z"
     }
   }
 ]

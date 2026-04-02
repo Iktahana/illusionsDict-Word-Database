@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オフィスに響く卓上電話の呼び出し音に、新人社員が慌てて対応した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は受話器を耳に当てながら、卓上電話のボタンを流れるように操作した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "卓上電話の隣には、取引先の連絡先を記したメモが置かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "カフェーを沸かしながら彼女は卓上電話をとると、麹町にある彼女の経営している店に電流を通じて、その日のスケジュールをつくるために店員たちと約束客の時間の繰合わせについて打合せを始めた。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:25:19.910536+00:00Z"
     }
   }
 ]

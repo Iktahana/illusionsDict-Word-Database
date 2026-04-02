@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "太陽系の中で最も大きな惑星である木星は、その強力な重力で多くの彗星を掃き清める盾のような役割を果たしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "宇宙探査機ボイジャー1号は、太陽系の境界付近を越えて、今も星間空間を飛び続けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "学校の理科の授業で、太陽系の惑星の大きさを果物に例えて並べ、そのスケール感を学習した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは地球から見た時に太陽が天球のどこに来ているかという事を意味するだけの事であるから、太陽系に何か大きな質量の変化が起こるか、重力の方則が変わらない限り、予定のとおり進行してゆくはずである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:10:04.358228+00:00Z",
       "freq_rank": 17608
     }
   }

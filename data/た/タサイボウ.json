@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "顕微鏡で観察すると、その生物が多くのパーツから成る多細胞構造であることが分かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ボルボックスは単細胞と多細胞の中間に位置する興味深い生物だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "私たちの体は約37兆個もの細胞が集まった多細胞系である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一定の時期を経過して、一定の子孫が生ずれば、再びその勢力は枯涸して、また他種のものと合する必要が起るのであるが、多細胞のものにあっては、絶えず他種のものと合することを要する。",
@@ -61,7 +86,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:29:36.806462+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "小説『宝島』を読んで、大海原へ冒険に出かける少年の姿に胸を躍らせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "地図にも載っていない南の海の宝島には、今も財宝が隠されているという伝説がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "夏休みに家族で行った無人島は、まるで本物の宝島のようなワクワク感があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「宝島」の作者は何時迄も海賊と埋もれた宝物のことを書いていればいいのであって、南海の殖民事情や、土着民の人口減少現象や、布教状態に就いて考察する資格が無いとでもいうのか？",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T21:21:10.911391+00:00Z",
       "freq_rank": 26507
     }
   }

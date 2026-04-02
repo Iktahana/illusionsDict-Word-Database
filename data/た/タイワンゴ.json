@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母は北京語よりも台湾語の方が話しやすいらしく、親戚とはいつも賑やかに台湾語で話す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "台湾のドラマを繰り返し見ていたら、簡単な台湾語の挨拶や返事が自然と身についた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "現地の市場で台湾語を使って値切り交渉をしてみたら、お店の人が笑顔でおまけしてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでたとえば、他方で「魚」や「鳥」の訓がシナ語や台湾語で説明されるとか、されないとかいう事は、ここでは問題にならないのである。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:09:15.092452+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "湿地のほとりに、赤みを帯びた小さな花をつけた蛸の足が群生している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「蛸の足」という植物は、その独特な花のつき方がタコの足に似ているのが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "絶滅危惧種に指定されている蛸の足を守るため、地域の人々が保全活動を行っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わざと迷児になんぞおなり遊ばして、可うござります、翌日は暗い内から婆々が店頭に張番をして、芸妓さんとでも腕車で通って御覧じゃい、お望の蛸の足を放りつけて上げますに。",
@@ -198,7 +223,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T21:28:11.333063+00:00Z"
     }
   }
 ]
