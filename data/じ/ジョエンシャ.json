@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画祭では、助演者の賞が設けられ、多くの才能ある俳優たちが表彰されました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、数々の映画で名脇役として活躍する助演者です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このドラマ、主役もいいけど、助演者たちのキャラクターがまた魅力的で！つい見入っちゃうんだよね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もっとも同じくヤニングスのものであっても相手役にディートリヒとかアンナ・ステンとかがいる場合は必ずしもそうはならないようであるが、この現在の場合における助演者はこのように主演者と対立して二重奏を演ずるためにはあまりに影が薄いようである。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:11:15.158949+00:00Z"
     }
   }
 ]

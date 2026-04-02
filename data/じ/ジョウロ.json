@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の手入れをするために、新しい如雨露を買いました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供が、自分で育てた花に如雨露で水をあげています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あら、お水あげるの忘れてた！はい、この如雨露でどうぞ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "若侍二人、一人は花鋏を持ち、一人は如雨露を持ちて、枝折戸のそばに立ち、四目垣にからみたる朝顏に水をやつてゐる。",
@@ -143,7 +168,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:11:15.154106+00:00Z"
     }
   }
 ]

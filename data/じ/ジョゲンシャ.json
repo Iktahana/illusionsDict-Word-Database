@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、大学で学生たちの助言者として活動しています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "信頼できる助言者を見つけることは、キャリアにおいて重要です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「もっと大胆に挑戦してみたら？」と、経験豊かな助言者は勧めてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし「地図の言葉」に習熟した人にとっては、一枚の図葉は実にありとあらゆる有用な知識の宝庫であり、もっとも忠実な助言者であり相談相手である。",
@@ -254,7 +279,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:06:10.615375+00:00Z"
     }
   }
 ]

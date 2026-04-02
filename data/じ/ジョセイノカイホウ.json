@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ジョン・スチュアート・ミルの『女性の解放』（The Subjection of Women）は、フェミニスト思想の基礎を築いた論文である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "『女性の解放』は、女性の社会的・法的な権利が男性と同等であるべきだと主張している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この本を読むと、ジェンダー平等についての考え方が大きく変わるよ」と、友人が勧めてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "と、これは真の女性の解放ではなく、その境遇がそういう交際を形作る機会を与えたに過ぎないので、従って本当に自分の立場を知るのは其処から自分の生活を切り放さなければならないでしょう。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:18:13.604944+00:00Z"
     }
   }
 ]

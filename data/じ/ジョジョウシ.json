@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この叙情詩は、作者の失恋の痛みを率直に表現している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "教科書に載っていた叙情詩を、声に出して読んでみた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "情景描写が細やかな叙情詩は、読者の想像力を掻き立てる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人はよく生きるためには、絶えず高潔な感情を求めて、現実の生活そのものを充実した美しさの上に、がつしりと、しかも肉体的に築きあげねばならないと言ふのは、彼の叙情詩の凡てが語る所の哲学である。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:12:32.485864+00:00Z"
     }
   }
 ]

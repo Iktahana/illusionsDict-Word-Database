@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史の授業で『女工哀史』を取り上げ、当時の社会問題について議論した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "図書館で『女工哀史』の初版本を見つけ、その貴重さに息をのんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "祖母は「女工哀史」に描かれたような過酷な経験を語ってくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "故細井和喜蔵氏によって著わされた「女工哀史」はそういう特性をもった日本の若い無抵抗な労働婦人が、ある時代に経なければならなかった生活記録として、世界的な意味をもつ古典なのである。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T06:10:35.654679+00:00Z"
     }
   }
 ]
