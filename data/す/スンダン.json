@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地震による土砂崩れで、幹線道路が至る所で寸断され、孤立した集落が発生した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "嵐の夜、暴風雨によって電線が寸断され、町全体が停電に見舞われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "敵の補給路を寸断するための作戦が、密かに実行に移された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（茲で一寸断つて置くが、ホンの少しの事が分ると、分つたことが当人にとつて余りに珍しいので却つて書けるといつたあの生々しい文学青年をも「書いてゐる奴」の中に入れて話してゐるのではない。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T11:18:26.642474+00:00Z",
       "freq_rank": 40754
     }
   }

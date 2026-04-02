@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このビルの正式名称は「〇〇タワー」ですが、地元では「三角ビル」と呼ばれています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい法律の正式名称は、非常に長いものだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "正式名称を忘れがちだが、正確に使うべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただし一九九二年十月に、米ボイジャー社と日本のソフト制作者グループとのジョイントベンチャーによって、日本法人のボイジャージャパン（正式名称、株式会社ボイジャー）が設立されており、一九九三年三月のリリースをめどに日本語化の作業が進められている。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:31:59.136332+00:00Z"
     }
   }
 ]

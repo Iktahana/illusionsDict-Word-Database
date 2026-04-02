@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地元の小さな製作所が開発した特殊なネジが、スペースシャトルの部品に採用された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祖父が経営していた鉄工製作所は、今では息子が継いで最新の設備を導入している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その自転車製作所では、フレームの一本一本を熟練の職人が手作業で溶接している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "とにかくその七月いっぱいに私のした仕事は、一、北極熊｜剥製方をテラキ標本製作所に照会の件一、ヤークシャ山頂火山弾運搬費用｜見積の件一、植物標本｜褪色調査の件一、新番号札二千三百枚調製の件　などでした。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T11:21:59.411409+00:00Z",
       "freq_rank": 16919
     }
   }

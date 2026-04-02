@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は戦後、地元の製缶工場で飲料水の缶を作る仕事に従事していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この製缶工場では、最新のオートメーション設備によって1分間に数百個の空き缶が生産される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "リサイクルされたアルミは再び製缶工場へと運ばれ、新しい製品に生まれ変わる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――製缶工場、拓殖ビルディング、一流銀行、××工場、運河、倉庫、公園、大邸宅、自動車、汽船、高架桟橋……それ等が、まるで大きな渦巻のように凄じく入り乱れ、喚いている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:13:05.120323+00:00Z"
     }
   }
 ]

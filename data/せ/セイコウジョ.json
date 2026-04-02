@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は若い頃、八幡製鋼所で溶鉱炉の監視員として働いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "巨大な製鋼所から立ち上がる白い煙が、この町の産業を象徴している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "見学ツアーで訪れた製鋼所の熱気と火花の迫力に、子供たちは圧倒された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "方角を忘れてしまったが、室蘭製鋼所のある反対側、桟橋を上がって右の方へ大通りをさびしく歩いて行くと、道が、上中下三段ぐらいに別れて、山の側面へ各の家の並びを持って並行についている。",
@@ -134,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:21:14.837452+00:00Z"
     }
   }
 ]

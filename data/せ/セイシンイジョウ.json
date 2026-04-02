@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は事故の後遺症で精神異常をきたし、長期間の治療が必要になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "精神異常と診断されたが、適切なケアと薬で回復に向かっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "突然のショックで、一時的に精神異常の状態になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "）此時、此等の大変に感じて精神異常を起したものか、それとも玄明等｜若しくは何人かの使嗾に出でたか知らぬが、一伎あらはれ出でゝ、神がゝりの状になり、八幡大菩薩の使者と口走り、多勢の中で揚言して、八幡大菩薩、位を蔭子将門に授く、左大臣正二位菅原｜道真朝臣之を奉ず、と云つた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:33:15.599422+00:00Z"
     }
   }
 ]

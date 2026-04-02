@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "トラブルが発生したため、工場長は一時的にすべての生産ラインを停止させる決断を下した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新製品の製造を開始するために、既存の生産ラインの一部を改造して新しい機械を設置した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "生産ラインのスピードを上げすぎると、作業員のミスが増えて品質が低下する恐れがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この不況下、半導体の需要が急激に落ち込む中で、他のメーカーは設備投資を抑えたのに対し、日電は生産ラインの強化を敢行。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:28:51.096546+00:00Z"
     }
   }
 ]

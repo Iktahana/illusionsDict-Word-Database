@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "原材料の価格が下がったおかげで、製品一個あたりの生産費を抑えることができた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "高度な技術を要する製品は、どうしても生産費が高くなり、それが販売価格に反映される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "生産費をどこまで削減できるかが、競合他社との価格競争に勝つための鍵となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "單位段別につき耕作者が負擔する生産費と、地主が負擔する諸掛りとを、具體的に精密に數字としてあげ、そこから小作料の妥當な額を割出して行くといふ準備は今日の彼には無かつたし、又その必要があるとも思はなかつた。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:28:51.093728+00:00Z"
     }
   }
 ]
