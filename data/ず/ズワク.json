@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「製図では、図枠の中に図を描き込む。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この設計図は、正確な図枠が引かれていない。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「図枠の外に情報がはみ出さないように注意してください。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山に対ひて、疲れ居にけり吉野谷村さやかなる秋の日　早く　九頭龍の川ぞひの村に　宿らむとすも板垣の里家ことたりて、なほすべなさを言ふ兄の　心ならひは、知らざるにあらずわくらはにあへる兄なり。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:04:53.038177+00:00Z"
     }
   }
 ]

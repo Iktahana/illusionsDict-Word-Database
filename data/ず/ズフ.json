@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の博物学者が著した魚類図譜を眺めると、当時の詳細な観察眼に驚かされる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この植物図譜は、写生が非常に緻密で、まるで生きているかのような迫力がある」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "図書館の奥深くに眠っていた古い図譜から、絶滅したとされる鳥の姿を知った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然れども其図譜以外の撰述に於ては甚だ寥※、彼と我とを併せて、棋経十三篇に及ぶもの無し。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:00:50.203952+00:00Z"
     }
   }
 ]

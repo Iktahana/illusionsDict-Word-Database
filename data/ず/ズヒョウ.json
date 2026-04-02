@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "過去10年の気温の変化をグラフにした図表を作成し、会議の資料に添付する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この複雑なデータも、図表にまとめれば一目で傾向が分かりますね」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "プレゼン資料には、文字ばかりではなく適度に図表を取り入れると説得力が増す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうしてそれが雑然たる群衆ではなくて、ほとんど数学的「鋼鉄的」に有機的な設計書の精細な図表に従って、厳重に遂行されなければならない性質のものである。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T11:00:50.203208+00:00Z",
       "freq_rank": 14832
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地図を作成する際には、目的に応じて適切な図法を選択する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "メルカトル図法は航海に適しているが、高緯度地方の面積が拡大される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "投影図法を駆使して、三次元の物体を正確に平面へ描き出す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――自分｜一人で父に逢ふと、父があゝ云ふ気象の所へ持つて来て、自分がこんな図法螺だから、殊によると大いに老人を怒らして仕舞ふかも知れない。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T11:02:24.664203+00:00Z"
     }
   }
 ]

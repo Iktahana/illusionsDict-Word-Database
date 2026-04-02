@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はバックパッカーとして、広大な砂漠が広がるアフリカの蘇丹を旅した経験がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "蘇丹の歴史的な遺跡を調査するため、多くの考古学者が現地を訪れている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ニュースでは、蘇丹の政情不安による避難民の増加を懸念する国際社会の声を伝えていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其の間撤兵問題、蘇丹事件等ありしも、彼は英京政府を助けて著々之れを解決し、終に埃及に於ける英國の保護權を確保して最早動かすべからざるものならしめたり。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T10:47:04.673345+00:00Z",
       "freq_rank": 25555
     }
   }
