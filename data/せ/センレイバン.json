@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "教会の祭壇の横には、大理石で作られた荘厳な洗礼盤が置かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "洗礼盤には、精緻な彫刻が施されており、芸術作品としても価値が高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "洗礼式では、この洗礼盤に注がれた水で赤ん坊の額が清められる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その頃の洗礼盤は古くなって欠損したから、廃物として後園の片隅に長い間棄ててあったのを、洗礼された人がえらくなったので、また復活して今では大事に教会の中に飾られてある。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T15:16:26.679172+00:00Z"
     }
   }
 ]
