@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大日本帝国憲法発布に際し、明治天皇から上諭が発せられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "上諭には、国民への国の基本方針が示されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その上諭は、日本の近代化における重要な転換点となった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "〕　去る光緒二十六年の十二月（明治三十四年一月）に、西太后が陝西の西安府の行在で發布した、變法自強の上諭の中に、禍天下者、在一例字とある通り、先例に拘執繋縛されて、支那人は如何程その國運の進歩を阻害したか知れぬ。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T07:13:28.543168+00:00Z"
     }
   }
 ]
