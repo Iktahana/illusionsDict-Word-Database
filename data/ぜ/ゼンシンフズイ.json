@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "重い事故の後、彼は全身不随の状態となり、リハビリを続けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その難病は進行すると全身不随に至る可能性があると説明された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "全身不随の患者をケアするには、専門的な知識と多くの人手が必要となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "国内戦時代のたたかいの結果、失明し全身不随となった若いオストロフスキーが、同志と家族にたすけられつつ、その生涯の終りに「鋼鉄はいかに鍛えられたか」という長篇小説をのこした。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T16:29:24.795640+00:00Z"
     }
   }
 ]

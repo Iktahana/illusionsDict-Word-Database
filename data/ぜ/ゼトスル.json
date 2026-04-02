@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の提案を全員が是とし、プロジェクトの推進が決定した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "社長は、社員の意見を尊重し、建設的な批判は常に是としてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "倫理的に正しいと是とすることはできても、感情的には受け入れがたい状況だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "故に是を是とし非を非とするのも亦實は閑事で、物言へば脣寒し秋の風であるといふ一見解は姑く擱きて取らずとして、差支は無いが、こゝに當面の是を是とせずして非とし、非を非とせずして是とするが如きが有つたならば如何であらう。",
@@ -245,7 +270,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T16:13:53.670896+00:00Z"
     }
   }
 ]

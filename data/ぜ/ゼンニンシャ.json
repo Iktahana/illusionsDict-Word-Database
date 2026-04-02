@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいプロジェクトは、前任者からの引き継ぎがスムーズに行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "前任者は、多くの実績を残して退職した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "私は前任者とは異なるアプローチで仕事を進めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二　ある会社のある工場に新たに就職した若い男が、就職後間もなく誰かから自分の前任者が二人まで夭死をしたこと、その原因がその工場で発生する毒｜瓦斯のためらしいという話を聞き込んで、ひどく驚きおびえて、少し神経衰弱のような状態になっていると聞いた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T16:35:36.453107+00:00Z"
     }
   }
 ]

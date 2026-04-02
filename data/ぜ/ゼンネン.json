@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の売上は、前年を大きく上回った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "前年に比べて、今年は旅行者が増加している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "前年の反省点を踏まえ、今年のイベントはさらに改善された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼の出した本にどんな本があるかも知らないが、リヴィエールのランボオ論とモオリヤックのイエス伝――結局彼の死の前年に出した此の二つの翻訳書だけが私の頭に残つてゐる。",
@@ -253,7 +278,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T16:35:36.453903+00:00Z",
       "freq_rank": 4421
     }
   }

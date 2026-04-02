@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "半角文字ではなく、全角文字で入力してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "全角スペースは、テキストのレイアウトを調整する際に便利だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "日本語の文章では、句読点も全角で表記するのが一般的だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし1950年代になって、成育しているブタで皮膚炎、下痢および食欲不振を起こす不全角化が亜鉛欠乏によって起きることが発見された（図１）（56）。",
@@ -61,7 +86,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T16:22:17.510004+00:00Z",
       "freq_rank": 4971
     }
   }

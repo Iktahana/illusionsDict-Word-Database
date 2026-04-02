@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医師は悪性腫瘍の全摘出を提案し、患者はそれを受け入れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "病変部の全摘出により、再発のリスクは大幅に減少した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は乳がんの治療のため、片方の乳房の全摘出術を受けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし事実は、肺臓全摘出とか、現在行われている方法の心臓手術の研究、さらに癲癇療法のための脳切開など、当時の外科医が願望した外科療法の課題に、石山教授は文字通り世紀のメスを振ったのである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T16:34:11.888952+00:00Z"
     }
   }
 ]

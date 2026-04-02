@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は若い頃から禅家の教えに深く傾倒し、毎日座禅を組んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この寺院は古くから禅家の修行道場として知られ、多くの修行僧が集まる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "禅家の静寂な庭園を眺めていると、日々の喧騒を忘れさせてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この話は、「婆子焼庵」（禅の本で五燈会元というのに書いてある老婆が庵を焼く話）という題で、禅家の方の公案（禅宗の師匠が弟子に与えて修業させる試験の宿題）になっていまして、なかなか研究がむずかしい問題です。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T16:22:45.547626+00:00Z"
     }
   }
 ]
