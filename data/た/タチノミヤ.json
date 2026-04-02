@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この路地裏には、安くて美味いツマミを出す名物の立ち飲み屋が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "椅子がない立ち飲み屋は少し疲れるが、その分お酒が安く提供されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "一人でふらっと立ち飲み屋に入り、冷えたビールを喉に流し込む。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "金魚を掬う屋台店から、二銭のカツレツ、関東煮、活動、征露丸、コーヒー、ケーキの立ち飲み屋、人絹の支那どんす、五〇銭、二〇銭のネクタイ屋等の中を女給、ダンサー、アメリカ水兵、フランス人、インド人、西洋人の夫婦が腕を組める、支那の女が氷水を飲んでいる等は船場、島の内の夜店では発見出来ない情景である。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:17:57.381443+00:00Z"
     }
   }
 ]

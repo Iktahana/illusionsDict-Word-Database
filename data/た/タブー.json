@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その地域では、特定の動物を殺して食べることは宗教上のタブーとされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「目上の人の前でその話題を出すのは、この国ではタブーだよ」と注意された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "伝統を重んじる一族にとって、外部の人間と結婚することは長年のタブーだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このピタゴラスの話がまるで嘘であるとしても、昔のギリシャかローマに何かそれに類する「禁戒」「タブー」「物忌み」といったようなものがあったのではないかという疑いをおこさせるには十分である。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T22:34:55.609677+00:00Z",
       "freq_rank": 10585
     }
   }

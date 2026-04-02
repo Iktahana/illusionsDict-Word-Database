@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "Pythonのタプルはリストと似ているが、一度作成すると中身を変更できない性質を持つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「関数の戻り値をタプルで返せば、複数のデータを一度に受け取れるよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "データベースの設計において、一行のデータレコードをタプルと呼ぶことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――思い出はたのしくて、夏の夕方、ポーチの食卓で、ポオタプルにレコードをかけながらおいしい肉片をモオリスさんからほってもらった記憶など、ペットは時々なつかしく思い出すのだった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:34:55.611177+00:00Z"
     }
   }
 ]

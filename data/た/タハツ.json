@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この交差点は視界が悪いため、接触事故が多発しており、信号機の設置が検討されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "夏の猛暑により、熱中症で搬送される人が多発しているとニュースで報じられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "システムの不具合が多発した原因は、サーバーの負荷分散が不十分だったことにある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "博多発十一時の折尾行きの最終発を待合室で待っているうちに、お客が一人もいないので、いいチャンスと思ったのでしょう。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T22:15:20.519030+00:00Z",
       "freq_rank": 7756
     }
   }

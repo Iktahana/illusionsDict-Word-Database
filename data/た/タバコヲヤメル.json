@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医者から肺の状態が良くないと忠告されたのを機に、彼はきっぱりとタバコを止める決心をした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「何度もタバコを止めようとしたけど、結局一週間も持たなかったよ」と彼は苦笑いしながら話した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "禁煙外来に通い始めてから三ヶ月、ようやくタバコを止められたことで、ご飯が美味しく感じられるようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ふとるにはタバコをやめるに限る、と云うと、ハア、では、ただ今からやめます、と云った。",
@@ -63,7 +88,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:16:39.403937+00:00Z"
     }
   }
 ]

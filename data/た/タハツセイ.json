@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この地域では、原因不明の多発性火災が相次いで発生しており、住民の不安が高まっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "工場の機械に多発的な故障が見られたため、急遽ラインを止めて総点検を行うことにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は多発性外傷を負って救急搬送されたが、幸いにも命に別状はなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なお聞いて見ると、その病気は他の膿瘍中の黴菌が取付くので、しばしば赤痢から来るのである、そして、膿を持った腫物が一箇所なら直り易いが、多発性と云って、多くの膿瘍が肝臓内のあちらこちらに出来ると相当面倒である。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:16:39.393626+00:00Z"
     }
   }
 ]

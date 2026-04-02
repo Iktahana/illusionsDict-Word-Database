@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史資料を紐解くと、江戸時代の宿場町には旅子と呼ばれた人々がいたことがわかる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "旅子は特定の宿に属さず、客を求めて各地を転々としていたという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "当時の文学作品において、旅子の存在は哀愁漂う存在として描かれることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども人は、ひとたびこの小説を企てたその日から、みるみる痩せおとろえ、はては発狂するか自殺するか、もしくは唖者になってしまうのだ。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:23:21.590855+00:00Z"
     }
   }
 ]

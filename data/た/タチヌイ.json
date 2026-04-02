@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖母は裁ち縫いが得意で、私の幼稚園のバッグも全部手作りしてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "趣味の裁ち縫いに冒頭していると、時間が経つのを忘れてしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔の女性は、自分や家族の服を裁ち縫いするのが当たり前の嗜みだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お母様はそれから十一になられますと、博多の小山という所の母方の御親戚に当るお婆さんの処へ行って、機織、裁ち縫いなぞをお習いになりましたが、そのお婆さんが名高い八釜し屋のお師匠さんでしたのに、お母様ばかりは何も云われませんでしたそうで、十四歳の時には、もうお師匠様と変らぬ位にお出来になりました。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:17:57.377690+00:00Z"
     }
   }
 ]

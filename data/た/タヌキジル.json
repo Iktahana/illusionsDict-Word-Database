@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔話に出てくる狸汁は、実は肉ではなくコンニャクを使っているという説もある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「狸汁って本当に狸の肉を食べるの？ どんな味がするんだろう」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "猟師の家で振る舞われた狸汁は、独特の野生の香りがした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もともとこの狸は、何の罪とがも無く、山でのんびり遊んでゐたのを、爺さんに捕へられ、さうして狸汁にされるといふ絶望的な運命に到達し、それでも何とかして一條の血路を切りひらきたく、もがき苦しみ、窮餘の策として婆さんを欺き、九死に一生を得たのである。",
@@ -246,7 +271,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:18:40.351448+00:00Z"
     }
   }
 ]

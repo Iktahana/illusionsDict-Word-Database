@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "養蚕農家は、蚕の卵がびっしりと付いた種紙を温度管理された部屋で保管する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "春の配蚕の日、農協から配られた種紙を受け取って大切に持ち帰った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "明治時代の輸出品として、日本の種紙は海外でも高く評価されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本當に此所へ來て養蠶をしやうと思ふものがあれば五枚や十枚の種紙ならば人が手傳つても桑位は摘んでやる。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:14:14.182024+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭で刈り取った芝生を大きな束にして、ゴミ収集の指定場所まで運んでいった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "押し入れの奥から、輪ゴムで留められた古ぼけた手紙の束が出てきて、思わず読み入ってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ほうれん草を一束ずつ丁寧に新聞紙で包んでおくと、冷蔵庫の中でも鮮度が長持ちする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてさうである限り、新短歌も短歌と共に今後の発展を約束されるものではないとみねばなるまい。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T22:16:39.396193+00:00Z",
       "freq_rank": 11177
     }
   }

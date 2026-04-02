@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このステーキは厚みがあって、「食べで」があるから満足感が高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "安くて「食べで」のあるメニューを探して、学生街の定食屋に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "煮込み料理に根菜をたっぷり入れると、ぐっと「食べで」が出る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "少年の頃、自分がうまいものをよそで饗ばれて帰って話すとき、母は根掘り葉掘り詳しく聞き返し、まるで自分が食べでもしたような満足さで顔を生々とさしたではないか。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:25:17.701458+00:00Z"
     }
   }
 ]

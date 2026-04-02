@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祭りの行列が休憩する旅所には、多くの見物人が集まっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "神輿が旅所に到着すると、神聖な儀式が厳かに行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "旅所の周辺には屋台が立ち並び、夜遅くまで賑わいを見せている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「そうして、その相手の二人侍は、何者だか判らねえのか」「ひとりは本所の御旅所の近所に屋敷を持っている平井善九郎というお旗本ですが、連れの一人は判りません。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:23:21.593471+00:00Z"
     }
   }
 ]

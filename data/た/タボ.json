@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "浮世絵に描かれた美人の髱が、ふっくらと張り出して美しい曲線を描いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "時代劇の髪結いのシーンで、役者が「もう少し髱の形を整えてくれ」と指示を出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "江戸時代の女性たちの間では、髱を長く突き出す「鴎髱」という髪型が流行した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それが、そればかりなら宜しゅう御座いますが、その外出頭の鬢から髱のあたりに気を付けてみますると、一度、毛がピッシャリと地肌に押付けられたものを、又掻き起いて恰好を付けた痕跡が、そのまま髪毛の癖になって、両鬢から髱を一まわり致しておりまする。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T22:29:33.960776+00:00Z"
     }
   }
 ]
