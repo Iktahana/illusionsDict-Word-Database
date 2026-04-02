@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "梅雨明けの合図のように、蝉時雨が庭に響き渡りました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "夏の盛り、蝉時雨の中を歩くと、力強い生命力を感じます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "蝉時雨は、日本の夏の風物詩として、多くの人に愛されています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蝉時雨は、一しきり盛りになって山の翠も揺るるかと思われる喧ましさ、その上、あいにくと風がはたと途絶えてしまったので周囲を密閉した苫船の暑さは蒸されるようです。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T12:44:21.756140+00:00Z",
       "freq_rank": 38826
     }
   }

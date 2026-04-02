@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "繊維素（セルロース）は植物細胞壁の主要な構成要素である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さてどう云うわけで植物性のものが消化がよくないかと云えば蛋白質の方はどうもやっぱりその蛋白質分子の構造によるようでありますが脂肪の消化率の少いのはそれが多く繊維素の細胞壁に包まれている関係のようであります。",
@@ -80,7 +89,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "繊維素（フィブリン）は血液凝固において重要な役割を果たす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -94,7 +112,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T12:57:28.182495+00:00Z"
     }
   }
 ]

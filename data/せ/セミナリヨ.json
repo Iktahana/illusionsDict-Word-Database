@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は神学校（セミナリヨ）で長年教鞭をとっていました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "かつては、神学校（セミナリヨ）で聖職者を養成することが主な目的でした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この地域には、歴史あるセミナリヨがいくつか存在しています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "信長の居城安土には、城の下の水辺に壮大な南蛮寺が建立され、有馬と並んでセミナリヨ（神父を教師にした洋風の学校）が設けられて、諸国の青年貴公子がこゝに集ひ、ラテン語を学び、油絵を描き、西洋の楽器をかなでた。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T12:44:21.758583+00:00Z"
     }
   }
 ]

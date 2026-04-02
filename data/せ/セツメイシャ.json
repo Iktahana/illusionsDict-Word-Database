@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "記者会見の場では、説明者が冷静に事実関係を述べる姿勢が求められる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "今日のブリーフィングの説明者は誰か、事前に確認しておいてください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "説明者の声が小さくて、後ろの席まで話がよく聞こえなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "観客は亮の兄弟と自分らを合わせて四五人ぐらいはあったが、映画技師、説明者が同時に映画製造者を兼ねるのみならず、肝心のガラス板がやっと二枚ぐらいしか掛け替えがないのだから亮の骨折りは一通りでなかったろうと思われる。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T13:00:11.824073+00:00Z"
     }
   }
 ]

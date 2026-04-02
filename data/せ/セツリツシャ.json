@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この慈善団体の設立者は、私財を投じて恵まれない子供たちのための学校を作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ITベンチャーの若き設立者は、わずか数年で会社を上場企業へと成長させた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "財団の設立者の遺志を継ぎ、毎年芸術家への助成金が交付されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "颱風災害防止研究機関の設立は喜ぶべき事であるが、もしも設立者の要求に科学的な理解が伴っていないとすると研究を引受ける方の学者達は後日大変な迷惑をすることになりはしないかという取越苦労を感じないわけには行かないようである。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T12:40:25.579189+00:00Z"
     }
   }
 ]

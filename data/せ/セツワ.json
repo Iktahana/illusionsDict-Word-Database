@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "おじいさんが子供の頃、寝る前によくこの地方に伝わる古い説話を話してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この仏教説話には、欲張ることの愚かさがユーモラスに描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "動物たちが人間の言葉を話す説話は、古今東西を問わず多くの人々に親しまれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "たとへて云つて見れば、田舍のお婆さんが病院へ來て自分の病氣を醫者に話してゐるときの説話法のやうなもので、それがまた最もインテイメイトな話し方でもあるのだ。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T12:40:25.583171+00:00Z",
       "freq_rank": 34448
     }
   }

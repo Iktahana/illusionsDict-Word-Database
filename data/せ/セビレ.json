@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "水族館の大きな水槽で、サメの鋭い背鰭が水面近くを動いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "その魚は興奮すると、美しい模様のついた大きな背鰭をパッと広げる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "釣ったばかりの鯛の背鰭には鋭いトゲがあるので、注意して扱う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "前橋附近の人達は、海の魚がここ迄来ようとは思わないから、鰓蓋に髪剃がついて居たり、背鰭に針があったりして、馬鹿に物騒な魚が網に入るものだと驚くのである。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T12:44:38.637254+00:00Z"
     }
   }
 ]

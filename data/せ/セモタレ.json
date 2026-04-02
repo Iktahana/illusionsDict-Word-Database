@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長時間のデスクワークで疲れたときは、背もたれに深く寄りかかって休憩する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この椅子の背もたれは人間工学に基づいて設計されており、腰への負担が少ない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼はカフェのソファの背もたれにコートを掛け、メニューを開いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　背もたれに寄りかかった私が愛飲の葉巻を吹かすと、ホームズも身を乗り出して要点ごとに細長い人差し指で左の手のひらを叩きつつ、これからふたりして赴くことになった事件のあらましを聞かせてくれるのだった。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T12:46:29.300176+00:00Z",
       "freq_rank": 28580
     }
   }

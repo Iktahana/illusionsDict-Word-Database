@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "エースピッチャーが背番号1を背負い、堂々とマウンドに上がった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「君の背番号が決まったよ」と言われ、憧れのユニフォームを手渡された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ファンは、引退した名選手の背番号が永久欠番になることを望んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それまで国民総背番号制の道具としかコンピューターをイメージできなかったオレも、「個人にコンピューティング・パワーを解放する」と吹き込まれ、久しぶりに興奮して「そうだそうだ」とわめいた。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T12:42:40.114114+00:00Z",
       "freq_rank": 19852
     }
   }

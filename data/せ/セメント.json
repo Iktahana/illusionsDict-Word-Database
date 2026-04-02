@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工事現場のミキサー車から、練りたてのセメントが型枠へと流し込まれていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "庭に物置を建てるため、土台となる部分をセメントで固めることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "セメントが完全に乾くまでは、上を歩いたり触ったりしてはいけない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "熱田の八剣森陰より伏し拝みてセメント会社の煙突に白湾子と焼芋かじりながらこのあたりを徘徊せし当時を思い浮べては宮川行の夜船の寒さ。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T12:46:29.298774+00:00Z",
       "freq_rank": 15962
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "英語の文章で、セミコロンは独立した節を繋ぐのに使われます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "プログラミングでは、文の終わりにセミコロンを付けることが多くの言語で必須です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "セミコロンは、コロンよりも弱い区切りを示しますが、ピリオドよりは強い区切りを示します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ごくシンプル文が伸びただけのものや、あるいは普通ならピリオドで止めてしまうような文と文が、コンマやコロン・セミコロンといった句読点で一気につながれてゆく、というものです。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T12:44:21.755597+00:00Z"
     }
   }
 ]

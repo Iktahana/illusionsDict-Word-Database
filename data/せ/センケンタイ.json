@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "災害現場に**先遣隊**が派遣され、状況の確認と初期救助活動を開始した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "探検隊は、本隊に先立ち**先遣隊**を送り込み、安全なルートを確保した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "軍は、敵陣の偵察のため**先遣隊**を先行させた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちかごろ花陵島付近の海底において頻々たる小地震が感じられるそうであるが、これこそ火星の先遣隊の乗物が到着して、地殻に衝突するときに発する震動ではあるまいか。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T13:05:46.408720+00:00Z"
     }
   }
 ]

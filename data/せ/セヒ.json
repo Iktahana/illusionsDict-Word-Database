@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の植え付け前にしっかりと施肥を行い、土壌の栄養を整えておく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "作物の生育状況に合わせて、適切な時期に追肥として施肥をする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "有機肥料を用いた施肥により、環境に配慮した農業を実践している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……午後は畑を中耕施肥した、トマトよ、茄子よ、胡瓜よ、伸びよ、ふとれよ、実れよ（人間はヱゴイストですね！",
@@ -289,7 +314,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T12:44:38.634007+00:00Z",
       "freq_rank": 38675
     }
   }

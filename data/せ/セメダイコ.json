@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古代の戦場では、敵への士気を高めるために攻め太鼓が打ち鳴らされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然るに今朝から寄手の陣が妙に用心深くなって、はか／″＼しく攻め太鼓も鳴らさず、此方から鉄砲を打ち込んでも相手にならず、徒らに備えを堅めて沈黙しているのは何故であろう。",
@@ -52,7 +61,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T12:46:01.946212+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "シルクのタンパク質には、保湿効果の高いセリンが豊富に含まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "セリンは体内で合成可能な非必須アミノ酸の一つとして知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新しいサプリメントには、脳の活性化を助けるセリンが配合されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それでいて西郷隆盛の所謂、生命も要らず、名も要らず、金も官位も要らぬ九州浪人や、好漢安永氏の所謂「頭山先生の命令とあれば火の柱にでも登る」というニトロ・グリセリン性の青年連に尻を押されて、新興日本の尻を押し通して御座った……しかも一寸一刻も、寝ても醒めても押し外した事はなかった。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T12:48:34.098750+00:00Z"
     }
   }
 ]
