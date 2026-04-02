@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "通夜の席では、参列者から線香代として香典が渡された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "遠方から弔問に来てくれた友人に、心ばかりの線香代を渡した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「お父さんの葬儀の際、遠方の親戚から線香代をいただきました。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "懐中へ、その酒井先生恩賜の紙幣の紙包を取って、仏壇の中に落ちた線香立ての灰を、フッフッと吹いて、手で撫でる。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T13:21:57.350647+00:00Z"
     }
   }
 ]
