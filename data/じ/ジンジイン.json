@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国家公務員の給与勧告は、人事院が行う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人事院は、公務員の公正な人事を監督する機関だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人事院規則は、公務員の服務規律を定めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本の人民の独立に関する一つの問題としてあれほどみんなが関心をもった大学法案、二十七名の中立的な学者たちが反対署名した非日委員会問題、「南原の線を守る」という表現がある意味では常識となって来ているほど広汎に人事院とりしまり規則に反対している人々の群。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-02T08:00:50.911648+00:00Z",
       "freq_rank": 9629
     }
   }

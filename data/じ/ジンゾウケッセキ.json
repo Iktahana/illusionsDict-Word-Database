@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "突然の背中の激痛で、病院に運ばれ腎臓結石と診断された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "腎臓結石の予防のためには、バランスの取れた食事が重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は腎臓結石の手術を受け、無事に退院した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "十二日から二十七日まで毎日注射をうけたこと、十四日にレントゲン写真腎臓結石とわかったこと、十八日には入浴を許可されたこと、二十一日に「Ａ１連中ヨリ夕食ニスープ及ジェリーヲ贈ラル。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T07:56:29.976281+00:00Z"
     }
   }
 ]

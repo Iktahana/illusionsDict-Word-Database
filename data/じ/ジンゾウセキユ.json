@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "資源の少ない国では、石炭から人造石油を製造する研究が進められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人造石油の生産コストは、天然石油に比べてまだ高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の研究室では、バイオマスから人造石油を作る技術が開発されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小山いと子は従来の婦人作家としては社会現象に対して強い興味と追求心をもった作家で、この二つの作品にしろ、みもしらない外国を背景として日本技師のダム工事にからむ事件や、人造石油製造の技術の発展とそれにからむ人事などをあつかっている。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T07:56:29.977980+00:00Z"
     }
   }
 ]

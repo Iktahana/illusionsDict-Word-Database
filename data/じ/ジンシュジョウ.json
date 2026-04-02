@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人種上の違いは、文化的な多様性の一部に過ぎない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人種上の特徴だけで人を判断することは、偏見を生む。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の研究は、人種上の分類が科学的にいかに曖昧であるかを明らかにしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "政治上と経済上と人種上との国際都市、殊に日本人のために満蒙事業の中心地であらねばならぬ筈の此地は、私の今の心持で、遠い米国の加州や南米のブラジルなどよりも観て置きたい土地であつた。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-02T07:50:27.714318+00:00Z"
     }
   }
 ]
