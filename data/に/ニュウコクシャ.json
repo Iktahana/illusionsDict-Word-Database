@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の入国者数は過去最高を記録する見込みだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "入国者は、税関で持ち込み品を申告する義務がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "空港の検疫では、全ての入国者に対して体温チェックが行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ジュンというノルマル・スクールに通っている第二世の娘を中心に「白い人種でない、という限りない寂しさを味わい」つつ、あるいは絶望し、あるいは健気にその苦痛、困難と闘おうとする日本人移民、それらの移民を中間で搾取する日本人の親方、密告、不正入国者の生活などを、この「小さき歩み」は物語ろうとしている。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:48:48.182328+00:00Z"
     }
   }
 ]

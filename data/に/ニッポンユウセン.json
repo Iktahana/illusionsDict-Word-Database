@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本郵船の巨大なコンテナ船が、横浜港の大桟橋にゆっくりと入港してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は日本郵船の航海士として、一度出港すると半年近くは海の上で生活している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日本郵船は、環境負荷の低い水素燃料船の導入に向けた実証実験を開始した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし西洋で二年半暮して帰りに、シヤトルで日本郵船丹波丸に乗って久し振りに吸った敷島が恐ろしく紙臭くて、どうしてもこれが煙草とは思われなかった、その時の不思議な気持だけは忘れることが出来ない。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:41:11.928485+00:00Z"
     }
   }
 ]

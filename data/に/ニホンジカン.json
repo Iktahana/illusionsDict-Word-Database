@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議の開始時刻は、**日本時間**の午後3時です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "海外の友人と連絡を取る際は、**日本時間**を考慮して電話する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ニュース速報は**日本時間**で午前7時に発表されました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本時間で十一月四日の午前、トルーマン当選確定となったあと、東京のあちこちの印刷屋に駈けつけてとりいそぎ目下進行中の新年号の雑誌の特輯の中から大統領ときめこんでとりあつかったデューイの、或はデューイ氏に関する記事のさしかえをしなければならなかった雑誌社がいくつかあったということだった。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:40:03.552335+00:00Z"
     }
   }
 ]

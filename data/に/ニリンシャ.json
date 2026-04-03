@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、都心では電動の二輪車を見かける機会が増えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供用の二輪車には、転倒防止の補助輪が付いていることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その交通手段は、四輪車よりも二輪車の方が便利だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ヴィナスが白鳥に曳かせた二輪車に乗り、森や果樹園のなかを駈けめぐって遊んでいると、怪しからぬ望を持った数十人の神々たちは、二輪車の濛々たる車塵を浴びながら汗を拭き拭き、そのあとを追いまわした。",
@@ -204,7 +229,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T18:07:00.869905+00:00Z",
       "freq_rank": 41078
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寺院の歴史において、女人は長らく立ち入りを禁じられてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の文献には、女人たちの生活や感情が描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの人は気品のある女人で、周囲から尊敬されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし元来、御中道めぐりは、信神の道者を主とするので、近来盛んになった女人の登山も、ここへはほとんど影を見せず、森林と絶壁と深谷とで、四周を切り離されているから、山中の室としてのさびが、心ゆくばかり味わわれる。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:58:10.256495+00:00Z",
       "freq_rank": 35450
     }
   }

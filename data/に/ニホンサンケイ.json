@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "いつか日本三景すべてを巡ってみたいと思っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "宮島は、日本三景の一つとして世界遺産にも登録されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "修学旅行で日本三景の天橋立を訪れ、その絶景に感動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その時の映画の種板はたいてい一枚一枚に長方形の桐製のわくがついていて、映画の種類は東京名所や日本三景などの彩色写真、それから歴史や物語からの抜萃の類であった。",
@@ -102,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:39:51.080209+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ニュートン力学は、古典物理学の基礎をなす重要な理論だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はニュートン力学の法則を応用して、複雑な機械の動きを解析した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「惑星の運動は、ニュートン力学で説明できるんだよ」と先生が教えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "科学の歴史の上で、最も劃期的な発見といわれるアインシュタインの相対性原理が、初めて世に出たときは、「万古不易の」ニュートン力学が打破されたかの如く、騒がれたものである。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:56:18.109353+00:00Z"
     }
   }
 ]

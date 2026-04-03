@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医者から乳腺炎と診断され、すぐに治療を開始しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "授乳中の母親にとって、乳腺炎はとても辛い症状の一つです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "早期発見と適切なケアが、乳腺炎の悪化を防ぐ鍵となります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何もせぬのに夜通し痛がっていたので、乳腺炎になったのかと大学病院へ行き、歯形が紫色ににじんでいる胸をさすがに恥しそうにひろげて診てもらうと、乳癌だった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:53:47.491674+00:00Z"
     }
   }
 ]

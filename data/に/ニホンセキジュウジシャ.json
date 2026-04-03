@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "**日本赤十字社**は、災害時の救護活動や献血活動を行っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は、**日本赤十字社**のボランティアとして、地域の医療支援に携わっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「**日本赤十字社**の活動は、困っている人々の命を救うために不可欠です」と支援者は語った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "手にも取らないで、口のなかに低声におよみなすつたのが、市内衛生会委員、教育談話会幹事、生命保険会社々員、一六会々長、美術奨励会理事、大日本赤十字社社員、天野喜太郎。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:40:03.562880+00:00Z",
       "freq_rank": 33866
     }
   }

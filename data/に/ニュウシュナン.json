@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "半導体不足の影響により、最新のゲーム機は依然として入手難の状態が続いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "海外の珍しい果物は、輸送コストの関係で日本では極端な入手難になりやすい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "オールドレンズ愛好家の間で、特定の製造番号のモデルが入手難だと話題になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ポマードも入手難の時世であつたが、彼の毛髪は手入れよく光つてゐたし、ネクタイから靴の爪先に至るまで、煙草ケース、ライター、時計、ペンシル、パイプ、こまかな一々の持物にも何国の何製だの何式だのと語らせれば一々数万語の説明が用意されてゐる。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:49:30.570834+00:00Z"
     }
   }
 ]

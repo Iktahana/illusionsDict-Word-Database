@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "入学試験の当日、雪で電車が遅れないか心配でたまらなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「あー、入学試験が終わってやっと解放された！ 今日はパーッと遊ぼう」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "志望校の過去問を何年も遡って解き、入学試験の傾向を分析した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "戦争でなくても、これだけの心尽くしの布片を着込んで出で立って行けば、勝負事なら勝味が付くだろうし、例えば入学試験でもきっと成績が一割方よくなるであろう。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:47:47.917867+00:00Z"
     }
   }
 ]

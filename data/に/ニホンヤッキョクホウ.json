@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医薬品の品質を担保するため、その原薬が日本薬局方の基準に適合しているかを厳格に検査する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「今回の改正で日本薬局方の収載品目が変わったから、調剤室の資料を更新しておいて」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "薬学部の実習では、日本薬局方に記載されている試験方法に従って純度試験を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "根の味が最も苦く、能く振り出して健胃のために飲用するセンブリは、一にトウヤクともいい、やはりこのリンドウ科に属すれど、これはリンドウ属のものではなく、まったく別属のもので、その学名を Swertia japonica Makino といい、効力ある薬用植物として『日本薬局方』に登録せられている。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:42:29.921816+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このキャンペーンは、**日本全国**の店舗で実施されます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "**日本全国**を旅して、各地の美しい景色や美味しいものを堪能したい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「**日本全国**から集まった参加者たちが、このイベントを盛り上げてくれました」と主催者は感謝した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "郷土の名を、わが空拳にて日本全国にひろめ、その郷土の名誉を一身に荷わんとする意気込みが無ければ、とても自身の生れた所の名を、家の屋号になど、出来るものではありません。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:40:03.564352+00:00Z"
     }
   }
 ]

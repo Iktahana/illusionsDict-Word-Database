@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今月は、語学学校に多くの新規入会者が増えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "入会者全員に、記念品としてオリジナルグッズがプレゼントされる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、今年の入会者の中で最年少だが、既に高い実力を持っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "会員が案外よく会の本質を理解して積極的な活動を吝まないことと、絶えず熱心な入会者のあることとは、前途になお幾多いよいよ大なる困難の横たうものあるを予想しながらも、常に新たなる努力への尽きざる源泉を供するものである。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:45:40.774088+00:00Z"
     }
   }
 ]

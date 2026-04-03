@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は腎臓病が悪化し、尿毒症と診断された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "尿毒症の症状として、吐き気や倦怠感がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "透析治療は尿毒症の患者の命を救う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが今度は、病気の様子がおかしいので、わたくしと嘉六とは母を叱るようにして嘉六のかゝりつけの医者を呼んで来て見て貰いますと、むかし腎盂炎に罹ったあとが全く癒り切らないで残っていて、それが急に重り出して、やゝ尿毒症さえ併発していると申します。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:58:10.243759+00:00Z"
     }
   }
 ]

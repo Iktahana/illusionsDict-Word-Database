@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史的な**日本人町**跡地には、当時の面影を残す石碑が建てられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、東南アジアにある古い**日本人町**を訪ね、その歴史を調査した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "かつて栄えた**日本人町**の物語が、今も地元の人々に語り継がれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "午飯は或る外国ホテルで済ませたが、晩飯には日本の料理店や日本の芸妓とを紹介しようというので、安井君はこの町における日本の花柳界と称せられているマレー・ストリートの日本人町へ自動車を向けさせて、東京式の屋号を付けてある或る料理店へわたしを誘い込んだのであった。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:40:03.558318+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は無実を訴えたが、結局は入獄せざるを得なかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "友人の入獄の知らせに、皆が大きな衝撃を受けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "若い頃の過ちで入獄したが、出所後は真面目に社会復帰を目指している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "宿帳には下手糞な字で共産党員と書き、昨日出獄したばかりだからとわざと服装の言訳して、ベラベラとマルキシズムを喋ったが、十年入獄の苦労話の方はなお実感が籠り、父親は十年に感激して泣いて文子の婿にした。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:48:48.185061+00:00Z"
     }
   }
 ]

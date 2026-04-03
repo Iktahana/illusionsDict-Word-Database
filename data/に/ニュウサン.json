@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "激しい運動の後、筋肉に乳酸が蓄積し疲労を感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ヨーグルトは乳酸菌の働きによって乳酸が作られ、酸味が生まれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "食品添加物として、乳酸は酸味料や保存料として使われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すべからく米も電気で研ぐべし、しぼるときには水圧機を使ふべし、乳酸菌を利用し、ピペット、ビーカー、ビュウレット立派な化学の試験器械を使って清潔に上等の酒をつくらないか。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:48:48.187237+00:00Z",
       "freq_rank": 34108
     }
   }

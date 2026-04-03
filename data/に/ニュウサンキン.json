@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "腸の調子を良くするために、毎日乳酸菌を摂取している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ヨーグルトや味噌、醤油といった発酵食品には乳酸菌が豊富に含まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近の研究で、特定の乳酸菌がアレルギー症状を軽減する効果があることが分かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すべからく米も電気で研ぐべし、しぼるときには水圧機を使ふべし、乳酸菌を利用し、ピペット、ビーカー、ビュウレット立派な化学の試験器械を使って清潔に上等の酒をつくらないか。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:48:48.188378+00:00Z",
       "freq_rank": 27050
     }
   }

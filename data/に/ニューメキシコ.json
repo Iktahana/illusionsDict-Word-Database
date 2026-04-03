@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ニューメキシコ州は、広大な砂漠地帯と先住民文化が魅力のアメリカ南西部の州だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "友人は大学で天文学を学ぶため、ニューメキシコへ引っ越した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_content": "「ニューメキシコの星空は、きっと息をのむほど美しいんだろうな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "きっかけを作ったのは、電卓の組み立てキットでちょっとした成功をつかんだニューメキシコ州アルバカーキーのＭＩＴＳ（マイクロ・インストルメンテーション・アンド・テレメトリー・システムズ）社が、起死回生を狙って送り出した新製品だった。",
@@ -102,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:55:14.688630+00:00Z",
       "freq_rank": 31738
     }
   }

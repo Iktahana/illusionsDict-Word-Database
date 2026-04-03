@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "第二次世界大戦中、多くの日本兵が戦場で命を落とした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "捕虜となった日本兵たちは、戦後、故郷へ帰還することができた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "映画では、勇敢に戦う日本兵たちの姿が描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "でも、老人の眼つきと身振りとで、老人が、彼等の様子をさぐりにやってきたと疑っていることや、町に、今、日本兵がどれ位い駐屯しているか二人の口から訊こうとしていることが察しられた。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:44:22.509922+00:00Z"
     }
   }
 ]

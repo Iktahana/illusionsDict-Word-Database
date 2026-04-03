@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "尿中の糖の有無は、糖尿病の診断に重要な指標となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "薬物の尿中濃度を測ることで、服用状況を把握できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "アスリートは、ドーピング検査で尿中の禁止薬物濃度を調べられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その後、昨年夏、再び心臓障害と高血圧に苦しみ、十二月、電気写真によって心臓の肥大と左室機能障害、尿中に多量の蛋白が発見され、絶対安静をいいわたされました。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:57:09.305464+00:00Z"
     }
   }
 ]

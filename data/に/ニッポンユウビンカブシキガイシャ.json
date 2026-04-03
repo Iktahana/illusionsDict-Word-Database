@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本郵便株式会社の配送スタッフが、雨の中をカッパを着て荷物を届けてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "転居届を日本郵便株式会社の窓口に出したので、古い住所への手紙も新しい家に転送される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日本郵便株式会社は、過疎地の高齢者の見守りサービスなど、地域に根ざした活動も行っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "五月二十日ごろ佐々の一家をのせて神戸を出帆した日本郵便株式会社のカトリ丸は七月一日の午前九時ごろにマルセーユへ入港する予定だった。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:41:11.928894+00:00Z"
     }
   }
 ]

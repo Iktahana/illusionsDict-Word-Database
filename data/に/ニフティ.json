@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本のインターネットサービスプロバイダーである**ニフティ**は、長年にわたりサービスを提供してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "**ニフティ**は、かつて「@nifty」というサービス名で知られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "近年、**ニフティ**は他の企業との提携や買収を経て、事業を拡大している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "代表的なパソコン通信の運営会社であるニフティーサーブには、エキスパンドブックに関する意見交換の場として、ボイジャーのサロンが設けられています。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:38:20.783154+00:00Z",
       "freq_rank": 12410
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "サンフランシスコの**日本人街**は、活気にあふれ、多くの観光客で賑わっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、**日本人街**にある老舗の和菓子店で、懐かしい味を見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この**日本人街**には、日本食レストランや雑貨店がたくさんあるんですよ」と友人が教えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこでは日本人街といふのを通つたが、なるほどと思つただけで、なんの感慨もおこらず、これに反して、クヰンス・ロードの店舗街から、植物園の方を歩いてみて、三々伍々、白人の家族が打ち連れて通るのに逢ひ、なにか身近な温かい空気を感じた。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:40:03.557498+00:00Z"
     }
   }
 ]

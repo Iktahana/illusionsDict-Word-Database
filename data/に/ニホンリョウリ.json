@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海外から来た友人を、出汁の香りが豊かな本格的な日本料理のコースでもてなした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日本料理の真髄は、素材の持ち味を最大限に引き出す繊細な味付けと、季節感溢れる盛り付けにある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「健康的な食事を心がけたいから、最近は家でも脂っこいものを避けて日本料理をメインにしているの」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私はユーストンの地下鉄の乗換場附近にある玄関に、日章旗を交錯した日本料理店胡月の卓子で、外交官の松岡、画家の山中、トンテム・ハム・コートの伊太利料理店の主人と暗い東洋風の部屋で、日本食の晩餐後お互に深い沈黙に陥っていた。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:42:29.928292+00:00Z"
     }
   }
 ]

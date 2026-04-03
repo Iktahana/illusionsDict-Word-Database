@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "裁判官と弁護士が入廷し、いよいよ審理が始まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "傍聴希望者は、開廷時間までに入廷を済ませる必要があります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "静粛に！入廷！裁判長の重々しい声が法廷に響き渡った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何しろ厳冬の払暁に寝床を刎起きて、高台から吹きなぐる日比谷ヶ原の凍つた風に吹き曝され、二時間も三時間も立明し、狭い鉄門の口から押合ひへし合つて、やつと入廷が出来るといふ騒ぎだから並一通りの体格の人では、とても傍聴の目的を達することが出来ないのである。",
@@ -126,7 +151,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:53:47.497456+00:00Z"
     }
   }
 ]

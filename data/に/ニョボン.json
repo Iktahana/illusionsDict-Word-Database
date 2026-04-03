@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の物語には、女犯を犯した僧侶の悲劇が描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寺の歴史を調べると、過去には女犯により追放された僧侶もいたようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "厳しい戒律の中で、女犯は最も重い罪の一つとされていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "淨圓寺の住職はなんの目的でお道に怖ろしい運命を豫言したか、それに就いては半七も餘り詳しい註釋を加えるのを憚つてゐるらしかつたが、それから半年の後にその住職が女犯の罪で寺社方の手に捕はれたのを聽いて、お道は又ぞつとした。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:59:21.261830+00:00Z"
     }
   }
 ]

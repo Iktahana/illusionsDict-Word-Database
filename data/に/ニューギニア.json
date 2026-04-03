@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ニューギニア島は世界で2番目に大きな島だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "探検家はニューギニアの未開の地を探索した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ニューギニアには多様な民族と文化が存在する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "浜辺へ出て遠い沖の彼方に土堤のように連なる積雲を眺めながら、あの雲の下をどこまでも南へ南へ乗出して行くといつかはニューギニアか濠洲へ着くのかしらと思ってお伽噺的な空想に耽ったりしたものである。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:52:36.997615+00:00Z",
       "freq_rank": 36592
     }
   }
