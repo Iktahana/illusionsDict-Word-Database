@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "MRI検査の結果、彼の症状は脳軟化症によるものと判明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "脳軟化症の治療は、原因となっている病気を特定することから始まる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "脳軟化症は、脳組織が破壊され軟化する病気だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "最も早くからケーテの才能を認めて、そのために一部の者からは脳軟化症だなどと悪罵された批評家エリアスは、心をこめて、この連作が「確りしたつよい健康な手で、怖ろしい真実をもぎとって来たような像である」ことを慶賀した。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:44:03.969305+00:00Z"
     }
   }
 ]

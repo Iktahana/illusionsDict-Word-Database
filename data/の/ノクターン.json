@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ショパンのノクターンは、静かで抒情的なメロディーが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ピアニストは、ステージで美しいノクターンを奏でた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夜想曲、すなわちノクターンは、夜の情景を描写した楽曲である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから次の酒場で始終響いているピアノの東洋的なノクターンふうの曲が、巧妙にヒロインの心理の曲折を描写している。",
@@ -188,7 +213,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:54:21.423775+00:00Z"
     }
   }
 ]

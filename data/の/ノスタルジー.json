@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は故郷への深いノスタルジー（郷愁）に悩まされていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "アンティークショップは、ノスタルジー（郷愁）を刺激する品々で宝の山だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女の著作はしばしば、離散とノスタルジー（郷愁）のテーマを探求する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　おう、大地に対するノスタルジーを亡失したる児等よ、彼等のうちのせめて幾人か、将来、その叫声の意味を理解せんことを！",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:57:58.655031+00:00Z",
       "freq_rank": 29641
     }
   }

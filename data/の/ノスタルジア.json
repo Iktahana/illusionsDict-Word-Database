@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この古い歌を聴くと、強いノスタルジア（郷愁）が呼び起こされる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "雨の匂いは、しばしば子供の頃のノスタルジア（郷愁）を思い起こさせる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は故郷を再び訪れたとき、ノスタルジア（郷愁）の波を感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この句の詩情には、古い故郷の家を思わせるような、あるいは昔の祖母や昔の家人の、懐かしい愛情を追懐させるような、遠い時間への侘しいノスタルジアがある。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:57:58.654312+00:00Z"
     }
   }
 ]

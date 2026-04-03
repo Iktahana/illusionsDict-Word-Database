@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "実験で濃硫酸を取り扱う際は、必ず保護具を着用してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "濃硫酸は非常に腐食性が高く、取り扱いには細心の注意が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "不注意にも濃硫酸をこぼしてしまい、床に穴が空いてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水の中に濃硫酸をいれるのに、極めて徐々に少しずつ滴下していれば酸は徐々に自然に水中に混合して大して間違いは起らないが、いきなり多量に流し込むと非常な熱を発生して罎が破れたり、火傷したりする危険が発生する。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:48:21.633569+00:00Z"
     }
   }
 ]

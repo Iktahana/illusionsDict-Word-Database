@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大工はのこを使って、木材を正確に切り出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "壁に穴を開けるために、小さなのこが必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "庭の手入れで、伸びすぎた木の枝をのこで切り落とした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えば同じ冬の句で寒月や鋸岩のあからさま木枯しや鐘に小石を吹きあてる　など、すべていわゆる「印象明白」の句の代表である。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:54:21.427515+00:00Z",
       "freq_rank": 42517
     }
   }

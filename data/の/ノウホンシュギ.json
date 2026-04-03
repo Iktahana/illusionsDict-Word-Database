@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつて日本には、農業を重視する農本主義の思想が根強く存在した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は農本主義の立場から、食料自給率の向上を強く訴えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "現代社会において、農本主義は過去の経済思想として語られることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "農村の文化の特性というものが、強調され、農村の文化を創るものは農民である、という農本主義的の考え方は、現代においては農民自身の幸福のために、欠くべからざる協力者である都会の労働者と、進歩的な知識階級人とを文化的にはもっともおくれた農民から切り離すための役割しか演じていない。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:46:16.138985+00:00Z"
     }
   }
 ]

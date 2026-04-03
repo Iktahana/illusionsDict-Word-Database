@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は締め切りが迫っているのに、のほほんとテレビを見ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「まあ、なんとかなるさ」と、彼女はのほほんとした顔で答えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "のほほんと暮らしているように見えるが、実は裏で努力を積み重ねている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども、また大隅君にとっては、この五年振りで逢った東京の友人が、相変らず迂愚な、のほほん顔をしているのを見て、いたたままらぬ技癢でも感ずるのであろうか、さかんに私たちの生活態度をののしるのだ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T21:04:12.711948+00:00Z",
       "freq_rank": 37608
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "能の舞台では、前シテが退場した後、後ジテが颯爽と登場した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "後ジテは、物語の核心に迫る重要な役割を担っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "狂言の後ジテの演技は、観客の度肝を抜いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もしあらゆる執着に罪障を見出した謡曲の作者にこの一段を語つたとすれば、芭蕉は必ず行脚の僧に地獄の苦艱を訴へる後ジテの役を与へられたであらう。",
@@ -86,7 +111,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:56:44.814229+00:00Z"
     }
   }
 ]

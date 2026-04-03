@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大きな熊が森の中から、のそりと姿を現した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はいつも返事が遅く、のそりとした動作なので、急ぎの仕事には向かない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "老犬がのそりのそりと庭を横切っていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "外へ出て見ると月は高い、槍ヶ岳は大海から頭をのそりと出す烏帽子岩のようで、雪の白条は岩の上へ鴎が糞を落したようだ、自分は恍惚として、今山の巓に立っているのか、波の寄る渚を歩いているのかと、惑った、夜の自然は一切を平等にして、山とか海とかに仮現する異性を失わせる。",
@@ -253,7 +278,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:55:57.960822+00:00Z"
     }
   }
 ]

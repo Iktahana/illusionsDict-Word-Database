@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "米国の農務省は、食料生産と農業政策を管轄する機関だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "農務省の発表によると、今年の穀物生産量は例年を上回る見込みだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は農務省の役人として、国際的な農業協定の交渉に尽力した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この設立に際して農務省は三十万円ほどの費用を支出し、なお年々保護を与えるはず、そしてドイツの製粉組合や製麭組合等の合同で維持して行くとの事である。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:46:16.145846+00:00Z"
     }
   }
 ]

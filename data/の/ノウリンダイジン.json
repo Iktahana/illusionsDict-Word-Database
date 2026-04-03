@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつて農林大臣を務めた彼は、農業政策の発展に大きく貢献した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "当時の農林大臣は、食糧管理制度の改革を断行したことで知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「おじいちゃんが若い頃は、農林大臣がよくテレビに出てたって言ってたな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これが売られる縁によって、多少｜生計が潤うとか、蝗がわいたので都会の子供が蝗取りに来るとか、本年米作の成績表の一部に数え入れられて、農林大臣の考えの資料になるとか――とても数え切れません。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:48:21.640027+00:00Z"
     }
   }
 ]

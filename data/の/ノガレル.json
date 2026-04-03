@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は厳しい現実から逃れるように、旅に出た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "責任から逃れることは簡単だが、それは問題の解決にはならない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ああ、この仕事から逃れたい…。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分は兎もあれ、せめて娘だけでも災難を逃れる工夫はございますまいかと押返して伺ひますと、和尚様は『お氣の毒であるが、母子は一體、あなたが禍を避ける工夫をしない限りは、お嬢様も所詮逃れることはできない。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:48:21.644822+00:00Z",
       "freq_rank": 13510
     }
   }

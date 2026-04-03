@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この日本酒は、口に含むと濃醇な香りが広がる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "濃醇な味わいのワインは、肉料理によく合う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は、キリッとした辛口よりも濃醇な甘口の酒を好む。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "浄瑠璃はその感情のインテンシチーの深さ、美的幻影の濃醇さ、道義的操持の強烈さ、ものを理窟で見ず、機微でとらえる生命感、すべてを永遠なる生滅の法の光りの下に見る宗教的観照の背景等に於て、人間性のあるべき健康なるわだちの上にあるものだ。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:41:33.930561+00:00Z"
     }
   }
 ]

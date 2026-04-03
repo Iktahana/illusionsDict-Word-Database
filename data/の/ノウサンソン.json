@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は退職後、故郷の農山村に戻り、ゆっくりと暮らしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "農山村の伝統文化を守るための活動が活発に行われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「夏休みは農山村で農業体験をしてみない？」と友達が誘ってくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『水役は、老生の居村――農山村にては、人別帳後に一村を合計して、高持何軒、水役何軒と記しありて、高持に對する無高を意味し、誰々水役より高持になると記録に特記して身分の向上を慶びたり。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:42:42.240835+00:00Z"
     }
   }
 ]

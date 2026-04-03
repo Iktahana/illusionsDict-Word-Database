@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "贈り物は、のし紙で美しく包まれ、絹の紐で結ばれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は、ちょっとした感謝の印に、シンプルなのし紙を選んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この店では、様々な機会のためのし紙を取り揃えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勉は忘れていたが、二人がいよいよ結婚するとき、勉は牛や馬を貰うのではないから「のし紙」など親にやるに及ばぬと頑ばり、乙女の母親は、牛や馬でないからこそせめて「のし紙」一枚なりと親から出して貰いたいと泣いた。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:57:58.647336+00:00Z"
     }
   }
 ]

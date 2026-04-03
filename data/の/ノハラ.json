@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "広大な野原で、羊たちがのんびりと草を食んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは野原を駆け回り、蝶々を追いかけて遊んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夕日が野原を赤く染め上げ、美しい光景が広がっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "冬の野原を夏の風が行くに煙が去つた情熱の火が突進するブツカルものもなく――だから不可ない昔からあつたものだのに今新たに起つたものだそれを如何して呉れるい横から眺めてゐるな誰の罪でもない必要ぢやない欲しいだけだ",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:58:38.194845+00:00Z",
       "freq_rank": 14685
     }
   }

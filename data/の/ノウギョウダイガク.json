@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、将来の農業経営者を目指し、農業大学で専門知識を深めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この農業大学では、最先端の研究施設と優秀な教授陣による質の高い教育が提供されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "農業大学の卒業生は、国内外の農業関連企業や研究機関で活躍している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本人が、単に農業大学を思いついたばかりでなく、マサチューセッツの農科大学から、耕作部を設立する目的で、一人の男を招いたことは、大いに賞讃すべきである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:57:25.669291+00:00Z"
     }
   }
 ]

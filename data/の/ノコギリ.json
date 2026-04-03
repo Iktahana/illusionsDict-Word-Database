@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "木工教室で、初めてのこぎりを使って板を切った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "のこぎりの使い方を間違えると、思わぬ怪我をすることもある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電動のこぎりを使えば、太い木材も簡単に切断できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えば同じ冬の句で寒月や鋸岩のあからさま木枯しや鐘に小石を吹きあてる　など、すべていわゆる「印象明白」の句の代表である。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:54:21.428041+00:00Z",
       "freq_rank": 42517
     }
   }

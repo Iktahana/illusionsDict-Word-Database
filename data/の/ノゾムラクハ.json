@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "望むらくは、この計画が無事に成功し、皆が幸せになることを願う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "望むらくは、世界中の子供たちが安心して暮らせる日が来ることを、私は祈り続ける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "望むらくは、この新しい技術が、人類の未来をより豊かにすることに貢献せんことを。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "孝孺｜後に至りて此詩を録して人に視すの時、書して曰く、前輩後学を勉めしむ、惓惓の意、特り文辞のみに在らず、望むらくは相与に之を勉めんと。",
@@ -205,7 +230,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:56:44.806433+00:00Z"
     }
   }
 ]

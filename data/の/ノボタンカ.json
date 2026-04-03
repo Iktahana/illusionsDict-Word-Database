@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ノボタン科の植物は、熱帯から亜熱帯地域に多く分布している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "図鑑で調べたところ、その美しい花はノボタン科に属することが分かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "我が家の庭では、珍しいノボタン科の低木を育てている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私はわが独自の見解に基づきこの燕子花、それはかの『渓蛮叢笑』の燕子花をもって、キツネノボタン科に属する飛燕草属の一種なる Delphinium grandiflorum L. var. chinense Fisch. であると断定して疑わない。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:04:12.717584+00:00Z"
     }
   }
 ]

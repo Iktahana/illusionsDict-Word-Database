@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会議では罵りが飛び交い、建設的な議論は全くできなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の言葉には常に罵りが含まれており、誰もが彼を避けたがる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ネット上での匿名の罵りは、人の心を深く傷つける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上陸当初の日に一瞥して嘔吐を催し、現代日本の醜悪面を代表する都会と罵り、世界のどんな汚い俗悪の都市より、もっと殺風景で非芸術的な都市と評した東京は、彼が死んでも住みたくない所であった。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:58:38.192085+00:00Z",
       "freq_rank": 38244
     }
   }

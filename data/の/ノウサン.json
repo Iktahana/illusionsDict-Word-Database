@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この国の主要な農産は、小麦とトウモロコシだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地域の農産を使った加工食品の開発が進められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "農産物の輸出は、国の経済を支える重要な柱の一つだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "常に労働者と鼻突きあわして住み、また農産物高の半面、増税と嵩ばる生活費に、農産物からの増収を吐き出して足りない百姓の生活を目撃している者には、腑甲斐ない話だとそれは嘆ぜられるのだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:42:42.239876+00:00Z",
       "freq_rank": 28009
     }
   }

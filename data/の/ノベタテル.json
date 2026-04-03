@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、昔の武勇伝を「述べ立てて」聞かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "証人は、事件の経緯を詳細に「述べ立てた」。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「そんなに長く「述べ立てる」必要はないだろう。」と友人は言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "キルケのごとくすべての人間を動物に化することもあるが、また反対にとんでもない食わせものの与太者を大人物に変化させることもできるのは天下周知の事実であって事新しく述べ立てるまでもないことであろう。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:05:49.183873+00:00Z"
     }
   }
 ]

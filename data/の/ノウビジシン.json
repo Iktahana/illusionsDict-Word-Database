@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "濃尾地震は、明治時代に日本で発生した大地震の一つだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "濃尾地震では、多くの家屋が倒壊し、甚大な被害が出た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域の地層は、濃尾地震によって大きく変動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今度の地震（明治二十四年濃尾地震）の前にも、キスが取れないので、不審に思っていたら、果たして地震があった（明治二十四年愛知県震災誌）。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:44:03.977215+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史の授業では、年表を使って出来事の順序を覚える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の生涯をまとめた年表が、本の巻末に掲載されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "会社の創立から現在までの年表を作成した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "完全な材料はなかなか急には得難いので、ここではまず最初の試みとして東京天文台編「理科年表」昭和五年版の「本邦のおもな火山」の表を採ることにする。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:40:35.282332+00:00Z",
       "freq_rank": 18642
     }
   }

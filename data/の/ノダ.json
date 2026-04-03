@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼が約束を破ったのは、仕方がなかったのだと後で知った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そんな簡単な問題が解けないなんて、彼もまだまだなのだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "遅刻した理由を聞いたら、まさか電車が止まったのだという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "冬の野原を夏の風が行くに煙が去つた情熱の火が突進するブツカルものもなく――だから不可ない昔からあつたものだのに今新たに起つたものだそれを如何して呉れるい横から眺めてゐるな誰の罪でもない必要ぢやない欲しいだけだ",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:56:44.811978+00:00Z"
     }
   }
 ]

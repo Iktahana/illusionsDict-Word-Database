@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔、この地域では牛の野飼いが盛んだったそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "野飼いの鶏は、運動量が多くて肉質が良いと評判だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「うちは野飼いの馬を育ててるんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかるに、当時後鳥羽上皇講武のためしばしば神泉苑に幸し、猪狩りを行うとて野猪を野飼いにされたので、年々池辺の蛇を食いその棲処を荒らす故、蛇の大親分たる善如竜王が憤って雨を降らさぬと風評したのだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:48:21.642612+00:00Z"
     }
   }
 ]
