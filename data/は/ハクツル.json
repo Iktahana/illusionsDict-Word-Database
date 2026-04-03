@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "父はいつも夕食時に、白鶴の辛口日本酒をゆっくりと味わっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "お土産には、友人から勧められた白鶴の純米大吟醸を選んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白鶴は、兵庫県灘五郷に蔵を構える日本を代表する酒造メーカーだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かれは未だ二十二歳の筈であるが、その、本郷の下宿屋の一室に於いて、端然と正座し、囲碁の独り稽古にふけっている有様を望見するに、どこやら雲中白鶴の趣さえ感ぜられる。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:00:23.779676+00:00Z"
     }
   }
 ]

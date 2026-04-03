@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "恐竜が繁栄していた白亜紀（はくあき）には、巨大な草食恐竜たちが大地を闊歩していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この地層からは、白亜紀（はくあき）特有のアンモナイトの化石が数多く見つかっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "白亜紀（はくあき）末期に起きた大量絶滅の原因については、隕石衝突説が有力視されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三畳紀の終りごろから、そろそろと火山活動がはじまり、白亜紀の末期になると、天地をくつがえすような天変地異がやって来た。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:00:58.005744+00:00Z"
     }
   }
 ]

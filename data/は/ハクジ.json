@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本の伝統的な陶磁器には、優美な白磁の器が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "美術館では、江戸時代の白磁の壺が展示されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は白磁の肌に、繊細な絵付けを施す職人だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "稀薄な空気がみんみん鳴っていましたがそれは多分は白磁器の雲の向うをさびしく渡った日輪がもう高原の西を劃る黒い尖々の山稜の向うに落ちて薄明が来たためにそんなに軋んでいたのだろうとおもいます。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:57:56.218896+00:00Z"
     }
   }
 ]

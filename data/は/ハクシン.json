@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その映画の戦闘シーンは、迫真の演技で観客を圧倒した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "事件現場に残された迫真の描写は、まるでその場にいるかのようだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の描く風景画は、あまりにも迫真で、写真と見間違えるほどだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だから、右の諸作家の筆になるものを見ても、日清戦争がどういう風に戦われたか、如何なる戦争であったか、その戦場の迫真力のある描写の一つも、また戦時に於ける国内大衆の生活がどうであったかをも知ることが出来ない。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T21:57:56.218364+00:00Z",
       "freq_rank": 38682
     }
   }

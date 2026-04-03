@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は試験前になると、いつもハイパーになって徹夜で勉強する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そのバンドのライブパフォーマンスは、まさにハイパーなエネルギーに満ちていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "徹夜明けで、彼は少しハイパーな状態だったが、仕事はきっちりこなした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マッキントッシュ用に作られたハイパーカードは、「なにか自分でも作ってみたい」という気持ちを使う側から上手に引き出してくれる、実にこのコンピューターらしいソフトウエアです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:44:13.863159+00:00Z"
     }
   }
 ]

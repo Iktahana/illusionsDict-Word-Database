@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は大学で博言学を専攻し、言語の起源について研究している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "博言学は、言語の構造、意味、歴史などを総合的に探求する学問だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域の少数民族の言語は、博言学的に見ても非常に興味深い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こう言うと、僕は大ぶえらい博言学者のように聞えるが、実際またこの予定通りにやり果して大威張りで出て来たのだが、その後すっかり怠けかつこの監獄学校へも行かなくなったので、今ではまるで何もかも片なしになってしまった。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:57:17.311200+00:00Z"
     }
   }
 ]

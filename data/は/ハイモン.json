@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "健康診断のレントゲンで肺門の腫れを指摘され、精密検査を受けるよう勧められた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "肺門には気管支や血管が出入りしており、リンパ節も多く集まっている重要な部位だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "CT画像を見ると、肺門付近に小さな影があり、がんの転移が疑われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "健康その他　結婚以来、これという病気はしないが、娘時代肺門淋巴腺を冒されたことがあるので少し過労にわたると、よく「背中が熱くなる」ことを訴える。",
@@ -141,7 +166,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:47:49.386061+00:00Z"
     }
   }
 ]

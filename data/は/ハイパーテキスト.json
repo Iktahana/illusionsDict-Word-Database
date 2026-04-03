@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ウェブページは、ハイパーテキストと呼ばれる形式で情報が組織化されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "クリック一つで別のページに飛べる機能は、ハイパーテキストの最も基本的な特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の卒業論文は、従来の線形的な文章ではなく、多くの相互参照を持つハイパーテキスト形式で発表された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なにしろ第二回のマルチメディア国際会議に向けて、マイクロソフトのビル・ゲイツ会長は来るわ、ハイパーテキスト概念の創始者にして電脳哲学者のテッド・ネルソンは来るわ、ハイパーカードの開発でおなじみのビル・アトキンソンは来るわ。",
@@ -86,7 +111,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:44:13.865681+00:00Z"
     }
   }
 ]

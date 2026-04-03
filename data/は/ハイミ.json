@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の書く文章には独特の俳味があり、何気ない日常の風景が趣深く描写されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古びた庵で静かに茶を啜る生活には、世俗を離れた俳味が感じられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "洗練された都会的なセンスの中にも、日本伝統の俳味を取り入れたデザインが目を引く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蝶の舌ゼンマイに似る暑さかな暖かや蕊に臘ぬる造り花臘梅や雪うち透かす枝のたけ「蝶の舌」の句は、ゼンマイに似ているといふ目付け所が山であり、比喩の奇警にして観察の細かいところに作者の味噌があるのだらうが、結果はそれだけの機智であつて、本質的に何の俳味も詩情もない、単なる才気だけの作品である。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:47:49.381760+00:00Z"
     }
   }
 ]

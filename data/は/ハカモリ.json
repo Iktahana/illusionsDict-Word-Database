@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村の外れにある古い共同墓地には、代々その聖域を守り続けている墓守の家系があるという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "管理する墓守がいなくなった墓地は、やがて雑草が生い茂り、荒れ果てた無縁仏の山となってしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は都会での仕事を早期退職した後、故郷の菩提寺で墓守のボランティアとして働き始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで蚊屋野の東の山にみささぎを作ってお葬りになり、さきに、お父上たちに猟をおすすめ申しあげた、あの韓袋の子孫をお墓守りにご任命になりました。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:52:24.464951+00:00Z"
     }
   }
 ]

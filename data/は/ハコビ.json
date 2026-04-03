@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プロジェクトの運びは順調に進んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "事件の運びによっては、新たな展開が期待される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "仕事の運びが遅れているので、急いで進める必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "高等学校の文芸部か何かで我鬼大将になれた、といふやうなことが彼等の運の始まりで、適度にでしやばりで、適度に野暮ッたいといふ彼等のえてして持つてゐる性質が、偏狭で、自信のない文壇といふ小主観国にどうかしたはずみには顔を出すといふ運びとなるのである。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T22:05:24.127922+00:00Z",
       "freq_rank": 6980
     }
   }

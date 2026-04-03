@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "機械が故障した原因を特定するため、技術者は複雑な配線図を広げて一点一点チェックしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "取扱説明書の最後に載っている配線図を見れば、どの端子にどの色の線を繋げばいいか一目でわかる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "設計士が描いた配線図に基づき、現場の作業員が正確に電気系統を設置していく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただし彼は、ＭＩＴＳにキットの注文をする代わり、雑誌に掲載されていた配線図とマイクロコンピューターの仕様書をたよりに、大型計算機用に開発されていたベーシックの翻訳プログラムをコンパクトに作り変え、アルテアで使える形にまとめ上げたのである。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T21:40:46.333599+00:00Z"
     }
   }
 ]
