@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "警察は、防犯カメラの映像から犯罪容疑者を特定した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は犯罪容疑者として逮捕され、取り調べを受けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "犯罪容疑者の逮捕には、市民からの情報提供も役立つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "十番館には、戦争犯罪容疑者として収容される前夜、青酸加里で自殺した遠衛公爵の三男坊が憂さばらしか、それとも元来享楽的なのか、時どき踊りに来るほか、数名の華族のいわゆる若様が顔を見せて、ある際物雑誌にその行状記を素ッ破抜かれた。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:13:06.309853+00:00Z"
     }
   }
 ]

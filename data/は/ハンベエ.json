@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は、知らないふりをして（半兵衛をして）、相手の出方を探っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その質問には答えられないので、彼は半兵衛を決め込んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あら、そんなことも知らないの？（半兵衛？）」と、彼女は疑いの目を向けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "後から考えてみると、数回この山に登った奴が全然知らぬ道理はない、きっとこの雨の中を汲みに遣られては堪らぬと、自分等も咽の渇くのを我慢して、焚火に噛り着いていたいため、知らぬ顔の半兵衛を極め込んでいたものと見える。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:30:54.435890+00:00Z"
     }
   }
 ]

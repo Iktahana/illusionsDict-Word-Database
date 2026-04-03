@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼のスピーチは、いつも判で押したような内容で面白みに欠ける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その国の観光地は、どこも判で押したようなお土産ばかりだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新人の企画書は、まだ判で押したような型にはまったものが多かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わたしは自分の医者を馬鹿呼ばわりしているが、それでもなお、判で押したように彼は綺麗に赤い頬鬚に手入れをして、絶えず微笑をうかべながら、温和な職業的態度で私を見廻って来るので、しまいには私も、おれは恩知らずの、性の悪い病人だと恥じるようになった。",
@@ -237,7 +262,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:22:08.876749+00:00Z"
     }
   }
 ]

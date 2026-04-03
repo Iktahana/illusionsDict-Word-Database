@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はハーバード大の卒業生で、現在は教授を務めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ハーバード大の研究チームが画期的な発見をしたとニュースになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "いつかハーバード大のキャンパスを訪れてみたいものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小介川文學士が伴ふて來た一人の男を除いては皆な此倶樂部の會員で、其の一人はオックスホード大學の出身、其一人はハーバード大學の出身など、皆なそれ／″＼の肩書を持て居る年少氣鋭、前途有望といふ連中ばかり。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T23:35:58.216772+00:00Z",
       "freq_rank": 21583
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "料理にフレッシュなハーブを加えると、香りが格段に良くなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "庭で育てているハーブを使って、ハーブティーを淹れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このソースには、秘密のハーブがブレンドされているらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "またマルドゥクとティアマートの争闘の物語の片影はヤフヴェ（Jahve）が海の怪物レヴィアターン（Leviathan）すなわち、ラハーブ（Rahab）を克服する伝説の中に認められる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T23:35:58.227809+00:00Z",
       "freq_rank": 8355
     }
   }

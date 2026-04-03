@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "水面に落ちた石は、波紋（反射波）を広げていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ソナーは、送信した音波が海底で反射して返ってくる反射波を検知して、水深を測る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "レーザー光がレンズ表面で反射して生じる反射波を抑制する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "波長のきわめて短いマイクロ波を当て、反射波を分析して物の性質を見極めようとするこの研究室の空気を吸ってみると、「エンジニア天国」という教師の評に、確かにうなずくことができた。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:12:35.822735+00:00Z"
     }
   }
 ]

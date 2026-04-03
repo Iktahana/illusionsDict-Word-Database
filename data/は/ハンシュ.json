@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代、各藩の統治は藩主によって行われていました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "領民は、自分たちの藩主の決定に従って生活していました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「城下町に藩主様がお越しになるらしいぞ！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "吉田というのは、まだ若くって頭のいい人だったが、北海道というような処に赴任させられたのが不満であるらしく、ややともすると肝心な授業を捨てておいて、旧藩主の奥御殿に起ったという怪談めいた話などをして、学生を笑わせている人だった。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T23:17:14.954753+00:00Z",
       "freq_rank": 26524
     }
   }

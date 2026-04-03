@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この商品は、正規の販売業者から購入することをお勧めします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "インターネット上には、無許可の販売業者も存在する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "私たちの製品は、全国の信頼できる販売業者を通じて提供されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「大阪曾根崎署では十九日朝九時、約五十名の制服警官をくり出して梅田自由市場の煙草販売業者の一斉取締りを断行、折柄の雑沓の中で樫棒、煉瓦が入れ交つての大乱闘が行はれ重軽傷者数名を出した。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:31:20.994457+00:00Z"
     }
   }
 ]
