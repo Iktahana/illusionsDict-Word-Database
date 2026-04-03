@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "将棋の終盤力を鍛えるには、詰将棋を解くのが一番の近道だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "わずか三手の詰将棋なのに、正解を見つけるまで一時間もかかってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "詰将棋作家が作った、芸術的で美しい手順の問題に感動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "文藝春秋といふ雑誌は、文壇稀れに見る「頭脳の好い雑誌」であつて、編輯がキビキビとして居り、詰将棋の名手を見るやうな痛快さがある。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T05:14:25.108523+00:00Z",
       "freq_rank": 17550
     }
   }

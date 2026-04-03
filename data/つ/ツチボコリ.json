@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の夜、田んぼのあぜ道に土ボタルが幻想的に光っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供たちは、土ボタルを捕まえようと、暗闇の中を駆け回った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "懐中電灯の明かりが届かない深い森の奥で、土ボタルの淡い光だけが道しるべとなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この日は二科会を見てから日本橋辺へ出て昼飯を食うつもりで出掛けたのであったが、あの地震を体験し下谷の方から吹上げて来る土埃りの臭を嗅いで大火を予想し東照宮の石燈籠のあの象棋倒しを眼前に見ても、それでもまだ昼飯のプログラムは帳消しにならずそのままになっていた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:13:18.935523+00:00Z"
     }
   }
 ]

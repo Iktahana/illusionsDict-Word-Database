@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "建設現場では、重い土砂を動かすために鶴嘴が使われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だんだん近付いて見ると、一人のせいの高い、ひどい近眼鏡をかけ、長靴をはいた学者らしい人が、手帳に何かせわしさうに書きつけながら、鶴嘴をふりあげたり、スコープをつかったりしてゐる、三人の助手らしい人たちに夢中でいろいろ指図をしてゐました。",
@@ -286,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:20:31.828071+00:00Z"
     }
   }
 ]

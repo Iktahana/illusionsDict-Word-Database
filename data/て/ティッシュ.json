@@ -35,7 +35,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鼻水が出たので、ティッシュを一枚もらった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "食事中に飲み物をこぼしてしまい、ティッシュで拭いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このティッシュは肌触りがとても柔らかい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鰭は神女の裳のように胴を包んでたゆたい、体色は塗り立てのような鮮かな五彩を粧い、別けて必要なのは西班牙の舞妓のボエールのような斑黒点がコケティッシュな間隔で振り撒かれなければならなかった。",
@@ -266,7 +291,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T05:31:53.047742+00:00Z",
       "freq_rank": 9960
     }
   }

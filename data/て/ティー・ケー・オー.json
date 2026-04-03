@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ボクシングの試合は、3ラウンドでTKOとなりました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "相手のセコンドが、TKOを宣告しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「まさか、こんなにあっさりTKO負けするとは！」と彼は悔しがった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "第十一回目のラウンドで、審判者はＴＫＯの判定を下してベーアの勝利となったが、素人がこの映画を見ただけでは、どちらもまだ何度でも戦えそうに見え、最後に気絶して起きられなくなるようなところはこの映画では見られなかった。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:27:21.170162+00:00Z"
     }
   }
 ]

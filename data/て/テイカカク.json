@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この商品は低価格ながら、品質は非常に高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "セール期間中は、ほとんどの商品が低価格で販売されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "学生向けに、低価格で利用できるノートパソコンを提供しています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "台頭する低価格ソフトは「パーソナルコンピューターを一億人の必需品に変える」と吼えた　新宿の雑踏に紛れ込んだ田舎者を見つけるのは、幼稚園児の列に加わったジャイアント馬場を発見するよりたやすいことだ。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:31:30.629872+00:00Z"
     }
   }
 ]

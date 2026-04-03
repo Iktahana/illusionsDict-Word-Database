@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "魚が食いついた瞬間、ピンと張った釣り糸が太陽の光を反射してキラリと光った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "複雑に絡まってしまった釣り糸を解くのは諦めて、ハサミで切って新しく張り直すことにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "防波堤に放置された釣り糸は、海鳥が絡まって怪我をする原因になるので必ず持ち帰ろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いわゆるバブルがはじけて、ばったり仕事が来なくなった鳶の親方の父は、荒川の土手に出かけて釣り糸をたらすようになります。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T05:21:07.712927+00:00Z",
       "freq_rank": 43879
     }
   }

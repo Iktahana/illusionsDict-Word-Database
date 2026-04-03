@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人の命は露の命と儚く、いつ何があるかわからない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は病に倒れ、露の命のように短い生涯を閉じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "若くして亡くなった友人の死は、まさに露の命であった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "桂木は切尖を咽喉に、剣の峰からあはれなる顔を出して、うろ／＼媼を求めたが、其の言に従はず、故らに死地に就いたを憎んだか、最う影も形も見えず、推量と多く違はず、家も床も疾に消えて、唯枯野の霧の黄昏に、露の命の男女也。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:20:48.358045+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "港に到着した船は、岸壁に綱手でしっかりと固定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "嵐の接近に備えて、綱手を補強する作業が行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古い綱手が切れそうだったので、すぐに交換するよう指示した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その上演は嘉永五年、河原崎座の七月興行で、原作の初編から十編までを脚色して、外題はやはり「児雷也豪傑｜譚話」――主なる役割は児雷也（団十郎）、妖婦越路、傾城あやめ、女巡礼｜綱手（岩井粂三郎）、高砂勇美之助、大蛇丸（嵐｜璃寛）などであった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:08:07.964117+00:00Z"
     }
   }
 ]

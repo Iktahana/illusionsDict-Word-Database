@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "高名な画家である彼は、多年の功績が認められ帝国芸術院の会員に選ばれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "帝国芸術院が主催する展覧会には、全国から優れた作品が集結し、熱気に包まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "芸術の振興を目的として設立された帝国芸術院は、戦後に日本芸術院へと改組された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "九日は帝国芸術院会員が初度の顔合せというので、私も文相からの案内を受けて、一旦は出席の返事を出しておきながら、更にそれを取消して、当夜はついに失礼することになった。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:35:20.778974+00:00Z"
     }
   }
 ]

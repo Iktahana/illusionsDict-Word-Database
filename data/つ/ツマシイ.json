@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は倹しい生活を送っているが、心は豊かだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "質素で倹しい暮らしの中にも、ささやかな幸せを見つけることができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "倹しい食生活を心がけることで、健康的な体を手に入れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "客が一人きたときは彼はわたしの倹しい食事をともにしたが、話しながら即席のプッディングをかきまぜたり、灰のなかでパンのかたまりがふくれて焼けていくのを見まもったりするのはすこしも会話のさまたげにはならなかった。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:10:58.164698+00:00Z"
     }
   }
 ]

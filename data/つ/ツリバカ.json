@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私の叔父は本物の釣りバカで、機会があれば毎週末出かけます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "毎年恒例の釣り大会には、全国から多くの釣りバカが集まります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は釣り雑誌を何時間も読みふけっており、まさに釣りバカです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鯉は、「三日に一本」と、相場の極ツてる通り、溢れることも多いし、鱚、小鱸、黒鯛、小鰡、何れも、餌つきの期間が短いとか、合せが六ヶしいとか、船で無ければやれないとか、多少おツくうの特点有るですが、鮒つりばかりは、それが無いです。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:19:53.271719+00:00Z"
     }
   }
 ]
