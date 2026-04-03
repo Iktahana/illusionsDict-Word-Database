@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "楕円の長軸は、その最も長い直径を指す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "惑星の軌道は、太陽を焦点とする長軸を持つ楕円である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この論文では、タンパク質の構造における長軸と短軸の関係について論じている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それからこの颱風の中心は土佐の東端沿岸の山づたいに徳島の方へ越えた後に大阪湾をその楕円の長軸に沿うて縦断して大阪附近に上陸し、そこに用意されていた数々の脆弱な人工物を薙倒した上で更に京都の附近を見舞って暴れ廻りながら琵琶湖上に出た。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T03:34:20.002805+00:00Z"
     }
   }
 ]

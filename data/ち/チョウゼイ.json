@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市長は、新しいインフラ整備のために徴税強化の必要性を訴えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この地域では、長年にわたり徴税率が低迷しており、財政難が続いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「え、もう住民税の徴税が始まるの？早いなー。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼が持ち逃げせる金の内には大功は細瑾を顧みずちょう豪語を楯となせる神奈川県の志士が、郡役所の徴税を掠めんとして失敗し、更に財産家に押し入りて大義のためにその良心を欺きつつ、強いて工面せる金も混じりしぞや。",
@@ -279,7 +304,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T03:29:41.115796+00:00Z",
       "freq_rank": 20322
     }
   }

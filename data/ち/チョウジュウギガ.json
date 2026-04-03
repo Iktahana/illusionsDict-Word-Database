@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "亡くなった兵士に敬意を表して、弔銃が撃たれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鳥羽僧正の鳥獣戯画なども当時のスポーツやいろいろの享楽生活のカリカチュアと思って見ればこの僧正はやはり一種のカメラをさげて歩いた一人であったかもしれない。",
@@ -84,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T03:07:49.786953+00:00Z"
     }
   }
 ]

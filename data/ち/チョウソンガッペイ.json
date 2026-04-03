@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "財政難のため、多くの町村が合併を選択せざるを得なくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "町村合併により、行政サービスは効率化されたが、地域住民の意見が反映されにくくなったという声もある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あの地域、数年前に町村合併があって、役所の場所が変わったんだよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "町村合併に付諮問　　　下都賀郡谷中村下都賀郡谷中村は、瀦水池設置の必要上其土地家屋等大半を買収し、村民を他に移住せしめたる為め、将来独立して法律上の義務を負担するの資力なきに至れるものと認むるに依り、谷中村を廃し其区域を藤岡町に合併せんとす。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T03:29:41.122963+00:00Z"
     }
   }
 ]
