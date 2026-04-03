@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋風が吹く頃、庭の梨の実は収穫の時期を迎える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "採れたての梨の実を一口食べると、甘酸っぱい果汁が口いっぱいに広がった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供の頃、よく祖父と梨の実を採りに行ったものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから今度は北風又三郎が、今年はじめて笛のやうに青ぞらを叫んで過ぎた時、丘のふもとのやまならしの木はせはしくひらめき、果物畑の梨の実は落ちましたが、此のたけ高い三本のダァリヤは、ほんのわづか、きらびやかなわらひを揚げただけでした。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:42:26.149944+00:00Z"
     }
   }
 ]

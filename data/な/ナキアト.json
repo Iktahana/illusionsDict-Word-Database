@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の亡き後も、その功績は長く語り継がれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "父の亡き後、私が家業を継ぐことになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は亡き後、多くの遺産を慈善団体に寄付していたことが分かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "官立大学で経済を学んでいたために、父亡き後の母は、この遠縁に当って足繁く自家へ出入する青年を、何かと相談相手にして、いわば私との恋仲も黙許よりも、寧ろ奨励する形で、結婚にまで熟するのは容易な道行でありました。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T15:47:08.273964+00:00Z",
       "freq_rank": 40771
     }
   }

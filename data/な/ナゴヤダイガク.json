@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "名古屋大学は、東海地方を代表する国立大学だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は名古屋大学の理学部で、物理学の研究に没頭している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "名古屋大学は、ノーベル賞受賞者を複数輩出している名門校だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一九五五（昭和三十）年五月、名古屋大学で開かれた電気通信学会で発表を行った渡部は、学会の副会長として出席していた玉川製造所長の小林宏治（のちの社長、会長）から、学内に設けられた臨時のバス停のそばで「一緒に帰ろう」と声をかけられた。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T15:39:45.343640+00:00Z",
       "freq_rank": 25717
     }
   }

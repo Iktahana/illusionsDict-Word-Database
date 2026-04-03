@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「今日は、お土産に和菓子、おせんべい、お茶、等々、たくさん買ってしまった。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「来週の会議では、予算、スケジュール、人員配置、等々、検討すべき事項が多い。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「旅行の準備は万端？パスポート、現金、着替え、等々、忘れ物はない？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先の義庵先生は、市に大隠を極めて浜町に住ったので、若い奴等などと言って紋床へ割込んで、夕方から集る職人仕事師｜輩を凹ますのを面白がって、至極の鉄拐、殊の外稲荷が贔屓であったので、若先生の髪も紋床が承る。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T16:03:30.172151+00:00Z",
       "freq_rank": 4252
     }
   }

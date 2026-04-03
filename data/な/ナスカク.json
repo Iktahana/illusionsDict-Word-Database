@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二つの線が交わってなす角を測定する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "三角形の内角の和は、3つの辺がなす角によって決まる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "太陽光線がガラスを透過する際になす角が屈折率に関係する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明暦大火の場合はかなりの烈風でおそらく十メートル以上の秒速であったと思われる根拠があるが、その時のこの頂角がだいたいにおいて、今度の函館の火元から焼失区域の外郭に接して引いた二つの直線のなす角に等しい。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:43:19.124339+00:00Z"
     }
   }
 ]

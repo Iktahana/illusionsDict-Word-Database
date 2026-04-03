@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子どもの頃から親しんだ場所なので、私にとってここは馴染み深い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい職場だけど、彼とは以前からの馴染みがあるから安心だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この店には、長年の馴染みである常連客が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "五郎蔵が今度は典六に、Ｔ「じゃわっしは　馴染みの町与力に　頼んでお上の手で　大吉の野郎を……」　と言えば典六「お頼み申す」　お光は独り不安な顔。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T15:43:19.118510+00:00Z",
       "freq_rank": 6823
     }
   }

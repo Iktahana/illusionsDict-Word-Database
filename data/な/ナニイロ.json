@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「この絵の具、何色？」と子供が画用紙を指差した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この服、何色が好き？」と店員が尋ねた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「空は何色に見える？」と彼は夕焼けを見ながら詩的に言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二　あらゆる花の中でも花の固有の色が単純で遠くから見てもその一色しか見えない花と、色の複雑な隈取りがあって、少し離れて見ると何色ともはっきり分らないで色彩の揺曳とでも云ったようなものを感じる花とがある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T16:06:30.349607+00:00Z"
     }
   }
 ]

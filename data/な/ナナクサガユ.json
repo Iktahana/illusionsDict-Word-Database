@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お正月のご馳走で疲れた胃には、七草粥が一番だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "七草粥に入れる七草の種類を、子供に教えながら作りました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ねえ、七草粥って、なんで七日なの？」と息子が聞いてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先生病重しの報を聴き、私は先生を慰めんものと、正月の一日鎌倉に赴き、春の七草を採集し、これに名を付し、籠に盛って差上げたところへ先生は非常にこれを喜ばれ、正しい春の七草をはじめて見たといわれ、七草粥にする前に暫く床の間に置いて楽しまれたということである。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:48:25.120569+00:00Z"
     }
   }
 ]

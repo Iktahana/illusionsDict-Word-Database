@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "騒ぎの後、彼は何事もなかったかのように、いつものように仕事に戻った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "何事もなかったかのように、彼女は静かに微笑んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "何事もなかったかのように、平然と嘘をつき続けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鶯色の緞子の垂幕、「美人戯毬図」とした壁掛けの刺繍、さては誤って彼が縁を欠いた花瓶までが、嘗て覚えていたと同じ場所に、何事もなかったかのように澄しかえって並んでいたのだった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T16:05:51.527219+00:00Z"
     }
   }
 ]

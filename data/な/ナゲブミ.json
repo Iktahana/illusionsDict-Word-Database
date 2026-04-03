@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の物語では、好きな相手の家に投げ文を送って想いを伝える場面がよくある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は密かに彼女の窓辺に投げ文を置いたが、誰にも見られなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "平安時代の恋の駆け引きには、投げ文が重要な役割を果たしていたという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "長屋じゅう、何ごとがおきたかと驚いておった、ハハハハハ」　いつも泰軒に用のある時には、ああしてトンガリ長屋の住居へ投げ文をして、呼び出すことになっているんです。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:39:45.331746+00:00Z"
     }
   }
 ]

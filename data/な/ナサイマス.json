@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お客様、こちらでお掛けになってお待ちくださいますか？",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "何かご不明な点がございましたら、お気軽にお尋ねなさいますようお願い申し上げます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "明日の会議には、部長もご出席なさいます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ゆんべあんなに泣いたは全く私が悪かったから、全く私がとどかなかったのだから、お増や、お前がよく申訣をそういっておくれ……」　それからお増が、「お母さんの御立腹も御尤もですけれど、私が思うにャお母さんも少し勘違いをして御いでなさいます。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:40:54.418296+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ボールが壁に当たると、勢いよく投げ返されてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼からの手紙を読み終えると、私はすぐに返事を書いて投げ返した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供が拾ったボールを、ピッチャーが笑顔で投げ返してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "と思うと、彼等の手から、それぞれ空中高く、生きた稚が羽をばたつかせながら落ちて来ると、それを受取って、又、空へ投げ返す。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:38:57.927942+00:00Z"
     }
   }
 ]

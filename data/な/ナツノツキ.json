@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "蒸し暑い夜だったけれど、夏の月が涼しげに空に浮かんでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ベランダで夏の月を眺めながら、冷たいお茶を飲んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「あぁ、なんて美しい夏の月だろう」彼女はため息をついた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　夏の月が、その夜は満月でしたが、その月光が雨戸の破れ目から細い銀線になって四、五本、蚊帳の中にさし込んで来て、夫の痩せたはだかの胸に当っていました。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:46:09.445434+00:00Z"
     }
   }
 ]

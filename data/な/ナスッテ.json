@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「そちら様は何をなすってらっしゃるのですか？」と尋ねられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "先生は生徒たちに「もっと丁寧に字をなすって」と指導した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「もしよろしければ、この作業を手伝ってなすってくださいませんか？」とお願いした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "石松、外へ向って次郎長に、　「御貸元、汚ねえ処で御座いますが、さッどうかお入んなすって……」　「あら兄さん、お客様なの」　次郎長、入って来る。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:43:19.127740+00:00Z"
     }
   }
 ]
