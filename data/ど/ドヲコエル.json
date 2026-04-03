@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の冗談はいつも面白いが、時には度を超えてしまうことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "パーティーでの彼の振る舞いは、明らかに度を超えていて、周囲は困惑していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "いくら親しい仲でも、度を超えた発言は控えるべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "折角苦心に苦心を重ねた牝豚夫人の堕胎術には成功したのだったが、その夜彼は突如として大喀血に襲われ、急に四十度を超える高熱にとりつかれて床についてしまった。",
@@ -149,7 +174,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:57:39.240771+00:00Z"
     }
   }
 ]

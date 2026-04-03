@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "おばあちゃんが作ってくれたどら焼きは、あんこがたっぷりで素朴な甘さがたまらない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "お祭りの屋台で見つけた焼きたてのどら焼きは、外はふわふわ、中はしっとりで最高のおやつだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あー、なんか甘いものが食べたいな。どら焼きでも買って帰ろうかな。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして、太鼓まんじゅうと、狐まんじゅうと、どら焼きを買って帰る、丁稚小僧と花合せをして遊ぶ、時々父は私を彼が妾宅へ連れて行く。",
@@ -190,7 +215,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:46:12.265982+00:00Z"
     }
   }
 ]

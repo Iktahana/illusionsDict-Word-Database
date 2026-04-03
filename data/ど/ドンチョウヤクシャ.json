@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの俳優は、もう緞帳役者だと揶揄されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "若い頃は人気があったが、今では緞帳役者になってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は緞帳役者と蔑まれても、舞台に立ち続けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "十二階下の演芸場には小芝居の施設があつて、都桜水、有田松太郎、井田寒三、藤井弥之助、坂田半五郎、中村鶴若、市川かほる、高山吉雄、嵐璃昇などと呼ぶ所謂緞帳役者が出演してゐた。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:58:12.591808+00:00Z"
     }
   }
 ]

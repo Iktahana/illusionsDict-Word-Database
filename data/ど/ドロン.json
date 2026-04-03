@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は借金を残したまま、夜逃げしてドロンと姿を消した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "急に会場からドロンと姿を消した彼のことを、誰もが不思議に思った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「さて、私はここでドロンとさせていただきます」と彼は冗談めかして言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｔ「旦那に金がないと　知ると、急に　手の掌かえして　水臭くなりやがって、　果は情夫と手に手を　とってドロン……」（次の画面へダブル）　＝大吉の浪宅　（前の字幕からダブって）　遺されたおきよの書置き手に呆然自失、ドッカと座敷に坐った儘の大吉、　やる瀬なくその手紙胸に抱いて、Ｔ「おきよ！",
@@ -265,7 +290,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:53:01.815708+00:00Z"
     }
   }
 ]

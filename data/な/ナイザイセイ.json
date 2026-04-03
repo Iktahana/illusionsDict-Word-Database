@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ヒトゲノムには、過去の感染に由来する内在性レトロウイルスの配列が多数含まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "内在性レトロウイルスは、宿主のゲノムに組み込まれ、世代を超えて受け継がれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "一部の内在性レトロウイルスは、胎盤の形成など、宿主の生理機能に関与している可能性が示唆されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ソヴェト作家シーモノフは、このアメリカの巨大な有機体のなかに入って、自身の社会主義的自覚を、自身の人間的内在性すべての亢奮をとおし、自然発生の諸眩惑と誘惑とをとおして、対決させないわけにはゆかない。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T15:07:42.286016+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "週末の朝食に、ふわふわのドーナツとコーヒーを楽しみました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは遊園地で、できたての甘いドーナツに大喜びでした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "仕事の合間に、休憩がてらコンビニでドーナツを買って食べた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……ドロップ、ミンツ、キャラメル、チョコレート、ウエファース、ワッフル、ドーナツ、スポンジ、ローリング、ボンボン、そのほかいろいろ、ある事ある事……。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T15:00:43.052446+00:00Z",
       "freq_rank": 15257
     }
   }
