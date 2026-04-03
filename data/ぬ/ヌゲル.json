@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "急いでいたので、靴が脱げそうになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "サイズの合わない帽子は、風が吹くとすぐに脱げてしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は舞台で緊張のあまり、グローブが片方脱げているのに気づかなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よく覺えては居ないが、玄關へ掛ると、出迎へた……お太鼓に結んだ女中が跪いて――ヌイと突出した大學生の靴を脱がしたが、べこぼこんと弛んで、其癖、硬いのがごそりと脱げると……靴下ならまだ可い「何、體裁なんぞ、そんな事。",
@@ -141,7 +166,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:41:07.365976+00:00Z"
     }
   }
 ]

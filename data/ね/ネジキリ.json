@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場では、専門のねじ切り機が金属棒に次々と螺旋を刻んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この作業には、精密なねじ切り技術が求められる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい工具セットに、様々なサイズのねじ切りダイスが含まれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "とはいえ　ネズミの　のこりがも　きつくて、　たてぐやジョンは　午前のうち　ずっと　くんくん　わんわん　しっぱなし、　しっぽを　ふりふり　ねじきりのように　頭を　中心に　ぐるぐる。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:57:20.704785+00:00Z"
     }
   }
 ]

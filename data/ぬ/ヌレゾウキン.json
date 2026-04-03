@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テーブルが汚れていたので、濡れ雑巾で綺麗に拭いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供が熱を出したので、おでこに濡れ雑巾を置いてあげた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "床に落ちたジュースを、彼は慌てて濡れ雑巾で拭き取った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのうちにいよいよ今日はという事になって朝のうちに物置の屋根裏から台が取り下ろされ、一年中の塵埃や黴が濡れ雑巾で丁寧に拭い清められ、それから裏庭の日蔭で乾かされる。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:52:19.971242+00:00Z"
     }
   }
 ]

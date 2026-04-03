@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "伐採された木の根株が、庭の真ん中に残されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "森の中を歩いていると、苔むした巨大な根株がいくつも目に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この根株は非常に硬いので、取り除くのが大変だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "宗谷〔一〕宮沢賢治まくろなる流れの岸に根株燃すゆふべのけむりこらつどひかたみに舞ひてたんぽゝの白き毛をふく丘の上のスリッパ小屋に媼ゐてむすめらに云ふかくてしも畑みな成りてあらたなる艱苦ひらくと",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:03:37.153589+00:00Z"
     }
   }
 ]

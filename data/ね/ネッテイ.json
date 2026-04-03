@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テレビのニュースで熱低の動きが警戒モードで報じられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "沖縄では熱低の影響で、連日強い雨が降っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ねえ、明日って熱低来るんだよね？洗濯物どうしよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "頭がようやく冴えて来た、足許の岩では、偃松が近くは緑に、遠くは黯くなって、蜿ねっている、天外絶域の、荒れはてた瘠土にまで、漂って来た、緑の垂直的終点を、私は今踏んでいるのだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:06:24.018137+00:00Z"
     }
   }
 ]

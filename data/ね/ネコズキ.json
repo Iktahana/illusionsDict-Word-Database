@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は大の猫好きで、家には常に3匹以上の猫がいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "猫好きのコミュニティに参加して、色々な情報交換をしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「あなたは犬派？それとも猫好き？」と聞かれたので、「もちろん猫好き！」と答えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "主人夫婦が可恐い猫好きで、その為に奉公人一人給金を出して抱えるほどだから、その手数の掛る事と云ったら無い、お剰に御秘蔵が女猫と来て、産の時などは徹夜、附っきり。",
@@ -221,7 +246,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:02:35.785492+00:00Z"
     }
   }
 ]

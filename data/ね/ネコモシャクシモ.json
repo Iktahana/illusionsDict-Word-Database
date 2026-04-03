@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その人気店には、開店前から猫も杓子も行列を作っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近では、猫も杓子もスマートフォンを持っている時代になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼のコンサートには、老若男女、猫も杓子も駆けつけ、会場は熱気に包まれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "５　日本の麻雀も近頃は少々猫も杓子もの感じになつてしまつたが、僅か四五｜年ほどの間にこれほど隆盛を見た勝負事はあるまいし、またこれほど組織立つて麻雀を社會化したのも日本だけではあるまいか？",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:56:44.157760+00:00Z"
     }
   }
 ]

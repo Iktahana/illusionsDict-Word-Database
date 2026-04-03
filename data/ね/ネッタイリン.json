@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "焼き畑農業によって、広大な熱帯林が失われつつある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "熱帯林には、貴重な薬用植物が豊富に自生している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "観光客は熱帯林の中をトレッキングし、珍しい鳥の鳴き声に耳を傾けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鬱蒼たる熱帯林や渺茫たる南太平洋の眺望をもつ斯うした土地に、自分の力で一つ一つ生活の礎石を築いて行くのは、スティヴンスンにとって、子供の時の箱庭遊に似た純粋な歓びであった。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:06:24.016051+00:00Z"
     }
   }
 ]

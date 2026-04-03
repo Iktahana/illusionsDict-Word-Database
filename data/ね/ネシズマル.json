@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "家族が寝静まるのを待って、一人で映画鑑賞を楽しんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夜が深まり、町が寝静まると、動物たちの活動が活発になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "試験前でみんなが寝静まった後も、彼は一人で勉強を続けていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "２猫が鳴いてゐた、みんなが寝静まると、隣りの空地で、そこの暗がりで、まことに緊密でゆつたりと細い声で、ゆつたりと細い声で闇の中で鳴いてゐた。",
@@ -221,7 +246,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:56:44.168550+00:00Z"
     }
   }
 ]

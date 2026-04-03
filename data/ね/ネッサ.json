@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "灼熱の太陽が照りつける熱砂の砂漠を旅した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "足元に広がる熱砂は、サンダル越しにも熱さを感じさせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "熱砂の地で生きる植物は、水分を効率よく蓄える能力を持っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なまじっかなこと云い出せないもの」　じりじりと照りつける陽の光と腹匍いになった塚の熱砂の熱さとが、小初の肉体を上下から挟んで、いおうようない苦痛の甘美に、小初を陥れる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:05:11.404986+00:00Z"
     }
   }
 ]

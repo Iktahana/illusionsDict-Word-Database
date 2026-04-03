@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "徹夜明けの寝覚めは、いつも頭が重く、体がだるい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい環境での初めての寝覚めは、期待と不安が入り混じったものだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "旅行最終日の寝覚めは、寂しさを伴うが、充実感もある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "草枕、旅の露宿に加えて、夢も皺かく老の身ゆえに、寝覚めがちな一夜であるのはもっとものことだが、この夜は別けて翁をして寝付かれしめぬものがあった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:56:44.167008+00:00Z"
     }
   }
 ]

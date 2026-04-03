@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨上がりの沼田は、足を取られて歩きにくい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "かつてこの地域には、広大な沼田が広がっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "沼田での作業は重労働だが、豊かな収穫をもたらす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昔からこの刻限を利用して、魔の居るのを実験する、方法があると云ったようなことを過般仲の町で怪談会の夜中に沼田さんが話をされたのを、例の「膝摩り」とか「本叩き」といったもので。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T19:42:29.675589+00:00Z",
       "freq_rank": 25242
     }
   }

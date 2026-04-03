@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "宝くじが当たった彼は、まさに濡れ手で粟のようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの会社の株は、買ってすぐに高騰して、濡れ手で粟の儲けだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「今回は本当に濡れ手で粟だったな。こんなに簡単に稼げるとは思わなかった」と彼は笑った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は細かい十露盤の珠をせせっているのをもどかしく思って、堂島の米あきないに濡れ手で粟の大博奕を試みると、その目算はがらりと狂って、小さい身代の有りたけを投げ出してもまだ足りないような破滅に陥った。",
@@ -77,7 +102,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:52:19.972504+00:00Z"
     }
   }
 ]

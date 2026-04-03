@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は寝際に本を読みながら、いつの間にか眠ってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寝際に明日の計画を立てるのが日課になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供は寝際になると、よく甘えてくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空蝉の身をかえてける、寝着の衣紋緩やかに、水色縮緬の扱帯、座蒲団に褄浅う、火鉢は手許に引寄せたが、寝際に炭も注がなければ、尉になって寒そうな、銀の湯沸の五徳を外れて、斜に口を傾けたるも旅の宿の侘しさなり。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T19:53:40.018025+00:00Z"
     }
   }
 ]
