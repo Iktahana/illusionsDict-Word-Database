@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "著名な作家の伝記作者が、彼の知られざるエピソードを語った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "伝記作者は、史料を丹念に調べて真実に迫ろうとする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は、伝記作者としてのキャリアをスタートさせたばかりだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "またその反対に、事件がかなり特異なもので劇的なものを彼が捜査した場合もあるのだが、そうした時にはしばしば、彼は彼の伝記作者として私が話してほしいと思っているにもかかわらず、何も話してくれなかったのである。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:28:47.659244+00:00Z"
     }
   }
 ]

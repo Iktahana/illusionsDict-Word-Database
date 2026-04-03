@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この製品はデュアル仕様で、二つの機能を兼ね備えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "デュアルコアプロセッサは、処理能力が高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "デュアルディスプレイ環境で作業効率が格段に上がった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一揆の当時大村の牢舎に縛られてゐたポルトガルの船長デュアルテ・コレアの記録はパジェスも引用して甚だ著名であるばかりでなく、恐らく唯一の切支丹側の記録であるが、切支丹側唯一の記録とは言ひながら、今日学者がこの記録を最も価値ある資料のやうに見てゐるのは、果して当を得てゐるか。",
@@ -156,7 +181,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T07:26:03.498327+00:00Z",
       "freq_rank": 15717
     }
   }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は出がらしのお茶を、もったいないからと、また淹れようとした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "出がらしのコーヒー豆は、消臭剤としても利用できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この出がらしの茶葉では、もう味が出ないだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "じゃ、菊廼屋歌吉っていうやつあ男の野郎なんですかい」「女は女だがね、おあいにくさまなことに、もう七十に近い出がらしの梅干しばあさんさ」「ちえッ。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:08:07.659829+00:00Z"
     }
   }
 ]

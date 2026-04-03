@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日の夕食は、電気釜で炊いたほかほかのご飯が主役だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しい電気釜は、お米の種類に合わせて最適な炊き方を選べる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "キャンプに持っていく電気釜を、どれにするか迷っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "東芝でさまざまな家電製品の開発に携わってきた山田正吾さん語り下ろしの「家電今昔物語」によれば、電気釜への初のチャレンジは、一九一五年頃、京都電灯によって行なわれたという。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:28:47.653870+00:00Z"
     }
   }
 ]

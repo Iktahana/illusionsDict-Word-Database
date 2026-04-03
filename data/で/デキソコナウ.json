@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この製品は出来損なっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼はいつも何かを出来損なう癖がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "出来損なった仕掛けに、彼は落胆した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "第一五段　山陽の迷信　四国のつぎには、その対岸なる山陽の迷信を説くのが順序であるから、これより山陽における特有の迷信を探るに、まず山口県には犬神説大いに行われ、食物が腐敗したり、料理が出来損なうと、ただちにその原因を犬神に帰することになっている。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:08:07.671390+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつては広く使われていた殺虫剤ＤＤＴも、環境汚染問題から現在は使用が厳しく制限されています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ＤＤＴは非常に強力な殺虫効果を持つが、分解されにくく生物濃縮の問題を引き起こした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "マラリア対策としてＤＤＴが使用された歴史があるが、その毒性も問題視された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近所で発疹チブスが出たのでＤＤＴ（殺虫剤）を振りかけられ部屋中粉だらけになりました。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:07:44.643560+00:00Z"
     }
   }
 ]

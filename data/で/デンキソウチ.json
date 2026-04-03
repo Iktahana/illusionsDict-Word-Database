@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場のラインでは、様々な電気装置が複雑に連携して動いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この新しい電気装置は、作業の効率を大幅に向上させるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電気装置の故障が、生産ラインの停止につながってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「あたしたちのして来たことは、まるで行燈をつけては消し、消してはつけるようなまどろい生涯だった」　彼女はメートルの費用の嵩むのに少なからず辟易しながら、電気装置をいじるのを楽しみに、しばらくは毎朝こどものように早起した。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:29:34.797466+00:00Z"
     }
   }
 ]

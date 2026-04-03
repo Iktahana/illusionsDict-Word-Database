@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長引く病気のため、母は温泉地への出養生を勧められた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "病気療養のため、しばらくの間、出養生に出かけることになりました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "健康回復のため、自然豊かな場所へ出養生に行く計画を立てている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――其の病気のために、衣絵さんが、若手、売出しの洋画家であつた、婿君と一｜所に、鎌倉へ出養生をして居たのは……あとで思へば、それも寂しい……行く春の頃から知つて居た。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:28:12.491479+00:00Z"
     }
   }
 ]

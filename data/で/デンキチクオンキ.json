@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父の家には、昔懐かしい電気蓄音機が置いてあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "アンティークショップで、美しい装飾が施された電気蓄音機を見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電気蓄音機から流れるSP盤の音色は、何とも言えない味わいがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "店の食卓も、腰掛も、昔のままだったけれど、店の隅に電気蓄音機があったり、壁には映画女優の、下品な大きい似顔絵が貼られてあったり、下等に荒んだ感じが濃いのであります。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:29:34.798165+00:00Z"
     }
   }
 ]

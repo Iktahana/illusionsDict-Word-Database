@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寝る前にベッドサイドの電気スタンドを点けて、本を読むのが好きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この電気スタンドは、明るさを三段階に調節できる優れものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "机の上の電気スタンドが壊れてしまい、新しいものを買いに行かないと。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私は異常な気持を噛み堪えながら、次に聖者白隠が自分の名を呼んで富士を数歩退かせるところに来ると同時に、むずりとして、私自身、私の身体からあの巨大の土塊が引離れて行くように感じ、そして電気スタンド越しに事実富士の雪の三角の形をありありと眼底に見たことである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:29:34.794644+00:00Z"
     }
   }
 ]

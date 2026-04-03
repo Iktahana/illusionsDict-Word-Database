@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅行先で偶然、昔の友人にでくわして驚いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "森の中を歩いていると、珍しい鳥にでくわした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "予期せぬ問題にでくわし、計画の変更を余儀なくされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "論理の糸を手繰って闇黒な想像の迷路を彷徨しているうちにどこかで新しい出口を見付け、そこで事実の日光にまともに出くわすまでは何事も主張する権利はない事を心得ていなければならない。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T07:09:55.699867+00:00Z",
       "freq_rank": 25086
     }
   }

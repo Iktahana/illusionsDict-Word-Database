@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "現代社会では、デジタル情報が経済活動の重要な基盤となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "個人情報の取り扱いには、デジタル情報のセキュリティが特に重要視される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は膨大なデジタル情報を分析して、市場のトレンドを予測した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "原稿を書く側が文章をデジタル情報に変えておいてくれるため、これに多少の調整を加えるだけで、印刷用の版の元となるフィルムまでいっぺんに作れるようになったのです。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:10:50.882914+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この新しい技術を使えば、より効率的な作業が出来るようになるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "語学学校に通い始めて、外国語で会話が出来るようになるのが楽しみだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "練習を続ければ、きっとあなたもあの曲を弾ける（出来るようになる）ようになるはずだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「……もし風評が脇田から出たとすると、彼にどんな思案があるにしても捨てては置けないでしょうな」「そこで御相談なのですが、表向きにすると事が大きくなりますから、樫村殿から話をして頂いて、できる限り早く風評の根を絶つよう手配をしたいと思うのです」「ひき受けましょう」　伊兵衛は快よくうなずいた。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:08:46.038518+00:00Z"
     }
   }
 ]

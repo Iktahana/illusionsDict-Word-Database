@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ボタン一つで洗濯から乾燥までできる電気洗濯機は、共働き世帯の強い味方だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近の電気洗濯機は節水機能が優れていて、環境にも優しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古い電気洗濯機が壊れてしまい、コインランドリー通いが始まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お台所のメカニックがすっかり残っていて、とても便利にやっていらっしゃるわ……電気冷蔵庫があって、電気洗濯機があって、お料理は、みな電気調節器のついたレンジとオーヴンでやるの……あなた、聞いていらっしゃる？",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:29:34.796818+00:00Z"
     }
   }
 ]

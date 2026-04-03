@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その爵位は、歴史ある貴族の家系にのみ許されるデューク（公爵）のものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "公爵夫人が主催する舞踏会には、多くの著名人が招待されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、その功績を称えられてデュークの称号を授与された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "フランス・ギャル、芦川いづみ、シェリー・フェブレー（ワラの発音だとシェリー・ファーベアズだけど、そんな名前で〈ジョニー・エンジェル〉を歌っているすがたなんて、どう考えても想像できない）、パティ・デューク、浅丘ルリ子、シルヴィー・ヴァルタン、マリー・ラフォレ……。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T07:28:12.486731+00:00Z",
       "freq_rank": 29056
     }
   }

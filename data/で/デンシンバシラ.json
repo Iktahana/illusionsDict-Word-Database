@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "強い台風で、何本もの電信柱が倒れる被害が出た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "カラスが電信柱のてっぺんに止まって、周囲を見回している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供の頃、電信柱に貼られた迷子犬の貼り紙を見て、心が痛んだものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お豆腐屋の笛が方々で聞えてゐたわ、あの電信柱が、夕空にクッキリしてて、――僕、つてあの人あたしの方を振向くのよ、昨日三十貫くらゐある石をコジ起しちやつた、つてのよ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:37:11.207095+00:00Z"
     }
   }
 ]

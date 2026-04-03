@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "近所の電気工に頼んで、壊れたコンセントを修理してもらった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電気工の仕事は、専門的な知識と技術が求められる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は若い電気工たちを指導するベテランだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "正しく風に動力を借りるオランダ低地の風車は美でもあり、経済的でもあったろうが、レムブラントの名手に油絵、またはエッチングに取り入れられたあの風車の風景も、近来は電気工業に取って代られ、引き合わないために、風車はだんだん取り毀たれ、オランダ風物の代表は、全く失われんとしているとも聞いた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:28:47.657458+00:00Z"
     }
   }
 ]

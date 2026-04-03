@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "隠れていた子猫がソファの下から出てきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "長いトンネルを抜けると、目の前に広大な景色が出てきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新しいアイデアが次々と頭の中から出てくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "灘をこえて、水が静かになると、両方の岸を見廻すだけの余裕が出てくる、河原には材木を伐り出す小舎がある、岩石は上流の花崗岩と違つて、小さな褶曲や白や褐色の岩脈が、横に帯をしめたやうな、筋を入れたのが、美しく見える。",
@@ -303,7 +328,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:15:05.520655+00:00Z"
     }
   }
 ]

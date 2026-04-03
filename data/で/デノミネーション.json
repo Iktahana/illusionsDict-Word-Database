@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その国では、経済の安定化のために通貨のデノミネーションが行われました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "デノミネーション（単位の変更）は、経済活動における混乱を招く可能性もあります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "銀行のシステム改修は、デノミネーション（通貨単位の変更）に対応するため必要でした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで「おれは別にこの金を使うことについて条件はつけないけれども、おれの建ったところの孤児院のなかに、デノミネーションすなわち宗派の教師は誰でも入れてはならぬ」という稀代な条件をつけて死んでしまった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:22:00.841834+00:00Z"
     }
   }
 ]

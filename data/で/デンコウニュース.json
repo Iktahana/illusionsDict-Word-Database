@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "銀座の交差点で、ビルの電光ニュースを見上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電光ニュースが、世界の最新情報を伝えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔は電光ニュースを見るのが日課だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本にとって戦争は不可避的なもののようにあらわされていて、人々の眼はもうそわそわと、「朝鮮景気」「物価騰貴」「どの株を買えば安全か」「買いだめ、疎開は必要か」「七万五千人の警察予備隊」と矢つぎ早の電光ニュースに奪われてしまっているところがある。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:32:48.216740+00:00Z"
     }
   }
 ]

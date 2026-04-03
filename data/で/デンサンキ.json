@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "初期の電算機は、部屋いっぱいの大きさがあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この研究室では、最新の電算機が導入されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電算機によるシミュレーションで、新製品の性能を予測する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一九九〇年五月二日の朝刊一面トップにぶち上げられた「電算機ウイルス／高校生らが開発」との記事で四十人がかりでウイルスを共同開発したとのくだりを病床で読んだオレは、それまで悪意のプログラムは目立たぬように意地悪く、かつ小さく作るべきものだと思っていたがために十秒間息絶えた。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:32:48.219328+00:00Z"
     }
   }
 ]

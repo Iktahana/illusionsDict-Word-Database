@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この長方形の幅は、約5デシメートルです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "メートル原器は、1デシメートルごとに目盛りが付いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "50デシメートルは、5メートルに相当します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "〔館は台地のはななれば〕宮沢賢治館は台地のはななれば鳥は岬の火とも見つ香魚釣る人は藪と瀬を低くすかしてわきまへぬ鳥をまがへる赤き蛾は鱗粉きらとうちながし緑の蝦を僭しつゝ浮塵子あかりをめぐりけり",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T07:12:53.537731+00:00Z",
       "freq_rank": 5373
     }
   }

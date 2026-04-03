@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨上がりの庭には、でで虫がたくさん這っていました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供がおたまじゃくしと一緒に、でで虫を捕まえてきました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "葉っぱの上のでで虫の殻が、太陽の光を反射してキラキラしていました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "頭かきかき　市長のいうにゃ、『でんでんででむしではあるまいし、智慧だせだせと　せめつけられても、無い智慧出されぬ　面目ござらぬ、にげこむねずみの　穴ほしや。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:22:00.833412+00:00Z"
     }
   }
 ]

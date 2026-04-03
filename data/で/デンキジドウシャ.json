@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近、電気自動車の充電ステーションが増えてきて、便利になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ガソリン価格の高騰で、電気自動車への買い替えを検討している人が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "未来の都市では、ほとんどの車が電気自動車になるだろうと言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "街の通りを行列をつくって進む群衆を見るときどき、彼は祭の夜の電気自動車を運転した檻の中を見る思いで、明日はいよいよ火華が飛び散るであろうと更けゆく夜を待つのだった。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:29:34.792752+00:00Z"
     }
   }
 ]

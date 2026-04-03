@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「うちの店、味は最高でっせ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この仕事、私がやりますでっせ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「心配いりまへんでっせ、私がついてますから。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よその町内では、あんた、町会長のズボラな人がいやはるもんやさかい、証明書書いて貰うのに二日も三日も掛る、疎開した田舎から出て来たら宿屋に泊って貰わんならん言うてブツブツ文句言うたはる所もあるいうことでっせ。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:15:05.508349+00:00Z"
     }
   }
 ]

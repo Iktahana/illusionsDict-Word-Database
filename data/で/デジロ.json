@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本城の防御を固めるため、周囲にいくつかの出城が築かれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "かつての出城の跡地には、今も石垣の一部が残っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "敵の侵攻に備え、戦略的に重要な場所に新たな出城を建設した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だれでも目につく大室山を先手にして、その後に寄り添って、長尾山、片蓋山、天神山、弓射塚、臼山など、富士山を御本丸として大手からめ手に、火山の出城を築きあげている。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:11:27.903749+00:00Z"
     }
   }
 ]

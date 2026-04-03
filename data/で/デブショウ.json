@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私は根っからの出不精なので、休日でも家で本を読んだり映画を観たりして過ごすのが好きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「最近、全然外に出ないね」「うん、もうすっかり出不精になっちゃって…」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "誘いがあっても「いや、今日は出不精モードだから」と断ってしまうことが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "主人や娘さんはどうしてゐるだらうか、新坊は一生懸命働いてゐるだらうかと、時にふれ思はぬこともなかつたが、そしてまた、始終来てゐた客がぷつつり来なくなることは名曲堂の人たちにとつても淋しい気がすることであらうと気にならぬこともなかつたが、出不精の上に、私の健康は自分の仕事だけが精一杯の状態であつた。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:22:39.716290+00:00Z"
     }
   }
 ]
