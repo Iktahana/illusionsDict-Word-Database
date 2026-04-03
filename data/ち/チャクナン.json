@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は旧家の一人っ子で、将来の家を継ぐ嫡男として育てられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史上の多くの王族では、嫡男が次期国王となるのが一般的だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その会社の社長は、自分の嫡男を後継者として指名した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "友川三郎兵衛矩兼血判嫡男　長一郎矩道代筆印次男　三次郎矩行　　印文久二年五月十四日　又、別紙奉書の※紙には美事なお家様の文字が黒々と認めてあった。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T01:16:26.630741+00:00Z"
     }
   }
 ]

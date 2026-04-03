@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬の寒空の下、ブルブルとチャタリングしながらバスを待った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古い機械の部品が摩耗して、不規則なチャタリング音を発している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "キーボードのチャタリング現象で、意図しない文字が入力されて困っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "コンピューター用の本格的なキーボードは、キーを押したり放したりする際に生じるチャタリングと呼ばれる信号のノイズをきれいに取ってやるために、いろいろな工夫を凝らしていた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T01:15:48.329824+00:00Z"
     }
   }
 ]

@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は嫡出の子として、何の苦労もなく育った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "法律では、嫡出か否かで親子の関係が規定される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その国の王位は、嫡出の男子にのみ継承される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本の家族制度、財産の相続を眼目にした親子関係の見方においては、嫡出子と庶子、私生子の区別は非常に厳重で、生まれた子供は天下の子供であるという人間らしい自由さを欠いている。",
@@ -183,7 +208,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T01:09:46.067783+00:00Z",
       "freq_rank": 36602
     }
   }

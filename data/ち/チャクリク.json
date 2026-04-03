@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "飛行機は無事に滑走路に着陸し、乗客は安堵の息をついた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "月面着陸に成功した宇宙船からの映像は、世界中の人々を感動させた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "無人探査機は火星に着陸し、地球へのデータ送信を開始した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この人はジューリングと一緒に気球で成層圏の根元に近づき一時失神しながらも無事に着陸したという経験をもっていて、搭乗気球としての最高のレコードの保持者であった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T01:13:24.412769+00:00Z",
       "freq_rank": 9885
     }
   }

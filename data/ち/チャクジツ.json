@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は研究に何年も着実に取り組み、ついに新発見へと繋げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "着実な努力を続けることが、目標達成への一番の近道だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "経済は着実に回復の兆しを見せていると、専門家は分析している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "科学者のＭ君は積分的効果を狙って着実なる戦法をとっているらしく、フランス文学のＮ君はエスプリとエランの恍惚境を望んでドライブしているらしく、Ｍ夫人の球はその近代的闊達と明朗をもってしてもやはりどこか女性らしいやさしさたおやかさをもっているように見えた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T01:16:26.621060+00:00Z",
       "freq_rank": 7393
     }
   }

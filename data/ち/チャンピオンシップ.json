@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年もNBAチャンピオンシップの行方が注目される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は世界チャンピオンシップで優勝することを目標にしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そのゴルフコースは、チャンピオンシップを開催するのにふさわしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "他のスポーツやゲームに於ては、すべて国際的にチャンピオンシップが争われているのに、碁に於ては、名人位を国外に持ち去らるるのを怖るるのみではなく、一日本棋院という団体以外に持ち去られることを怖れて、他の流派や団体との争碁すら差しとめている哀れさである。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T01:35:03.463098+00:00Z",
       "freq_rank": 27099
     }
   }

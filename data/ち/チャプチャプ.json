@@ -34,7 +34,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "子供たちは水たまりでちゃぷちゃぷと音を立てて遊んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "お風呂に浸かると、水がちゃぷちゃぷと揺れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女が池のほとりを歩くと、足元で水がちゃぷちゃぷと跳ねた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "町中を水量たっぷりの澄んだ小川が、それこそ蜘蛛の巣のように縦横無尽に残る隈なく駈けめぐり、清冽の流れの底には水藻が青々と生えて居て、家々の庭先を流れ、縁の下をくぐり、台所の岸をちゃぷちゃぷ洗い流れて、三島の人は台所に座ったままで清潔なお洗濯が出来るのでした。",
@@ -73,7 +98,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T01:30:07.791228+00:00Z"
     }
   }
 ]

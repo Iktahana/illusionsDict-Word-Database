@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史あるチャペルで、友人が結婚式を挙げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "クリスマスの夜、チャペルからは美しい聖歌が響き渡っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そのホテルには、宿泊客が利用できる小さなチャペルがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊に会話受持のチャペルという教師は、非常に点数の辛い人であるから、会話の成績が悪いとあるいは落第するかも知れぬと実事虚事打混ぜて哀訴嘆願に及ぶと、案じるよりも産むが易く、ヘボンの字書なら買ってもいいということになって、すぐに二円五十銭を渡された。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T01:30:07.792652+00:00Z",
       "freq_rank": 21167
     }
   }

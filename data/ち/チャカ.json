@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "映画で刑事は腰のチャカを抜いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "裏社会の取引でチャカが使われたという噂が流れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は隠し持っていたチャカをテーブルに出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ヒラメの家では食事はいつもその小僧がつくり、二階のやっかい者の食事だけは別にお膳に載せて小僧が三度々々二階に持ち運んで来てくれて、ヒラメと小僧は、階段の下のじめじめした四畳半で何やら、カチャカチャ皿小鉢の触れ合う音をさせながら、いそがしげに食事しているのでした。",
@@ -214,7 +239,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T01:08:58.105461+00:00Z"
     }
   }
 ]
