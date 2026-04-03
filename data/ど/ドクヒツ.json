@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は毒筆を振るって、社会の不正を厳しく批判した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その評論家の毒筆は、時に鋭すぎて多くの敵を作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "匿名で書かれた毒筆記事が、スキャンダルを巻き起こした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かつて浪六がいひつるごとく、かれは毒筆のみならず、誠に毒心を包蔵せるのなりといひしは実に当れる詞なるべしと評した斎藤緑雨を、そう言ったほど悪くはあしらいもしなかった。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:11:08.489201+00:00Z"
     }
   }
 ]

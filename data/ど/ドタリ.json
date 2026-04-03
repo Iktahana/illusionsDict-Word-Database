@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大きな木が風で煽られ、地面にどたりと倒れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "疲労困憊のランナーが、ゴール直後にどたりと座り込んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "重い袋を置いた瞬間、どたりと音を立てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なぎさに破れた絵日傘が打ち寄せられ、歓楽の跡、日の丸の提灯も捨てられ、かんざし、紙屑、レコオドの破片、牛乳の空瓶、海は薄赤く濁って、どたりどたりと浪打っていた。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:37:18.230113+00:00Z"
     }
   }
 ]

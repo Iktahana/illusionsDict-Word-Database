@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工学部では、土木工学のカリキュラムが充実しており、多くの学生が学んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "土木工学は、道路、橋、ダムなどの社会基盤を設計・建設・維持管理する学問だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "将来、安全で快適な社会を作るために、土木工学の知識を活かしたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは土木工学の基礎となる土圧の問題には当然考慮さるべきものと思われるのであったが、ごく最近にこの考えを採用して土圧の問題を新しく考え直そうとする人も現われたようである。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:36:50.787421+00:00Z"
     }
   }
 ]

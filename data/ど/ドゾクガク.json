@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "土俗学の研究者は、世界各地の土着文化を調査している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の専門は土俗学で、特にアフリカの部族文化に詳しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "土俗学は、失われつつある伝統文化を記録する重要な学問だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近ごろわが国でも土俗学的の研究趣味が勃興したようで誠に喜ばしいことと思われるが、一方ではまたここに例示したような不思議な田園詩も今のうちにできるだけ収集し保存しまたそれを現在の詩の言葉に翻訳しておくことも望ましいような気がするのである。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:37:18.227544+00:00Z"
     }
   }
 ]

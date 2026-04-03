@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔はDOS/Vマシンが主流だった時代があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "DOS/Vパソコンは、日本語環境での利用を可能にした画期的なシステムだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は古いDOS/Vゲームを動かすために、エミュレーターを探している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「ＤＯＳ／Ｖ万歳」の雄叫びはなぜかマッキントッシュの博覧会に響き渡る　地の果ての幕張メッセで開かれたマッキントッシュの博覧会、マックワールド・エキスポの会場で、マック使いのライターのＴ田とバッタリ会った。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:37:18.219928+00:00Z"
     }
   }
 ]

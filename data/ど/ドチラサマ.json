@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「どちら様でいらっしゃいますか？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「お電話はどちら様からでしょうか？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「失礼ですが、どちら様でしょうか？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分はいきなり、「あんまさん、私の宅に来て、少し聞かしてくれんか」「ヘイ、ヘイー」と彼は驚いたように言って急に自分の顔を見て、そしてまた頭を垂れ首を傾け「ヘイ、どちら様へでも参ります」「ウン、それじゃ来ておくれ」と自分は先に立った。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:17:46.270449+00:00Z"
     }
   }
 ]

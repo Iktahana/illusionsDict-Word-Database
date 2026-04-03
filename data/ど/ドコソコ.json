@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の話は、どこそこの店で、誰が、何を、という具体性に欠けていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "どこそこの誰かが言っていた、というような曖昧な情報では判断できない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はいつも、どこそこへ行って、これこれをしてきたと自慢する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いくら経験だと申して、何処其処の山で道に迷ったとか、或は又何処其処の海岸で寄宿をしたとかいうような談は、文章にでも書いて其の文章に詩的の香があったらば少しは面白いか知れませぬが、ただ御話し仕たって一向おかしくもない事になりますから申し上げられません。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:15:05.326760+00:00Z"
     }
   }
 ]

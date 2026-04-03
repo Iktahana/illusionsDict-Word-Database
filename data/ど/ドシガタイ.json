@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の度し難い怠け癖には、もうあきれ返るしかない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その度し難い悪癖は、なかなか治らないだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は度し難いほど頑固で、人の意見を聞こうとしない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "最う少し精しく云ふて見れば、今の詞壇には、新しい歌を読む人が随分少くはない、併し其諸名家の作物を読んで見ると、其人達は歌に対する、どういふ信念と要求とから、こんな風な歌を作るのかと怪まれるものが比々皆然りで、作者の精神が何処にあるのか、殆ど忖度し難いものが多い。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T14:27:02.200017+00:00Z"
     }
   }
 ]
