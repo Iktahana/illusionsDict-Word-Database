@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "泥中の蓮のように、清らかでいたいと願う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "泥中の泥をすくい上げるのは、容易ではない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "汚れた泥中の宝を見つけ出すのは、困難な作業だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ちょうど「泥中の蓮の花」のように、雑多な野心や誘惑や愛欲の真只中に生活しながらもその汚れに染まず、しかもその欲望、誘惑をうまく消化善用して立派な人格完成、絶対の安心、無上の幸福という花を咲かせるのです。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:03:35.004793+00:00Z"
     }
   }
 ]

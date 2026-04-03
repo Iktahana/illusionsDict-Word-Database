@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "操作パネルには、現在のステータスを表示するための小型ディスプレイ装置が取り付けられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そのためにかかった時間こそ大きくことなるが、この三十年、ディスプレイ装置（新しい紙）の開発に端を発し、ついで、そこに文字を表示するしくみ（活字の発明に対応する）が徐々に整備されてきた。",
@@ -52,7 +61,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T06:48:55.951676+00:00Z"
     }
   }
 ]

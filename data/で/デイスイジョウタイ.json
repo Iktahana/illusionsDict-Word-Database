@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "検査の結果、彼は完全な泥酔状態であることが判明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "泥酔状態では、まともな会話も成り立たない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は泥酔状態に陥り、記憶をほとんど失っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "酔つたからというて無闇と手脚を伸すこともかなはず、呑みたいからというて矢鱈に水をあふることも許されず名状し難い陰気な泥酔状態を噛み殺して烏天狗のやうな顔つきを保つてゐることの苦渋を今や知る身となつてゐた。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T07:03:35.000771+00:00Z"
     }
   }
 ]

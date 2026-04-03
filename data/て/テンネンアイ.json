@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この美しい青は、天然藍で染められたものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "天然藍の染料は、手間がかかるが高価だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "天然藍で染めたデニムは、独特の色合いが魅力だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（明治四十年十二月十九日『東京朝日新聞』）　　　　　　　　　五十三　　　　　　人造藍と天然藍　藍を人工的に合成する法が出来て以来、人造藍の需要が増すにつれて天然藍の産額が減ずる傾向をもっているのは著しい現象である。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T06:37:47.086257+00:00Z"
     }
   }
 ]

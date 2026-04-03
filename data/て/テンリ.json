@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人間は天理に従って生きるべきだと、彼は常々語っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "森羅万象には天理が宿っており、それに逆らうことはできない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「そうか、それがこの世の天理というものか…納得したよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "子細は、其主人、自然の役に立ぬべしために、其身相応の知行をあたへ置れしに、此恩は外にないし、自分の事に、身を捨るは、天理にそむく大悪人、いか程の手柄すればとて、是を高名とはいひ難し」とはっきりした言葉で本末の取りちがえを非難している。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T06:44:52.468069+00:00Z",
       "freq_rank": 41406
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ＤＮＡは、生物の遺伝情報を保持する重要な生体分子だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "犯罪現場に残された微量のＤＮＡから、犯人が特定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ＤＮＡ研究の進展は、遺伝子疾患の治療法開発に新たな道を開いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "連中はまず、遺伝情報を伝えるメディアとして二重らせん構造のＤＮＡのモデルを作り、そこから情報がどう読み込まれて生物が作られるかの仮説を打ち立てた。",
@@ -94,7 +119,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T07:03:33.473214+00:00Z",
       "freq_rank": 13473
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "週末は、近代美術館で開催されているゴッホの展覧会に行く予定だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この展覧会には、世界中から集められた貴重な骨董品が展示されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「わぁ、この展覧会、人も作品もすごいね！来られてよかったよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それといふのが、これが都より田舎へ出すのであれば、何音楽会に行きました、何展覧会に行きました等々の、謂はば事件があるわけですが、こちらでは、何を豊富に感じてゐるとも、それが事件の形を採りませんので、書くことがまるでないやうな有様にもなるのだと、今更思ひ知る次第です。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T06:44:52.466060+00:00Z"
     }
   }
 ]

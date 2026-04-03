@@ -36,7 +36,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女はプロジェクトの細部にわたるディテールまで気を配る完璧主義者だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "犯行現場のディテールをメモ帳に丁寧に書き留める刑事の姿があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この絵はディテールが非常に細かく描かれていて、何度見ても新しい発見がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これはあの三倍位の長さに引き伸ばして、もっとディテール〔細部、細目〕を書き加うべきであったと思う。",
@@ -283,7 +308,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T06:49:21.184585+00:00Z",
       "freq_rank": 19239
     }
   }
