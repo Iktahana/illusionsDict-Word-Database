@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "家を出た途端に、激しい雨が降り始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は合格の知らせを聞いた途端、飛び上がって喜んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "窓を開けた途端に、金木犀の香りが部屋いっぱいに広がった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "長い間、帰り途の半分位の道程を、私は何を考へてゐたのだらう、と、子供の姿の見えないことに気のついた途端に、考へたが、その時には、もう私は、先きに歩いてゐる、見えない子供たちに声をかけてゐた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T10:39:11.698638+00:00Z",
       "freq_rank": 20977
     }
   }
