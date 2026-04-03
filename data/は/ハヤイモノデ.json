@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「どんなに急いでも、早牛も淀み、遅牛も淀む。焦るだけ無駄だよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「どんなに急いだところで、結果は同じかもしれない。早牛も淀、遅牛も淀、って言うしね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「まあ、焦っても仕方ない。早牛も淀、遅牛も淀、って言うだろう。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そんな工合で互に励み合うので、ナマケル奴は勝手にナマケて居るのでいつまでも上達せぬ代り、勉強するものはズンズン上達して、公平に評すれば畸形的に発達すると云っても宜いが、兎に角に発達して行く速度は中々に早いものであったのです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:54:45.992412+00:00Z"
     }
   }
 ]

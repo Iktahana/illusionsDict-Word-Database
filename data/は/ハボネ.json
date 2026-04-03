@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歯医者でレントゲンを撮ってもらい、歯骨の状態を確認した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "加齢とともに歯骨が弱くなり、歯周病のリスクが高まる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、歯骨の成長に影響する遺伝子の研究をしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は細君を火葬に附して、骨上げをした歯骨の中から上下の門歯と犬歯合せて十二本を取り出し、それを上下の顎の大きさの金具に排列し、更にそれを鋳物のときにつかう釘抜のような鉗子の先へ固定し、大原の咽喉笛をはさみ切って殺そうと計画したのである。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:50:57.790905+00:00Z"
     }
   }
 ]

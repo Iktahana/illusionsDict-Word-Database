@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この店では、現金払いとカード払い、どちらの払い方でも大丈夫ですか？",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "オンラインショッピングでは、様々な払い方が選べるので便利だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "契約書には、代金の払い方について詳しく記載されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "丸の内の宏壮な建物を見てもわかるように、保険会社は富んでいるものだが、現在、生命保険会社の支払い方法は、他殺だと保険金詐欺でない限り普通の病死と同じに全額を支払うことになっているのだそうだ。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:57:18.819130+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "穏やかな波が打ち寄せる春の海を眺めながら、ゆったりとした時間を過ごした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "俳句で「春の海」といえば、静かで穏やかな情景を思い浮かべる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "砂浜に座り、遠くの水平線を眺めていると、心が洗われるような春の海に癒された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "春の海｜終日のたりのたりかな　だれも知ってる名句であるが、のたりのたりという言葉の音韻が、浪の長閑な印象をよく表現し、ひねもすという語のゆったりとした語韻と合って、音象的に非常に強く利いてるのである。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:03:42.576638+00:00Z"
     }
   }
 ]

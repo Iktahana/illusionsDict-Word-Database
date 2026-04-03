@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "桜の花びらが風に舞い、川面をピンク色に染めていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "バラの花びらは、香りが良く、お風呂に入れるとリラックス効果がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子どもは、落ちている花びらを拾い集めて、小さな花束を作っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分も縁側へ出て新しく水を入れた手水鉢で手洗い口すすいで霊前にぬかずき、わが名を申上げて拍手を打つと花瓶の檜扇の花びらが落ちて葡萄の上にとまった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T22:45:39.212359+00:00Z",
       "freq_rank": 14197
     }
   }

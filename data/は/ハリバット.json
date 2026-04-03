@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カナダのレストランで食べたハリバットのソテーは、絶品だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新鮮なハリバットの切り身を使って、今夜はムニエルを作ろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "アラスカ湾は、大型のハリバットが釣れることで有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "我国では多数取れたり、網にかかったりする魚だけが、市場へ持って行く価値を持つものと思われる結果、食用魚が数種に制限されニューイングランドに於る主なるものは、鱈、ハドック、鯖、ハリバット〔比目魚の類〕だけである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:01:24.230452+00:00Z"
     }
   }
 ]

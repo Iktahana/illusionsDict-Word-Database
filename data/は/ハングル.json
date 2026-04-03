@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は韓国語を学ぶため、まずハングルを覚えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ハングルは、科学的に設計された文字体系として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ソウルの街を歩くと、看板に様々なハングル文字が見られる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "コロン製鋲会社の社長・亜米利加の妻楊枝・ハングルグの荷揚人夫・朝の入浴と玉子・下へ曲っている足の小指――これは誰でも未知の人に話しかける時の、彼女の有名な外交文書です。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T23:07:28.216701+00:00Z",
       "freq_rank": 14193
     }
   }

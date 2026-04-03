@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "陣痛が始まらないので、医師から早め薬を勧められました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔は出産を促すために、早め薬が使われることもあったらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は出産予定日を過ぎても陣痛がなく、早め薬の服用を検討している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "奥方の里から、けさは大勢見舞いに駈けつけ、それ山伏、それ祈祷、取揚婆をこっちで三人も四人も呼んで来てあるのに、それでも足りずに医者を連れて来て次の間に控えさせ、これは何やら早め薬とかいって鍋でぐつぐつ煮てござる。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:57:54.930544+00:00Z"
     }
   }
 ]

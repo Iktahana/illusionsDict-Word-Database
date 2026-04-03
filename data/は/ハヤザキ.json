@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "早咲きの桜が、公園のあちこちで見頃を迎えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このチューリップは早咲きの品種で、春の訪れを告げてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "早咲きの花を見ると、春が来たという実感が湧く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "籔蔭に早咲きの梅の匂う浜田圃の畦を散歩しながら、私は良人が延ばしていた前の妻の墓標を建てることや、珪次の学費の補助のことや、感傷や遠慮を抜いた実質的な相談をしました。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:57:17.956613+00:00Z"
     }
   }
 ]

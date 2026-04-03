@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "紅茶に砂糖の代わりにハニーを少し入れよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このヨーグルトは、ハニーとフルーツの甘みが絶妙だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "採れたてのハニーは、まるで宝石のように輝いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "打楽器セクションの指導者は、なぜか、かならず、「高橋路子先生」と、フルネイムで呼ばれている（慶一は、女のドラマーはハニーカムズのハニー・ラントリーしか知らないので、心のなかでは、高橋路子先生ではなく、ハニーと呼んでいた。",
@@ -134,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T22:48:56.673032+00:00Z",
       "freq_rank": 30942
     }
   }

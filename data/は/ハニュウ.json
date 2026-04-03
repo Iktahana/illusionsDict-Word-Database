@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この辺りは埴生が多く、水はけがあまり良くない土地だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "埴生は農業に適さないと思われがちだが、工夫次第で良い畑にもなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "埴生の土地に建物を建てる際は、地盤改良が必要になることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "池は小さくて、武蔵野の埴生の小屋が今あらば、その潦ばかりだけれども、深翠に萌黄を累ねた、水の古さに藻が暗く、取廻わした石垣も、草は枯れつつ苔滑。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:48:56.671833+00:00Z"
     }
   }
 ]

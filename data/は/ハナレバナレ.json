@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長い旅の末、家族とは離れ離れの生活を送ることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "引っ越しで家具が離れ離れになってしまい、まとめるのが大変だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "戦争によって、多くの家族が離れ離れにされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "白剥山の入口などは、解らなくて、森の中を一行が、離れ離れに迷うばかり、滝上りまでもやった、一時は絶望に近かった、しかし山腹に辿りついてからは、去年の路が、微かに見分けが出来た、頂は存外変りがなかった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T22:47:37.705710+00:00Z",
       "freq_rank": 36687
     }
   }

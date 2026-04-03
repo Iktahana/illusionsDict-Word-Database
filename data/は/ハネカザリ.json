@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は帽子に美しい孔雀の羽飾りを付けていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "民族衣装には、色とりどりの羽飾りが施されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "インディアンの酋長は、威厳のある羽飾りを身につけていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "旗が黄金色して眩いばかりに　頂きにて数々流れそよいでいた――（これは――何もかも――古えの　はるか昔のこと）穏やかな風が吹くたび絡み合う　あの愛おしい日に羽飾り並ぶ色褪せた城壁沿いから　香気は翼生やして離れ去った。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:50:13.244082+00:00Z"
     }
   }
 ]

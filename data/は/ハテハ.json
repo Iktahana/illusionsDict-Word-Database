@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最初は小さな問題だったが、果ては会社全体を巻き込む大騒動に発展した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は遊び半分で始めた趣味だったが、果てはプロの道へと進んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この技術は、果ては世界のエネルギー問題解決に貢献するだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近頃は西洋人も婦人まで草鞋にて登る由なりなどしきりに得意の様なりしが果ては問わず語りに人の難儀をよそに見られぬ私の性分までかつぎ出して少時も饒舌り止めず、面白き爺さんなり。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T22:38:42.183640+00:00Z",
       "freq_rank": 27016
     }
   }

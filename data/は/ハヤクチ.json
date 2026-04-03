@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は早口で、何を言っているのか聞き取るのが難しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "早口でまくし立てるように話す癖がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "早口で説明されたので、内容を理解するのに時間がかかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」――（少し早口になる）「私は自分が向ふへ歩いてゐるのか、自分が向ふから蒼白い顔で歩いて来てるのか分らない時がある――十字路で、みんなの元気な顔、殊には出遇つて互に喜ばしさうな挨拶を交はしてゐる人達をみる時。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T22:57:17.951259+00:00Z",
       "freq_rank": 18574
     }
   }

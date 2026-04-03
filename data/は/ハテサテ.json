@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「はてさて、これからどうなることやら」と、彼は先の読めない状況に苦笑した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「はてさて、こんなところにこんなお店があったとは」と、友人は驚いた声を上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「はてさて、今日の晩御飯は何にしようか」と、主婦は買い物リストを見ながらつぶやいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "はてさて迷惑な、こりゃ目の前で黄色蛇の旨煮か、腹籠の猿の蒸焼か、災難が軽うても、赤蛙の干物を大口にしゃぶるであろうと、そっと見ていると、片手に椀を持ちながら掴出したのは老沢庵。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:38:42.180873+00:00Z"
     }
   }
 ]

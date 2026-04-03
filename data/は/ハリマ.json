@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "播磨の国は、かつて日本海と瀬戸内海を結ぶ重要な交通路でした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "友人が播磨地方に旅行して、美味しい海の幸を堪能したと話していました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "播磨焼は、この地域で古くから伝わる伝統的な陶器です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "加賀の鼬雲、安房の岸雲、播磨の岩雲などは、其土の人々の雲の形を然思ひ做して然呼び做したるなるべければ、魏雲鼠の如く斉雲絳衣の如しなどいへるも、魏斉の俗に鼠雲絳衣雲等の称ありて後云ひ出せることにや。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T23:02:45.822504+00:00Z",
       "freq_rank": 42717
     }
   }

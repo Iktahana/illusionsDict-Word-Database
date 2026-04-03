@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イタリア料理には欠かせない花薄荷の香りが、食欲をそそる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "庭で育てた花薄荷は、ハーブティーにするだけでなく、肉料理の風味付けにも重宝している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "乾燥させた花薄荷をオリーブオイルに漬け込んで、オリジナルのハーブオイルを作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "花薄荷、燃えたつ草叢、火焔の臠、火蛇のやうなこの花の魂は黒い涙となつて鈍染んでゐる。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:45:39.203956+00:00Z"
     }
   }
 ]

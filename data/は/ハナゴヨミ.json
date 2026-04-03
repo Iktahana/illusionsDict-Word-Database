@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の春は、花暦通りに桜が咲いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "旅行の計画を立てるために、地元の観光協会の花暦を参考にした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "花暦を見ると、一年を通して様々な花が楽しめることがわかる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "粋な芸者などが柳橋あたりの河岸をあるいてゐる、その背景には柳と蝙蝠を描くのが殆ど紋切形のやうにもなつてゐる」　岡本綺堂先生の「薬前薬後」と云ふ随筆の一節にもかうしたことがかかれてゐるが、まことに「花暦八笑人」三篇追加の渓斎英泉の口絵も亦往還しげき妓女の背後を切りに蝙蝠の飛びまはつてゐる構図である。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:40:07.802524+00:00Z"
     }
   }
 ]

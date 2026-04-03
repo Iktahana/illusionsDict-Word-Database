@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朽ちた木の下から、小さな羽隠が這い出てきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "羽隠は、素早い動きで地面を歩き回る昆虫だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "庭で見つけた羽隠は、危険を感じると尾を高く持ち上げる習性がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "南洲といふところで、ある人が流に架けわたした土橋の上を通りかかると、何だか物のひそめくけはひがするので、そつと橋下を覗き込んでみると、そこに雪よりも白い羽をした鶴が二羽隠れてゐて、横ざまに吹きつける吹雪を避けてゐるらしかつた。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:50:13.243474+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春になると、丘一面が色とりどりの花畑になり、多くの観光客が訪れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小さな子どもたちは、花畑でちょうちょを追いかけながら楽しそうに遊んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "絵画のような美しい花畑を背景に、家族写真を撮ることができた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "農鳥山は大約三峰に岐れているようだ、手近を私たちは――後の話だが――仮に南農鳥と名づけた、雪が二塊ばかり、胸に光っている、近づくほど、雪の幅が成長して大きくなる、雪の側はいわゆる御花畑で、四ツ葉塩釜、白山一華、小岩鏡などが多い。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T22:45:39.205673+00:00Z",
       "freq_rank": 44173
     }
   }

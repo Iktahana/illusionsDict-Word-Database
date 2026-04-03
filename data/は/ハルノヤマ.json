@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "霧に包まれた「春の山」は、幻想的で神秘的な雰囲気を醸し出していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "山頂から見下ろす「春の山」は、新緑と点在する花々で彩られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ハイキングコースを歩きながら、「春の山」に咲く山野草を観察するのが楽しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "辞世の歌の「限りあれば吹かねど花は散るものを心短き春の山風」の一章は誰しも感歎するが実に幽婉雅麗で、時や祐けず、天｜吾を亡う、英雄志を抱いて黄泉に入る悲涼愴凄の威を如何にも美わしく詠じ出したもので、三百年後の人をして猶涙珠を弾ぜしむるに足るものだ。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:03:42.583426+00:00Z"
     }
   }
 ]

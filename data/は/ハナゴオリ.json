@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏のイベントで、美しい花氷が会場を涼やかに彩っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "花氷は、その儚さと美しさで人々を魅了する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "職人の手によって作られた花氷は、まるで芸術品のようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "車の止まったのは、坂を登りきってから、左と右とへ二回まがった、富士見町のある賑やかな通りであったが、行きついて見ると、それは花屋で、飾り窓の厚硝子の中に、さながら花氷のように薄桃のベコニヤが咲き乱れていた。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:40:07.800805+00:00Z"
     }
   }
 ]

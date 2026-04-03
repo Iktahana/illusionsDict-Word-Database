@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭に植えられた針樅の木は、一年中美しい緑を保っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "針樅の葉は触ると少し硬く、針のようにとがっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "冬の寒い日でも、針樅の木は堂々とした姿で立っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "うねうねと盛りあがった赤針樅の根這いにつまずきながら玄関のほうに行こうとすると、木繁みの間からほのかに洩れだす外灯の光の下で、笠原の細君の安芸子と滋野光雄が向きあって立っているのが見えた。",
@@ -78,7 +103,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:02:45.827564+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "もうお昼時、腹の虫が鳴き始めたから、何か食べに行こう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "静かな図書館で、不意に腹の虫が鳴いてしまい、慌てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "朝食を抜いたので、午前中からずっと腹の虫が鳴いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何万人の腹の虫が鳴くとしたら、この大釜の煮える音より、もッと大きな声がするわい」「あんな負け惜しみをいう」「だって、正月からいい負けたら、縁起がわるい」「どん底のおら達に、縁起が吉いも凶いもあるもんか。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:00:31.154721+00:00Z"
     }
   }
 ]

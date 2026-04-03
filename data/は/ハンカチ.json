@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は汗を拭くために、ポケットからハンカチを取り出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "娘は、可愛らしい柄のハンカチをいつも持ち歩いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「あ、ハンカチ忘れた！誰か貸してくれない？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私はお返しが上げ度くも気がせいて、手近に有合せの日本から持って行ったものを、一つかみにしてあとを追いました――猫の毛でつくった日本の細筆三本、五色のつまみ細工の小箱一つ、桜の縫いのしてあるハンカチ一枚――あとで考えても、おかしな贈物でした。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T23:05:28.014890+00:00Z",
       "freq_rank": 14973
     }
   }

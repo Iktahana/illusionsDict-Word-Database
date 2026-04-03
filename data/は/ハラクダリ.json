@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旅行先で冷たいビールを飲みすぎたせいで、腹くだりで体調を崩してしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御馳走を喰えば栄養になり、喰い過ぎれば腹下りを起こすくらいのことは知っていたが、この、医学者でも物理学者でも何でもない助手Ｍ君の感冒起因説は当時の自分の医学上の知識を超越していたのである。",
@@ -54,7 +63,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T22:59:30.110624+00:00Z"
     }
   }
 ]

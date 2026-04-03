@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "心臓には大動脈弁と肺動脈弁という二つの半月弁がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "半月弁の機能不全は、心臓病の原因の一つとなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "医師は半月弁の動きを超音波で観察した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "予、五子、佐々木ノ三人ハ瓢亭ノ半月弁当デ晝食ノ後、鹿ヶ谷ノ法然院カラ始メテ黒谷ノ真如堂、一乗寺ノ曼殊院｜辺ヲドライブスルコトニ決メル。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T23:07:28.228277+00:00Z"
     }
   }
 ]
