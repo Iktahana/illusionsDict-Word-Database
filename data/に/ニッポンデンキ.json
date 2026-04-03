@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は日本電気（NEC）のエンジニアとして、最新の顔認証技術の開発に携わっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日本電気のパソコン「PC-9800シリーズ」は、かつての国内市場で圧倒的なシェアを持っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "日本電気のロゴがスタジアムの看板に映し出され、国際的な知名度の高さを物語っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「日本電気を中心に歴史の一断面を記録する役割は、たまたま僕に割り振られたんだな」　そう思った途端、『パソコン創世記』はインターネットの上に広がる大きな海に向かって溶けはじめたのです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:27:42.201838+00:00Z",
       "freq_rank": 44900
     }
   }

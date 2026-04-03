@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先生は、彼の素晴らしい作文に大きな二重丸を付けてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "漢字テストで満点を取って、ノートに二重丸をもらえた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「見て！算数の宿題、全部二重丸だよ！やったー！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先生が教室へはいっていらっしゃると同時に、クラス会の新幹事の矢島が、つと立って行って黒板に、明日クラス会開催の事を記し、そうして、全部漏れなく出席せられたし、と書き添え、それから「漏」という字に二重丸を附けた。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:12:57.529343+00:00Z",
       "freq_rank": 1664
     }
   }

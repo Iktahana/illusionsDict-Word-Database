@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スポーツ中に急な激痛が走り、肉離れ（にくばなれ）を起こしてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "前の日まで中気で寝ていた源さんは、その日無理をして仕事に出た為め工場で過って右腕に肉離れをして了ったのです。",
@@ -62,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:09:26.541677+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都の西陣織は、日本の伝統工芸品として世界的に有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "母が持っている豪華な帯は、職人によって織られた西陣織だそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "西陣織の美術館では、美しい着物や反物が展示されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "爺さん、名を伊藤孝太郎といひ、この比叡山の麓の坂本の生れで、家は土地でもかなりの百姓をしてゐたが、彼自身はそれを嫌つて京都に出て西陣織の職工をやつてゐた。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:09:23.058029+00:00Z"
     }
   }
 ]

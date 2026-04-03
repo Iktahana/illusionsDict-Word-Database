@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "うなぎの蒲焼きには、甘いたっぷりの煮詰めが欠かせない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寿司屋では、アナゴに甘い煮詰めを塗って出すことが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この煮詰めは、隠し味に味噌が入っていて深い味わいだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それには私の過去の道筋で拾い集めて来たあらゆる宝石や土塊や草花や昆虫や、たとえそれが蚯蚓や蛆虫であろうとも一切のものを「現在の鍋」に打ち込んで煮詰めてみようと思っている。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:30:55.871781+00:00Z",
       "freq_rank": 27611
     }
   }

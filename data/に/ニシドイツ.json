@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史の教科書には、西ドイツと東ドイツの分断と統一の物語が描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "冷戦時代、ベルリンの壁は西ドイツと東ドイツの象徴だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は西ドイツで生まれ育ち、統一後のドイツの変化を目の当たりにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本電気がその後の独走の基礎を固めるＰＣ―８００１の発売に踏みきった一九七九年八月から一年半をさかのぼる前年三月にはすでに、Ｔ―４００と名付けた試作機を西ドイツのハノーバー・メッセで開かれたショーに展示するところまでこぎ付けていた。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:09:23.062656+00:00Z",
       "freq_rank": 15244
     }
   }

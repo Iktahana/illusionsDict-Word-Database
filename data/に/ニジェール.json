@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ニジェールは西アフリカに位置する内陸国です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ニジェールの首都はニアメです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「ニジェールでは、砂漠化が進んでいる地域もあるらしい。」とニュースで報じられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もっとも、発見して見れば海岸地方のように、黒い、ということがわかるかもしれないが、われわれが発見せんとするものはナイル河の、ニジェール河の、ミシシッピ河の水源、あるいはこの大陸の北西航路であるのか？",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:10:05.459531+00:00Z",
       "freq_rank": 42689
     }
   }

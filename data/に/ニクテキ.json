@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その修行は、精神だけでなく、肉的な鍛錬も要求された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その當時、悦びで有頂天になつた自分の姿が、あさましくも馬鹿らしくも思はれた、『あれはやつぱり一種の病熱からみた幻影にすぎなかつたのぢやないか』『あれは何でもない錯覺の類ぢやないのか』『自分は喜劇を演じたのぢやなかつたか』かういふ疑問が私を皮肉的に嘲笑し始めた。",
@@ -244,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:09:26.538700+00:00Z"
     }
   }
 ]

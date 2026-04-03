@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本型経営は、終身雇用や年功序列といった特徴を持つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近では、日本型アニメが世界中で人気を集めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このサービスは、海外で成功したモデルを日本型にアレンジしたものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本のファッシズムがイタリヤやドイツ、オーストリアのファッシズムと同じ現象上の規定を持っていないことは明らかで、日本に特有な根本規定がそこでも無論大切であるが、そうだからと云って、日本型ファッシズムがファッシズム一般に属するということを見逃すならば、夫は由々しい誤算である。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:36:50.369957+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この船は二重底構造なので、座礁しても浸水のリスクが低い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は二重底のかばんから、隠しておいた手紙を取り出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「え、この引き出し、二重底になってたの！？」と彼は驚きの声を上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小さなカンテラ一つと、形の色々の金槌二つ三つとを持って、船の二重底に這い込み、石炭がすでに真黒になって、油の様にとろりと腐敗したままに溜って居る塩水の中に、身体を半分浸しながら、かんかんと鉄※を敲き落すのである。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:12:57.522250+00:00Z"
     }
   }
 ]

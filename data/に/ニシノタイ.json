@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "源氏物語には、主人公が西の対に住む女性を訪れる場面が描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "平安時代の寝殿造りでは、西の対は重要な建物の一つだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は西の対から聞こえる琴の音に耳を傾けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「どうしたの、こんなに今日は暑いのに早く格子をおろしたの」「お昼から西の対――寝殿の左右にある対の屋の一つ――のお嬢様が来ていらっしって碁を打っていらっしゃるのです」　と女房は言った。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:09:23.064569+00:00Z"
     }
   }
 ]

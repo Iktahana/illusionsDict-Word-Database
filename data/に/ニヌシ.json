@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この荷物は、指定された荷主に間違いなく届けられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "輸出入の際、荷主の確認は非常に重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「荷主様のご要望により、この商品には特別な梱包を施しました。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "荷主よ水先案内よいまおそろしい嵐のまへに　むくむくと盛りあがる雲を見ないか妖魔のあれ狂ふすがたを見ないかたちまち帆柱は裂きくだかれするどく笛のさけばれさうして船腹の浮きあがる青じろい死魚を見る。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:32:48.575369+00:00Z",
       "freq_rank": 41471
     }
   }

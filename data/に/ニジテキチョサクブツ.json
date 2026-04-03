@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二次的著作物は、元の著作物の許諾を得て作成される必要があります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このファンアートは、二次的著作物として origional work の著作権に配慮して制作されました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「二次的著作物の定義や権利関係は、非常に複雑です。」と弁護士は解説した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もう一方の「著作財産権」には、二〇〇四年一二月一日の改正時点で、「複製権」「上演権及び演奏権」「上映権」「公衆送信権等」「口述権」「展示権」「頒布権」「譲渡権」「貸与権」「翻訳権、翻案権等」「二次的著作物の利用に関する原著作者の権利」が、束ねられている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:10:05.467239+00:00Z"
     }
   }
 ]

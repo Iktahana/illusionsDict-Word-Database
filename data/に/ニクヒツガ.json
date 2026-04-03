@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "博物館に展示されていた肉筆画（にくひつが）は、息をのむほど美しかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "師宣、政信、懐月堂等の諸家は板画と共に多く肉筆画の制作をなせしが、鳥居清信専ら役者絵の板下を描き、宮川長春これに対して肉筆美人画を専らとせしより、中古の浮世絵はやや確然として肉筆派と板下派との二流に分るるの観ありき。",
@@ -148,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:09:26.542598+00:00Z"
     }
   }
 ]

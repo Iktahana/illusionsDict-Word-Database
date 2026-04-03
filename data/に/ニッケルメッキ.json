@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "自転車のハンドルバーは、錆び防止のためにニッケル鍍金が施されています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この金属部品は、見た目の美しさと耐食性を高めるために、ニッケル鍍金処理を施しました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "メッキ工場では、様々な金属部品にニッケル鍍金を行う作業が行われています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これに反して日本出来のは見掛けのニッケル鍍金などに無用な骨を折って、使用の方からは根本的な、油の漏れないという事の注意さえ忘れている。",
@@ -200,7 +225,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:23:02.740139+00:00Z"
     }
   }
 ]

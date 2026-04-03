@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二等辺三角形は、二つの辺の長さが等しい三角形のことだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供は、黒板に描かれた二等辺三角形を見て「山みたい」と喜んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この建築物の屋根は、美しい二等辺三角形の形状をしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何しろ、もう三十余年前にただ一度実見したきりなので記憶がはなはだたしかでないが、網を張った叉手の二等辺三角形の両辺の長さが少なくも九尺くらいあり、柄竿の長さもほぼそのくらいあるかと思われ、とにかくずいぶん大きなものであるので、それを自由に操作するには相当の腕力を要するものであったように思う。",
@@ -110,7 +135,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:31:36.207161+00:00Z"
     }
   }
 ]

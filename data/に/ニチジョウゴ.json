@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "専門用語を避け、日常語で分かりやすく説明するよう心がけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この辞書は、日常語から専門用語まで幅広く網羅している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供向けの本は、日常語で書かれているものが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "耳で聽いて意味がわからず、文字に書いて見せた上で、初めて視覺から語意が通ずるといふやうな言葉を、日常語の會話に使用するやうな國民があるとしたら、世界で最も不便で最惡の國語を所有する民族と言はねばならぬ。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:17:06.807719+00:00Z"
     }
   }
 ]

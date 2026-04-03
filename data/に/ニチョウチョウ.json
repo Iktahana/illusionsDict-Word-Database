@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このピアノソナタはニ長調で始まり、聴衆を明るい世界へと誘う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "オーケストラのチューニングが終わり、ニ長調の序曲が演奏された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この曲はニ長調の響きが特徴的で、特に希望に満ちた場面で使われることが多いんです」と音楽の先生が解説した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "残念ながら大部分は肝心の楽曲をよく知らないから困るのであるが、ただ一つモツァルトの「ニ長調メヌエット」だけは曲の構造をよく知っている上に、光像の踊りも簡単であるから、比較的らくに光像の進行を追跡することができたようである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:20:46.892858+00:00Z"
     }
   }
 ]

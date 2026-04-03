@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒い地域では、暖房効果を高めるために窓を二重ガラスにすることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "二重ガラスの窓は、外部からの騒音を軽減する効果もある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "結露を防ぐために、この家は全ての窓に二重ガラスが採用されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "カーテンのない大きい窓からは二重ガラス越しにすぐ前の新聞社の建物の屋上が見えていて、正面のイルミネーションの余光がぼんやり夜空を赤くしているのが寝台からも見える。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:11:49.707219+00:00Z"
     }
   }
 ]

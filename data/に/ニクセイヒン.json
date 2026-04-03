@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "スーパーの精肉コーナーには、様々な種類の肉製品が並んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "またこれほど多くの穀類を、粒のままや、粉にしたのや、また刈り取ったままで貯えていたり、倉や物置や乾燥室を、こんなに夥しい麻布や羅紗や、羊の皮の鞣したのや生のままのや、乾した魚や、いろんな青物や、肉製品で一杯にしている者が他にあったらお目にかかりたいものだ。",
@@ -52,7 +61,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:09:26.531249+00:00Z"
     }
   }
 ]

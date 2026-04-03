@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本経済新聞社は、質の高い経済報道で知られる大手メディアだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "学生時代、日本経済新聞社でのインターンシップに参加し、貴重な経験を得た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "日本経済新聞社が主催するビジネスイベントは、毎回多くの参加者で賑わう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "★日本のコンピューターメーカー各社の歩みを、視点を幅広く取って横断的に跡付けた著作としては、『日本コンピュータ発達史』（南澤宣郎著、日本経済新聞社、一九七八年）、立石泰則の労作『覇者の誤算』（日本経済新聞社、一九九三年）などがある。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:37:40.717701+00:00Z",
       "freq_rank": 18215
     }
   }

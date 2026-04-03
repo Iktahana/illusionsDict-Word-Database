@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬の寒さ対策として、リビングに二重窓を設置した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "二重窓は防音効果も高く、幹線道路沿いの家には最適だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「この部屋、なんか静かだね」「うん、二重窓にリフォームしたからね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "すつかり葉をふるひ落した裸のポプラ並木、からからに凍りついた歩道、明りを消し、二重窓を降して冷たい沈默を包んでゐる煉瓦や石造りの暗い家並、毎日毎夜の不安な空氣に脅かされてゐる町は、朝から曇つたままに暮れ落ちた暗澹たる夜空の下に、わけても眞夜中過ぎのその夜は、人通さへ稀に無氣味な程に鎭まり返つてゐた。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:12:57.528728+00:00Z"
     }
   }
 ]

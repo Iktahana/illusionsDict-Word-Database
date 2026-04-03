@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎日の業務内容を日報にまとめて上司に提出する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "営業マンは、今日の訪問件数と成果を日報に記入しなければならない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "日報を毎日書くことで、自分の仕事の進捗を振り返ることができます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "毎朝いただいて居る東奧日報に據れば、私の兄は、いま、縣會に於いてたいへん割のわるい役をして居るやうである、私、いま、兄上に叱咤されるのを覺悟のうへで申してゐるのであるが、勘平役者が黒衣にまはつたやうで氣持がよくない。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T17:30:16.126145+00:00Z",
       "freq_rank": 10828
     }
   }

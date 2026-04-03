@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この曲は、悲しみを表現するためにニ短調で書かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ピアノの発表会で、ニ短調のソナタを演奏する予定だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ニ短調の響きは、どこか物悲しく、心に染みる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "チェロの組曲　この「バッハ協会」のレコードの第六集と第七集は、バッハの無伴奏チェロの組曲「第二番ニ短調、第三番ハ長調」並に「第一番ト長調、第六番ニ長調」を入れたもので、チェロは当代の巨匠カサルス、名曲の名演奏として、後世に遺さるべきレコードの一つである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:16:45.206663+00:00Z"
     }
   }
 ]

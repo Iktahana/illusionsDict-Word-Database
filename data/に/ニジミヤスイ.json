@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このインクは水に濡れるとすぐに滲みやすいので、重要な書類には使わない方がいい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "安物の口紅は、少し汗をかくだけで滲みやすいから、夏場は特に気をつけている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "水彩絵の具は、乾く前に触ると色が滲みやすいので、作業中は細心の注意を払う必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "汗がにじみやすい、夏の化粧は浮き立って、思うようにはしにくいものであるが、今日は肌が冷たく秋の初めのように、白粉も紅も、肌によく落着いて心地よかった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:11:49.699774+00:00Z"
     }
   }
 ]

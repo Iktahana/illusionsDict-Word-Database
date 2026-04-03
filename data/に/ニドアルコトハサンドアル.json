@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一度失敗したからといって諦めるな、二度あることは三度あると言うだろう！",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あの時、もう少し注意していれば、二度あることは三度ある、なんてことにならずに済んだかもしれない。」と彼は後悔した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「大丈夫、大丈夫！二度あることは三度あるって言うけど、今回はきっと大丈夫だよ！」と友人が励ましてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雫は一ぱいにたまって全く今にも落ちそうには見えましたしおまけに二度あることは三度あるとも云うのでしたから少し立ちどまって考えて見ましたけれどもまさか三度が三度とも丁度下を通るときそれが落ちて来るということはないと思って少しびくびくしながらその下を急いで通って行きました。",
@@ -109,7 +134,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:32:48.564344+00:00Z"
     }
   }
 ]

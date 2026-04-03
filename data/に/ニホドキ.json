@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "引っ越しの後は、荷解きが一番大変な作業だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は新しい家に到着すると、すぐに荷解きを始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プレゼントの包みを丁寧に荷解きすると、美しい宝石が現れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "寡婦が親切にも荷解きと整頓を手伝ってあげた時、大匙、シチュー用スプーン、テーブルセット、食卓用小瓶、ソース注し、何枚もの皿、鮮紅色のモーニングカップ、そして程度の差はあるが綺麗でかなりの重さになる単品の食器類があって、彼はそれらを処分しようとしないのだった。",
@@ -69,7 +94,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:35:44.783924+00:00Z"
     }
   }
 ]

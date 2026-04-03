@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新鮮な牛肉を買いに、いつもの肉店に立ち寄った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「三島亭」は古い牛肉店で、戦争前は三高の学生たちがよくこの店でコンパを開いて、「紅燃ゆる丘の花……」　という校歌やデカンショ節をうたいながら、牛飲馬食した。",
@@ -276,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T17:09:26.539005+00:00Z"
     }
   }
 ]
