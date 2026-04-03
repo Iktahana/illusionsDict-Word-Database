@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は度重なる遅刻により、懲戒免となった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これが謂はゆる虎の門事件なるものであり、その責を負うて、約三ヶ月前の九月二日、大震災の惨禍の真只中に成立した山本権兵衛内閣は、その日のうちに総辞職をなし、時の警視総監湯浅倉平（後の宮内大臣、内大臣）は懲戒免官に処せられた。",
@@ -52,7 +61,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T02:52:25.324265+00:00Z"
     }
   }
 ]

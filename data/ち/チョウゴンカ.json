@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "白居易の『長恨歌』は、唐代の叙情詩として非常に有名で、楊貴妃と玄宗皇帝の悲恋を描いています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "『長恨歌』の美しさと哀愁は、時代を超えて多くの読者を魅了し続けています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "『長恨歌』は、中国だけでなく、日本を含む周辺国にも大きな文化的影響を与えました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このごろ始終帝の御覧になるものは、玄宗皇帝と楊貴妃の恋を題材にした白楽天の長恨歌を、亭子院が絵にあそばして、伊勢や貫之に歌をお詠ませになった巻き物で、そのほか日本文学でも、支那のでも、愛人に別れた人の悲しみが歌われたものばかりを帝はお読みになった。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T03:01:36.864017+00:00Z"
     }
   }
 ]

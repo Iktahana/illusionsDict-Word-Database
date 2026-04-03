@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "病状が思わしくなかったため、彼は**長期入院**を余儀なくされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "**長期入院**中の患者のために、病院ではレクリエーション活動が提供されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「**長期入院**で体力も落ちたけれど、リハビリを頑張って早く退院したい」と患者は意欲を見せた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その先に広がるのは混迷なのか、想像を超えた調和なのか」（『免疫の意味論』）　発病以来、繰り返しの長期入院や周期的に訪れる体調の悪化で、仕事はあまりできなくなりました。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T03:05:38.709497+00:00Z"
     }
   }
 ]

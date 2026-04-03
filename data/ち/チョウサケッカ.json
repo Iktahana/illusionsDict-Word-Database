@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "本日発表する『調査結果』は、私たちの仮説を支持するものです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "『調査結果』をまとめ、犯人の特定に繋がる証拠を提示します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この『調査結果』に基づき、新製品のマーケティング戦略を決定します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」義雄は今囘の調査結果に據り、遠藤の日高、膽振觀――浦河で演説したのも、その一部だ――を書き綴り、遠藤の勢力範圍に觸れてゐる北海道メールに掲載する責任があるのである。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T03:01:36.868572+00:00Z"
     }
   }
 ]

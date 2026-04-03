@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "絵を描く前に、画家はまず**調色板**に絵の具を準備する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この**調色板**は、手に持ちやすく、絵の具を混ぜやすいように設計されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "アトリエには、使い込まれた**調色板**がいくつか並べられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "で、吃驚した川口は、思わずよろよろと立上った途端に、左手に持ったままの調色板の油壺から零れ落ちた油を、うっかり踏み滑って、後にあった絵具箱へ、後頭部をいやと云う程打ちつけたのです。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T03:03:32.193039+00:00Z"
     }
   }
 ]

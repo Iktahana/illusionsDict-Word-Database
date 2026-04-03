@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "品物が予定数を超過して届いたため、その超過分は返品した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（一二六）スミス博士は曰く、『余りに多量の紙幣を発行し、その超過分は、金及び銀と兌換されるために絶えず囘帰しつつあったために、英蘭銀行は、引続き多年の間、一年八十万｜磅から一百万｜磅または平均約八十五万｜磅も、金を鋳造せざるを得なかった。",
@@ -53,7 +62,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T02:52:25.331425+00:00Z"
     }
   }
 ]

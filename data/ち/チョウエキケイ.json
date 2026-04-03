@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "裁判官は、被告に懲役刑を言い渡した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "懲役刑は、犯罪の重さに応じて期間が決められる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は過去に懲役刑を経験している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この亜米利加人のアベー・スラネーは、ノーアウィッチの冬期巡回裁判で、死刑を宣告されたのであったが、しかしヒルトン・キューピット氏が、最初に発射したと云うことが明瞭になったので情状酌量して、死刑を改めて懲役刑とされた。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T02:38:27.485698+00:00Z"
     }
   }
 ]
