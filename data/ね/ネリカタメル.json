@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "陶芸家は、土を丁寧に練り固めて形を作っていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "粘土がしっかり練り固められていないと、焼成中にひび割れてしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この石膏はすぐに練り固まるので、手早く作業する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "即ち、巴豆の細末と大黄の一両宛に鍋臍灰を混じて、是を白馬の尿と、さうして、未だ地上の何物にも触れぬ前の天の雨水を層雲の彼方で受けた無根水とをもつて練り固めるので御坐います。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:18:22.293491+00:00Z"
     }
   }
 ]

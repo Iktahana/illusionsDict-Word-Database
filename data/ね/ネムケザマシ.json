@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "徹夜で勉強するために、眠気覚ましのガムを噛んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "コーヒーは眠気覚ましに効果があると言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "長距離運転中は、眠気覚ましのために窓を開けて換気する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "右様の次第で、畢竟眠気覚ましの茶受け話、桃太郎・大江山の一変形に過ぎぬのでありまして、中には一向珍しからぬ話もありましょうし、遺漏や誤謬は勿論少なからぬことでありましょうから、なにとぞそのおつもりで御一読を願いたいのであります。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:17:43.243733+00:00Z"
     }
   }
 ]

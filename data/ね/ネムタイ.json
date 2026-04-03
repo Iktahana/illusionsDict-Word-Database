@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨夜あまり眠れなかったので、今日はとても眠たい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この授業はいつも眠たくなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ああ、眠たい。もう寝ようかな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうして自由に放恣な太古のままの秋草の荒野の代わりに、一々土地台帳の区画に縛られた水稲、黍、甘藷、桑などの田畑が、単調で眠たい田園行進曲のメロディーを奏しながら、客車の窓前を走って行くのである。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:22:52.979614+00:00Z",
       "freq_rank": 36316
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "目が覚めてしまったが、まだ早かったので寝直した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "二度寝しようと思ったけど、結局寝直せなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昨夜はよく眠れなかったので、今日は少し寝直したい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何時でも客をする時には、客の来る迄は働く、けれども夕方になると、自分も酒が好だから颯々と酒を呑で飯を喰て押入に這入て仕舞い、客が帰た跡で押入から出て、何時も寝る処に寝直すのが常例でした。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:16:40.869383+00:00Z"
     }
   }
 ]

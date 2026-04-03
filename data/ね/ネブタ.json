@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "青森の夏は、ねぶた祭りで盛り上がる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大きなねぶたの山車が街を練り歩く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ねぶたの迫力ある姿に感動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然れども連日の東風弥々吹き募り、六月土用に入りても密雲冪々として天候朦々晴天白日を見る事殆ど稀なり（中略）毎日朝夕の冷気強く六月土用中に綿入を着用せり、夜は殊に冷にして七月｜佞武多（作者註。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:11:34.538900+00:00Z",
       "freq_rank": 44666
     }
   }

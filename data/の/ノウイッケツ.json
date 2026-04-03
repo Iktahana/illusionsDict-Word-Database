@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "急な激しい頭痛と吐き気があり、病院に運ばれた結果、脳溢血と診断された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "長年の高血圧が原因で、ある日突然、脳溢血を発症して倒れてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "脳溢血から一命を取り留めた後も、彼は言語のリハビリを続けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはそのお婆さんがある日上がり框から座敷の長火鉢の方へあがって行きかけたまま脳溢血かなにかで死んでしまったというので非常にあっけない話であったが、吉田の母親はあのお婆さんに死なれてはあの娘も一遍に気を落としてしまっただろうとそのことばかりを心配した。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:34:52.794303+00:00Z"
     }
   }
 ]

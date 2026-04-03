@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝起きた彼女の寝乱れ髪は、芸術家のような雰囲気だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は寝乱れ髪を気にせず、そのままリビングへ出てきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寝乱れ髪をさっと手で整え、鏡を見た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "珍しくうららかに浅碧をのべし初春の空は、四枚の障子に立て隔てられたれど、悠々たる日の光くまなく紙障に栄えて、余りの光は紙を透かして浪子が仰ぎ臥しつつ黒スコッチの韈を編める手先と、雪より白き枕に漂う寝乱れ髪の上にちらちらおどりぬ。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:17:43.241205+00:00Z"
     }
   }
 ]

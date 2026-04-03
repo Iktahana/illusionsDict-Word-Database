@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "友人の家に寝泊まりさせてもらった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "キャンプ場ではテントで寝泊まりする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "工事現場の近くで寝泊まりして、朝早くから作業を始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「離室って、前に、馬車宿をしてたもんだから、そん時の待合所を奥さ引っ込んで、どうにか人が寝泊まり出来るように拵えたのがあるにはあんのでがすけど、今のどころ、他所者の若夫婦が借りてるようでがす。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:16:40.865287+00:00Z",
       "freq_rank": 40722
     }
   }

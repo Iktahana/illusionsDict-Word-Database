@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜中に布団を蹴飛ばして、寝冷えしてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夏でも油断すると寝冷えするから注意が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寝冷えしないように、パジャマをしっかり着て寝よう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれどもまず平穏無事に日が経ちますうち、ちょうど八月の中ごろの馬鹿に熱い日の晩でございます、長屋の者はみんな外に出て涼んでいましたが私だけは前の晩寝冷えをしたので身体の具合が悪く、宵から戸を閉めて床に就きました。",
@@ -134,7 +159,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:11:34.533392+00:00Z"
     }
   }
 ]

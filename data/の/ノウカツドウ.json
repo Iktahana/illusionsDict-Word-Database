@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "瞑想中は、特定の脳活動が活発になることがfMRIの研究で示されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の脳活動をモニターすることで、嘘をついているかどうかを判別する実験が行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "睡眠不足は、集中力や判断力に影響を与え、脳活動を低下させる原因となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この統計によって見ても明かなように高級な智脳活動にはすらりとした背も高いタイプが適し、工場の労働、農業などにはずんぐりで手脚も太短い娘が適しているのである。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:35:56.601175+00:00Z"
     }
   }
 ]

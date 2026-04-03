@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パン作りには、小麦粉と水を練り合わせた練り粉が基本となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "蕎麦を打つときは、練り粉の硬さが非常に重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は器用に練り粉を薄く伸ばし、餃子の皮を作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "われは猶、古への巨人をおぼゆ　　過ぎにし日、われに糧を與へにし……二、九つの世をもわれは知れり　　土の下に大いなる根を張りし　　大いなる木の上にありしてふ（註、イグドラシルといふとねりこの木）　　九つの世界をも。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:18:22.295484+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "オクラの表面には粘滑な物質が含まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "納豆特有の粘滑な食感が、多くの人に好まれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "粘滑な液体は、摩擦を減らすのに役立つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先方の出す手が棘々満面の手だろうが粘滑油膩の手だろうが鱗の生えた手だろうが蹼の有る手だろうが、何様な手だろうが構わぬ、ウンと其手を捉えて引ずり出して淵のヌシの正体を見届けねばならぬのである。",
@@ -77,7 +102,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:25:13.124341+00:00Z"
     }
   }
 ]

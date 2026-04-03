@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は年金額の計算を役所に相談しに行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "老後の生活設計を考える上で、年金額は重要な要素だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "物価上昇に伴い、年金額の見直しが議論されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "年金を受くる資格ある者は、年収入三十一ポンド十シリング（約参百拾五円）に達せざる者にして、その受くるところの年金額は収入の多少によりて等差あれども、年収入二十一ポンド（約弐百拾円）に満たざる者は、すべて一週五シリング（一個月拾円余）の割合にてその年金を受く。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:26:43.405115+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プレゼンテーションの準備は、念入りに行った方が良い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は料理の段取りを念入りにチェックする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この精密機械は、念入りなメンテナンスが不可欠だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかも、その嫌疑が造作もなく晴れるようではこの「与太者ユーモレスク、四幕、十一景」は到底引き延ばせるはずがないので、それで、この嫌疑をなるべく濃厚に念入りにするために色々と面倒な複雑なメカニズムが考案されなければならないのである。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T20:25:13.118406+00:00Z",
       "freq_rank": 23589
     }
   }

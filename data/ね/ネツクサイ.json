@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "病人の寝室は、なんとなく熱臭い匂いがする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "熱臭い空気を感じ、私は彼の額に手を当てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "閉め切った部屋には、一晩中熱臭い空気がこもっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "病人は、海にむかって硝子戸を立てめぐらした座敷で、熱臭い蒲団に落ち込んだ胸をくるんで、潮風の湿気のために白く錆びついた天井を見つめた儘、空咳をせきながら、幸子の心づくしに堪能していたが、それでも覚束ない程感動し易くなっていたので、時々幸子を手古摺らせた。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:08:11.961581+00:00Z"
     }
   }
 ]

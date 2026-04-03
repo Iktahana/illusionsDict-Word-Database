@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "いい加減な生活を続けてきたが、ついに年貢の納め時が来たようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女に嘘をつき続けてきた彼も、ついに年貢の納め時を迎えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "悪行の限りを尽くしてきた悪党にも、いつかは年貢の納め時が来る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……貴様も年貢の納め時、首を切られて地獄へ行き、閻魔の庁へ出た時に、誰に手あてになったかと聞かれて返辞が出来なかったら、悪党冥利面白くあるめえ。",
@@ -125,7 +150,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T20:26:43.409013+00:00Z"
     }
   }
 ]
