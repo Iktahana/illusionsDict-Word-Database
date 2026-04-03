@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "複雑なグラフィックを排したテキストベースのゲームが、一部の層で根強い人気を誇っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "このツールはテキストベースで動作するため、低スペックのPCでも軽快に動く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "仕様書をテキストベースで管理し、Gitなどのバージョン管理システムで変更履歴を追う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "テキストベースのマシンならともかく、ビットマップの処理を高速で繰り返す必要の生じるアルト型のマシンでは、ＤＭＡコントローラーへの負担はとりわけ大きくなることが予想できた。",
@@ -86,7 +111,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:47:54.006377+00:00Z"
     }
   }
 ]

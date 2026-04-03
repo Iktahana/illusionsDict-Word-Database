@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の庶民にとって、寺子屋は唯一の教育機関であり、読み書きを習得する貴重な場所だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "寺子屋の師匠は、近所の尊敬を集める隠居した武士や学識のある僧侶が務めることが多かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "子供たちが寺子屋で使う草紙には、墨で何度もなぞった跡があり、彼らの努力が伺える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "重兵衛さんの寺子屋時代の悪戯にはずいぶん過劇なものもあったようである。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T06:06:24.844212+00:00Z",
       "freq_rank": 30271
     }
   }

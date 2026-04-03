@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "母親の「手料理」は、何よりも心のこもったご馳走だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は「手料理」が得意で、週末にはよく友人を招いてパーティーを開く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "久しぶりに実家に帰り、「手料理」を食べるとほっとする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この日も鷹見は、帰路にぜひ寄れと勧めますから、上田とともに三人連れ立って行って、夫人のお手料理としては少し上等すぎる馳走になって、酒も飲んで「あの時分」が始まりましたが、鷹見はもとの快活な調子で、「時に樋口という男はどうしたろう」と話が鸚鵡の一件になりました。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T06:03:14.359611+00:00Z",
       "freq_rank": 28309
     }
   }

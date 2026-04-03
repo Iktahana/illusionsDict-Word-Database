@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プロジェクトのリーダーを選ぶにあたって、経験豊富な佐藤さんが唯一の適任者だと思われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "これほど複雑な問題を解決できる適任者は、専門家の彼をおいて他にはいない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "適任者が不在のまま見切り発車した結果、チームの統制はすぐに崩れてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この難儀な迷惑な証人の役目を負わせるための適任者は、別に物色するまでもなく例の夕刊嬢において見出されるのである。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:49:53.943706+00:00Z"
     }
   }
 ]

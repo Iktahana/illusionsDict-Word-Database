@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "丁字路では、左右からの車両に注意して右折する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その交差点は、見通しの悪い丁字路になっており、事故が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「危ない！信号のない丁字路で、車が急に出てきた！」と、自転車に乗っていた子供が叫んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その下に真黒く横たわる谷郷村の盆地を冷やかに流れ渡る夜風に背中を向けた草川巡査は、来るともなく深良屋敷に通ずる国道添いの丁字路の処まで来ると突然、頭の上の天の河の近くで思い出したように星が一つスウーと飛んだ。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:38:54.586331+00:00Z"
     }
   }
 ]

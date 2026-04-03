@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この工芸品は、全ての工程を機械に頼らず熟練した職人の手作業で行っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大量の宛名書きを手作業でこなすのは、想像以上に時間がかかるものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "システムエラーにより、急遽データの入力を手作業でやり直すことになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一字一字文字を選び、指定の字詰めに合わせて仕上げた印画紙を台紙に張り込み、訂正の求めに応じて手作業で文字の張り替えを進めます。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T05:52:05.107011+00:00Z",
       "freq_rank": 17206
     }
   }

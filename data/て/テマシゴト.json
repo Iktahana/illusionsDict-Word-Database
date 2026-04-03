@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この刺繍は、非常に手間仕事なので完成まで時間がかかる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "手作業での組み立ては手間仕事だが、品質は高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "父は手間仕事の職人で、細かな作業を黙々とこなす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その重々しい文学士が下等新聞記者の片手間仕事になっていた小説――その時分は全く戯作だった――その戯作を堂々と署名して打って出たという事は実に青天の霹靂といおう乎、空谷の跫音といおう乎、著るしく世間を驚かしたものだ。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T06:01:31.115549+00:00Z"
     }
   }
 ]

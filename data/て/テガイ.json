@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この鷹は彼が子供の頃から手飼いにしてきたものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "手飼いの鶏は人によく慣れていて、とても可愛い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は手飼いの犬をとても可愛がっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "はっ、とその手を出すほどの心になると、橋むこうの、屋根を、ひょいひょいと手踊り雀、電信柱に下向きの傾り燕、一羽気まぐれに浮いた鴎が、どこかの手飼いの鶯交りに、音を捕うる人心を、はッと同音に笑いでもする気勢。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:42:53.120061+00:00Z"
     }
   }
 ]

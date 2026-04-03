@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "株価が大きく低落し、投資家たちは動揺した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の人気は、スキャンダルをきっかけに低落の一途を辿った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "景気の低落が続き、企業の倒産が相次いでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それはこの十年以来、日本の社会が日々に益々憂鬱になり、人心が絶望的に呻吟して、文化がその目的性と希望とを失ひ、年々歳々益々低落の度を深めて来て居るといふ事実である。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T05:41:49.882690+00:00Z",
       "freq_rank": 44284
     }
   }

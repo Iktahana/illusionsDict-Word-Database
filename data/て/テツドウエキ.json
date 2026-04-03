@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "街の中心にある鉄道駅は、通勤客や買い物客で朝から晩まで賑わっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「次の鉄道駅で降りて、バスに乗り換えるのが一番早いルートだよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "山あいにひっそりと佇むその鉄道駅は、秘境駅として多くの鉄道ファンに愛されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "作業場から下の鉄道駅まで立派な道路をきりひらいて、砂利もしき、ヌカルミにならないように充分手も加えてあるが、今やトロッコも敷設中で、八割まで出来あがっている。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:56:34.678519+00:00Z"
     }
   }
 ]

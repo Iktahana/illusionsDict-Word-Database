@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "書道を習い始めてから、彼の字の腕が上がったね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近、彼の麻雀の腕が上がったと評判だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "練習の甲斐あって、ゴルフの腕がめきめきと上がってきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だがプログラミング研究会と称するコンピューターの同好会に所属した小澤は、全国の大学でいっせいに紛争の火の手が上がる中で、大学にあったＩＢＭの大型機用にコボルやフォートランでプログラムを書くことを面白がっていた。",
@@ -69,7 +94,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:42:53.118835+00:00Z"
     }
   }
 ]

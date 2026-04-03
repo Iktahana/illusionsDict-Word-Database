@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この店の商品は品質が良いにもかかわらず、価格が非常に低廉だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "低廉なコストで高品質なサービスを提供することが、我々の目標です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は低廉な物件を探して、ようやく希望通りのアパートを見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そもそも文明の進み分業の行わるるに従い、機械的｜大仕掛の製造盛んに行われ、低廉なる価格を以て、能く人々の要に応じ得べきに至るといえども、元来機械製造のものたる、千篇一律風致なく神韻を欠くを以て、単に実用に供するに止まり、美術品として愛翫措く能わざらしむる事なし。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T05:48:28.285441+00:00Z",
       "freq_rank": 34167
     }
   }

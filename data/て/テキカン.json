@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "偵察機からの報告により、沖合に敵艦の姿が確認された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "激しい海戦の末、味方の艦隊は敵艦を数隻撃沈した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "レーダーに映る敵艦の影に、司令官は緊迫した表情で指示を出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――」と彼の暗記しおる公報の一つ、常に朗読というより朗吟する一つを始めた、「敵艦見ゆとの警報に接し、連合艦隊は直ちに出動これを撃滅せんとす、本日天候晴朗なれども波高し――ここを願います、僕はこの号外を読むとたまらなくうれしくなるのだから――ぜひここをやってくださいな。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-03T05:44:55.717177+00:00Z",
       "freq_rank": 42076
     }
   }

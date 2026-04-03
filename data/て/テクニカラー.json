@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の映画はテクニカラーで撮影されたものが多く、色彩が豊かだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "テクニカラーの鮮やかな色彩は、観客に強い印象を与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの女優はテクニカラーのスクリーンで最も輝いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その後有色写真のいろいろな方法が案出されて、「テクニカラー」式有色映画の示す程度までは進歩したが、その色彩はまだきわめて単調でなまなましくて、かろうじて安物の三色版の水準にしか達していない。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:55:58.131005+00:00Z"
     }
   }
 ]

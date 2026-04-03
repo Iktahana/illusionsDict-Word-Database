@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この店は、熱々の鉄鍋で提供される麻婆豆腐が名物だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "鉄鍋で調理すると、食材のうまみが引き立つと言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "キャンプの時には、丈夫な鉄鍋を使ってカレーを作ることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこで腰に鉄鍋を当てて待構えていて、腰に触る怪物の手首をつかまえてぎゅうぎゅう捻じ上げたが、いくら捻じっても捻じっても際限なく捻じられるのであった。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:57:23.346952+00:00Z"
     }
   }
 ]

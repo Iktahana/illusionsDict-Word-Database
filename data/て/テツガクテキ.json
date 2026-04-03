@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の発言はいつも哲学的で、深遠な意味を含んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その映画は、見る人に哲学的思考を促すような内容だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ふーん、君の意見、なかなか哲学的だね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それに猶、諸君も嫌ひではない冗舌は、此処に十分に按配されてをり、直き直きに抽象語を以てしなければ、かの「意味がない」と云つて嘯く、平盤な心情の人達のためには、十分哲学的学術的な言葉も此処には見出されるのである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:59:03.810953+00:00Z"
     }
   }
 ]

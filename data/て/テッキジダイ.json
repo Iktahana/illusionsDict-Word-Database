@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "人類は鉄器時代に突入することで、農具や武器の性能を飛躍的に向上させた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「鉄器時代の始まりは、地域によって数世紀の差があるんだよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "考古学の授業で、青銅器時代から鉄器時代への変遷について学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "わが国にも随処砂鉄を産する地多く、鉄を採るの術早く開けて、いわゆる青銅器時代を経ずして、太古の石器時代から、ただちに鉄器時代に移った場合が多かったようである。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:54:33.388860+00:00Z"
     }
   }
 ]

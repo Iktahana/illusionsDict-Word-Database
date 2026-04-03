@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "社長が手ずから顧客の元を訪れ、製品の説明を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は手ずから育てた野菜を使って、美味しい料理を振る舞ってくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このメダルは、国王が手ずから授与したものだという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "猫は早速追い出します」　しかし今まで可愛がって育てていたものを、自分が手ずから捨てにゆくには忍びないから、御迷惑でも御近所の人たちにお願い申して、どこかへ捨てて来て貰いたいと彼女は嘆いた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:53:30.315950+00:00Z"
     }
   }
 ]

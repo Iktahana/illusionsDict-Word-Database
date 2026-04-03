@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物園で手長猿が軽快に木から木へと飛び移っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "手長猿は、その長い腕を使って森の中を高速で移動する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ドキュメンタリー番組で手長猿の家族の生活が紹介された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その結果によれば、比較的重い脳をもっているものは人間の外に手長猿、鸚鵡、はつか鼠、駒鳥などで、これらのものの脳は体量の二十分の一ないし百分の一くらいの目方である。",
@@ -214,7 +239,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:58:14.974989+00:00Z"
     }
   }
 ]

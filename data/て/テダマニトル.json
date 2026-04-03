@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの政治家は、国民を手玉に取るのが得意だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女はいつも彼を手玉に取って、自分の思い通りにさせている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_content": "「まさか、私が手玉に取られていたなんて…。」彼は愕然とした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私が前に申しましたような、容易ならぬ大罪人の前科者という事実を、早くもその時に看破するや否や、一種の猟奇趣味の満足のためとしか思えない、極めて残忍な方法でもって、私の運命を手玉に取るべく、ソロソロと手を伸ばしかけていた悪魔というのは、誰でもない。",
@@ -117,7 +142,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:53:30.325504+00:00Z"
     }
   }
 ]

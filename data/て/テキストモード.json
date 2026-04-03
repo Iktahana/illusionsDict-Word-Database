@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "OSのインストール中、一時的にテキストモードのコンソール画面が表示された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "グラフィック表示が不要な作業では、リソースを節約するためにテキストモードで実行する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "サーバーのメンテナンス時には、テキストモードでのコマンド操作が基本となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "漢字や仮名をテキストモードでコードとして扱う代わり、グラフィックスとして扱うという、かつてＰＣ―１００が採用した方法をとったＤＯＳ／Ｖは、世界中に広く普及したＡＴとその互換機をまるごと日本語マシンに変身させる道を開いた。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:47:54.007664+00:00Z"
     }
   }
 ]

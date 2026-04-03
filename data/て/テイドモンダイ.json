@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この問題は、単なる技術的な課題ではなく、関係者の協力体制という程度問題だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "効率化の追求は重要だが、過度なコスト削減は本末転倒。それは程度問題だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「このプロジェクト、どこまでやるべきか、まだ方向性が定まらないね。」「うん、やはり人員配置や予算配分など、全体的な程度問題だよ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "難儀だって程度問題、覚悟をしての草鞋掛ででもあれば格別、何しろ湯あがりのぶらぶら歩き。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:40:09.302233+00:00Z"
     }
   }
 ]

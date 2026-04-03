@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "哲学史の講義では、古代から現代までの思想の流れを学ぶ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "西洋哲学史を概観する上で、プラトンの思想は欠かせない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は哲学史に関する論文を執筆中だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その後に私は友人｜安倍能成君の「西洋哲学史」を読んで、ロイキッポス、デモクリトス、エピクロスを経てルクレチウスに伝わった元子論の梗概や、その説の哲学的の意義、他学派に対する関係等について多少の概念を得る事ができた、と同時にこの元子説に対する科学者としての強い興味を刺激された。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:59:03.809399+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "化学の実験室で、ビュレットに入れた酸を滴下しながら中和点を求める滴定を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "指示薬の色が変化する瞬間を見逃さないよう、慎重に滴定作業を進める。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "排水の汚濁状況を調べるため、酸化還元滴定によるCODの測定を実施した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もしも試料中に大量の炭水化物があると、一部は灰化されずに残り、最終段階で抽出液を過マンガン酸カリ溶液で滴定して第一鉄を第二鉄に酸化するときに、余計な量の過マンガン酸が炭水化物分解産物と反応した。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T05:49:53.937995+00:00Z"
     }
   }
 ]

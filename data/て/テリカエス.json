@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "湖面が夕陽を「照り返し」、まばゆい光の道ができた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "白い壁が強い日差しを「照り返し」、部屋全体が明るくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "磨かれた床は天井のライトをきれいに「照り返して」いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ごうごうとどこまでも落ちる碧の水が長い弧を描くさなか、ざあざあとどこまでも噴き上がる飛沫の厚い幕が光を照り返すので、絶え間ない渦と轟音もあって、人を眩暈でくらくらさせる。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-03T06:03:14.355081+00:00Z"
     }
   }
 ]
