@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大学では、西洋美術史を専攻し、ルネサンス美術について深く学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は美術史の知識が豊富で、作品の背景を詳しく説明してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この本は、日本の美術史における浮世絵の役割を解説している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また媒妁人は、大学で私たちに東洋美術史を教え、大隅君の就職の世話などもして下さった瀬川先生がよろしくはないか、という私の口ごもりながらの提案を、小坂氏一族は、気軽に受けいれてくれた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:54:35.208272+00:00Z"
     }
   }
 ]

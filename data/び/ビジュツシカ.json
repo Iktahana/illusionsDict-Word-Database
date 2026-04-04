@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "有名な美術史家が、今回の展覧会の監修を務めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その美術史家は、失われた絵画の真贋について独自の説を唱えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は、中世ヨーロッパの宗教美術を専門とする美術史家だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其中に於て、肖像畫も殆んど現存の繪畫の開闢期より既に存在せしが、その肖像畫が日本に於て最も發達し、獨得の技倆を發揮せしは果して何時代の頃なりや、これに就ては、史學者、美術史家等の間に既に議論せられし事なるが、こゝに一己の私見を述べんとす。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:54:35.209428+00:00Z"
     }
   }
 ]

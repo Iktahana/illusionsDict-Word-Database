@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ビデオテープを巻き戻し忘れて返却すると、お店の人に注意されることがあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ビデオテープのカビを防ぐために、湿気の少ない場所に保管し、定期的に風を通す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "あーあ、ビデオテープがデッキに絡まっちゃった。これ、救出できるかな……。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これまでなら、絵は紙やキャンバスの上、写真は印画紙、動画はフィルムやビデオテープ、音はレコードやＣＤと、それぞれ専用の〈器〉におさめられていた。",
@@ -72,7 +97,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:59:32.763305+00:00Z",
       "freq_rank": 19710
     }
   }

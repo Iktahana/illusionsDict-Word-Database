@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の夜、ビアガーデンで友人たちと集まり、冷たいビールを片手に談笑するのは格別だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ホテルのビアガーデンでは、美味しい料理と共に、夜景を眺めながらビールが楽しめる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "仕事終わりの一杯を求めて、会社の同僚と会社の近くのビアガーデンに繰り出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "三月三十日（金曜）　二時近くから「芝居の世の中」の稽古、ヘンな背景が出来て来ちまって、キャバレエ・ウインナの感じまるで出ず、（「会議は踊る」のビアガーデンの図を描いてやったのに）衣裳もてんで成ってないので少からずくさった。",
@@ -56,7 +81,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:48:36.620537+00:00Z",
       "freq_rank": 35051
     }
   }

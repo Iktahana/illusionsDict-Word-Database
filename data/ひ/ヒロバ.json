@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日のランチは、みんなでワイワイ言いながら**広島焼き**を食べよう！",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "王宮と河一つ隔てた広場に面した四角な煉瓦造りの建物で、これは有名なシンケルの建てた特色のある様式の建築として聞こえたものだそうである。",
@@ -288,7 +297,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の植物が食い荒らされていたので調べてみたら、**広頭小蛾**の幼虫でした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -302,7 +320,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:43:52.993938+00:00Z",
       "freq_rank": 3773
     }
   }

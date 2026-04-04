@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この病気は、特定の病毒によって引き起こされる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "病毒の拡散を防ぐために、徹底した消毒が行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "顕微鏡で観察すると、細胞の中に無数の病毒が見えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（明治四十年十二月十八日『東京朝日新聞』）　　　　　　　　　五十二　　　　　　ペストと蚤　ペストと云えば鼠を聯想するが、鼠族の間にこの病毒を拡めるものは蚤だという事がだんだんに確かめられるらしい。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T04:07:27.562319+00:00Z"
     }
   }
 ]

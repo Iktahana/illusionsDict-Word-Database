@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "苦労して完成させたプロジェクトの打ち上げで、仲間たちと酌み交わした「美酒」の味は一生忘れられないだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「こんなに芳醇で香り高い美酒は滅多に出会えるものじゃないね」と、父は目を細めてグラスを傾けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は旅先で見つけた地元の美酒を自分へのお土産として買い、自宅で旅の思い出を振り返りながら楽しんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかも客の身邊には美酒珍味が全く無雜作に並べ置かれてある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:48:40.492678+00:00Z",
       "freq_rank": 43703
     }
   }

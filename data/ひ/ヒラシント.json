@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "宗教団体では、聖職者だけでなく平信徒もボランティア活動に参加する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "教会に通う平信徒たちは、毎週日曜日に礼拝に集まる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は平信徒でありながら、教会の運営に深く関わっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかして教会ならびに教職の同情援助は余の身に伴わざりしといえども、神の恩恵と平信徒の同情との余に加わりしが故に、余は今日に至るを得たのである。",
@@ -198,7 +223,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:45:08.529848+00:00Z"
     }
   }
 ]

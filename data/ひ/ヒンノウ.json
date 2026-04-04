@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は貧農の長男として生まれ、幼い頃から家計を助けるために働いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "重い年貢に耐えかねた貧農たちが、ついに各地で一揆を起こした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "政府は生活に困窮する貧農を救済するため、新たな融資制度を設けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日清戦争に際して、背後の労働者階級と貧農がどんな風であったかは、この「愛弟通信」から求められ得ないが、国際的な関係の現れとしての北支那海に於ける英仏独露の軍艦の浮游が報じられてある。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:43:42.522226+00:00Z",
       "freq_rank": 41088
     }
   }

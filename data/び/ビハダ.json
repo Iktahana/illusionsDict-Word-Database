@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "毎日の洗顔と保湿を丁寧に行い、美肌を保つよう心がけています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "バランスの取れた食事と十分な睡眠が、健康的な美肌の秘訣です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「〇〇さんの肌、本当に綺麗で羨ましい！」「ありがとう、自分では美肌のために色々試しているんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "第五回　美肌　このおかしな小説も、これではや第五回目である。",
@@ -158,7 +183,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T04:06:48.725956+00:00Z",
       "freq_rank": 21047
     }
   }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の過剰な潔癖症は、病的とさえ言えるレベルだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "病的自己愛が強い人は、他者への共感性が低い傾向がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "病的興奮状態に陥り、正常な判断ができなくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "フォルムのない競技で以て、徒らに勝たうとばかりしてゐるやうなもので、仮令勝てたにしても、競技そのものを楽しむ気持はなく、勝つた時に熱病的に嬉しいだけで、十年の後に回想したらば、なんといふこともなかつたと、呆然としなければならない始末だらう。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T04:07:27.558538+00:00Z",
       "freq_rank": 19767
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "故人が亡くなった後、親族は遺体を安置し、弔う儀式を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古い風習では、死者を棺に納めて丁重に殯すことが重要視されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "葬儀では、故人を殡し、冥福を祈るための儀式が執り行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "池上の堤で命召されたあのお方の骸を、罪人に殯するは、災の元と、天若日子の昔語りに任せて、其まゝ此處にお搬びなされて、お埋けになつたのが、此塚よ。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:39:27.043540+00:00Z"
     }
   }
 ]

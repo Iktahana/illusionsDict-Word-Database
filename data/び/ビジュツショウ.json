@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その美術商は、若手画家の才能を見抜くことで有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、代々続く老舗の美術商の三代目だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "美術商を通じて、貴重なアンティークの絵画を手に入れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また桐渡等は、この仁王の作者が或る名工の腕に成つたものであるといふ鑑定をつけて、埠頭場の美術商に売却して、村境ひの本橋をコンクリートに架け代へようといふ議が起つてゐたけれど、桐渡の加名を知つて不信任を叫ぶ一党が現はれ、これも当分見合せとなつてゐた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:54:35.406011+00:00Z"
     }
   }
 ]

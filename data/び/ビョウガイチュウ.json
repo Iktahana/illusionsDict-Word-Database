@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "畑の作物が病害虫の被害に遭ってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "病害虫の発生を抑えるために、適切な管理が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "新型の殺虫剤は、様々な病害虫に効果がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "稲の品種改良のことは、専門外のこととて、詳しいことは知らないが、多収穫性とか早熟性とかいう方面の改良の他に、茎を丈夫にしたり、冷害に耐えたり、病害虫に対する抵抗性を増したりする方向にも、随分力をつくしていることと思われる。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T04:06:04.308396+00:00Z"
     }
   }
 ]

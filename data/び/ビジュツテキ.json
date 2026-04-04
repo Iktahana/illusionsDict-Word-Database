@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この建築物は、機能性だけでなく美術的な価値も非常に高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の料理は、味だけでなく盛り付けも美術的に美しかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は、どんな些細なものでも美術的な視点で見つめることができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "伯林の郊外で未だ家のちつとも建たない原野に、道路だけが立派に磨いた土瀝青張りに出來上つて、美術的なランプ柱が行列して居るのを、少し馬鹿々々しいやうにも感じたのであつたが、やつぱりあゝしなければかうなるのは當り前だと思はれた。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:54:35.409581+00:00Z"
     }
   }
 ]

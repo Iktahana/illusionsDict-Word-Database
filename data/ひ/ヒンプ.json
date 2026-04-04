@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経済のグローバル化によって、国と国との間の貧富の格差が広がっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "どのような境遇であっても、貧富の別なく教育を受けられる社会を目指すべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は自身の財産を投じて、貧富に関わらず利用できる無料の診療所を開設した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今少しく精細に云って見るならば、役人の家庭、職人の家庭、芸人の家庭、学者の家庭、新聞記者、政治家、農家、商家、其の外に貧富の差がある、智識の差がある、夫婦諸稼の家庭もある、旦那様奥様の家庭もある、女の多い家、男の多い家、斯く数えて来たらば際限がない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:43:42.526736+00:00Z",
       "freq_rank": 17393
     }
   }

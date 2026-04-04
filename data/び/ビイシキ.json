@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女のファッションセンスは、洗練された美意識に基づいている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この建築物は、現代的なデザインと伝統的な要素が融合した、独特の美意識を感じさせる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "芸術作品を評価する上で、その作者の美意識を理解することが重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（後記）王朝時代の末期になつて、文化の爛熟による人間の官能と情感がいやが上にも発達し、現実的には高度の美意識による肉的なものを追ひ求める一方、歓楽極まつて哀愁生ずる譬へ通り、人々、省己嫌厭の不安から崇高な求道の志を反比例に募らせる。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:48:36.624870+00:00Z",
       "freq_rank": 20755
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社にはびこる不正を正さない限り、組織としての病根を絶つことは不可能だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長年の不規則な生活習慣こそが、今の体調不良を招いている深い病根である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この問題の病根は、実は現場ではなく管理体制の甘さにあるんじゃないかな」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "社會は個人を視ること全社會の如くにし、個人は社會を視ること自己の如くするに至らずば、病根は那方かに存して、輪番芽をなして永久に絶滅すまい。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T04:08:32.222087+00:00Z"
     }
   }
 ]

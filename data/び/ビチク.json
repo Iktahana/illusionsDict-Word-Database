@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "災害に備えて、食料や水などの備蓄は非常に重要です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この倉庫には、有事の際に使用する物資が大量に備蓄されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "食料価格の変動に備えて、米を多めに備蓄しておくことにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこでは一本の薪、一片の炭が隣人にかすめ盗られることを憂い、いな、親兄弟が配給の食膳の一握りの多寡を疑い、子は親に隠して食い、親は子の備蓄を盗み、これをしも魂の荒廃、魂の戦争といわずして、何事が戦争であるか。",
@@ -278,7 +303,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T03:57:16.511260+00:00Z",
       "freq_rank": 13684
     }
   }

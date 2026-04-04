@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の誠実さは、誰もが認める彼の最大の美徳だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "どんな困難な状況でも希望を失わないのが、彼女の美徳である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「忍耐は美徳なり」という言葉を胸に、彼は日々の努力を続けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分がひとに深切を施すのは、たいへんの美徳で、さうして内心いささか報恩などを期待してゐるくせに、ひとの深切には、いやもうひどい警戒で、あいつと對等の附合ひになつてはかなはぬなどと考へてゐるんだから、げつそりしますよ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T04:01:56.360804+00:00Z",
       "freq_rank": 18529
     }
   }

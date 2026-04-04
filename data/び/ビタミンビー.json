@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "疲労回復には、豚肉や玄米に多く含まれるビタミンBが効果的です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "アルコールを摂取するとビタミンBが消費されやすいので、お酒を飲むときは意識して摂るようにしています。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ビタミンBは水溶性なので、毎日しっかり補給することが大切です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この病態はビタミンＢの欠乏に起因する神経衰弱症に他ならぬ類ひで、例へば激しい笑ひの発作に駆られても同様の結果に襲はれるらしかつた。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:57:16.504902+00:00Z"
     }
   }
 ]

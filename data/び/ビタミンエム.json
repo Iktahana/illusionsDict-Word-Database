@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ビタミンＭは一般的に葉酸という名称で広く知られており、新しい細胞が作られる際に重要な役割を果たす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "お腹の中の赤ちゃんの健やかな成長のために、妊婦はビタミンＭ（葉酸）を積極的に摂取することが推奨されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ほうれん草やアスパラガスなどの青菜を毎日食べることで、天然のビタミンＭを効率よく体に取り入れることができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "他の人たちはサルのこの状態に既知のどのビタミンも効果が無いことを確認し、ここで欠乏する因子を”ビタミンＭ（monkeyより）”と名付けた（65）。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:51:36.660138+00:00Z"
     }
   }
 ]

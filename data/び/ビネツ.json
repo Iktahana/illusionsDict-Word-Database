@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昨夜から少し体がだるく、朝測ってみたら微熱がありました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "熱は37度台前半の微熱ですが、念のため今日は自宅で様子を見ることにします。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "激しい運動の後、一時的に微熱が出ることがあると聞きました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "果せるかな、その夜から微熱が出て、きのうは寝たり起きたり、けさになっても全快せず、まだ少し頭が重いそうで蒲団の中で鬱々としている。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T04:06:48.723900+00:00Z",
       "freq_rank": 28359
     }
   }

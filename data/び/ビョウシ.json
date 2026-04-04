@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "激動の時代を生き抜いた元将軍は、晩年を静かな別荘で過ごし、家族に見守られながら病死した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "検視の結果、遺体に外傷はなく、心臓の持病による病死であることが判明した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「あんなに元気だった彼が、突然病死したなんて今でも信じられないよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この丑尾さんは、たしか自分の家がその後一時東京に移っていたその二年の間に病死してしまったので、十歳にも満たない本当に果敢ない存在ではあった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T04:08:32.223496+00:00Z",
       "freq_rank": 27352
     }
   }

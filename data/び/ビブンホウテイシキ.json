@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "物理現象の多くは、微分方程式を用いて記述される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は非線形微分方程式の解法について研究している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この系の挙動を予測するためには、適切な微分方程式を立てる必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "理論的に言えば、破壊の起こる直前までの過程についてはプラスティックな物体の力学からある程度まではこぎつけられるが、ほんとうに破壊が起こり始めたが最後、もう始めの微分方程式も境界条件も全部無効になるから、これらの理論はその後の事がらについては全く一言の権利もなくなってしまう。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T04:02:57.874666+00:00Z"
     }
   }
 ]
