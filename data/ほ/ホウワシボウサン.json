@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "動物性の油に多く含まれる飽和脂肪酸は、摂りすぎるとコレステロール値が上がる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "健康のために、飽和脂肪酸の少ない植物性油脂を料理に使うようにしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「このお肉、美味しいけど飽和脂肪酸たっぷりだから控えめにね」と妻に言われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ラットで合成されないようであった自然の脂肪酸は、健康に必須であることが知られている高度不飽和脂肪酸だけであった。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:24:46.884336+00:00Z"
     }
   }
 ]

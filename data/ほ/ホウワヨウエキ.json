@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "砂糖を水に溶かし続け、飽和溶液を作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "化学実験で、特定の塩の飽和溶液を調製した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "飽和溶液から結晶が析出し始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何となれば、この場合は前に述べし過飽和溶液の晶出のごとく、現象の発生は吾人の測知し得るマクロスコピックの状態よりは、むしろ吾人にとりては偶然なるミクロスコピックの状態に依りて定まると考えらるるが故なり。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:16:56.545132+00:00Z"
     }
   }
 ]

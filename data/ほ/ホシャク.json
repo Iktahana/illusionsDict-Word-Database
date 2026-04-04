@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "証拠隠滅の恐れがないと判断され、彼はようやく保釈された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "弁護士が保釈の手続きを急いで進めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "保釈が認められたニュースを聞いて、家族は安堵の表情を浮かべた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "田村はもと左翼劇団の演出家であり戯曲のほかに小説も書き、劇壇より文壇で有名であったが、思想運動の嫌疑で検挙され、保釈出獄以来執筆は許されず、匿名で「演劇集団」の演出をしているのだった。",
@@ -246,7 +271,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T14:31:10.418666+00:00Z",
       "freq_rank": 16498
     }
   }

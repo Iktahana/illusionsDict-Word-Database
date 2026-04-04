@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今回のプロジェクトの成功は、他なりません、チーム全員の協力のおかげです。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この問題の解決は、他なりません、あなたの専門知識が必要です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼がここまでの地位を築けたのは、他なりません、たゆまぬ努力の結果です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其の無禮講と申す事で、從前にも向後も、他なりません此のお邸、決して、然やうな事はござりますまいが、羽目をはづして醉ひますると、得て間違の起りやすいものでござります。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:17:41.486514+00:00Z"
     }
   }
 ]

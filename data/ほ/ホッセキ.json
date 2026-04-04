@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "注射を打った箇所の周囲に軽い発赤が見られるが、これは一時的な副反応だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "傷口の周りが発赤し、熱を持っているようであれば、感染の疑いがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「皮膚に強い発赤と痛みが出た場合は、すぐに使用を中止してください」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "灼熱疼痛感があり、皮膚は速やかに発赤し、一時間ないし数時間後に水泡を生じた。",
@@ -136,7 +161,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:40:26.339197+00:00Z"
     }
   }
 ]

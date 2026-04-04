@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "旧日本軍の方面軍は、広大な地域を防衛する役割を担っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "方面軍司令官は、困難な戦況の中、的確な判断を下した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その方面軍は、激しい戦闘の末、敵の侵攻を食い止めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "戦争の進むにつれて必要に迫られて方面軍の編成となったが、若しドイツが会戦前第一ないし第三軍を一方面軍に編成してあったならば、戦争の運命にも相当の影響を及ぼし得た事であったろう。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:21:33.912706+00:00Z"
     }
   }
 ]

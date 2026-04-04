@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "都会での生活に疲れ果てた彼は、全てを捨てて放浪生活に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "放浪生活を送る中で、彼は名もなき人々との出会いに救われてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「明日の寝床も決まっていない放浪生活なんて、僕には耐えられないよ」と友人は首を振った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ひとりの不幸な男が、放浪生活中、とあるいぶせき農家の庭で、この世のものでないと思われるほどの美少女に逢った物語であった。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:24:46.880328+00:00Z"
     }
   }
 ]

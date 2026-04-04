@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の夜空には、北斗七星がくっきりと見える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "北斗七星は、おおぐま座の一部を構成する七つの明るい星だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供の頃、北斗七星を見つけるのが好きだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もうマジエル様と呼ぶ烏の北斗七星が、大きく近くなって、その一つの星のなかに生えている青じろい苹果の木さえ、ありありと見えるころ、どうしたわけか二人とも、急にはねが石のようにこわばって、まっさかさまに落ちかかりました。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:20:52.635565+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "大型の重機が入り、長年砂利道だった家の前の通りがようやくアスファルトで舗装された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "道路をきれいに舗装し直したばかりなので、車のタイヤから出る走行音が以前より格段に静かだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い石畳の趣を残すべきか、それとも利便性を優先して舗装すべきかで町全体の議論が分かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "足もとの土でさえ、舗装の人造石やアスファルトの下に埋もれてしまっているのに、何をなつかしむともなく、尾張町のあたりをさまよっては、昔の夢のありかを捜すような思いがするのである。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T14:35:37.973564+00:00Z",
       "freq_rank": 13593
     }
   }

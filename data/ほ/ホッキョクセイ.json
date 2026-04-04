@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜道で迷ったとき、空に輝く北極星を見つければ、自分の進むべき方角が分かる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "北極星は他の星と違って位置がほとんど変わらないため、航海士にとって重要な標印だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "天体望遠鏡を北極星に向けると、その周囲を他の星たちが円を描くように回っているのが見える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昔エジプトの天文学者は地上に環を立てて北極星に面せしめて置き、環の影が丁度一直線になる日を見て春分秋分を定め、これを基として暦を定めたという事で、その時の環が今日でもアレキサンドリアの博物館に保存してある。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T14:39:29.379237+00:00Z",
       "freq_rank": 39639
     }
   }

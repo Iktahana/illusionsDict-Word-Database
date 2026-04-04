@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "木の幹に同化したガの羽は、天敵である鳥の目から逃れるための見事な保護色になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "カメレオンは周囲の環境に合わせて体の色を変えるが、これも一種の保護色と言えるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "雪山に生息する雷鳥が冬になると白い羽に生え変わるのは、雪景色に紛れるための保護色だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "猫の保護色　猫の中に眼瞼の上の処だけ色がついて、眠っている時でもちょっと眼を明いているように見えるものがある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:26:16.845982+00:00Z"
     }
   }
 ]

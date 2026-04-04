@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は若手ながらも冷静な判断力を備えており、部長の補佐としてプロジェクトの成功に大きく貢献した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "市長の公務が円滑に進むよう、秘書室が一丸となってその補佐にあたっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「君の緻密な補佐があってこその結果だよ、ありがとう」と上司に肩を叩かれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "与二は政元の下で先度の功に因りて大に威を振ったが、兄を討ったので世の用いも悪く、三好筑前守はまた六郎の補佐の臣として六郎の権威と利益とのためには与二の思うがままにもさせず振舞うので、与二は面白くなくなった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T14:26:16.851669+00:00Z",
       "freq_rank": 8854
     }
   }

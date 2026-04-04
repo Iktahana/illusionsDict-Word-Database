@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ボイラーから噴き出す飽和蒸気の熱を利用して、工場内の機械を動かす。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "飽和蒸気の温度と圧力の関係をグラフにまとめ、実験レポートを作成する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「熱っ！ 飽和蒸気が漏れてる場所があるから近づくなよ」と作業員が叫んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "というのは、同じ温度、例えば零下十度でも、過冷却した水と氷とでは、飽和蒸気圧が違い、氷の方が低いのである。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:24:46.884851+00:00Z"
     }
   }
 ]

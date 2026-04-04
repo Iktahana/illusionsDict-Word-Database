@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市長が辞任したため、来月に補欠選挙が行われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "補欠選挙の結果は、今後の政治に大きな影響を与えるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は補欠選挙で当選し、新しい議員となった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水兵のジャン君が話した、いわゆる Mutins de La Mer Noire（黒海の謀叛人）の首領、共産党の何とかという男は、まだ牢にはいっていたが、僕がフランスを出る数日前に、パリ近郊の下院代議士補欠選挙の候補者として、未曽有の投票数で当選した。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:23:36.771536+00:00Z"
     }
   }
 ]

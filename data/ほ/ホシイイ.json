@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "炊いたご飯を天日で乾燥させて作った干飯は、お湯をかけるだけで食べられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長旅の供として重宝された干飯は、江戸時代の旅日記にもよく登場する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "干飯を油で揚げて砂糖をまぶせば、素朴な味わいのお菓子に早変わりする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あらたのもしや、たのもしや干飯一｜斗、古酒一筒、ちまき、あうざし（青麩）、たかんな（筍）方々の物送り給ふて候。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:29:13.495401+00:00Z"
     }
   }
 ]

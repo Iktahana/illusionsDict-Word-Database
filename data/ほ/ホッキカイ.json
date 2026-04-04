@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "北海道の市場で、新鮮なホッキ貝を刺身にしてもらったが、甘みが強くて最高だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「今日のカレーにはホッキ貝が入ってるよ」と、食堂のおばちゃんが笑った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ホッキ貝の殻は非常に丈夫で、昔は道具として使われることもあったらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "標準和名はウバ貝であるが、今はホッキ貝というのが通り名になってしまった。",
@@ -62,7 +87,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:39:29.372501+00:00Z"
     }
   }
 ]

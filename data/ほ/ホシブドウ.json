@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パン生地に干しぶどうを混ぜて焼くと、香ばしくて美味しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小腹が空いたときに、手軽に食べられる干しぶどうは栄養満点だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供の頃、苦手だった干しぶどうが、今では大好物になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水は不快なものであり、沈殿には明らかに屋外便所の土地の悪臭があり、そこには消化管を通ったが消化されなかったもの、たとえば干しぶどうの核や殻、他の果物や野菜の皮の部分が存在した。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:29:58.027966+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ボクサーの頑丈な頬桁は、強いパンチにも耐える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "美人の頬桁のラインは、絵画の題材になるほど美しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "転んで顔を打ち、頬桁が少し腫れてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『やつちまへ』『疊ん仕舞へ』彌次馬の聲援、畢竟は我が味方と、芳は勇み立つて、無手と對手の襟髮を掴むや、馬手の下駄は宙を飛んで、その頬桁を見舞はんとす。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:16:56.553829+00:00Z"
     }
   }
 ]

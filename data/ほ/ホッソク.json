@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しいプロジェクトチームが本日正式に発足し、メンバー全員で意気込みを語り合った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "地域住民の安全を守るための防犯ボランティア団体が、先月この町で発足した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「委員会の発足にあたり、まずは会長を選出する必要があります」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二十六日　上高地温泉を発足、徳本峠を越え、島々を経、馬車にて松本に到る。",
@@ -288,7 +313,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T14:40:26.340144+00:00Z",
       "freq_rank": 5199
     }
   }

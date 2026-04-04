@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この国の北西部は、雄大な山々に囲まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、日本の北西部の出身で、雪深い地域だと聞いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "調査チームは、砂漠の北西部で新たな遺跡を発見した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一七六九年インドの北西部飢饉し牛多く死し虎常時の食を得ず、ブハワバール市を侵しおよそ四百人を殲し、住民逃げ散じて市ために数年間空虚となったとクルックの『西北印度諸州篇』に見え、次に開化の増進に随い虎が追々減少する事体を述べ居る。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T14:20:52.626802+00:00Z",
       "freq_rank": 26549
     }
   }

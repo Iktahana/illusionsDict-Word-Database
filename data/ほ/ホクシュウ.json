@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "中国の南北朝時代には、北周のような短命な王朝も存在した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歴史書によれば、北周は武帝の時代に国力を増した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "北周の美術品は、その後の王朝の文化にも影響を与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殊に北朝の字の好くなつたのは北齊、北周以後であるが、これは梁の孝元帝の沒落の爲、南方の王羲之の字帖が北方に流れて入り、又王襃などが北周に南方の書を傳へたので、それが隋の頃に至つて大成して、南北を綜合したとも言ふべき立派な文字が出來たのであるが、實は南方の風を以て北派の猥陋なる書風を變化したのである。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T14:20:52.623166+00:00Z"
     }
   }
 ]
