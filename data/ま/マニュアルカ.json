@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "業務の効率化を図るため、すべての作業をマニュアル化する方針になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "長年の経験で培われた職人技を、後世に伝えるためにマニュアル化を進めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "レシピをマニュアル化することで、誰でも安定した味の料理が作れるようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "編集やコンピュータに対する知識や経験を異にし、顔を合わせたこともなく、気心も知れない者が協力して入力、校正を進めていく上では、なにを重視して作業を進めるかを明確にし、合理的と思える作業方針を選んでマニュアル化することが不可欠であると、突きつけられた。",
@@ -53,7 +78,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T22:32:26.734683+00:00Z"
     }
   }
 ]

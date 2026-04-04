@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しい年を迎え、門松には美しい松の緑が飾られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "雪化粧した庭園で、松の緑だけが鮮やかに映えていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "厳しい冬を乗り越え、松の緑が一段と力強く感じられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから暫らくのこと、私の勤務先は、日本橋の三越デパートメントの裏で、日本銀行と向いあったところだが、その建物の中で私たちが占めている室からは、太田道灌以来の名城を、松の緑の間に、仰ぎ見られるので、はじめて松樹国の日本に落ちついた気がした。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T22:02:32.465491+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ニューヨークの摩天楼は、いつ見てもその壮大さに圧倒される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "都市の景観は、高層ビル群、すなわち摩天楼によって形成されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地震に強い摩天楼を建設するため、最新の耐震技術が導入された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夜明前には奥漢鉄路で捕えられた二百名からの党員が銃殺されて、珠江に投げ棄てられた死体が河畔の摩天楼の下に櫛比して河底に埋もれ、蛋民によって水葬されたのだ。",
@@ -180,7 +205,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T22:07:23.737405+00:00Z",
       "freq_rank": 38730
     }
   }

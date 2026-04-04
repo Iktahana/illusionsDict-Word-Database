@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "プレゼンテーションの最後に、今日の議論のまとめを述べた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この論文のまとめを読むと、研究の全体像が理解できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "旅行の思い出をまとめるため、アルバムを作成している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "寧ろこれは、此の詩観が大体の結着をみた当時、即ち今より十三年ばかり前に書けばよかつたのであるが、当時は青春で一杯であつて、論文を纏めるなぞといふ気持には不向きであつた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T22:07:23.746786+00:00Z",
       "freq_rank": 22180
     }
   }

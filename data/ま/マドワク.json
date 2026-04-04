@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "窓枠にペンキを塗り直して、部屋の印象が変わった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古い窓枠の隙間から、冷たい風が吹き込んでくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は窓枠に鳥の巣があるのを見つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこで私は立って窓枠にのせてあった草花の鉢をもって片隅に始めから黙って坐っていた半白の老寡婦の前に進み、うやうやしくそれを捧げる真似をしたら皆が喜んでブラボーを叫んだり手と拍いたりした。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T22:12:02.106703+00:00Z"
     }
   }
 ]

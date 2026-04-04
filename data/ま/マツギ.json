@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この家具は、見た目は良いが、細部に末技が見られる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の作品は、常に完璧だが、たまに末技で評価を落とすことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "末技による手抜き工事が発覚し、建設会社は信頼を失った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "されど、之等は要するに皆かれの末技にして、真に欽慕すべきは、かれの天稟の楽才と、刻苦精進して夙く鬱然一家をなし、世の名利をよそにその志す道に悠々自適せし生涯とに他ならぬ。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T21:29:30.682060+00:00Z"
     }
   }
 ]

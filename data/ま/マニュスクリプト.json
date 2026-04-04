@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "図書館の奥には、貴重な古代の書物のマニュスクリプトが保管されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は長年かけて、中世のマニュスクリプトを研究している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このマニュスクリプトは、作者の直筆であることが確認された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近頃之を後人の仮作とする史家の説もあるが、聖経、詩賦、文章、歴史等古代の文献が尽く猛火の餌食となって焔々天を焦がし、尊いマニュスクリプトを焚いて風呂まで沸かしたというに到っては匹夫の手に果てたる英雄の最期を聞く如き感がある。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T22:32:26.736167+00:00Z"
     }
   }
 ]
