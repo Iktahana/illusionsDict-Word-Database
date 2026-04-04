@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私の孫息子は来月で3歳になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "祖父は、孫息子が野球をしている姿を誇らしげに見ていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は今年の夏、孫息子とキャンプに行く計画を立てている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "実業家の義太夫　東京の実業家Ｓ氏の令嬢が、大阪の実業家Ｍ氏の孫息子、今は大蔵省の役人を勤めてゐるＹ氏に嫁いだことは、新聞の花嫁花婿欄に気を附けてゐる人の、誰しも記憶してゐることだらう。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T18:29:29.057998+00:00Z"
     }
   }
 ]

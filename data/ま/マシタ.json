@@ -30,7 +30,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "（スラング、親愛の情を込めて）「おい、マイメン！元気にしてたか、マザーファッカー！」と友人が呼びかけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうしてその一端を指でつまんで高く空中に吊り下げた真下へ仰向いた自身の口をもって行って、見る間にぺろぺろと喰ってしまって、そうしてさもうまそうに舌鼓をつづけ打った。",
@@ -285,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T18:31:06.518282+00:00Z",
       "freq_rank": 19832
     }
   }

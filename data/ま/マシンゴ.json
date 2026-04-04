@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "コンピュータは、最終的にすべての指示をマシン語として実行する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "初期のプログラミングは、マシン語を直接記述することから始まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "マシン語は人間が理解するには非常に難解だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ＯＳとアプリケーションを今後伸ばすべき二つの柱に据えているマイクロソフトにとって、守備範囲にないグラフィックスを取り扱うことでＭＳ―ＤＯＳが互換性の基盤として機能せず、結果的にアプリケーションを個々のマシンごとに手直しせざるをえないという事態は、最悪のシナリオだった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T18:31:44.919021+00:00Z"
     }
   }
 ]

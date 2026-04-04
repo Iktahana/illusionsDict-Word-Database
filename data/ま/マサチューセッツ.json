@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "アメリカのマサチューセッツ州には、ハーバード大学がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ボストンはマサチューセッツ州の州都で、歴史的な建造物が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "マサチューセッツ工科大学は、世界的に有名な研究機関だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "特殊撮影技術を集めた『ＳＦＸミュージアム』や、映像作家たちの仕事をさらう『映像の先駆者』シリーズの関連で、初めて渡米すると、ＭＩＴ（マサチューセッツ工科大学）の研究所、メディアラボに籍を置くというボブ・スタインという人物から連絡がありました。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T18:29:29.066292+00:00Z",
       "freq_rank": 25592
     }
   }

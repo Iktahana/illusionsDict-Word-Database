@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "誠に勝手ながら、明日は店舗改装のため臨時休業とさせていただきます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「本日は遠方よりわざわざお越しいただき、誠に痛み入ります」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "誠に申し訳ございませんが、ただいまの時間帯は満席となっております。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」その前の頁には、Ｄ・Ｅといふ人が、「彼には、自分が生きるために、止むを得ず他の人間を喰物にするなぞといふ事は、誠に思ひもよらぬ事の如くであつた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T18:31:42.555149+00:00Z",
       "freq_rank": 8081
     }
   }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お客様のために、真心を込めて料理を作りました。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は真心を込めて、亡き友への追悼のスピーチを行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "真心を込めて手書きされた手紙は、相手に深く伝わるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水神さまの申し子でありながら、わけがあって、十年ものながいあいだ、たにしのからのなかに封じ込められていたのが、きょう、およめさんが水神さまのお社に参詣して、まごころをこめておいのりしてくれたおかげで、封じがとけて、このとおりりっぱなわかものの姿に、かわることができたのです。",
@@ -93,7 +118,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T18:29:29.054020+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "磁束密度は、テスラまたはマクスウェル/平方メートルで表される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この実験で測定された磁束の単位は、マクスウェルだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史的な物理学の単位として、マクスウェルが使われていた時期がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかるにもし人間以上の官能を有するいわゆるマクスウェルの魔のごときものありて、分子一つ一つの排置運動を認めその運動や結合の方則を知りて計算するを得ば、少なくも吾人が日蝕を予報するくらいの確かさをもってこれらの現象を予報するを得べし。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T18:01:57.754743+00:00Z"
     }
   }
 ]

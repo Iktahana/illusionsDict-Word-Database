@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今夜の夕食は、新鮮な真鯖の塩焼きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "真鯖はDHAやEPAが豊富で、健康に良い魚として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "釣ったばかりの真鯖を刺身で食べるのは格別だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "神もおはしまさば我家の檐に止まりて御覽ぜよ、佛もあらば我が此手元に近よりても御覽ぜよ、我が心は清めるか濁れるか。",
@@ -230,7 +255,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T18:30:33.516511+00:00Z"
     }
   }
 ]

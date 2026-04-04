@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この路面は雨に濡れると摩擦係数が大きく下がるので注意が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "タイヤの摩擦係数を上げることで、ブレーキング性能が向上する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "素材ごとの摩擦係数を比較する実験を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "弓の毛髪と振動体とが複雑な週期的相対運動をしている際に摩擦係数がはたして静的係数と動的係数との間を不連続的に往復しているのか、それとももっと複雑な変化をしているのか、これについてはまだだれも徹底的に研究した人はないようである。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T18:30:33.513543+00:00Z"
     }
   }
 ]

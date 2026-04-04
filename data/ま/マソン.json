@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長年使い込んだ機械は、摩損が進んで動きが悪くなっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "頻繁な使用により、靴の裏側が摩損していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "摩損を防ぐために、部品には特殊な加工が施されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」　メキシコ銀や香港ドルは、中国でさんざん使用されたあとのものとして磨損毀傷して目方の減ったものが多かったのであるが、この交換のばあいには、受取るのは外人所有の日本の一分銀で、渡す銀貨は新鋳の一円銀貨だから、目方を厳重にするというのは一分銀のほうである。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T19:49:35.649147+00:00Z"
     }
   }
 ]

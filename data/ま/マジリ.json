@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の空気は、花の香りと「交じり」合い、心地よかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の言葉には、喜びと不安が「交じり」合っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このブレンドコーヒーは、数種類の豆の風味が「交じり」合っていて奥深い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "図書の管理者などはどこでも学生には煙たがられると見えて、いつか同席したクナイペの席上における学生の卓上演説で冗談交じりにひどくこき下ろされていたが、当人は Sehrgemeiner Kerl などという尊称を捧げられても平気で一緒に騒いでいる面白い人であった。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T19:31:49.777822+00:00Z",
       "freq_rank": 24114
     }
   }
