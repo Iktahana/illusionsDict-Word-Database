@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "あの人は口下手だけど、仕事はきっちりやる。「人は見かけによらぬもの」だね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最初はとっつきにくいと思ったが、話してみると優しい人だった。「人は見かけによらぬもの」だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「人は見かけによらぬもの」という諺の通り、外見だけで判断してはいけない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人は見かけによらぬものという原則に従って、風采の感じと性格の感じとが全然正反対みたような人物が出て来ないと筋の都合が悪いような場合が甚だ多いのであるが、そのような場合でも、そうした矛盾した人物にピッタリと来る名前でなくてはいけない。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:51:02.245702+00:00Z"
     }
   }
 ]

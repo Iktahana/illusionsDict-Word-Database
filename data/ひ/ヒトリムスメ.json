@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一人娘が嫁ぐ日を、父親は複雑な思いで見守った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "一人娘は両親の愛情を一身に受けて育った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は一人娘なので、将来のことも含めて両親に相談することが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "教春の一人娘｜早百合姫は三年前、京都の戦禍がやや鎮まっていたとき、京都｜滞陣の父の館に呼び寄せられ、まだ十四｜歳の少女であったが、以来日々、茶の湯、学問、舞、鼓など師匠を取って勉強していました。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T02:42:01.749833+00:00Z",
       "freq_rank": 34833
     }
   }

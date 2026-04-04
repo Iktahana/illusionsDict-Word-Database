@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "結婚式の日取りを決めるために、家族全員でカレンダーを囲んで話し合った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "出張の日取りが確定したら、すぐに飛行機のチケットとホテルを手配してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "工事の日取りが天候のせいで遅れてしまい、完成が来月になりそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてはじめ心に決めていた都会へ帰る日取りは夙うの昔に過ぎ去ったまま、いまはその影も形もなくなっていたのである。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T02:41:59.383647+00:00Z",
       "freq_rank": 39392
     }
   }

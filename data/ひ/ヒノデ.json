@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "元旦の朝、水平線から昇る神々しい日の出を拝むために、多くの人が海岸に集まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "標高三千メートルの山頂で迎えた日の出は、これまでの苦労を吹き飛ばすほどの絶景だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「明日の日の出は五時過ぎだよ」と、登山のガイドが教えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自然に対しても、近代人は近江八景や、二見ヶ浦の日の出のような、伝習に囚われた名所や風光で満足が出来ないのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T02:45:42.572846+00:00Z",
       "freq_rank": 15891
     }
   }

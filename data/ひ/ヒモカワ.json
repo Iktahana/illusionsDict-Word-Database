@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古いカバンについていた紐革が切れてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "カメラを首からかけるための丈夫な紐革を探している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は壊れたサンダルの紐革を自分で修理した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "かれは寺から町の大通りに真直に出て、うどんひもかわと障子に書いた汚ない飲食店の角を裏通りにはいって、細い煙筒に白い薄い煙のあがる碓氷社分工場の養蚕所や、怪しげな軒燈の出ている料理屋の前などを通って、それから用水の橋のたもとへといつも出る。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:04:59.234777+00:00Z"
     }
   }
 ]

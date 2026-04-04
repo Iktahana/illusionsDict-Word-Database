@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漢字のテストで「毛」と「皮の皮」の違いを混同してしまい、思わぬ失点をしてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「皮の皮」という部首を持つ漢字には、動物の皮やそれに関連する製品を意味するものが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この漢字、偏は何？」「それは皮の皮だよ、よく見てごらん」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」と、黒い羊皮の皮外套を裏がへしに、毛の方を表にして著こんだ一人の男の手を捉へて、曳つぱつて来ながら、村長が呶鳴つた。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:44:43.888361+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "避難所となった小学校の体育館では、冷たい床の上に段ボールを敷いて、多くの家族が肩を寄せ合って不安な夜を明かした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "避難所での共同生活を円滑に進めるために、避難者の中からリーダーを選出し、掃除や食事の配膳などの役割分担を決めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "災害への備えとして、自治体のホームページで自宅から最も近い避難所の場所と、そこまでの安全なルートを確認しておいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だから、それはただ気休めである丈けではあったが、猶、坑夫たちはそこを避難所に当てねばならなかった。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:54:44.310215+00:00Z"
     }
   }
 ]

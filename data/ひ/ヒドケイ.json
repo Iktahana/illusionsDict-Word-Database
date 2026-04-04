@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公園の中央にある大きな日時計が、影の長さで午後の時間を指し示していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔の人は、地面に立てた棒の影の動きから日時計の仕組みを考え出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "曇りの日は太陽が出ないため、日時計を使って正確な時間を知ることはできない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私はかなしい田舍の鷄家根をこえ垣根をこえ墓場をこえてはるかの野末にふるへさけぶああ私はこはれた日時計　田舍の白つぽい牡鷄です。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:41:59.381658+00:00Z"
     }
   }
 ]

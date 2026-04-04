@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村の高台にある火の見からは、集落全体が一望でき、異変があればすぐに発見できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "火の見に登った当番の男が、遠くの煙を見つけて激しく鐘を打ち鳴らした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い絵図には、町の至る所に火の見が設置されていた様子が描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "村の夕暮れのにぎわいは格別で、壮年｜男女は一日の仕事のしまいに忙しく子供は薄暗い垣根の陰や竈の火の見える軒先に集まって笑ったり歌ったり泣いたりしている、これはどこの田舎も同じことであるが、僕は荒涼たる阿蘇の草原から駆け下りて突然、この人寰に投じた時ほど、これらの光景に搏たれたことはない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:45:42.580545+00:00Z"
     }
   }
 ]

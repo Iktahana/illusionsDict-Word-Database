@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "溶接作業の際、金属から激しい火花が飛び散った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "焚き火のそばに座っていると、パチパチと音を立てて火花が上がった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "車輪とレールの摩擦で、夜空に小さな火花が見えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "水部の線宮沢賢治きみがおもかげうかべんと夜を仰げばこのまひる蝋紙に描きし北上の水線青くひかるなれ竜や棲みしと伝へたるこのこもりぬの辺を来れば夜ぞらに泛ぶ水線の火花となりて青々と散る",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T02:53:01.205944+00:00Z",
       "freq_rank": 22581
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "私も、人並みに（ひとなみに）大学を卒業したい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、人並みに（ひとなみに）働いて、家族を養っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「もっと頑張って、人並み以上に（ひとなみに いじょう）活躍したいんだ！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "木村は細長い顔の、目じりの長く切れた、口の小さな男で、背たけは人並みに高く、やせてひょろりとした上につんつるてんの着物を着ていましたから、ずいぶんと見すぼらしいふうでしたけれども、私の目にはそれがなんとなくありがたくって、聖者のおもかげを見る気がしたのです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:39:02.103250+00:00Z"
     }
   }
 ]

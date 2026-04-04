@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は、興味のある展示品を一目見て、すぐに次の場所へ移動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "遠くからでも、その建物は一目見れば特徴がわかるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ちょっと一目見るだけのつもりだったのに、つい長居してしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "……　汽車が通じてから、はじめて帰ったので、停車場を出た所の、故郷は、と一目見ると、石を置いた屋根より、赤く塗った柱より、先ずその山を見て、暫時茫然として彳んだのは、つい二、三日前の事であった。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:39:34.835582+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "インターネット上の誹謗中傷は、深刻な社会問題となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、事実無根の誹謗中傷に対し、毅然とした態度で法的措置を取った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "政治家が選挙期間中に相手候補への誹謗中傷を繰り返したため、有権者の反感を買った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "むろん、怪文書の内容は、湯けむり彫刻への反対意見に留まらず、活動の中心にいる人物への誹謗中傷にまで及んだ。",
@@ -102,7 +127,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:57:04.664856+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "医学生たちは、卒業式で医療の倫理と使命を胸にヒポクラテスの誓いを立てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ヒポクラテスの誓いは、西洋医学における医師の行動規範の基礎となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "患者の秘密を守るという原則は、ヒポクラテスの誓いに由来する重要な概念だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし医師の道徳の最高水準は有名な「ヒポクラテスの誓い」で達していて、ゴンペルツは「文明史における最高水準の記念碑」と呼んでいる。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:57:04.668210+00:00Z"
     }
   }
 ]

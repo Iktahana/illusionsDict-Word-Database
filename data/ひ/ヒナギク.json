@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "春の公園の芝生に、小さな白い花を咲かせた雛菊が点々と広がっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "花壇の縁取りとして植えた雛菊が、朝露に濡れてキラキラと輝いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "雛菊の花言葉は「希望」や「平和」であり、贈り物としても喜ばれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "金鳳花、いらくさ、雛菊、それから紫蘭、あの、紫蘭の花のことを、しもじもの者たちは、なんと呼んでいるか、オフィリヤは、ご存じかな？",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:42:44.071260+00:00Z"
     }
   }
 ]

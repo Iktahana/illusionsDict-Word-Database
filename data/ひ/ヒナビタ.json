@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鄙びた温泉宿の静かな佇まいが、旅の疲れを優しく癒やしてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "都会の喧騒を忘れさせてくれる、鄙びた村の風景に心が洗われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「あえてこういう鄙びた場所で、スマホを持たずに一日過ごすのが贅沢なんだ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "朝の歌天井に　朱きいろいで　　戸の隙を　洩れ入る光、鄙びたる　軍楽の憶ひ　　手にてなす　なにごともなし。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:42:44.076948+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "物語の中で、囚われの姫君が王子様の助けを待っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "かつての城には、美しい姫君が住んでいたという伝説が残っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "舞踏会で、豪華なドレスをまとった姫君が注目を集めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "むかし戦国時代、飛騨の国司、姉小路秀綱卿が、いくさに負けて、夫人や姫君と共に、落ちのびるところを、追手に殺されたという、執念の谷に、執念ぶかい焼岳の煙が靡き、灰が降りかかるのである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T02:59:30.914399+00:00Z",
       "freq_rank": 26773
     }
   }

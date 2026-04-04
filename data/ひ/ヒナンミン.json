@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国境を越えて逃れてきた数万人の避難民たちが、テントが立ち並ぶキャンプで厳しい冬を越そうと耐え忍んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "戦火を逃れてきた避難民の子供たちが、仮設の教室でボランティアの先生から楽しそうに言葉を教わっている姿に希望を感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "国際NGOは、食糧不足に苦しむ避難民のために、大規模な支援物資の輸送作戦を世界中に呼びかけている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼は、邦人の家が掠奪された有様や、両耳を斬られた女の屍体、腹に石を詰められた男の屍体、それを、兵士達や、避難民や、内地の大衆に知らしてやる必要があった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:54:44.312645+00:00Z"
     }
   }
 ]

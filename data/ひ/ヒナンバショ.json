@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "津波の危険がある沿岸地域では、海から離れた高台にある広場や公園が、命を守るための緊急避難場所として指定されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "防災マップを見ながら、自宅から一番近い避難場所だけでなく、もしそこが使えなかった場合の予備の場所も確認しておいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大地震が発生した直後、近隣住民が続々と指定の避難場所に集まってきて、お互いの無事を確認し合う姿が見られた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "絶好の避難場所、そういう想念がすぐ閃めくのであった。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:54:44.312165+00:00Z"
     }
   }
 ]

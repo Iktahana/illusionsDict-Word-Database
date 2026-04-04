@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その王女は、長きにわたり人々に愛され、尊敬される姫宮であった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "姫宮は、侍女たちに囲まれ、優雅な午後のひとときを過ごしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「おお、姫宮様がお通りになる。皆様、お辞儀を。」と、廷臣が厳かに告げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自然は地にみつ光なりや今日はめぐりて山に入れど見よかの大空姿｜優に夜の守月姫宮をいでて唱ふをきかずや人の子等は。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:07:54.279155+00:00Z"
     }
   }
 ]

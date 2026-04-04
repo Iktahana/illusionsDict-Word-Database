@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は力強く声を響かせ、聴衆を魅了した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "太鼓の音が、祭りの会場中に響きわたった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "山にこだまを響かすように、大きな声で叫んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ほんのりと一重桜、カランと吾妻下駄を、赤電車の過ぎた線路に遠慮なく響かすと、はっと留楠木の薫して、朧を透した霞の姿、夜目にも褄を咲せたのは、稲葉家のお孝であった。",
@@ -189,7 +214,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:53:01.217844+00:00Z"
     }
   }
 ]

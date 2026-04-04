@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "メダカよりも少し大きめの緋目高が、池で優雅に泳いでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供の頃、田んぼで採ってきた緋目高を飼っていたのを思い出す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「見て見て、このヒメダカ、すごく元気！」と、息子が水槽を指差した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「それでもやっぱり、私の内さ、兄さん……」　と颯と寂しい影がさしたが、「兄さんが大好きで、そっちの物置の窓から、よく足をぶら下げて屋根を覗いた、石菖鉢の緋目高ね……」　と、唇か、瞼か。",
@@ -118,7 +143,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T03:07:54.268976+00:00Z"
     }
   }
 ]

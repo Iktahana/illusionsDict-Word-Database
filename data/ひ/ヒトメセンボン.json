@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一目千本と称される吉野山の桜は、言葉を失うほどの美しさだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "一目千本の絶景を求めて、全国から大勢の観光客が押し寄せている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "春爛漫の季節、一目千本の桜の下で酒を酌み交わすのは格別だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは／＼とばかりなぐりつけられし貞室翁の風流もありがたく、一目千本の霞をくゞりぬけて、藏王權現仁王門前にいたるころは、早や花に醉ふたる心地。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:40:58.301929+00:00Z"
     }
   }
 ]
