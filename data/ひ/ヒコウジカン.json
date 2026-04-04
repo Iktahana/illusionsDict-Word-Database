@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "操縦士の免許を維持するためには、年間で一定以上の飛行時間が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "長時間の飛行時間の末、ようやく機体は成田空港の滑走路にタイヤを滑らせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "今回の出張は合計の飛行時間が20時間を超え、時差ボケがかなりきつい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Imperial Airways, Ltd ―― LONDON to PARIS　時間表――二十四時制　日曜以外　毎日　クロイドン発Ａ　七時四十五分Ｂ　十六時三十分Ｃ　十二時　飛行時間　二時間半から四時間　乗機賃、発着飛行場と市内空中館間の自動車賃を含む。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:56:32.720887+00:00Z"
     }
   }
 ]

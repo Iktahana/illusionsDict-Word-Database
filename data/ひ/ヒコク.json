@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "被告は、検察側の主張を全面的に否定し、自身の無実を強く訴えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "法廷に入ってきた被告は、うつむいたまま被害者の家族の方を見ることはなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "裁判官は、被告が反省の色を示しているとして、刑の執行猶予を言い渡した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "刑事がここまで追跡する径路は甚だ不明であるが、つかまりさえすればそんなことはこの芝居にはどうでもよいので、これですっかり容疑者被告を造り上げる方の仕事が完成した訳である。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:57:53.970622+00:00Z",
       "freq_rank": 2103
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ガスの火口から青い炎が勢いよく上がっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "コンロの火口が詰まっているようで、火の出が悪かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "バーベキューコンロの火口を掃除して、次のキャンプに備えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "紺碧のナポリの湾から山腹を逆様に撫で上げる風は小豆大の砂粒を交えてわれわれの頬に吹き付けたが、ともかくも火口を俯瞰するところまでは登る事が出来た。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:55:25.163811+00:00Z",
       "freq_rank": 31720
     }
   }

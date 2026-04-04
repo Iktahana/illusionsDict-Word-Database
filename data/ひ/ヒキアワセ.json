@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "共通の友人の引き合わせで、私たちは初めて会った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの素敵な出会いは、まさに運命の引き合わせだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の引き合わせがなければ、このビジネスチャンスは得られなかっただろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夏休みに信州の高原に来て試みに植物図鑑などと引き合わせながら素人流に草花の世界をのぞいて見ても、形態がほとんど同じであって、しかも少しずつ違った特徴をもった植物の大家族といったようなものが数々あり、しかも一つの家族から他の家族への連鎖となり橋梁となるかと思われるようなものにも乏しくない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:46:35.217100+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつての東ドイツは、社会主義体制の下で独自の発展を遂げていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ベルリンの壁崩壊後、東ドイツは西ドイツと統一され、一つのドイツとなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は東ドイツ出身で、統一前の生活について興味深い話を聞かせてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ソヴェト式に自分たちの仕事を分担し組織する能力と習慣とをもった農村出身者たちは、東ドイツの村落へ行っても、その能力を発揮した。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:45:57.376183+00:00Z",
       "freq_rank": 22667
     }
   }

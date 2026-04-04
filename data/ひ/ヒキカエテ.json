@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "兄は外交的で友達が多いが、引き換えて妹は内向的で一人を好む。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この仕事は給料が良い。引き換えて、残業が多いのが難点だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_content": "都会の生活は便利だが、引き換えて、自然が少ない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "市電のマークのある廃球のことで、需要家は多く市電から電球を借りているのだが、切れゝば無料で引き換えてくれるけれど、割れゝば一個五十銭弁償しなければならぬ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:47:30.865665+00:00Z"
     }
   }
 ]

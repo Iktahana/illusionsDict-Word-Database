@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "暖炉の火を調整するために、彼は火かき棒を手に取った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古い民家では、囲炉裏の火をかき出すのに使われる火かきが常備されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "薪ストーブの火の粉が飛び散らないよう、火かきで薪を慎重に並べ直した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女星は早くも詩人が庭より立ち上る煙を見つけ、今宵はことのほか寒く、天の河にも霜降りたれば、かの煙たつ庭に下りて、たき火かきたてて語りてんというに、男星ほほえみつ、相抱きて煙たどりて音もなく庭に下りぬ。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:49:21.493572+00:00Z"
     }
   }
 ]

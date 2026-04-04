@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夕食には、ほうれん草の浸し物が添えられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は季節の野菜を使って、美味しい浸し物を作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "おひたしは、日本の家庭料理の定番だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから家族の衣食もそれに准じて粗末なもので辛棒させて、魚や肉などは余りに買わないで多くは浅蜊や蛤または鰯売り位を呼込んで副菜にし、あるいは門前の空地に生い茂っている藜の葉を茹でて浸し物にする事もあった。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:08:08.871930+00:00Z"
     }
   }
 ]

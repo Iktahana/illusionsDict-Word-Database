@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "二つの提案のメリットとデメリットを比較対照し、最適な選択肢を決定した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "比較対照することで、それぞれの特徴がより明確になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は異なる文化における教育制度を詳細に比較対照した論文を発表した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "前にも断わっておいたとおりこのような比較対照は厳密な意味では本来無理であるのに、それにもかかわらずそれをあえてしたのは、これによって連句というものをなんらか新しい光のもとに見直し、それによって未来の連句への予想と暗示とを求めるための手段としてであった。",
@@ -189,7 +214,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:42:56.265582+00:00Z"
     }
   }
 ]

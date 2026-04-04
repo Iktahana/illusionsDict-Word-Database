@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "室町時代後期の東山時代には、わび・さびの美意識が確立された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "東山時代に建てられた銀閣寺は、その簡素で洗練された美しさが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "東山時代の文化は、後の日本の芸術や建築に大きな影響を与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この所謂東山時代・桃山時代、其に似た心持ちを、十分に持つた江戸の元禄時代、此等の時期が、日本の芸術・文学の、大いに興つた時代、と言ふことになつてゐる。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:45:57.379689+00:00Z"
     }
   }
 ]

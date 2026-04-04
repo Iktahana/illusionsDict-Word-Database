@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ひな祭りの食卓には、菱餅とひなあられが飾られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "カラフルな菱餅は、春の訪れを感じさせる美しい和菓子だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "祖母が毎年手作りしてくれる菱餅は、ほんのり甘くて懐かしい味がする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "菱餅も焼くのを知って、それが草色でも、白でも、紅色でも、色の選好みは忘れている、……ああ、何という空蝉の女になったろう、と胸が一杯になったんですよ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:05:04.077280+00:00Z"
     }
   }
 ]

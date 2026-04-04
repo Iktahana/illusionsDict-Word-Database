@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "難しい哲学の話よりも、まずは卑近な例を挙げて説明してほしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "私たちの卑近な生活の中にも、科学の原理はたくさん隠れている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は高尚な理想を掲げる一方で、卑近な喜びも大切にしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――芸術といふものが、卑近な意味では、屡々女性的なものだとせられ、甚だしくは論理を無視する処から発生するとさへ考へられるにも拘らず、実は、芸術くらゐ論理的な謂はゞ男性的な性格と環境とを必要とするものはないやうに思はれる。",
@@ -261,7 +286,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:55:47.549394+00:00Z",
       "freq_rank": 44023
     }
   }

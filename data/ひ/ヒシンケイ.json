@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この植物の葉は、細長く先端が尖った披針形をしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "図鑑には、様々な植物の葉の形が披針形、卵形などの用語で説明されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この葉っぱ、どんな形？」「うーん、細長くて先が尖ってるから、披針形ってやつじゃない？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが　ときをりは嘗て見た何かの外套のやうな巨大な闊葉の披針形が月光のやうに私の心臓に射し入つてゐたこともあつたが……※恥らひを知らぬ日々の燥宴のさなかにある日（呪はれた日）私の暴戻な肉体は大森林の暗黒の赤道を航過した！",
@@ -117,7 +142,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:04:45.745494+00:00Z"
     }
   }
 ]

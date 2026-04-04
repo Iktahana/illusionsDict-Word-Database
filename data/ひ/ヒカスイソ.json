@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "砒化水素は、非常に毒性の高い気体であり、取り扱いには厳重な注意が必要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "化学工場で砒化水素の漏洩事故が発生し、周辺住民が避難した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は砒化水素の生成と分解に関する研究を行っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "使った有毒気体は、屍体に青酸死の徴候がない所を見ると、多分砒化水素だったのでしょう」「だが、瓦斯は散逸してしまうぜ」　真積博士は、もう一度反駁した。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:42:56.272024+00:00Z"
     }
   }
 ]

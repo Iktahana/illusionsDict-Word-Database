@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "健康的な食事は自分のためであり、延いては家族の幸せにも繋がる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この新技術の開発は、業界全体、延いては国力の強化に寄与するだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "基礎体力をつけることは、あらゆるスポーツの向上、延いては怪我の予防に不可欠だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何といおうか、人格の芯の芯まで光りが射し込み、自己内部に拘わっているものの純不純が一目瞭然とし、我というものに対して取るべき態度、延いては外界と自己との均衡がその時の最善に於てきっぱりと、わかったのです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:39:56.567405+00:00Z",
       "freq_rank": 12443
     }
   }

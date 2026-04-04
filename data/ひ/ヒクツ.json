@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は上司に対して、いつも卑屈な態度をとることで知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "いくら相手が偉いからといって、卑屈になる必要はない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の卑屈な笑みが、会議室の空気を重くした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "〔卑屈の友らをいきどほろしく〕宮沢賢治卑屈の友らをいきどほろしく粘土地二片をはしりてよぎり崖にて青草黄金なるを知りのぼりてかれ草黄なるをふめば白雪きららに落ち来るものか一列赤赤ならべるひのきふたゝび卑屈の友らをおもひたかぶるおもひは雲にもまじへかの粘土地なるかの官庁に灰鋳鉄のいかりを投げよ",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:55:25.158442+00:00Z",
       "freq_rank": 27318
     }
   }

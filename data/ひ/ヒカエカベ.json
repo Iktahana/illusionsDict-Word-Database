@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い城壁には、強固な控え壁がいくつも取り付けられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "建築家は、建物の安定性を高めるために、控え壁のデザインを工夫した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "大地震にも耐えられるよう、寺院の本堂には太い控え壁が設置されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "入り口には、いくらかの彫刻が施してあるが、荒彫りの砂岩石の柱が二、三本と、またその柱と同じ石の控え壁をもっている瓦ぶきの屋根があるばかり、ただそれだけのことでした。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:49:21.485084+00:00Z"
     }
   }
 ]

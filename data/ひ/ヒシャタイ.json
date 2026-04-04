@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この美しい風景は、最高の被写体となるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ポートレート撮影では、被写体の魅力を最大限に引き出すのがカメラマンの腕の見せ所だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女はどんな角度から撮っても絵になる、素晴らしい被写体だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "アタッチメントを掛けつ放しの写真器で、移動してゆく被写体にシヤッタアを切らうとしてゐるんだから、余つ程何うかしてゐたに違ひない。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T02:05:04.080217+00:00Z",
       "freq_rank": 18350
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "空を見上げると、銀色に輝く飛行機がゆっくりと雲の間を通り抜けていった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "初めて飛行機に乗った時、窓から見える景色の美しさに言葉を失った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "台風の影響で、予定していた飛行機が欠航になり、空港で一夜を明かした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "天井からは糸ゴムで飛ばす飛行機が六機もブラ下つてをり、机の上には「綴り方教材集」なぞといふ本が置いてある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:56:32.715423+00:00Z",
       "freq_rank": 2442
     }
   }

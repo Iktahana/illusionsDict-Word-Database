@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ビールがキンキンに冷えるまで、冷蔵庫の奥に入れておこう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "窓を開けっ放しにしていたら、夜風で部屋がすっかり冷えてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "揚げたてのコロッケも、放っておけばすぐに冷えて硬くなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一時に氷が増してよく冷えると見えて、少し心が落付いたが、次第に昇る熱のために、纏まった意識の力は弱くなり、それにつれて恐ろしい熱病の幻像はもう眼の前に押寄せて来る。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T01:41:36.943116+00:00Z",
       "freq_rank": 28135
     }
   }

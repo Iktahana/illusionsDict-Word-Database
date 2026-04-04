@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "被告側は、当時の殺意を否定し、正当防衛が成立することを主張した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "新しく提出された証拠により、被告側が有利な状況に立たされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "閉廷後、被告側の弁護士は報道陣のインタビューに応じ、控訴する方針を明らかにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ところが事件そのものは大したものではないんですが、検事側にも被告側にも、しっかりした証拠がないもんですから、いざ公判となると、よくあるやつでわりに手間がかかりましてね……それに、気の毒なことには、その洗濯屋はなんでも四国の生れとかで、小さな時から一人も身寄りってものがないんです。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T01:57:53.971334+00:00Z"
     }
   }
 ]

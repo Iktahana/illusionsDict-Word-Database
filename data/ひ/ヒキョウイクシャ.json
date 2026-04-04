@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "学校では、被教育者一人ひとりの個性を尊重し、教育を進めることが重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "このプログラムは、社会人を対象とした、さらなるスキルアップを目指す被教育者のためのものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "教師は、被教育者が主体的に学べるような環境を整える責任がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "不幸にして科学の中等教科書は往々にしてそれ自身の本来の目的を裏切って被教育者の中に芽ばえつつある科学者の胚芽を殺す場合がありはしないかと思われる。",
@@ -212,7 +237,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T02:01:57.875748+00:00Z"
     }
   }
 ]
