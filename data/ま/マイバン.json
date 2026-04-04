@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寝る前に毎晩、温かいハーブティーを飲むのが習慣になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "毎晩のように隣の家からピアノの音が聞こえてくるが、とても上手だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "赤ちゃんが夜泣きをするので、毎晩まとまった睡眠が取れなくて辛い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "毎晩アパート三階の便所に行くと、新宿の百貨店や何かの電燈広告が五六町ばかりの向ふに灯つてゐて、まるでほんとかと云ひたくなる。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T16:15:39.730511+00:00Z",
       "freq_rank": 11333
     }
   }

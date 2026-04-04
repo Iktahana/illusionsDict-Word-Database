@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今日のテストは、前ほど難しく感じなかったのは勉強した成果だろうか。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "退院後の経過は順調だが、まだ体力は前ほど戻っていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "街の活気は戻りつつあるが、前ほど遅い時間まで営業する店は少なくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また森林に入ってからは、途は前ほどに均らされておらず、木の根岩角は、旧道のおもかげを存して古のお中道が、断絶された凧の糸のように、頭上に懸かっているのが指さされる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T17:23:25.325251+00:00Z"
     }
   }
 ]

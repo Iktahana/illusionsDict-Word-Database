@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "風が強い日だったので、彼女は前髪が乱れないように手で押さえていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "美容師に相談して、思い切って前髪を作ってみた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の前髪は長すぎて、いつも目にかかっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "柚木は額を小さく見せるまでたわわに前髪や鬢を張り出した中に整い過ぎたほど型通りの美しい娘に化粧したみち子の小さい顔に、もっと自分を夢中にさせる魅力を見出したくなった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T16:24:39.107751+00:00Z",
       "freq_rank": 22236
     }
   }

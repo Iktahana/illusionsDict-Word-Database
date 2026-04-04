@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長時間パソコンを使っていると、つい前かがみになりがちだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女はいつも少し前かがみで歩くので、猫背が心配だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "高齢になると、体のバランスを取るために前かがみの姿勢になることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "よくお湯を流して、滑に温められた流し場の板敷の上へ行儀よく坐って、後ろ首に白粉をのばす婆やの手の重みに少し前かがみになると、かやの眼の前には向き合って居る婆やの細長く垂れた、二つの乳房がふらふらとゆれて居た。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T16:24:39.102168+00:00Z"
     }
   }
 ]

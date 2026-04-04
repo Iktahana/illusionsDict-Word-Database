@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "迷子の猫は、路地裏の暗闇に紛れ込んでしまい、なかなか見つけることができなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "イベント会場の雑踏に紛れ込み、彼はあっという間に姿を消し、誰も見つけられなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "図書館で古い資料を調べていたら、偶然古い手紙が本の間に紛れ込んでいたのを発見した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それとも江戸、大阪へ紛れ込む積りで御座いましっろうか……その当てがガラリと外れた昨晩の蔵元屋のお召捕騒動。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T16:28:43.527695+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の意見は私の考えとは真逆だったが、それが新しい視点を与えてくれて、議論が深まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "予想とは真逆の結果が出て、皆が驚きを隠せなかったが、それがまた新たな発見につながった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女の普段の行動とは真逆のことをしたので、何かあったのかと皆が心配になったそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "真逆に墓表とは見えずまた墓地でもないのを見るとなんでもこれは其処で情夫に殺された女か何かの供養に立てたのではあるまいかなど凄涼な感に打たれて其処を去り、館の裏手へ廻ると坂の上に三十くらいの女と十歳くらいの女の子とが枯枝を拾うていたからこれに上根岸までの道を聞いたら丁寧に教えてくれた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T16:28:43.522984+00:00Z"
     }
   }
 ]

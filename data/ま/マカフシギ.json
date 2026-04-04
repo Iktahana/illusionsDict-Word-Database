@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この宇宙の成り立ちは、摩訶不思議な謎に満ちている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女の才能は、まさに摩訶不思議と言えるほどのものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古代遺跡から発見された奇妙な遺物は、摩訶不思議な物語を語りかけてくるようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "話といふやうなものはてんでないで、話をしてゐても、その話が相手の気に触りはしないかといふことが念頭に浮ぶや、実に手の腹を返すが如く話頭を転ずるのだが、それでまた相手が妙にも思はぬといふ摩訶不思議な有様である。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T16:24:24.055933+00:00Z",
       "freq_rank": 30912
     }
   }

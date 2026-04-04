@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "まかり間違えば、この計画は破綻するかもしれない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この薬は、まかり間違えば命に関わる危険なものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "まかり間違えば、彼らは永遠に友達でいられなくなるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まかり間違うと、鼻持ちならぬキザな虚栄の詠歎に似るおそれもあり、または、呆れるばかりに図々しい面の皮千枚張りの詭弁、または、淫祠邪教のお筆先、または、ほら吹き山師の救国政治談にさえ堕する危険無しとしない。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T16:24:24.059310+00:00Z"
     }
   }
 ]

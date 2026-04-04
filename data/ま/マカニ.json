@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "インド料理店で、香ばしいチキンマカニを注文した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "マカニソースは、トマトとバターをベースにした濃厚な味わいが特徴だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "ナンと一緒に、絶品のバターマカニを堪能した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "フィロポイメンはマカニダスとの会戦において、まず機先を制しようとよく訓練された射手大勢から成る一隊をさしむけたところ、敵はまずこれを潰乱させてからまっしぐらにそのあとを追い、勝に乗じてフィロポイメンのいる部隊の側面を駈けすぎた。",
@@ -95,7 +120,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T16:24:24.055391+00:00Z"
     }
   }
 ]
