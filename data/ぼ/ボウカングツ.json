@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "南極観測隊員は、極寒の環境に耐える特殊な防寒靴を履いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「うわー、足が冷たい！これじゃあ、もっとしっかりした防寒靴じゃないとダメだ」と、彼は雪原で呟いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "冬の北海道旅行では、滑りにくく、保温性の高い防寒靴が必須アイテムとなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "氷に滑べらないように、靴の裏にラシャをはりつけた防寒靴をはき、毛皮の帽子と外套をつけて、彼等は野外へ出て行った。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:29:59.440960+00:00Z"
     }
   }
 ]

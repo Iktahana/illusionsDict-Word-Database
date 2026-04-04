@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "高層マンションは、厳しい基準を満たす防火建築であることが義務付けられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この博物館は、貴重な展示品を守るために、最新技術を駆使した防火建築となっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "古い木造家屋が多い地域では、防火建築への改築を奨励する補助金制度がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこには、小さな、一階建ての住宅や、吹けば飛ぶような店舗と、それから背の高い、堂々たる二階建ての防火建築との、二つの形式の建物が建てられつつあった。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:29:59.433740+00:00Z"
     }
   }
 ]

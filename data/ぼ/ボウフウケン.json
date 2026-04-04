@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "飛行機は暴風圏を避けるため、航路を変更した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域は常に暴風圏の近くに位置しているため、頑丈な家が多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "船長は、無線で暴風圏の最新情報を確認している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このままの状態で進んでゆけば、艦はやがて暴風圏へ突入し、濃霧圏へ突入し、最後には流氷圏へ突き進んで、南氷洋の氷に鎖されてしまわなければならぬのは、火を見るよりも瞭らかなことであった。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:35:58.614087+00:00Z"
     }
   }
 ]

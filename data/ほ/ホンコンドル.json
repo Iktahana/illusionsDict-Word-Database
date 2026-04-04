@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この計画の『ほんほん』は、前例のないほど大胆なものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼の情熱こそが、このプロジェクト成功の『ほんほん』と言えるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "我々はこの問題の『ほんほん』に立ち返り、根本的な解決策を見つける必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "明治政府が濫造した一分銀が贋貨にちかいものだったにせよ、れいの「同種同量」の条約文が生きているかぎり一分銀三百十一個をもって米ドルなりメキシコドルなり香港ドルなり、精粗さまざまの外国銀貨一ドルと引換えられる権利（※）があろう。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T15:12:04.361377+00:00Z",
       "freq_rank": 40034
     }
   }

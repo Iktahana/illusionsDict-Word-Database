@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史の教科書には、いくつかの国の暴力革命の記述がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その国の政府は、暴力革命の可能性を警戒している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "思想家は、暴力革命ではなく、対話による解決を訴えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "直接行動の意義　私はまた今回の檢事局及び豫審廷の調べに於て、直接行動てふことが、矢張暴力革命とか、爆彈を用うる暴擧とかいふことと殆ど同義に解せられてゐる觀があるのに驚きました。",
@@ -204,7 +229,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:38:06.342050+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "結晶を析出させた後、残った液体は母液として回収される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "母液には、まだ目的以外の不純物が溶け込んでいることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "科学者は、母液からさらに別の化合物を抽出する実験を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ＱはＡから岩石学の最大問題である岩漿分化と母液との関係の説明に這入って刺され出したのだが、Ａは突然、黒曜石の結晶母液となるべき硅酸の比重測定の方式はダーウィンによって始められたといい出したのだ。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:38:06.352647+00:00Z"
     }
   }
 ]

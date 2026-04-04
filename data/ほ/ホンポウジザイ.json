@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この部屋は、本間サイズで6畳あります。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "京都では、本間という畳のサイズが一般的です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "不動産広告では、部屋の広さを本間表記することがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また一字一句もいやしくせず、字の使ひ方假名使ひにまで神經をくばり、營營切切と文章をなす人もあれば、筆の走り動くがままに、驚くばかりの早さで、奔放自在に文章をなして行く人もある。",
@@ -237,7 +262,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:19:14.887760+00:00Z"
     }
   }
 ]

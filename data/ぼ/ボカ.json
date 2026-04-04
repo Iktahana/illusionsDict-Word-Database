@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その土地の現在の市場価格は、簿価を大きく上回っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "決算書には、資産の簿価が正確に記載されている必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "企業買収の際、対象会社の簿価だけでなく、時価も考慮される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私の眼の周囲には、萌黄にぼかされた穂高の峰々が、神経の電線に燃えついて、掻き消されそうもない、私は眼球の上へ、人さし指を宛てて、グリグリとやって見たが、一、二尺の先を見つめるのが精々で、森の梢は、その燃えさかりの※の中に、暗を縦横に引っ掻き廻し、入り乱れて手を突き、肱を張っている。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:38:06.353388+00:00Z"
     }
   }
 ]

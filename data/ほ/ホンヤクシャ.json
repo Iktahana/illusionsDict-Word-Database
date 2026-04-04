@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その本の翻訳者は、原文のニュアンスを完璧に捉えていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "翻訳者の仕事は、単に言葉を置き換えるだけではない、高度な専門職だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はベテランの翻訳者で、数々の文学作品を手がけている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本来言へば、すべての良心のある翻訳者は、小宮氏が言つた位のことは自分で訳本の序に書いている筈である、堀口大学君の如きも、その訳詩集に「失はれたる宝石」といふ題をつけてゐるし、故上田敏博士も、訳詩集を出す毎に翻訳の不可能に属することを、自ら告白して謝罪されてゐた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:19:59.218953+00:00Z"
     }
   }
 ]

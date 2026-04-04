@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "どの牌を河に捨てるか、彼は長考の末に決断した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "相手の河を見ると、索子の染め手を狙っているのが一目瞭然だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "河に並んだ牌の山を見て、山に残っている牌を推測する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "便なき幼兒のうたへる歌萩原朔太郎うすらさびしき我が身こそ利根の河原の石ひろひひとり岸邊をさまよひて今日も小石をひろふほど七つ八つとなりにけり",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T15:33:35.306884+00:00Z",
       "freq_rank": 7447
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒い夜には、スパイスの効いた熱々の火鍋を囲んで暖まりたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "本場の火鍋は驚くほど辛かったが、具材の旨味が凝縮されていて箸が止まらなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "真ん中で仕切られた鍋で、麻辣味と白湯味の二種類の火鍋を楽しんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "薬草と葫とバタとこね合せたパテを作って置き、それに引き出した身をまぶし再び殻に詰め込み火鍋にかける。",
@@ -126,7 +151,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:33:35.308949+00:00Z"
     }
   }
 ]

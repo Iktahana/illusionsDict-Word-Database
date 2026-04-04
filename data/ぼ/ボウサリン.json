@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海岸沿いに植えられた防砂林が、強風による砂の飛散を防いでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域では防砂林のおかげで、畑が砂に埋もれる被害が激減した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "地域住民たちは、老朽化した防砂林の再整備を訴える署名活動を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "卓一が子供のころ、砂丘から街へ降る斜面には、すでに深い松林が流れてゐて頭上を松籟が渡つてゐたが、防砂林をまもることは新潟をまもることだと、小学校で常々教えられたものだつた。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:31:18.957837+00:00Z"
     }
   }
 ]

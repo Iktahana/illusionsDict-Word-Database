@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "北海道の広大な草原では、のんびりと牧牛が草を食んでおり、長閑な風景がどこまでも続いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "祖父の代から続く牧牛の仕事を継ぐため、彼は都会の大学を卒業してすぐに実家へ戻った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "牧牛の健康を維持するために、季節ごとに放牧地を移動させ、質の良い牧草を確保している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "濠に隣った牧牛舎の柵の中には親牛と小牛が四、五頭、愉快そうにからだを横にゆすってはねている。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:37:58.295398+00:00Z"
     }
   }
 ]

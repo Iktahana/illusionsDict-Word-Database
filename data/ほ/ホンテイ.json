@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "社長は都会に本邸と、田舎に別荘を持っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その大邸宅は、代々受け継がれてきた本邸だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は家族を本邸に残し、単身赴任した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "で、わが眼の前に絶えず彷彿く怪しの影を捉えて、一心不乱に筆を染めた結果、何うやら斯うやら其の真を写し得て、先ず大略は出来した頃、丁度私と引違えて彼の別荘へ避暑に出かけた貴族エル何某が、其の本邸に帰ったという噂を聞いたので、先日の礼かたがた其の邸を初めて訪問した。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T15:16:45.830275+00:00Z"
     }
   }
 ]
