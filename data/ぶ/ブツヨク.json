@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近はミニマリストの生活に憧れていて、すっかり物欲がなくなってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ボーナスが入った途端に物欲が爆発して、ブランド物のバッグを二つも衝動買いしてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "年齢を重ねるにつれて、物欲よりも健康でいられることのほうに価値を見出すようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そしてほんとうに連れがなくとも金と健康を持っている人に、この物欲の市場が悪い顔をするはずのものではないのであった。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:36:50.096392+00:00Z",
       "freq_rank": 19498
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "シンデレラは魔法使いのおばあさんに美しいドレスを用意してもらい、憧れのお城の舞踏会へと向かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "豪華客船のメインホールでは、毎晩のように生バンドの演奏に合わせて華やかな舞踏会が催されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "大使館で開かれたチャリティー舞踏会に出席するため、妻は一ヶ月も前からオーダーメイドのイブニングドレスを準備していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昨日の夕刊が二枚と、『探偵小説全集』が一冊と、『南京鼠の合理的長命法』と云うパンフレットと、古い帝国ホテル舞踏会の案内状が一枚出て来たばかりでした。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:33:29.114689+00:00Z"
     }
   }
 ]

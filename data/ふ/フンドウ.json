@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "理科の実験で上皿天秤を使うため、ピンセットで慎重に分銅をつまんで皿の上に載せた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "古い商店の奥には、昔ながらの棹秤と真鍮でできた重たそうな分銅が埃をかぶって置かれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "精密な計量器を定期的に校正するため、基準となる重さを持つ標準分銅を外部の専門機関から取り寄せた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えば早い話が教科書や試験問題には長さ一メートルの物差とか一グラムの分銅とかいう言葉が心配げもなく使ってあるが、実際には決して精密に一メートルとか一グラムとかいう量に出逢う機会は皆無と云ってよい。",
@@ -239,7 +264,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:11:56.957936+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "急な不祝儀が入り、楽しみにしていた週末の旅行はキャンセルせざるを得なくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "不祝儀袋の表書きには、薄墨の筆ペンを使って『御霊前』と書くのが一般的なマナーだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "結婚式などの慶事とは異なり、不祝儀の際は地味な服装で参列しなければならない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "祝儀、不祝儀の時の赤の御飯や、蒲鉾や半ペン、お煮付、油揚のようなものを、わざわざ取って置いて下さる。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:18:44.545874+00:00Z"
     }
   }
 ]

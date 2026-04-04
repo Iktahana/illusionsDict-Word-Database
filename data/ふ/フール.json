@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はいつもクラスのピエロを演じていて、周りからは単なるフールだと思われているが、実はすごく頭がいい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "「エイプリルフールだからって、そんな悪質な嘘をつくのは許されないよ」と彼女は怒った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "あの詐欺師は、人の良さそうなお年寄りをフールにして大金を巻き上げていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「無礼講」という言葉が残っており、西洋でも「エプリルフール」という事がある。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:15:28.921457+00:00Z",
       "freq_rank": 43831
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は先の大戦で数々の武勲を立て、若くして将軍の地位にまで登り詰めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "歴史に名を残す猛将の武勲の影には、多くの名もなき兵士たちの犠牲があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "祖父は酒が入るたびに、若い頃に戦場で立てた自らの武勲を誇らしげに語るのが常だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "驍勇無双の秀康卿の子と生れ、徳川の家には嫡々の自分であると思うと、今日の武勲のごときは当然過ぎるほど当然のように思われて、忠直卿は、得々たる感情が心のうちに洶湧するのを制しかねた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:22:08.848957+00:00Z"
     }
   }
 ]

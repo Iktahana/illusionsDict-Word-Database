@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "財布を落とした上に帰り道で突然の土砂降りに遭うなんて、今日は本当に踏んだり蹴ったりだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "プロジェクトのデータが消え、バックアップのハードディスクまで壊れるという踏んだり蹴ったりの状況に陥った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "楽しみにしていた旅行が台風でキャンセルになり、キャンセル料まで取られて踏んだり蹴ったりだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "殴っちまえ殴っちまえ」　と云ううちに大勢の見物人が上って来て、見世物小屋の主人をメチャメチャに殴り付て、踏んだり蹴ったりしますと、めいめいお金を取り返して帰って行ってしまいました。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:11:56.954519+00:00Z"
     }
   }
 ]

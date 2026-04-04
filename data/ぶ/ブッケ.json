@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は長年ビジネスの世界で戦ってきたが、晩年は全てを捨てて仏家の道に入り、山寺で静かに暮らしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "高名な仏家であるご住職の法話は、難しい教えを現代の生活に引き寄せて語ってくれるので非常に分かりやすい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "代々仏家を輩出してきた家柄に生まれた彼は、幼い頃から厳しい修行を積むことを宿命づけられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "勿論道家と仏家は互に相奪っているから、支那において既に混淆しており、従って日本においても修験道の所為など道家くさいこともあり、仏家が「九字」をきるなど、道家の咒を用いたり、符※の類を用いたりしている。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:35:05.325273+00:00Z"
     }
   }
 ]

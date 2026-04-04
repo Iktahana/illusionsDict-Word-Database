@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古いお城の奥深くにあるかつての舞踏室は、今ではすっかり埃をかぶり、豪華なシャンデリアだけが当時の栄華を静かに伝えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "クルーズ船の中央に位置する巨大な舞踏室は、床には最高級の木材が敷き詰められ、壁一面が鏡張りになっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "パーティーの準備のため、スタッフたちは広大な舞踏室のテーブルセッティングや花の装飾に朝から追われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此弦月丸にも屡其催があつて私等も折々臨席したが、或夜の事、電燈の光眩ゆき舞踏室では今夜は珍らしく音樂會の催さるゝ由で、幾百人の歐米人は老も若きも其處に集つて、狂氣のやうに騷いで居る。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:33:29.116742+00:00Z"
     }
   }
 ]

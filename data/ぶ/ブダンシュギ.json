@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "第一次世界大戦前のヨーロッパでは、各国の軍部が武断主義を強め、軍拡競争がエスカレートしていった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "力で他国を抑え込もうとする武断主義的な外交政策は、結局のところ地域の緊張を高めるだけだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "その歴史学者は、昭和初期の日本がどのようにして武断主義へと傾倒していったのかを詳細に分析している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "元帥はあの通りの武断主義者で、加之に独身主義者であつたから、随分敵も多かつたが、例の皮肉屋バアナアド・シヨウが『新聞切抜』といふ一幕物で、元帥をモデルに扱つたのなぞは最も悪戯がひどい。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:26:41.646213+00:00Z"
     }
   }
 ]

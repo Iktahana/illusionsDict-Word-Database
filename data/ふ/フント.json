@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "帝政ロシア時代の古いレシピ帳には、小麦粉の分量がグラムではなくフントで記載されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "歴史小説を読んでいると、商人たちが穀物の取引を数千フントという単位で行っている描写が出てきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "19世紀のロシアの市場では、農民たちが手持ちの野菜を量り売りする際にフントの分銅を使っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "フントウ　ヲ　シャス、セイコー　ヲ　イノル、キカンブカフ　一ドー　セーラー　ショクンと電報文みたいに片仮名で書いてあった。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:11:56.956201+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "僧侶は法事の席で、仏説阿弥陀経の一部を分かりやすく現代語に訳して参列者に語って聞かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "「一切皆苦」という仏説の根本的な教えを理解することで、人生の困難に対する捉え方が変わった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "大乗仏教の経典の中には、後世の人が編纂したものだが「仏説」と冠されているものが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もとより真の已達の境界には死生の間にすら関所がなくなっている、まして覚めているということも睡っているということもない、坐っているということと起きているということとは一枚になっているので、比丘たる者は決して無記の睡に落ちるべきではないこと、仏説離睡経に説いてある通りだということも知っていなかった。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:28:33.937217+00:00Z"
     }
   }
 ]

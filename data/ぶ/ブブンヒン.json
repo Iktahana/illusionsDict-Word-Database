@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い真空管ラジオの修理を試みたが、製造中止になった部分品がどうしても見つからず、ネットのオークションを毎日チェックしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "自動車工場では、何千もの部分品がベルトコンベアに乗って運ばれ、ロボットアームによって正確に組み立てられていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "品質管理の担当者は、納入された部分品の中から無作為にサンプルを抽出し、設計図の寸法通りに仕上がっているか厳密に検査した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あれも現代におけるステッキの概念にはあてはまらないもので、昔の交通機関としての山駕籠という機械の部分品と考えるべきものであろう。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:38:38.785240+00:00Z"
     }
   }
 ]

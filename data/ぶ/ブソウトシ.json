@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "SFアニメの舞台は、周囲を巨大な壁で囲まれ、強力な兵器で守られた巨大な武装都市だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "敵の侵攻を食い止めるため、かつての美しい商業の街は要塞化され、無骨な武装都市へと変貌した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "その武装都市は、あらゆる攻撃を跳ね返す特殊なエネルギーシールドで覆われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "此頃大陸に銀翼を振う処の皇軍海陸の荒鷲が、武装都市を爆撃して世界の人心を驚嘆せしめているが、女史にして男であったなら、或は此の途を選んだかも知れない。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:20:23.904120+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都の博物館で、平安時代に作られたという国宝の仏像に見入ってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "実家の蔵を整理していたら、木箱に入った小さな仏像が埃まみれで見つかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "その寺の住職は、自らノミを握って新しい仏像を彫り続けているらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "考えてみると、僕たちだって、小さい時からお婆さんに連れられてお寺参りをしたり、またお葬式や法要の度毎に坊さんのお経を聞き、また国宝の仏像を見て歩いたりしているが、さて、仏教とはどんな宗教かと外国の人に改って聞かれたら、百人の中の九十九人は、へどもどするに違いないのだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:31:42.700897+00:00Z",
       "freq_rank": 16011
     }
   }

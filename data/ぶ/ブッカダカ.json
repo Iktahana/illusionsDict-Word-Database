@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この歴史的な物価高のせいで、スーパーでの買い物が恐ろしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "続く物価高に対し、労働組合は大幅なベースアップを要求した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "物価高でランチ代も馬鹿にならないため、最近はお弁当を持参している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "税に苦しめられ、物価高に苦しめられ、やっと子供を教育しようと思っている母親に、今日の新聞（二月二十一日読売）の文相高瀬荘太郎の話はなんとひびいたでしょう。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:25:09.416465+00:00Z",
       "freq_rank": 43405
     }
   }

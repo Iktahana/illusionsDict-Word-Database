@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は聴衆を魅了するような演説を打つことが得意だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "印象氏の仏画的な画業は、画業であると共に、事業でもある、それは絵画の果し得る一つの宗教的任務を、印象氏は果しつゝあるので、さういふ意味では印象氏は非常に社会的な、また政治性を加味した動きをしてゐるわけである。",
@@ -284,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:31:02.004600+00:00Z"
     }
   }
 ]

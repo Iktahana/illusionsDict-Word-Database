@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新聞の日曜版に掲載されていた新刊のブックレビューがあまりにも面白そうで、すぐに書店へ買いに走った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ネット書店のブックレビューは賛否両論に分かれていたが、実際に読んでみたら私にとっては今年一番の傑作だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "課題のブックレビューを書くために、著者の生い立ちや時代背景まで徹底的にリサーチして原稿を仕上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "就床　十一時六月二日（金曜）〔発信〕四十五信「現代のこころをこめて」羽仁さんの『ミケルアンジェロ』のブックレビュー五枚。",
@@ -110,7 +135,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:35:05.324977+00:00Z",
       "freq_rank": 42867
     }
   }

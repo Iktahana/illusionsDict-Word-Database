@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "セキュリティゲートが設置され、関係者以外の部外者はオフィスに入れなくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "「部外者はすっこんでろ！」と、彼は怒りをあらわにして私を怒鳴りつけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "家族の問題に部外者である私が口を挟むのは、さすがに気が引けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "府中のコンピュータ技術本部の一角にはシークレットルームと名付けられた一室が設けられ、すべての作業は部外者の立ち入りを厳しく排除したこの部屋で進められた。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:17:09.067742+00:00Z"
     }
   }
 ]

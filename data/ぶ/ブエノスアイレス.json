@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "卒業旅行でアルゼンチンに行き、ブエノスアイレスの街角で情熱的なタンゴのストリートパフォーマンスに魅了された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼はスペイン語を学ぶため、来月から半年間ブエノスアイレスの語学学校に留学する予定だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ブエノスアイレスの古い港町ボカ地区は、カラフルに塗られたトタン屋根の家々が並んでいて非常にフォトジェニックだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これはラプラタ川（＊ウルガイとアルジェンチンの間の大河：河口にブエノスアイレスがある）を遡行する船で何回も岸と何かの連絡がなされる前に出現した。",
@@ -214,7 +239,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:13:30.072452+00:00Z",
       "freq_rank": 31076
     }
   }

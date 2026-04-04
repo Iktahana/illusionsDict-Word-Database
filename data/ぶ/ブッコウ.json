@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都の狭い路地裏にある工房では、熟練の仏工がノミ一つで木塊から美しい仏像を彫り出している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "寺院の大規模な改修に伴い、全国から優秀な仏工たちが集められ、荘厳な仏具の修復作業にあたっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "彼は代々続く仏工の家に生まれ、幼い頃から金箔押しや漆塗りの精緻な技術を肌で学んできた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "儒者風の者、鷹匠風の者、卜笙者風の者、僧体の者、神主風の者、鍛冶風の者、瓦工、陶工、人相見、石工、仏工、医師風の者、しかしいずれも一様に、天狗の面をかぶっている。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:35:05.329786+00:00Z"
     }
   }
 ]

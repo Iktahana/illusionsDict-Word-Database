@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漢字辞典を引くときは、まずその漢字の部首が何かを見分ける必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "『海』や『池』という漢字は、水に関係するため『さんずい』という部首を持っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "小学校の国語の授業で、漢字を部首ごとに分類して覚えるテストがあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "即ち決戦を絶叫しっつあったドイツ参謀本部首脳部の胸の中に、彼らがはっきり自覚しない間に持久戦争的考慮が加わりつつあったことは甚だ興味深いものと思います。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:18:44.545345+00:00Z",
       "freq_rank": 17277
     }
   }

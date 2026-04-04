@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "劇場の舞台装置は、物語の世界観を忠実に再現するために細部までこだわり抜かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "斬新な舞台装置が、観客に驚きと感動を与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "舞台装置の専門家が、今回の公演のために特別なセットをデザインした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "私のひそかに考えているところでは、枕詞がよび起こす連想の世界があらかじめ一つの舞台装置を展開してやがてその前に演出さるべき主観の活躍に適当な環境を組み立てるという役目をするのではないかと思われる。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T11:21:21.611840+00:00Z"
     }
   }
 ]

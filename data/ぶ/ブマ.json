@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の不間な手つきは、繊細な作業には向いていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "会議で不間な発言をしてしまい、場を白けさせてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "最近、どうも体の不間が目立つ。もう少し注意深く行動しよう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それには概念を出来るだけ遠ざけて、なるべく生の印象、新鮮な現識を、それが頭に浮ぶまゝを、――つまり書いてゐる時その時の命の流れをも、むげに退けてはならないのでした。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T11:37:53.760186+00:00Z",
       "freq_rank": 38261
     }
   }
