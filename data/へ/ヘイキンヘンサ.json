@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "データのばらつきを直感的に把握するため、各データと平均値との差の絶対値の平均である平均偏差を計算してみた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "テストの点数の散らばり具合を説明する際、標準偏差よりも計算手順がシンプルな平均偏差を用いることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "分析ソフトの出力結果には、平均値や中央値とともに平均偏差も記載されており、分布の裾の広がり具合を確認できた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "農林省の農業総合研究所の北海道支所では、北海道の主要農産物について、年産額の平均偏差を調べている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:45:54.524082+00:00Z"
     }
   }
 ]

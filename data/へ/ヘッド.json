@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ゴルフクラブのヘッドをしっかりボールに当てることを意識してスイングしてください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ハードディスクから異音が聞こえたら、すぐに電源を切らないとヘッドが円盤を傷つける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ドラムのヘッドを少しきつめに張ることで、アタック感のある硬い音色に変えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "熱海へ下る九十九折のピンヘッド曲路では車体の傾く度に乗合の村嬢の一団からけたたましい嬌声が爆発した。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T13:06:16.127291+00:00Z",
       "freq_rank": 4336
     }
   }

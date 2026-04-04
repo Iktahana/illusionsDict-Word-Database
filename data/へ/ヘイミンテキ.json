@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "高級フレンチのシェフだった彼が新しく開いた店は、誰でも気軽に立ち寄れる平民的な食堂だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "あの大臣は、休日は近所のスーパーで買い出しをするなど、意外と平民的な感覚を持ち合わせている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "このブランドの服はデザインが洗練されているにもかかわらず、価格設定が平民的で若者に人気がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "当世の詞でいうと、最も平民的で、それで江戸らしいのは、きりぎりすに限りますよ」　老人はしきりに虫の講釈をはじめて、今日では殆ど子供の玩具にしかならないような一匹三銭ぐらいの蟋蟀を大いに讃美していた。",
@@ -268,7 +293,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:55:53.163727+00:00Z"
     }
   }
 ]

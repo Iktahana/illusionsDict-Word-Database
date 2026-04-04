@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "数学の期末テストが難しすぎて、クラスの平均点がまさかの40点台にまで落ち込んでしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "自分の得点が平均点を上回っているかどうかで、テスト用紙を親に見せるときの言い訳をどうするか決めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "採点結果のヒストグラムを見ると、平均点付近に学生が密集しており、見事な正規分布の山を描いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "予科の方は三級、二級、一級となって居て、最初の三級は平均点の六十五点も貰ってやっとこさ通るには通ったが、矢張り怠けて居るから何にも出来ない。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:45:54.522211+00:00Z"
     }
   }
 ]

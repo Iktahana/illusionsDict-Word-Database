@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "今年の8月は連日の猛暑日が続き、月間の平均気温が観測史上もっとも高くなったと気象庁が発表した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "旅行先のハワイは1年を通して平均気温が25度前後と安定しており、いつ訪れても快適に過ごせる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "地球の全球平均気温の上昇を産業革命前と比べて1.5度未満に抑えるため、各国が温室効果ガスの削減目標を掲げている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし、寒中に焚火をしてもいわゆる「涼しさ」は感じないところを見ると、やはり平均気温の高いということが涼しさの第一条件でなければならない。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:45:54.515063+00:00Z"
     }
   }
 ]

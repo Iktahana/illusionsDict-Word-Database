@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "イベント会場の入り口には、入場を待つ人々の長い列が何本も並列して作られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "複数の物語が並列して進行していくこの群像劇は、終盤で全ての伏線が見事に回収される構成になっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "選挙のポスター掲示板には、立候補者たちの顔写真が等間隔で綺麗に並列して貼られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また多数の共鳴体を並列して地震動を分析する装置を考案し実際の地震の観測に使用してかなり面白い結果を得た。",
@@ -275,7 +300,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このタスクは非常に計算量が多いが、独立した処理ばかりなので複数のスレッドで並列に実行できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "サーバの負荷を分散させるために、データベースへの問い合わせを並列に行うようコードを書き換えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "乾電池を直列ではなく並列につなぐことで、豆電球の明るさは変わらないが長時間点灯させることができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -289,7 +339,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-04T12:57:33.216915+00:00Z",
       "freq_rank": 13523
     }
   }

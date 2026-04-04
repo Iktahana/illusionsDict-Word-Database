@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は罪を償い、ようやく塀の中から社会へと戻ってくることが許された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「塀の中での暮らしはどうだった？」「規則正しい生活すぎて、逆につらかったよ」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "塀の中という特殊な環境下で、彼は自分自身の人生を深く見つめ直した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小路の奥の、石塀の中の一ツの家では、すゞが、安物の手ミシンにむかって、ドレスを縫ったり、ほぐしたり、また縫ったりやっていた。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:57:01.688306+00:00Z"
     }
   }
 ]

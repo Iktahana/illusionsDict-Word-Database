@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ニュースで「65歳時点での平均余命が男性で約19年、女性で約24年になった」と聞き、老後の資金計画を少し見直すことにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "保険会社のパンフレットには、年齢別の平均余命表に基づいて計算された終身年金の受け取りシミュレーションが載っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "0歳児の平均余命は「平均寿命」と同義だが、高齢になればなるほど、同年代の死亡率が下がるため計算上の平均余命は長く算出される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "死亡率は目覚ましく減少し平均余命は殆ど信じられないほど延長した。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:45:54.524294+00:00Z"
     }
   }
 ]

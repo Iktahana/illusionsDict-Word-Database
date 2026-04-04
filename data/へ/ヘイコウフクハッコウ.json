@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "日本酒の醸造過程では、麹によるデンプンの糖化と、酵母によるアルコール発酵が同じタンク内で同時に進行する並行複発酵という高度な技術が用いられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "ビールは糖化を終えた麦汁に酵母を加える単行発酵だが、清酒は並行複発酵によって世界でも類を見ない高いアルコール度数を生み出すことができる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "酒蔵の杜氏たちは、気温や湿度の微妙な変化を読み取りながら、並行複発酵の絶妙なバランスをコントロールしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -43,7 +68,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:54:25.987371+00:00Z"
     }
   }
 ]

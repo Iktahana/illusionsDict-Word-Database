@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このITベンチャー企業は社長を含めても社員の平均年齢が28歳と非常に若く、オフィスはいつも活気に満ちている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "地方の農業協同組合の会合に参加すると、参加者の平均年齢が70歳を超えており、深刻な後継者不足を肌で感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "加入している草野球チームは結成から10年が経ち、当然ながらメンバーの平均年齢もそのまま10歳上がってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "友田恭助君の戦死による田村秋子さんの出演不能、他から俳優を借りて来るとすれば必ず我慢しなければならぬ稽古不足、専属として将来有望な人達はゐても、その平均年齢は、われわれが望むそれより十五以上少いといふ事実など、到底満足な公演が出来る筈はありません。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:45:54.523006+00:00Z"
     }
   }
 ]

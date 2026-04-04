@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "測定データにはどうしても細かなノイズが混じるので、前後5点のデータを移動平均化してグラフを滑らかにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "クラスごとの学力のばらつきをなくすため、クラス替えでは成績が平均化するように生徒を振り分けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            },
+            {
+              "text": "従業員の業務負担を平均化するシステムを導入したおかげで、一部の人材にばかり残業が集中する問題が解消された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3.1-pro-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "財産税にしろ、要らない金と、要らない土地を独占して、社会経済不調和の原因をつくっているよりは、一定限度に、富を平均化して行くということは肯かれる。",
@@ -93,7 +118,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-04T12:45:54.514018+00:00Z"
     }
   }
 ]
