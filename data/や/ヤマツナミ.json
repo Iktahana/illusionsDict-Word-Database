@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山住みの生活は質素だが、自然との一体感を得られる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「国さん」さわは榎の幹にすがり付いた、「あたし、あなたのところへゆくわ」　そのとき山津波が襲いかかった。",
@@ -156,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:26:51.049326+00:00Z"
     }
   }
 ]

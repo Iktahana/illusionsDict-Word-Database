@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "最近の山仕事は機械化が進んでいるが、やはり経験がものを言う世界だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "木曾川を下って、白帝城に擬せられた犬山城があるために、日本ラインの名を、（好むにせよ、好まざるにせよ）いかに適切にひびかせるであろう。",
@@ -268,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:26:51.037019+00:00Z",
       "freq_rank": 25301
     }
   }

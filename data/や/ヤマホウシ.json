@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史ドラマでは、比叡山の山法師たちが戦乱の世で活躍する姿が描かれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "その寺院には、かつて力を持っていた山法師たちの壮絶な歴史が語り継がれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、戦国時代の山法師の生き様について研究している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "曼珠沙華ひら／＼と、其の左右に燃えたるを、あれは狐か、と見し夜戻りの山法師。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:29:38.504467+00:00Z"
     }
   }
 ]

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "山棟蛇は、毒を持たないが、その派手な模様で威嚇してくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "田んぼの近くで、子供が山棟蛇を捕まえてきたので、注意して観察した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "山棟蛇は、カエルを主食とする益鳥ならぬ益蛇だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "府中、山伏寺、覚念坊の蛇除のお加持は、たいへんにいやちこだというので、さっそく迎えて加持をさせたところ、これは、金井の蛇塚の蛇姫様を殺した祟りで、山棟蛇の眷族三百三十三匹がお小夜に取り憑いているのだという。",
@@ -126,7 +151,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:24:37.504587+00:00Z"
     }
   }
 ]

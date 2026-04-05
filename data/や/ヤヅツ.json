@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "弓道家は矢筒から一本の矢を取り、構えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "美しい蒔絵が施された古い矢筒が、博物館に展示されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は背中に矢筒を背負い、静かに森の中を進んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "目ばかり黒い、けばけばしく真赤な禅入を、木兎引の木兎、で三寸ばかりの天目台、すくすくとある上へ、大は小児の握拳、小さいのは団栗ぐらいな処まで、ずらりと乗せたのを、その俯目に、ト狙いながら、件の吹矢筒で、フッ。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:22:38.115051+00:00Z"
     }
   }
 ]

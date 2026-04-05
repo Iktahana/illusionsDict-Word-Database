@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「やつらは一体何を企んでいるんだ？」と彼は怪訝な顔で言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "やつらが来る前に、この仕事を終わらせてしまおう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "遠くからやつらが笑いながらこちらへ向かってくるのが見えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "村の奴らに逢うのがいやだから、僕は一足先に出て銀杏の下で民さんを待っていたんでさア。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:22:38.113908+00:00Z",
       "freq_rank": 11262
     }
   }

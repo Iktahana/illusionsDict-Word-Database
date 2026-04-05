@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "野兎が草むらから飛び出し、あっという間に見えなくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "冬の朝、雪の上に野兎の足跡が残されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "畑の作物が野兎に食べられてしまう被害が出ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "御利益で、怪我もしないで御堂から裏の方へうか／＼と※つて、象と野兎が歩行ツくら、と云ふ珍な形で行くと、忽ち灯のちらつく暗がりに、眞白な顏と、青い半襟が爾側から、「ちよいと、ちよいと、ちよいと。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:22:38.115671+00:00Z"
     }
   }
 ]

@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この素朴な味わいのパンは、昔の登山家たちが「山食」と呼んで親しんでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "四郎時貞が父と共に住居して居る大矢野島に並んだ千束島に、大矢野松右衛門、千束善右衛門、大江源右衛門、森宗意、山善左衛門と云う五人の宗門長老の者達が居た。",
@@ -288,7 +297,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「昔ながらの山食が食べたいな。あの素朴な味が忘れられないんだ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -302,7 +320,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:26:51.041123+00:00Z"
     }
   }
 ]

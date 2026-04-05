@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の高原には、美しい紫色の柳蘭が咲き誇っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "柳蘭の群生は、まるで絵画のような風景を作り出している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "薬草としても知られる柳蘭は、昔から人々に利用されてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "タネリはまたおっかさんのことばを思い出してもう棄ててしまおうとしてあたりを見まわしましたら南の岬はいちめんうすい紫いろのやなぎらんの花でちょっと燃えているように見えその向うにはとど松の黒い緑がきれいに綴られて何とも云えず立派でした。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:12:52.079690+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ゴールまであと少し、「山が見える」ところまで来たね！",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "プロジェクトの完成が近づき、「山が見えてきた」とチームは安堵した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "困難な状況も、もうすぐ終わると「山が見えてきた」と希望を持てた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "振り返れば、間の岳（赤石山脈）や、悪沢岳の間から、赤石山が見える、そうして千枚沢の一支脈は、兀々した石の翼をひろげて、自分たちの一行を、遥かに包もうとしている。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:24:37.510251+00:00Z"
     }
   }
 ]

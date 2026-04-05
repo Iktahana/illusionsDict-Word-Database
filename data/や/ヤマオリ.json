@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "紙を半分に折って、山折りと谷折りを交互に繰り返して鶴を折る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この複雑なモデルは、たくさんの山折りと谷折りを正確に行う必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "子供たちは、簡単な山折りと谷折りで動物の形を作るのに夢中になっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さて、この文字面を表にして、一番上の水平点線を山折り、順に谷折り山折りして、一番下の水平点線まで蛇腹に折り畳み、細長い短冊にします。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:24:37.502921+00:00Z"
     }
   }
 ]

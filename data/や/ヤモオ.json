@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は長年寡男として一人で子供を育ててきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その村には、戦争で妻を亡くした寡男が数人住んでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は寡男になってからも、亡き妻を思い続けていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "利根の鉄橋を越えて行くに夏｜蕎麦をつくる畑｜干瓢をつくる畑などあれば埼玉や古河のあたりの夏蕎麥のなつみこめやもおほに思はゞ麥わらをしける廣畑瓜の畑葉かげに瓜のこゝたく見ゆるなど口ずさむ。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:32:49.026278+00:00Z"
     }
   }
 ]

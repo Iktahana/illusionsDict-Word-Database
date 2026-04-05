@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この地域は痩せ地が多く、農業には不向きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "痩せ地でも育つ植物を探す研究が進められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "何もない痩せ地だった場所に、やがて美しい花が咲いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これら痩せ地にはびこる多年生の植物は強いあくどい油をその体内に貯えている、火が移りさえすれば際限なく燃えあがる――と、彼は自信をもってそう云った。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:11:42.139375+00:00Z"
     }
   }
 ]

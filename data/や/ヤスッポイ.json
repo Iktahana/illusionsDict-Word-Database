@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このバッグはデザインは良いけれど、素材が安っぽいのが残念だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "安っぽいアクセサリーをたくさん身につけていると、かえって品がなく見える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「いくら安くても、安っぽい服ばかり着ていると、自信が持てなくなっちゃうわ。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "花火そのものは第二段として、あの安っぽい絵具で赤や紫や黄や青や、さまざまの縞模様を持った花火の束、中山寺の星下り、花合戦、枯れすすき。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:11:13.886095+00:00Z",
       "freq_rank": 21779
     }
   }

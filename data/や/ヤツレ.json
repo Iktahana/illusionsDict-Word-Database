@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長旅の末、彼の顔には疲労とやつれが見て取れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "過酷なダイエットのせいで、彼女はやつれがひどく心配になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "精神的な苦痛は、身体的なやつれとなって現れることがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "突然レムブルグが悲鳴をあげて廊下に飛出す、米良はバルコニに駈け上ると暈れた空気に蒼白めた闘争に窶れた同志の死体が沈むのを見た。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:22:38.114409+00:00Z",
       "freq_rank": 38650
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "東京へ行くなら、やっぱり山手線が便利だよね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "朝の山手線はいつも満員電車で、乗るのが一苦労だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この駅で山手線に乗り換えて、渋谷まで行こう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "目白より山手線の電車に乘り、澁谷に下りて、玉川行きの電車に乘り、大山街道を通りて、終點の二子の渡に下る。",
@@ -196,7 +221,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:25:37.749751+00:00Z",
       "freq_rank": 18632
     }
   }

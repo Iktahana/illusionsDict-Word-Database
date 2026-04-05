@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は最近仕事が忙しく、すっかりやつれてしまったようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "病気でやつれてしまった母の姿を見て、胸が締め付けられた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "失恋のショックで、彼女は見る見るうちにやつれていった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "思いなしか、気のせいか、段々｜窶れるようには見えるけんど、ついぞ膝も崩した事なし、整然として威勢がよくって、吾、はあ、ひとりでに天窓が下るだ、はてここいらは、田舎も田舎だ。",
@@ -125,7 +150,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:22:38.114814+00:00Z"
     }
   }
 ]

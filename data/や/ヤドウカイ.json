@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜道怪が出ると言われる森は、夜になると誰も近づかない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは夜道怪の伝説に怯え、日が暮れる前に家に帰った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの薄暗い小道で夜道怪に遭遇したらどうしよう、と彼女は震えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "文字には夜道怪と書いて子取の名人のごとく伝えられるが、じつはただの人間の少し下品な者で、中世｜高野聖の名をもって諸国を修行した法師すなわち是である。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:18:34.389343+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の人は八つ時に起きて、一日の仕事を始めていたそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「八つ時を過ぎたので、そろそろ夕食の支度をしましょうか」と祖母が言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "江戸時代の生活では、八つ時や九つ時といった時刻の概念が重要だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おどおどして入っていった植源の家の、丁度お八つ時分の茶の室では、隠居や子息と一緒に、鶴さんもお茶を飲みながら話込んでいたが、お島が手土産の菓子の折を、裏の方に濯ぎものをしているおゆうに示せて、そこで暫く立話をしている間に、鶴さんも例の折鞄を持って、そこを立とうとしておゆうに声をかけに来た。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:22:38.109891+00:00Z"
     }
   }
 ]

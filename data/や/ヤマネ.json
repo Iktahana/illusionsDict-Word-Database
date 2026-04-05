@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜、静かに森を歩いていると、「山鼠」が木の上を走り回るのを見た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "絶滅危惧種である「山鼠」の保護活動が進められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あっ、何？」「「山鼠」だよ。可愛いね。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "但し反蒭者と蹄の分れたる者の中汝らの食うべからざる者は是なり即ち駱駝、兎および山鼠、是らは反蒭ども蹄わかれざれば汝らには汚れたる者なり。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:30:13.536625+00:00Z"
     }
   }
 ]

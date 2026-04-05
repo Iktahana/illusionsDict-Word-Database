@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔、この村には腕利きの山猟が何人もいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は代々続く山猟の家系に生まれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "伝説の山猟は、誰もが恐れる巨大な熊を仕留めたという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その本山に吉延と云う谷があって、其処には猪とか鹿とか大きな獣がいるので、山猟師をやっている者で其処へ眼をつけない者はなかったが、しかし、その谷には時どき不思議なことがあるので、気の弱い者は避けて往かなかった。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:24:59.267588+00:00Z"
     }
   }
 ]

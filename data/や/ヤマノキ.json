@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "都会の喧騒を離れ、「山の気」を吸い込むのは最高の贅沢だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "深い森の中では、清々しい「山の気」が満ちている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あー、やっぱり「山の気」は違うね！」「最高にリフレッシュできる！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "空々寂々の境で、山という山の気分が、富士山に向いて、集中して来る、谷から幾筋とない雲が、藍の腐ったような塊になって、立ち昇る、富士山はこの雲と重なって、心もち西へ西へと延びて来るようだ、蝕った雲の淵の深さが、何十尺かの穴となって、口が明く。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:30:13.540482+00:00Z"
     }
   }
 ]

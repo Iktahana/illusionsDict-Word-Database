@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "冬の庭でも、藪柑子の赤い実が彩りを添えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "祖母の家の庭には、昔から藪柑子の株がたくさんあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "この薬草は、民間療法で用いられることがあるが、専門家の指導のもとで使用するのが望ましい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ずっと前の話であるが、『藪柑子集』中の「嵐」という小品の中に、港内に碇泊している船の帆柱に青い火が灯っているという意味のことを書いてあるのに対して、船舶の燈火に関する取締規則を詳しく調べた結果、本文のごとき場合は有り得ないという結論に達したから訂正したらいいだろうと云ってよこした人があった。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:16:45.776497+00:00Z"
     }
   }
 ]

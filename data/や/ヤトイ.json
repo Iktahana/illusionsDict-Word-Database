@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はあの会社の雇いだが、非常に優秀な人材だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "雇いは雇いらしく、与えられた仕事を忠実にこなすのが務めだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の家には、住み込みの雇いが何人もいたと聞く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小さい時から苦学をしてやっと電気学校を卒業はしたが、目的のある柚木は、体を縛られる勤人になるのは避けて、ほとんど日傭取り同様の臨時雇いになり、市中の電気器具店廻りをしていたが、ふと蒔田が同郷の中学の先輩で、その上世話好きの男なのに絆され、しばらくその店務を手伝うことになって住み込んだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:22:38.115995+00:00Z",
       "freq_rank": 17301
     }
   }
