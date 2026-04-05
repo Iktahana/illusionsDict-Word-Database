@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "寒い冬の朝、彼女は厚手のコートに身を包んで家を出た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "結婚式の花嫁は、純白のドレスに身を包み、美しく輝いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は怪しまれないように、全身を黒い布に身を包んで闇夜に紛れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "秋風がそこらの木の枝に鳴るころになると、この虫は僅に自分ひとりの身を包むに過ぎない襤褸片を肌につけて、無慈悲にも永久に彼から離れ去つた父をもとめて、「父こひし。",
@@ -173,7 +198,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:37:28.168716+00:00Z"
     }
   }
 ]

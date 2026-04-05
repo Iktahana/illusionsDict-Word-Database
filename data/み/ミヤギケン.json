@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "宮城県は東北地方の経済の中心地であり、多くの企業が拠点を置いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "宮城県産のひとめぼれは、冷めても美味しいお米として全国的に有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "震災後、宮城県の沿岸部では大規模な復興作業が続けられてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "憫むべし晩成先生、｜嚢中自有銭という身分ではないから、随分切詰めた懐でもって、物価の高くない地方、贅沢気味のない宿屋を渡りあるいて、また機会や因縁があれば、客を愛する豪家や心置ない山寺なぞをも手頼って、遂に福島県宮城県も出抜けて奥州の或｜辺僻の山中へ入ってしまった。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:23:19.453447+00:00Z"
     }
   }
 ]

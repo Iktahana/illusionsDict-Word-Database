@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の最新作はまだ未訳のため、原著で読むしかないのが残念だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "専門書の中には、日本語への翻訳が待たれる未訳の資料が数多く存在する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "未訳の古典文学を現代語訳して紹介するプロジェクトに参加している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一つはカーの「三つの棺」の「密室講義」の章、もう一つはクレイトン・ロースンの「シルクハットから飛び出す死」（未訳）の「質問する勿れ」の章である。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:23:19.454489+00:00Z"
     }
   }
 ]

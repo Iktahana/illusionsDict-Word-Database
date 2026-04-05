@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "妙な話だが、昨夜見た夢が正夢になったんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "妙な話だが、彼が部屋に入ってくると急に電気が消えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "妙な話だが、あんなに嫌いだった納豆が急に美味しく感じ始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "妙な話だが、私は七歳のとき、腸カタルで三人の医者に見離された際（その時分から私は食道楽気があったものか、今や命数は時間の問題となっているにもかかわらず）、台所でたにしを煮る香りを嗅ぎ、たにしを食いたいと駄々をこね出した。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:32:09.706186+00:00Z"
     }
   }
 ]

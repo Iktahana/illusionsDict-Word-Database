@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は会社の経営を立て直すため、昼夜を問わず身を削って働いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "論文を完成させるために、研究室にこもり身を削るような毎日を送った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "病気の家族のために、彼女は自分の身を削る覚悟で看病に当たった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "骨身を削る制作から退いて、何か楽な生業に就き、（彼の父は相当に富裕だったのだから）知能や教養は凡て鑑賞と享受とに用いること。",
@@ -157,7 +182,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:37:28.164316+00:00Z"
     }
   }
 ]

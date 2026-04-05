@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "家の南側の小さな庭には、四季折々の色鮮やかな花々が植えられており、通りかかる近所の人々の目を楽しませている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "冷たい北風が吹く日でも、建物の南側に回り込むと風が遮られ、日向ぼっこができるほどポカポカと温かくて心地よい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "マンションの南側に新しい高層ビルが建設されることになり、冬場の日当たりが悪くなるのではないかと住民の間で心配されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "松本附近である神社の周囲を取りかこんでいるはずの樹木の南側だけが欠けている。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T02:13:59.888125+00:00Z",
       "freq_rank": 13167
     }
   }

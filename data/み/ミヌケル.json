@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このトリックは簡単すぎて、誰にでも見抜けるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女の考えは顔に出やすいので、すぐに見抜ける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そんな浅い嘘は、ベテラン刑事にはすぐに見抜けてしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「貴方のような鋭い方は、あの人の欠点くらいすぐ見抜ける筈でっけど……」　どこを以って鋭いというのかと、あきれていると、女は続けて、さまざま男の欠点をあげた。",
@@ -78,7 +103,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:13:39.127166+00:00Z"
     }
   }
 ]

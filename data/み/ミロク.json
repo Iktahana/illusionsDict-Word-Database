@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "奈良の広隆寺には、美しい弥勒菩薩半跏像が安置されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "弥勒は、釈迦の入滅後56億7千万年後にこの世に現れる仏とされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古代の人々は、弥勒の世の到来を心待ちにしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "本来を云えば弥陀なり弥勒なり釈迦なりを頼んで、何かムニャムニャを唱えて、そして自分一人極楽世界へ転居して涼しい顔をしようと云うのは、随分虫のいいことで、世の諺に謂う「雪隠で饅頭を食う」料簡、汚い、けちなことである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:36:50.285871+00:00Z"
     }
   }
 ]

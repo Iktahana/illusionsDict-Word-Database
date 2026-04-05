@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "明治の御代から続く、伝統ある和菓子屋を営んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "天皇陛下の御代が長く平和であることを願って、祈りを捧げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "父はよく「昭和の御代は活気があった」と懐かしそうに話す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "街道の並木の松さすがに昔の名残を止むれども道脇の茶店いたずらにあれて鳥毛挟箱の行列見るに由なく、僅かに馬士歌の哀れを止むるのみなるも改まる御代に余命つなぎ得し白髪の媼が囲炉裏のそばに水洟すゝりながら孫｜玄孫への語り草なるべし。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T02:32:09.713718+00:00Z",
       "freq_rank": 1607
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "京都市南区には、東寺のような歴史的な建造物が数多く残っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "横浜市南区は、昔ながらの商店街と新しい住宅地が共存する、活気のあるエリアだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "次の日曜日に、南区役所で地域の防災訓練が行われますので、ぜひご参加ください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "このあたりは南区と戸塚区の境界で、キャンパスの大部分は戸塚区側だが、食堂の途中から南区にはいり、慶一のテーブルはその南区側にある。",
@@ -204,7 +229,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:13:16.674179+00:00Z"
     }
   }
 ]

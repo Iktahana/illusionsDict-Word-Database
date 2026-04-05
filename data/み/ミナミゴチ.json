@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "初夏の昼下がり、窓の外では心地よい南東風がカーテンを揺らしている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "天気予報によると、明日は穏やかな南東風が吹き、絶好の釣り日和になるそうだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "船は順調に南東風を受け、滑るように青い海原を進んでいった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これに反して東京の夏には地方的季節風が相当強い南東風として発達しているためにそれが海陸風と合成され、もしこれがなければべた凪になるはずの夕方の時刻に涼しい南東がかった風を吹かせるらしい。",
@@ -148,7 +173,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:13:16.676105+00:00Z"
     }
   }
 ]

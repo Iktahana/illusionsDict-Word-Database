@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜の港には、色とりどりの街灯やクレーンの灯りが海面に反射して幻想的な風景が広がる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "大きな汽笛の音とともに、巨大な豪華客船がゆっくりと岸壁を離れて港を出ていった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "港のすぐ近くにある市場では、早朝から威勢のいい競り人の声が響き渡っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然しこれを歌つてゐるのがボオドレエルだと思ふと、船の沢山ゐる港、それも余り大きくない港が見えて来たりする。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T02:13:59.876050+00:00Z",
       "freq_rank": 3422
     }
   }

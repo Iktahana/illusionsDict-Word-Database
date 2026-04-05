@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "5G通信では、ミリ波が高速データ伝送に活用されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このアンテナは、ミリ波帯域の電波を送受信するために設計された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ミリ波レーダーは、悪天候下でも高い精度で障害物を検知できる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "OW がそこそこきれいな白黒製版である（ただし絵の筆致は質的限界から劣化している）のに対して、DO のファクシミリは元の紙質を反映して全頁が灰色で、1886年の序文・巻末詩が付録されているとはいえ、読むのに向いているとはお世辞にも言えません。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:34:53.457521+00:00Z"
     }
   }
 ]

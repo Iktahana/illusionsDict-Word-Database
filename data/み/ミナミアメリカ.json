@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "南アメリカ大陸の奥深くには、世界最大級の流域面積を誇る大河アマゾン川が、広大な熱帯雨林を貫いて流れている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "アンデス山脈の絶壁に建つマチュピチュ遺跡を訪れるため、南アメリカのペルーまで丸一日かけて飛行機を乗り継いだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "南アメリカ諸国ではサッカーが国民的な情熱を持って愛されており、ワールドカップの時期は街中が熱狂に包まれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "南アメリカの一部では土人のみか白人までも病的に土を嗜み、子供などは夜中に壁の泥や漆喰を剥がして食うから、それを制するため仮面を着せて寝かせるそうである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:13:59.884906+00:00Z"
     }
   }
 ]

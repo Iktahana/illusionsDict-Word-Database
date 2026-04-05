@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "生まれたばかりの嬰児の寝顔は、とても安らかだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "嬰児の世話は大変だが、その笑顔を見れば疲れも吹き飛ぶ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古い絵画には、聖母と嬰児が描かれているものが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いつそ嬰児時代のことなぞ省いてしまはうかと思ふのだが、何分自分の事といふものは、何から何までいとしいもので、笑はれるとは知りつゝも、まづまづ右の分量くらゐは省きも出来ない、――然しま、あんまりお笑ひ下さるな。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:09:45.182646+00:00Z"
     }
   }
 ]

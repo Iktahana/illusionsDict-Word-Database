@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "見渡す限りの菜の花畑が広がり、辺り一面が黄色に染まっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "砂漠では、見渡す限りの砂丘が果てしなく続く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "その広大な牧草地は、見渡す限り緑の絨毯のようだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "でもまた、見渡す限り、ただ薄みどり色の茫洋乎たる大空洞の片隅に、幽かな黒一點をとどめてゐるものが、たとひそれは嘘にしても月の影法師だと云はれて見ると、鯛の大群や火事だと思つて眺めるよりは、風流人の浦島にとつて、はるかに趣きがあり、郷愁をそそるに足るものがあつた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:36:50.291743+00:00Z"
     }
   }
 ]

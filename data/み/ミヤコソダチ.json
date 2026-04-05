@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は都育ちなので、自然の中での生活にはまだ慣れていない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は都育ちのお嬢様だが、誰にでも気さくに話しかける。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "都育ちの彼にとって、田舎の静けさは新鮮だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "犬張子が横に寝て、起上り小法師のころりと坐った、縁台に、はりもの板を斜めにして、添乳の衣紋も繕わず、姉さんかぶりを軽くして、襷がけの二の腕あたり、日ざしに惜気なけれども、都育ちの白やかに、紅絹の切をぴたぴたと、指を反らした手の捌き、波の音のしらべに連れて、琴の糸を辿るよう、世帯染みたがなお優しい。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T02:25:32.765688+00:00Z"
     }
   }
 ]
