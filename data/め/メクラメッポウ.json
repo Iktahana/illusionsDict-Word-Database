@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は地図も持たずに盲滅法に山道を歩き始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "計画もなく盲滅法に始めたプロジェクトは、やはり失敗に終わった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「そんな盲滅法なやり方じゃ、いつか大きなミスをするぞ」と上司に叱られた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかるに、右の「こ」にあたる仮名においては、そういう区別があることを暗示するようなものが何もないのであって、ただ、盲滅法に一つ一つ実例について調べて行くより仕方がない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:02:39.973180+00:00Z"
     }
   }
 ]

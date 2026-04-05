@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夜の森で、光を嫌う盲蜘蛛がそっと地面を這っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "庭の石の下から、長い脚を持つ盲蜘蛛が姿を現した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "盲蜘蛛はクモの仲間だが、巣を作らず徘徊して獲物を捕らえる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "なにをしているのかと蝋燭あかりを寄せて見ると、両手の中になかば死にかけた囮の大きな盲蜘蛛をかかえこみ、その匂いを慕ってあつまって来る小蜘蛛を片っぱしからパクッパクッと嚥みこんでいるのだった。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:02:39.967715+00:00Z"
     }
   }
 ]

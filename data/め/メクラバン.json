@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "部長は忙しさにかまけて、部下の提出した書類に盲判を押してしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "契約書の内容をよく確認せず、盲判を押したことで後で大きな問題になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「おい、めくら判だけはするなよ。後で責任を問われるぞ」と先輩が忠告した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "孔明といふ人は、身漸く衰へ、食大に減じた時に當つても、猶自ら吏事を執つた位の人で、盲判を捺すやうな宰相では無かつた。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:02:39.970023+00:00Z"
     }
   }
 ]

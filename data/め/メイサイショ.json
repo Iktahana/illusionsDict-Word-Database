@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "商品の発送時に、必ず納品明細書を同梱するようにしてください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "領収書だけでなく、具体的な内訳がわかる明細書も発行してほしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "医療費控除の手続きのために、病院から受け取った明細書を保管しておく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その後犬どもが林中で倒れた小馬を見付け襲い殺して食ってしまったので、諸獣これを訴え犬ども有罪と決したが、犬どもかの免状に倒れた動物を食うを許すとあったばかりで、死んだ活きたの明細書がなかった由を拠として控訴した。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:57:29.035624+00:00Z"
     }
   }
 ]

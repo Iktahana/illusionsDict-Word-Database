@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏祭りの屋台で、金魚をすくって目籠に入れて持ち帰った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "祖母は、庭で採れた野菜を洗って目籠に入れていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "目籠は通気性が良いので、野菜や果物の保存に適している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "二三日前に百花園からつるの手をつけてある目籠に長命菊つくし石竹の苗其他数種の青草を植込にしたやつを買って来て置いたのを持って往ったのであるきょうは暖炉の掃除をやったとの事で先生は八畳の座敷に石油暖炉をたき東向になってねていられた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:59:49.640642+00:00Z"
     }
   }
 ]

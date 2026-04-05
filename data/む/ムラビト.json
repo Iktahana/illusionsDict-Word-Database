@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "収穫祭の日、村人たちは広場に集まって太鼓の音に合わせて夜通し踊った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "旅人が道端で倒れているのを見つけた村人は、すぐに自分の家に連れ帰り介抱した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "村人たちは山の神を深く信仰し、代々伝わる神秘的な儀式を今も大切に守っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "山下の村人に山の名を聞くと、あれが蝶ヶ岳で、三、四月のころ雪が山の峡に、白蝶の翅を延しているように消え残るので、そう言いますという。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T03:39:06.359808+00:00Z",
       "freq_rank": 12378
     }
   }

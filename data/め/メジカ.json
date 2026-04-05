@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "森の奥で、優雅な足取りで草を食む一頭の「牝鹿」と目が合った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「牝鹿」は子供を守るため、周囲を警戒しながら静かに移動している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "奈良公園では、多くの「牝鹿」が観光客から鹿せんべいをもらおうと集まっている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "少女はあなやと叫び、物に驚きたる牝鹿の如く、瞬く隙に馳せ去りぬ。",
@@ -264,7 +289,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:07:07.003512+00:00Z"
     }
   }
 ]

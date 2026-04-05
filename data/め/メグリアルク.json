@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は昔の記憶を辿るように、故郷の町を巡り歩いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "週末は自然の中を巡り歩いてリフレッシュする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "物乞いは町中を巡り歩き、人々に恵みを請うた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さうしてこの一騒ぎのあとから、また久濶ぶりに清らかな水は廃市に注ぎ入り、楽しい祭の前触が異様な道化の服装をして、喇叭を鳴らし拍子木を打ちつつ、明日の芝居の芸題を面白をかしく披露しながら町から町へと巡り歩く。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:03:49.015126+00:00Z"
     }
   }
 ]

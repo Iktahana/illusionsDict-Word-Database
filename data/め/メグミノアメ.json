@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長い日照りの後、ようやく恵みの雨が降り、畑の作物が生き返った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "恵みの雨は、干上がった大地に潤いを与えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "まさに恵みの雨だね、これで水不足の心配もなくなるよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今、その俵を持つて行かれては、今夜にでも恵みの雨が降り出して、いざ車が回りはぢめたとしても、それこそ私どもの臼は空つぽのまゝで、杵に打たれて割れてしまふより他に道はございません。",
@@ -92,7 +117,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:02:39.981058+00:00Z"
     }
   }
 ]

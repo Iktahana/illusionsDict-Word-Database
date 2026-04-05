@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "村はずれにある古い空き家には、幽霊が出るという噂が子供たちの間で絶えない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "夕暮れ時、村はずれの並木道を散歩するのが私にとって一番のリラックスタイムだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "村はずれのバス停で、一日に数本しかないバスをじっと待っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "高松という処の村はずれにある或る神社で、社前の鳥居の一本の石柱は他所のと同じく東の方へ倒れているのに他の一本は全く別の向きに倒れているので、どうも可笑しいと思って話し合っていると、居合わせた小学生が、それもやはり東に倒れていたのを、通行の邪魔になるから取片付けたのだと云って教えてくれた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:39:06.359099+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その映画監督は、生涯功労を称えられ、名誉賞を受賞した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、科学界への多大な貢献に対して、名誉賞を授与された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この名誉賞は、私一人だけのものではありません。」と受賞者は感謝の意を表した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その技術の精巧なのに内外人を驚かし、明治になって美術学校教授となり、明治十四年の第二回博覧会へ出品した髑髏の彫刻には、明治大帝の御前で、総裁｜能久親王から名誉賞を授与せられたのです。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:01:23.495386+00:00Z"
     }
   }
 ]

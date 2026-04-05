@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "英語の命令形は、動詞の原形から始まることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「〜してください」は、日本語の丁寧な命令形と言えるだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼は、相手に敬意を払うため、命令形を避けて依頼する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "例えば、カ行四段動詞の已然形と命令形は、仮名で書けば両方とも同じ「け」でありますけれども、昔の万葉仮名では、別の類の文字で書いてあって、区別すべきでありますのに、龍麿はこの二つの形を同じと考えたものでありますから、多少例外が出来て、二つの類の仮名が混じて用いられているように見えたものもあります。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T04:01:23.504492+00:00Z"
     }
   }
 ]

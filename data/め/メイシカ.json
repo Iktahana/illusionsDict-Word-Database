@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "文末を「こと」や「の」で結ぶことで、動詞を名詞化して扱う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "形容詞の語幹に「さ」を付けると、程度を表す名詞化が行われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "専門用語を名詞化して短縮することで、コミュニケーションを効率化する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "技術の概念が、云わば動詞の名詞化のように実念論に陥るのを嫌って、もっと具象的な定形物と見たい処から、之を物に即して規定しようとしたのが、多少機械論的な唯物論（ブハーリンの如き）による技術の定義、「労働手段の社会的体系」である。",
@@ -117,7 +142,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:57:29.043476+00:00Z"
     }
   }
 ]
