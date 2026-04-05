@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は子供の頃、学校一の問題児として有名だったが、今では立派な実業家として成功している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "クラスに一人問題児がいると、授業が中断されることが多く、先生も対応に苦慮しているようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "あいつはチームの和を乱す問題児だが、その圧倒的な才能だけは認めざるを得ない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "だが両親にとってみれば学校を休みがちの息子は心配の種であり、教師にとって授業に関心を持たない生徒は問題児だった。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:43:05.534743+00:00Z",
       "freq_rank": 34379
     }
   }

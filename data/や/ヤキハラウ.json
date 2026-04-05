@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦乱の時代、敵軍によって多くの城下町が焼き払われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "放置された廃屋が、何者かによって放火され、跡形もなく焼き払われてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "畑の病害虫を防ぐため、収穫後の枯れ草を広範囲にわたって焼き払った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この時に当たってである、実に函館全市を焼き払うためにおよそ考え得らるべき最適当の地点と思われる最風上の谷地頭町から最初の火の手が上がったのである。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:52:51.050586+00:00Z"
     }
   }
 ]

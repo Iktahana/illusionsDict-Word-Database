@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "世界には、八百万の星々が輝いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "八百万の困難を乗り越え、彼はついに成功を収めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "八百万の人々が彼のスピーチに感動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今眼前にこの岩手山の実に立派な姿を眺め、その麓に展開する山川の実に美しい多様な変化を味わっていると、どうしても日本はやはり八百万の神々の棲処であり、英雄の国であり、哲人の国であり、食うことと飲むことの外にまだ色々様々大事なことのある国だとしか思われないのである。",
@@ -205,7 +230,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:51:29.674175+00:00Z",
       "freq_rank": 39893
     }
   }

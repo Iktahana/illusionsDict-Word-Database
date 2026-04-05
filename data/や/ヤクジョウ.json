@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "株式の買い注文を出した数秒後、無事に約定したという通知が届いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "取引条件について双方が合意し、ようやく契約の約定に至った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "期日になっても約定が成立しなかったため、今回の商談は見送ることになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "復一よりも単純な研究で定期間に済んだ同期生たちは半年前の秋に論文が通過して、試験所研究生終了の証書を貰ってそれぞれ約定済の任地へ就職して行った。",
@@ -246,7 +271,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:56:20.050803+00:00Z",
       "freq_rank": 18477
     }
   }

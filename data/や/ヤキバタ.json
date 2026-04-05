@@ -33,7 +33,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "焼き畑農業は、熱帯雨林地域に暮らす民族の伝統的な農法として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "森林の一部を伐採し、草木を燃やして灰を肥料として利用するのが焼き畑だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_context": "焼き畑",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "焼き畑は地力が短期間で失われるため、数年で場所を移動する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其で、廿年・廿五年後の今日では、古い畑の石ころを、時々気まぐれに掘り棄てる位で満足して、新しい焼き畑を畝はう、と言ふ積りもなくなつて居るらしく見えると言ふ事でした。",
@@ -88,7 +121,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:52:51.051995+00:00Z"
     }
   }
 ]

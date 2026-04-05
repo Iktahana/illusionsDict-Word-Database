@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薬剤師免許を取得するためには、大学の薬学部で六年間学ぶ必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "難関と言われる薬学部の入試を突破するため、予備校で猛勉強に励んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "薬学部の実習では、実際に調剤を行ったり服薬指導を体験したりする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ここへは、米国コロンビア大学の薬学部長ラマビー博士一行が探検したが、ついに瘴癘湿熱の腐朽霧気地帯から撃退されている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:58:34.939293+00:00Z",
       "freq_rank": 40068
     }
   }

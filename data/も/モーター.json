@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この掃除機は小型ながら強力なモーターを搭載しており、吸引力が非常に高い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "工作キットを組み立てて、電池をつなぐとモーターが勢いよく回り始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "工場の大型機械のモーターから異音が聞こえたので、すぐに点検を依頼した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "同じ団体にはいってヘッベルの劇場の楽屋見学をしたときは、奈落へ入り込んでモーターで廻わす廻り舞台を下から仰いだり、風の音を出す器械を操縦させてもらったりした。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:45:16.633149+00:00Z",
       "freq_rank": 9610
     }
   }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この中古車は走行距離が長いので、かなり安くつくはずだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "自分で修理すれば、専門業者に頼むより安くつく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "予想していたよりも安くついて、ホッと胸をなでおろした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "誰が考えついたのか、同一方面の客を割前勘定で一ツ車に詰めこめば、ガソリンが節約でき、客も順番を待つ時間がすくなく、賃金も安くつくという、いかにも大阪らしい実用的な思いつきだった。",
@@ -157,7 +182,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:07:05.020191+00:00Z"
     }
   }
 ]

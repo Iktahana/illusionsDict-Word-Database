@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遠くから矢音が聞こえ、敵の襲撃が近いことを悟った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の放った矢は、鋭い矢音を立てて的を射抜いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "戦場の静寂を破り、矢音が何度も響き渡った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "とたんに、ヒェーッと絹を裂くような鋭い掛け声が奥の方から沈黙を破って聞こえたかと思うと、シューッ空を切る矢音がして、すぐ小手返る弦の音がピシッと心地よく響き渡った。",
@@ -236,7 +261,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:51:29.671860+00:00Z"
     }
   }
 ]

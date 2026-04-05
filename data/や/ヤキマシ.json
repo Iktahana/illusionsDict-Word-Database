@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "集合写真がよく撮れていたので、親戚の分も焼き増しをお願いした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "デジカメの普及で、写真屋さんに焼き増しを頼みに行く機会も減ってしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔のフィルムを整理していたら、当時の焼き増し注文の控えが出てきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この上はただ石川五郎の行方さえ確かめればよく、しかも俊夫君が修正して作った写真があるのであるから、それを焼き増しさせて刑事を八方に走らせて探せば、とにもかくにも犯人の手掛かりが得られることになるわけです。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:53:58.759533+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その着物には、彼の家の紋所が精巧に刺繍されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "紋所は、家系や家柄を示す象徴として、古くから用いられてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この紋所、うちの家紋とよく似ているけど、何か関係があるのかな？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "仙臺地方には昔から、雀が多かつたのか、仙臺笹とかいふ紋所には、雀が二羽圖案化されてゐるし、また、芝居の先代萩には雀が千兩役者以上の重要な役として登場するのは誰しもご存じの事と思ふ。",
@@ -244,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:43:07.889645+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "テスト前になると、彼は苦手な数学の問題集を何度も繰り返し解いて基礎を固める。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "本屋に行くと、TOEIC対策の問題集が山のように積まれており、どれを選ぶか迷ってしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "受験生の頃、使い古してボロボロになった問題集は、今でも努力の証として大切に保管してある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "するとその少年は暫時して、大変気が落ち付いたようだと言いますので、今度は、少年の持参した試験問題集の中の二、三の問題を別紙に抜き書きして、その少年の前の卓上に載せました。",
@@ -140,7 +165,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:43:05.534371+00:00Z"
     }
   }
 ]

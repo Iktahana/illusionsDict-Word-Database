@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薬物学の講義では、薬が体内でどのように作用し、病気を治すのかを体系的に学ぶ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は将来、薬物学の知識を活かして副作用の少ない画期的な新薬を開発したいと考えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "最新の薬物学の知見によれば、特定の食品と薬を併用することで効果が減弱する場合があるという。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "およそこれ等の数件、即ち温暖が与える物理的の働きや、食物が与える生理的又は薬物学的の働きや、香気が与える心理的の働きや、これ等の事は皆春が我々に及ぼす明らかな事象である。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:01:03.232449+00:00Z"
     }
   }
 ]

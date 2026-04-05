@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このオーブンは古いせいか、クッキーを焼くとどうしても焼きムラができてしまう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "パンの表面に均一な色をつけるには、途中で天板の向きを入れ替えると焼きムラが防げる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "陶器の焼きムラは、量産品にはない味わいとして愛好家に喜ばれることもある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夜すがら温き春雨に、　　　　　風信子華の十六は、黒き葡萄と噴きいでて、　　　　雫かゞやきむらがりぬ。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:53:58.760320+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は新薬の開発に貢献したいという夢を持ち、大学で薬学を専攻している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "薬学の知識を活かして、地域の患者さんに寄り添う薬剤師になりたい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "近年の薬学の進歩は目覚ましく、これまで治療が難しかった病気にも光が見えてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "近頃ある薬学者に聞いた話であるが、薬を盛るのに、例えば純粋な下剤だけを用いると、どうも結果は工合よく行かない、しかし下剤とは反対の効果を生じるような収斂剤を交ぜて施用すると大変工合がよいそうである。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:58:34.938615+00:00Z",
       "freq_rank": 25244
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸時代の薬剤師が、薬研を使って漢方薬の原料を細かく砕いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この薬研は代々我が家に伝わる骨董品で、今でも現役で使える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "薬研の溝に沿って重い車輪を前後に動かし、スパイスを粉末状にする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "夜になると、こつちの岸と、向うの岸の半腹に、燈火が螢火のやうについて、神寂びた寺院の廻廊か、大森林の秘奥にともす法燈でもあるかのやうに、ひつそり閑となつて、その間に薬研のやうな天竜の大峡谷があるともおもはれない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:02:59.360224+00:00Z"
     }
   }
 ]

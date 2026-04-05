@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は難解なラテン語の文献を、現代語へと丁寧に訳述した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "原文に忠実でありながら、読者の理解を助けるための訳述がなされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この本は、単なる翻訳を超えた、著者独自の視点による訳述が素晴らしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日本のドイツ文学の教授も、字典を引かなければ、その名を知る能わず、むかし森鴎外が、かれの不思議の才能を愛して、その短篇、「塔の上の鶏」および「女の決闘」を訳述せり。",
@@ -214,7 +239,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:56:20.049659+00:00Z"
     }
   }
 ]

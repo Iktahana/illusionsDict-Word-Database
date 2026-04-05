@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この英単語にぴったりの訳語が見つからず、一晩中辞書と格闘した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "時代背景を考慮して、あえて古風な訳語を当てることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "法律用語の訳語には、一文字の差が大きな誤解を生む恐れがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然るに日本人は、歴史的に思想を持たない国民であるから、本来哲学的の思想を根とする西洋文学の輸入に際して一もそれに適応する原語がなく、日本語字典のあらゆる言海を探した後で、止むを得ず「現実」や「自然」などといふ訳語を、無理にこじつけて適当させた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:55:13.606233+00:00Z",
       "freq_rank": 21061
     }
   }

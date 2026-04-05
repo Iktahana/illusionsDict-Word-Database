@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "国会で、政府は新しい経済政策の問題を取り上げるべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "彼女は集会で、地域社会が抱える環境問題を取り上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「この件について、もっと詳しく話し合いたいのですが、先生、この問題を提起してもよろしいでしょうか？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "渡瀬が酔ったまぎれに「おぬいさんに惚れろ」といい続けた時、園はそういう問題を取り上げる気持は少しもなかったが、その後四五日経ってから、どうした機会だったか、園はふとおぬいさんに対する自分の心持を徹底的に決めておかなければならぬという強い要求を感じ始めた。",
@@ -189,7 +214,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:43:07.878401+00:00Z"
     }
   }
 ]

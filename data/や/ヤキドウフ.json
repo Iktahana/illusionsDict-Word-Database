@@ -29,7 +29,40 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "すき焼きには、味が染み込みやすく煮崩れしにくい焼き豆腐がよく合う。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "軽く焼いた焼き豆腐を大根おろしとポン酢でシンプルにいただくのが好きだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_context": "焼き豆腐",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "寒い日には、熱々の焼き豆腐を入れた湯豆腐が体を温めてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」「食えるだけ食うんだよ、おれは朝飯前に柔道のけいこをしてきたから腹がへってたまらない、焼き豆腐があるか」「はい」　チビ公が蓋をあけると巌はすぐ手をつっこんだ、それから焼き豆腐をつかみあげて皮ばかりぺろぺろと食べて中身を大地にすてた。",
@@ -92,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:52:51.045783+00:00Z"
     }
   }
 ]

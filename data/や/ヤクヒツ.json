@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この古典作品は、明治時代の高名な文豪による格調高い訳筆で知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "原文の繊細なニュアンスが、翻訳者の見事な訳筆によって見事に再現されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「先生の素晴らしい訳筆のおかげで、海外の難解な哲学書がようやく理解できました」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "『あいびき』に由てツルゲーネフの偉大と二葉亭の訳筆の価値とを確認した読者は崑山の明珠を迎うる如くに珍重愛惜し、細さに一字一句を翫味研究して盛んに嘖々した。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:01:03.229238+00:00Z"
     }
   }
 ]
