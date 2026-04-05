@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "消毒には、エタノールよりも純度の高い無水アルコールが効果的だと言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "実験では、水分を嫌う反応のため、無水アルコールを溶媒として使用した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "無水アルコールは揮発性が高いため、使用後はしっかりと蓋を閉める必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "華氏60度（摂氏15度）で比重0.796（無水アルコール）の含量が前者では最高7.15％最低4.53％であるのに、パブで入手したスタウトは１例を除いて4.87％から3.25％と変化する。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:17:41.954433+00:00Z"
     }
   }
 ]

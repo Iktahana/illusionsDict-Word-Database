@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "鶏肉と野菜を蒸し焼きにしたら、素材の甘みが凝縮されて美味しかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この蒸し焼き料理は、油をほとんど使わないからとてもヘルシーだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "蓋をしてじっくり蒸し焼きにすることで、肉がふっくらと柔らかく仕上がる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ぼくはまたきみがあの醋酸工場の釜の中へでも入れられて蒸し焼きにされたかと思ったんだ。",
@@ -260,7 +285,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:13:32.134319+00:00Z"
     }
   }
 ]

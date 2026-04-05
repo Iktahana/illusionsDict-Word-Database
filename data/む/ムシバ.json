@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "甘いものを食べ過ぎると、虫歯になりやすいから気をつけようね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "歯医者で診てもらったら、小さな虫歯がいくつか見つかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "定期的に歯医者に行って、虫歯の予防をすることが大切だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは雪が深く、岩壁に喰い入って、そこだけを、虫歯の洞のように、深く刳るので、刳られた崖が、椀を半分欠いたようになって、立っているのがそれだ。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T03:12:25.288018+00:00Z",
       "freq_rank": 15047
     }
   }

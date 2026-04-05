@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦乱の混乱で戸籍を失い、無籍のまま暮らしている人々がいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無籍の状態では、公的な医療サービスや教育を受けるのが困難だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は自分のルーツを探すため、無籍だった過去を調査し始めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その上相手は私の勤務先の手当や、子供の貯金まですっかり消費してしまい、終戦となるや、私の復員をおそれて無籍の嬰児を連れたまま行方をくらましてしまいました。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:17:15.305015+00:00Z"
     }
   }
 ]

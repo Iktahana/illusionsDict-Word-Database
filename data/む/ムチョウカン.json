@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しく就任した国土安全保障省の務長官が記者会見を行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "各省庁の務長官が一同に会し、今後の政策について議論した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は長年、教育省の務長官として国の教育改革に尽力した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この委員会の上に立つべき政務長官と、全サモアの司法権を握るべきチーフ・ジャスティス（裁判所長）と、この二人の最高官吏は欧洲から派遣されることとなり、又、爾後、王の選出には政務委員会の賛成が絶対必要と定められた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:22:46.549980+00:00Z"
     }
   }
 ]

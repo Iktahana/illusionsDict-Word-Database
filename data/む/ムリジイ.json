@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親が子供に自分の夢を無理強いするのは、決して良いことではない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は決して他人から意見を無理強いされることを好まない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "上司に無理強いされて引き受けた仕事だったが、結果的に良い経験になった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そして飲みたくない酒を嘗めさせられ、食いたくない雑煮や数の子を無理強いに食わせられる事に対する恐怖の念をだんだんに蓄積して来たものであるらしい。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T03:36:30.075862+00:00Z",
       "freq_rank": 42868
     }
   }

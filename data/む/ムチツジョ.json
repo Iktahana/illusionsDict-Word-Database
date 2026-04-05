@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "戦争によって、その町は完全な無秩序状態に陥った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の部屋は無秩序で、どこに何があるかわからない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "無秩序な開発は、環境破壊につながる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ともかくも、赤く焼けてくすぶった熔岩や、白ッちゃけた岩脈のくずや、黒い小粒の砂礫が、無秩序に積み累ねられたところは、九千尺に近い山中というよりも、かきや蛤の殻を積み上げた海辺にでも、たたずんでいるようであった。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T03:27:37.161497+00:00Z",
       "freq_rank": 17083
     }
   }

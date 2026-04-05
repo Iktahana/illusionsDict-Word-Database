@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "先日の大型台風による強風で、古い蔵の屋根から棟瓦が数枚剥がれ落ちてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "熟練の職人が屋根の頂点に登り、一枚ずつ丁寧に棟瓦を並べて固定していく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この由緒あるお寺の棟瓦には、精巧な装飾と共に寺紋が深く彫り込まれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "富士駅附近へ来ると極めて稀に棟瓦の一、二枚くらいこぼれ落ちているのが見えた。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:29:06.392865+00:00Z"
     }
   }
 ]

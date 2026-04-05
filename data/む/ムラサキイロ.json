@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "パンジーの花びらには、鮮やかな紫色と黄色が混じり合っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女の誕生日に、紫色を基調としたシックな花束を贈った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "モニターの設定を調整して、紫色の再現度を高めることにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "彼の肘の前にある灰皿の中の、喫ひ終つたばかりの喫殻から登る紫色の煙と、他の古い喫殻にそれが燃え移つて出る茶褐色の毒々しい煙とが、やゝもすれば彼の顔に打つ衝かつたが、そんなことには元来頓着ない彼であつた。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T03:34:30.945097+00:00Z",
       "freq_rank": 19808
     }
   }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は字が読めず、無知文盲の状態で生きてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "戦後の混乱期には、無知文盲の人が多く存在した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "現代社会では、無知文盲は大きなハンディキャップとなる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "今では政治家や実業家の中にもかなりな文芸の理解者があるらしいが、紅葉の小説はその頃からして奥さんやお嬢さんばかりでなく、紳士にも学生にも宗教家にも教育家にも有識者にも無知文盲の俗人にも読まれた。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:27:37.163117+00:00Z"
     }
   }
 ]

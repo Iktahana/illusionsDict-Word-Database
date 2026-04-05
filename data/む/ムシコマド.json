@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古い蔵の二階には、換気のための小さな虫籠窓が付いている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "虫籠窓から差し込む柔らかい光が、薄暗い部屋を優しく照らしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "伝統的な建築様式を守るために、新しい家にも虫籠窓を取り入れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "数寄屋の虫籠窓へ顔を寄せ、しばらく外を探っていたが、庭木に妨げられるので、縁へ立って行くと、「しずかに」　と有村が注意を送った。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:10:59.624463+00:00Z"
     }
   }
 ]

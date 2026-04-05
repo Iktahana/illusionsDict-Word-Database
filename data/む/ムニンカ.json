@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その保育園は無認可だったが、口コミでの評判は非常に高かった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無認可のサプリメントを摂取したことで、健康被害が出てしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "許可を得ずに無認可で路上販売を行っていたため、警察に注意された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一人の男、背が高く、唇がたるみ、ずるそうな目つきの男が、無認可デモでアジることは、昔からの論争、つまり虐げられた労働者と、強欲な資本家の争いのことだ。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T03:26:10.221070+00:00Z",
       "freq_rank": 42920
     }
   }

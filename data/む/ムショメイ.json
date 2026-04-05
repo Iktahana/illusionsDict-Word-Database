@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "インターネット掲示板に、無署名の誹謗中傷が書き込まれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "契約書が無署名のまま放置されているのに気づき、慌てて連絡を入れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無署名の投書が編集部に届いたが、内容に信憑性がないと判断された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "必ずしも女房に限らざるは、『乱脛三本鑓』に「下女を篠山に下し心に懸る山の神なく」とあると無署名で書いたは卓説だ。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:13:40.711625+00:00Z"
     }
   }
 ]

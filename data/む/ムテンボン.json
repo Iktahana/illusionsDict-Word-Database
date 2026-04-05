@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は無点本を白文のまま読み下し、周囲の学生たちを驚かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "江戸時代の学者は、中国から輸入された無点本に自ら訓点を施して学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "貴重な無点本の翻刻にあたり、現代語訳を付す作業が進行中である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "読み書きともに質のよい方で、現に今度の吟味にも四書五経いずれも無点本でお試しにあずかりたいという願書を差し出した程であると、角右衛門は自慢そうに話した。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:24:33.344166+00:00Z"
     }
   }
 ]

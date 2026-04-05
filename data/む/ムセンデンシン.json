@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "100年以上前、タイタニック号が発した無線電信が歴史上初めてのSOSと言われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無線電信の父と呼ばれるマルコーニは、大西洋横断の通信実験に成功した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "無線電信によって、遠く離れた戦地の状況がリアルタイムに本国へ伝えられるようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "当時は世界第一であったナウエンの無線電信発信所を見物したのもこの見学団の一員としてであった。",
@@ -269,7 +294,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T03:23:41.639604+00:00Z"
     }
   }
 ]

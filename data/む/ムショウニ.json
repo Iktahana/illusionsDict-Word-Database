@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "急に甘いものが無性に食べたくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "旅に出たくなって、無性にどこか遠くへ行きたくなった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "久しぶりに会った友人と、無性に昔話に花が咲いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "不意を打たれて芳は危く昏倒せんとして、僅に身を支へた、其處を、勝に乘じた群衆はなほ、執念強く、取り包んで、凡そ息のある限り、滅多無性に打ちすゑんとする、刹那の急。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T03:13:32.142924+00:00Z",
       "freq_rank": 19163
     }
   }
