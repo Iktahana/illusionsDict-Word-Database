@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "商品の返品は、レシートと未開封の状態での戻しが必要です。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "借金の戻しに時間がかかり、彼は焦っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この操作はデータの戻しができないので、注意してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "○○百貨店○○支店の一行は和服が多く、此方は藝者を揚げて三絃の音を響かせて居るが、肝心の本職の藝者の歌謠の節※はしが大分危なつかしく、寧ろ御客の中に一人いゝ聲を出すのが居て、それがやゝもすると外れかゝる調子を引戻して居るのは面白い。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:15:32.008404+00:00Z",
       "freq_rank": 5143
     }
   }

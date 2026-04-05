@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「わー！大変だ！」「いや、餅つけ、餅つけ。落ち着いて状況を把握しよう。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "興奮して早口になる彼に、「餅つけ、餅つけ。深呼吸して、ゆっくり話して。」と声をかけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「もうダメだ、失敗した！」と泣き出す娘に、母親は「餅つけ、餅つけ、大丈夫だから。」と優しく諭した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そういう型のドイツ人らは、民族性たる古い理想主義を嘲って、それを脱却するようなふうを装い、また戦勝に酔って、力と成功とにたいし、自分らがそれをもちつけないことを示す一種の崇拝心をいだいている。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:14:49.255860+00:00Z"
     }
   }
 ]

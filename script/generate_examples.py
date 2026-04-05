@@ -27,11 +27,13 @@ BATCH_SIZE   = 50     # 一回のAPI呼び出しで処理する語彙数（12→
 AUTO_COMMIT_INTERVAL = 1800  # 自動コミットの間隔（秒 = 30分）
 GLOBAL_RPM_INTERVAL  = 1.5   # グローバルリクエスト間隔（秒）≈ 40 RPM
 
-# AIモデル情報（Flash のみ — Pro は 2026/3/25 以降無料利用不可）
+# AIモデル情報
 MODELS = [
     "gemini-2.5-flash",
     "gemini-2.5-flash-lite",
     "gemini-3-flash-preview",
+    "gemini-2.5-pro",
+    "gemini-3.1-pro-preview",
 ]
 
 def parse_retry_delay(err: str) -> int:

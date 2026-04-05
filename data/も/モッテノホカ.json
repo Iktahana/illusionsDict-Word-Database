@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公衆の面前でそんな発言をするなんて、以ての外だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "約束を破る行為は、社会人として以ての外である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「こんなひどい仕打ちをするなんて、以ての外だ！」と彼は怒鳴った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "然るに宮森氏は、外国人の賞讃した批評を自慢らしく列記した後で、この通り外国で好評を博して居り、外国人でさへ賞めてゐるのに、日本人たる小宮氏輩が非難するとは以ての外で、同胞らしくもなく怪しからんことだと言つて怒つてゐる。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:12:15.934657+00:00Z",
       "freq_rank": 29253
     }
   }

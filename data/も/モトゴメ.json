@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その博物館には、幕末に使用された貴重な元込め式の銃が展示されていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "元込めは銃身の根元から弾丸を入れるため、従来の方式より装填が早い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "古い資料を読み解き、当時の兵士たちが元込め銃をどう扱っていたか調査する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これはついこのごろ、紅毛から渡って来た元込め銃――一発、ドンと射つと、それっきり、又込めなければ、つづけて射てぬ、あの古ッくさい、不自由な鉄砲とはちがうのだよ。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:14:27.931637+00:00Z"
     }
   }
 ]

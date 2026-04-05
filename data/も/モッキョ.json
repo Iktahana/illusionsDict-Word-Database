@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "会社は彼の無断欠勤を黙許していたため、同様の行為が頻発した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_jp": "親が子どもの夜遊びを黙許すると、行動はエスカレートするだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_jp": "監督は選手の遅刻を黙許し、チームの規律が緩んでしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この室に居るものは、皆な君の所置｜振に慊焉たらざるものがあるから、将校方は黙許なされても、そんな国賊は、きっと談じて、懲戒を加ゆるために、おのおの決する処があるぞ。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:09:35.132042+00:00Z"
     }
   }
 ]

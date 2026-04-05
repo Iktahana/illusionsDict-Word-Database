@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "経理担当者は、総勘定元帳と領収書を照らし合わせて、計算の誤りがないか確認した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "昔ながらの商家では、分厚い元帳が大切に金庫へ保管されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "システムのトラブルで、元帳のデータが一部破損してしまい、復旧に追われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "お秀は待ちあぐねて兎も角、船を貸すときに客につけさしてある身元帳でも調べてみようと気付いたらしく消えたアセチレンの鑵筒を抱え、ちょっと橋の方を見て家へ入ってしまいました。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:14:27.935261+00:00Z"
     }
   }
 ]

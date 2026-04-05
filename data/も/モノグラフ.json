@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その学者は、植物の生態に関するモノグラフを出版した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "図書館で、彼女の専門分野に関するモノグラフを探している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "モノグラフは、特定のテーマを深く掘り下げた専門書である。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ただ少なくとも、文学的感能を有った、即ち、人間的良識をもった読者ならば、ジャーナリストが創り出す経済・政治・道徳・科学・文学・芸術、其の他に就いての批評・評論の凡てが、学者の学究的な論文やモノグラフと区別される点は、文学的様式に立脚しているという処にあるということを、知っているだろう。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:16:07.528690+00:00Z"
     }
   }
 ]

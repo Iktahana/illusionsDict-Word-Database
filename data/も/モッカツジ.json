@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "かつて木活字は、活版印刷の重要な技術であった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_jp": "博物館には、古い時代の木活字が大切に保存されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text_jp": "当時の印刷職人は、一つ一つ手作業で木活字を彫っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "銅活字はやがて木活字になり、日本の印刷術はしだいに大衆化したが、徳川の中期に近づくと、こんどは木活字が再び木版の再興に壓されてきた、と同書の著者は書いてゐる。",
@@ -254,7 +279,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:09:35.130189+00:00Z"
     }
   }
 ]
