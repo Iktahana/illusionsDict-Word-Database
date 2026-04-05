@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お祭りの人混みの中で親とはぐれてしまい、幼い迷い子が泣きべそをかいている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "迷い子のアナウンスが流れると、サービスカウンターの前には不安そうな母親が立っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は人生の目的を見失い、まるで自分が社会の迷い子になったかのような気分だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "自分独りが、こづき廻されているような、悲しい気持を慰めてもらうのには、前川氏に会うのが、一番だったが、こんな迷い子みたいな今の気持で、前川氏に会うことは、避けたいと思った。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T00:48:17.965321+00:00Z"
     }
   }
 ]

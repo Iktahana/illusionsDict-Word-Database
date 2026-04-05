@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "一部の国では、医療用のマリファナが合法化されているらしい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "マリファナ所持の疑いで、そのミュージシャンは現行犯逮捕された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "違法薬物であるマリファナには、興味本位であっても絶対に関わってはいけない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "さらにたどればビッグ・ブラザーはジョージ・オーウェルの『一九八四』から、ザ・ホールディング・カンパニーはマリファナを持っているという意味のスラングからきている。",
@@ -55,7 +80,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T00:42:09.772296+00:00Z",
       "freq_rank": 26700
     }
   }

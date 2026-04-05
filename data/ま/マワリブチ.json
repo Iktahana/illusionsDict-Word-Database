@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "部屋の壁と天井の境目には、美しい彫刻が施された回り縁があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "和室の回り縁は、部屋全体に落ち着いた雰囲気を与える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "回り縁の色を変えるだけで、部屋の印象が大きく変わる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "次いで村社三島神社境内にある立石――この立石を祀つた遺習が、今の三島神社建立の因となつたと想像される――を見て、暫く神社の回り縁に腰して休む。",
@@ -142,7 +167,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T00:54:31.253307+00:00Z"
     }
   }
 ]

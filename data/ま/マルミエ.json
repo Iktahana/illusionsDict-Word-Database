@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "カーテンを閉め忘れたせいで、部屋の中が外から丸見えになっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "山頂からの景色は遮るものがなく、眼下の街並みが丸見えだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "隠したつもりだったテストの点数が、引き出しの隙間から丸見えだよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "リンガエン湾附近に上陸した皇軍は恐らくベンゲット道路を通ってマニラへ向うと思うが、自分はあのジグザグ道のどこに凸凹があり、どこの曲り角が向うの崖から丸見えかを知っているのだ、バギオにはアメリカの兵舎があり、うっかりベンゲットを通ると危い、どうぞ自分を道案内にしてくれと、頼みこんだ。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T00:51:36.714374+00:00Z",
       "freq_rank": 27800
     }
   }

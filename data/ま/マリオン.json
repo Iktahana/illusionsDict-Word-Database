@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ビルの外壁を垂直に貫くアルミ製のマリオンが、建物のデザインに近代的なリズムを与えている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "窓ガラスをしっかりと支えるマリオンの影が、午後のオフィスビルの中を幾何学的に彩った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "設計図を見ながら、強風に耐えられるだけのマリオンの太さを構造エンジニアと再確認した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "以上にあげたような一流の科学者のほかにたとえばフラマリオンやフルニエー・ダルベのような科学の普及や宣伝に貢献したよい意味でのジャーナリストもあるが、しかしそういうものは純粋の科学者から見ると、どうしても肝心のところに物足りないところのあるのはいかんともすることができない。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T00:40:55.794440+00:00Z",
       "freq_rank": 39507
     }
   }

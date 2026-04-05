@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨の降る日曜日は、家で温かいコーヒーを飲みながら、お気に入りの漫画を読み返すのが一番の幸せだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「この漫画、設定が細かくて伏線回収も完璧だから、絶対に読んでみて！」とクラスメイトに熱弁した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は幼い頃から漫画を描くことに没頭し、教科書の余白はいつも自作のキャラクターで埋め尽くされていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "人前で鼻クソを丸薬にする漫画を描かれた某様は、以後その必要のない時まで丸薬を、今度はオツピラに作りめされる。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T00:54:25.061038+00:00Z",
       "freq_rank": 2439
     }
   }

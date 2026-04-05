@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "木材を正確なサイズに切り出すために、電動の丸のこを使って作業を進める。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "丸のこを使用する際は、怪我を防ぐために保護メガネと手袋を必ず着用しなければならない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "工房から丸のこの回転音が響き渡り、新しい家具作りが始まったことを知らせている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "舟は西河岸の方に倚って上って行くので、廐橋手前までは、お蔵の水門の外を通る度に、さして来る潮に淀む水の面に、藁やら、鉋屑やら、傘の骨やら、お丸のこわれたのやらが浮いていて、その間に何事にも頓着せぬと云う風をして、鴎が波に揺られていた。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T00:49:19.983407+00:00Z"
     }
   }
 ]

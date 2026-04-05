@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "公園の壁には、美しい蔓性植物が絡みついていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "庭に蔓性植物を植えて、緑のカーテンを作った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "蔓性植物は、フェンスやパーゴラの装飾によく使われる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "建物全体が山の険しい斜面に、原始的な松柏科の森林につつまれて建ち、この上もなくよい香を放つ蔓性植物や花の下生が、人の手による精巧極まる仕事の豊かな骨組みをなしていることは、日光をして一層感銘深いものにしている。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:07:12.599718+00:00Z"
     }
   }
 ]

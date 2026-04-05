@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その提案は、満場一致で採択された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "我々のチームは、満場一致で彼をリーダーに選出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この決定は、満場一致の意見に基づいて行われた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そうしてことしの二月、日本は北方の強大国露西亜に対して堂々と戦を宣し、日本の青年たちは勇躍して戦場に赴き、議会は満場一致で尨大の戦費を可決し、国民はあらゆる犠牲を忍んで毎日の号外の鈴の音に湧き立っている。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:07:12.588714+00:00Z",
       "freq_rank": 29204
     }
   }

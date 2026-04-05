@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "伝説の杖を手にすると、全身に強大な魔力がみなぎるのを感じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女の歌声には、聴く人を瞬時に虜にする不思議な魔力が宿っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「MPが足りなくて、これ以上の魔力を行使することができない！」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "思ふに、ああした魔力ある彼の言葉は、彼の不思議な天賦の性情から、自然と湧き出づる人格のリズムであつて、断じて彼以外の者の追蹤を許さない秘密であらう。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T00:42:09.773214+00:00Z",
       "freq_rank": 16231
     }
   }

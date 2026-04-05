@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ホテルは観光客でいっぱいで、どこも満室だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "人気の旅館は、週末は常に満室になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "年末年始は、多くの宿泊施設が満室になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "また日高郡丹生川大字大谷に、蚯蚓小屋ちゅうは昔ここの杣小屋へ大蚯蚓一疋現われしを火に投ずると、暫くの間に満室蚯蚓で満たされその建物倒れそう故逃げ帰った、その小屋｜址という。",
@@ -77,7 +102,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T00:55:32.783166+00:00Z",
       "freq_rank": 32965
     }
   }
