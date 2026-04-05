@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "門衛が厳重に警備しているため、部外者は入れない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は長年、城の門衛を務めてきたベテランだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "門衛に身分証を提示して、敷地内に入った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "カバレット・バビロンの白煉瓦の高層な建物から流れるワルツの曲が街角に直立した赤い帽子の印度巡査をモスモロスの道化役者風にしたててバビロンの入口の廻転ドアの前に金モールのいかめしい英国人の門衛が莞爾とした笑いをたたえている。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:33:49.528588+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "豊かな藻場は、多くの海洋生物にとって重要な生息地だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ダイビングで美しい藻場を観察し、魚たちが群れているのを見た。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "環境保護のため、貴重な藻場を守る活動が行われている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "内地米と外米の五分五分の混合、あるいは六分四分の混合に平麦を加えるとどうもばらつきようがひどいので糯米を二分ほど加えてみた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:23:05.836189+00:00Z"
     }
   }
 ]

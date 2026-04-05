@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "こんな暑い日にマラソンするなんて、本当に物好きだね。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "物好きにも程がある、と彼は呆れたように言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "私の趣味はかなり物好きだと思われるかもしれない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "更に四十八手を分析したら槓杆の原理のみならずあらゆる力学上の原理の応用が見つかるに相違ない、例えば体量の少ない力士が大きい敵手にぶつかる場合には速度の大小でどれだけの効果があるかという事あるいは敵の運動量を利用して強敵を倒す事など物好きな学者の研究によって明らかになりそうな事である。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:16:48.895095+00:00Z",
       "freq_rank": 28615
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "お祝いの席には、お刺身の盛り合わせが欠かせない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この居酒屋は、旬の魚介の盛り合わせが人気だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "野菜の盛り合わせを注文して、色々な種類の野菜を味わった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "筋の通った劇よりも、筋はなくて刺戟と衝動を盛り合わせたレビューの流行る現代に、同じような傾向が色々の他の方面にも見られるのは当然のことかもしれない。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:29:49.780165+00:00Z",
       "freq_rank": 28839
     }
   }

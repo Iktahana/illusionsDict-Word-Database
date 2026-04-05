@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は有名な画家のスタイルを模倣して、新しい作品を生み出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供は親の行動を模倣することで、社会性を学んでいく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の英語の発音はネイティブスピーカーを模倣しており、とても自然だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "――私と北原白秋氏とは彼の最初の知己であつた――あまつさへ、私自身しばしば彼の表現を模倣しようとして、愚かな失敗を繰返したことさへある。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:29:13.987908+00:00Z",
       "freq_rank": 9053
     }
   }

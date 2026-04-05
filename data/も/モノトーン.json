@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女はモノトーンの服で、シックに決めている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この部屋はモノトーンで統一されていて、落ち着いた雰囲気だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "モノトーンの写真は、被写体の持つ力強さを際立たせる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "アイ・ニード・サムバディ」というジョンの声が入り、モノトーンの画面に、大きな指輪をしたリンゴの右手が映しだされると、あちこちから歓声があがり、たいへんなことになった。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:16:48.903094+00:00Z",
       "freq_rank": 42022
     }
   }

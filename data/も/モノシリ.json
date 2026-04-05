@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は歴史の物知りで、どんな質問にも答えてくれる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は物知りなので、色々なことを教えてもらえる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの教授は学問の分野ではかなりの物知りだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "博識の人が、おのれの知識を機会ある毎に、のこりなく開陳するというのは、極めて自然の事で、少しも怪しむに及ばぬ筈であるが、世の中は、おかしなもので、自己の知っている事の十分の一以上を発表すると、その発表者を物知りぶるといって非難する。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:16:48.893154+00:00Z",
       "freq_rank": 42428
     }
   }

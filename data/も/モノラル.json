@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔の映画はモノラル音源だが、それがかえって独特の趣を感じさせる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "このスピーカーはモノラルだが、驚くほどクリアで迫力のある音が鳴る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ステレオ放送が普及する前は、テレビの音声も全てモノラルだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": []
         }
       }
@@ -46,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:25:40.457378+00:00Z",
       "freq_rank": 36879
     }
   }

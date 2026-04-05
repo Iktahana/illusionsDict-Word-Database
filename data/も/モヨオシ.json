@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "市役所の広場で、地元の特産品を集めた賑やかな催しが開かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「今度の日曜日に、チャリティーの催しがあるんだけど一緒に行かない？」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "伝統文化を継承するための催しが、若者たちの手によって企画された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "上陸当初の日に一瞥して嘔吐を催し、現代日本の醜悪面を代表する都会と罵り、世界のどんな汚い俗悪の都市より、もっと殺風景で非芸術的な都市と評した東京は、彼が死んでも住みたくない所であった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:38:11.357560+00:00Z",
       "freq_rank": 10353
     }
   }

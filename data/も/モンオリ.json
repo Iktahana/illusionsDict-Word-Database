@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この帯は、美しい花柄の紋織りでできている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "京都では、伝統的な紋織りの技術が今も受け継がれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "紋織りのネクタイは、フォーマルな場で活躍する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "礼拝者の人たちは見えなかったのですが、そこに集まっているのはいずれも天鵞絨や紋織りの衣服を着て、羽根毛のついている帽子をかぶって、むかしふうの佩剣をつけている人びとばかりであるのに驚かされました。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:33:49.528978+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は常にチームの模範となる行動を心がけている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の優れた研究は、後進の模範とされている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "先生は、私たちに模範を示すために、率先して行動した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "またあの、犬、猿、雉の三匹の家來も、決して模範的な助力者ではなく、それぞれに困つた癖があつて、たまには喧譁もはじめるであらうし、ほとんどかの西遊記の悟空、八戒、悟淨の如きもののやうに書くかも知れない。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:23:05.833750+00:00Z",
       "freq_rank": 13466
     }
   }

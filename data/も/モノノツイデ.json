@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "買い物に行ったもののついでに、銀行に寄ってきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "散歩のもののついでに、近所の郵便局で用事を済ませた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "出張のもののついでに、観光も楽しんできた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "おばあさんの顔と母親の顔とがよく似ているところから見ると、これはおかみさんが子供をつれての買い物のついでに、里の母親を誘って食堂をふれまうという場面らしい。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:22:15.524142+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "舞台役者は、長いモノローグを感情豊かに語り、観客を魅了した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "映画の冒頭で主人公のモノローグが流れ、物語の世界観が示された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は常に自分の考えをモノローグのように独り言でつぶやく癖がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "語りぶりも初めのうちは山田に毒づいてゐるやうであつたのが次第にモノローグ化して行き、俺はこんなことを喋りまくつてゐるが、しかしこの俺は今後どうして行つたらいいのだらう、とでも思ひ迷つてゐるかのやうであつた。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:23:05.828063+00:00Z",
       "freq_rank": 29947
     }
   }

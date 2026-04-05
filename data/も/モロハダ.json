@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は興奮して、もろ肌をあらわにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夏の祭りでは、もろ肌姿で神輿を担ぐ男たちの熱気がすごい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "風呂上がりの父は、いつももろ肌のままでくつろいでいた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "もろ肌ぬぎて、翼を負ひたる、あはれなる小兒等は、高卓の前に立ちて、神の使の歌をうたひて、行列の來るを待てり。",
@@ -150,7 +175,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T05:33:49.521156+00:00Z"
     }
   }
 ]

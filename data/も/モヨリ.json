@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "詳しい場所は、お近くの最寄りの役所にお問い合わせください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "コンビニで支払いを済ませるため、最寄りの店舗まで歩いて行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「何かあったら、すぐに最寄りの交番に駆け込みなさい」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それで読者のうちで過去あるいは将来に類似の現象を実見された場合には、その時日、継続時間、降水の形態等についての記述を、最寄りの測候所なり気象台なり、あるいは専門家なりへ送ってやるだけの労を惜しまないようにお願いしたい。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:38:11.358805+00:00Z",
       "freq_rank": 24667
     }
   }

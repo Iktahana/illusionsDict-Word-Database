@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "剣道では、諸手で竹刀を構えるのが基本だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は、諸手で重い荷物を軽々と持ち上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は諸手を合わせて、真剣な面持ちで願った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これより後なお真の友義というものわれらが中に絶えずば交わりは勉めずとも深かるべし、ただわが言うべきを言わしめたまえ、貴嬢のなすべきことは弁解を力むることにはあらで、諸手を胸に加え厳かに省みたもうことなり、静かにおのが心を吟味したもう事なり、今われ実にかの人を愛するや否やと。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:32:42.099897+00:00Z",
       "freq_rank": 5892
     }
   }

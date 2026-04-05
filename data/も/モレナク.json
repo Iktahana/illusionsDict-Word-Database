@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "参加者全員に漏れなく資料が配布されたことを確認してください。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "チームメンバー全員に漏れなく情報が行き渡るよう、メールで連絡した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "このアンケートは、お客様の意見を漏れなく集めるために実施します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "先生が教室へはいっていらっしゃると同時に、クラス会の新幹事の矢島が、つと立って行って黒板に、明日クラス会開催の事を記し、そうして、全部漏れなく出席せられたし、と書き添え、それから「漏」という字に二重丸を附けた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:32:42.088522+00:00Z",
       "freq_rank": 26248
     }
   }

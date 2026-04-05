@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔は夕方になると、豆腐や竿竹の物売りの声が近所に響いていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "東南アジアの市場では、威勢のいい物売りたちが観光客に声をかけている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼は物売りとして各地を渡り歩き、その土地の珍しい品々を売っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ある日の午前に日比谷近く帝国ホテルの窓下を通った物売りの呼び声が、丁度偶然そのときそこに泊り合わせていた楽聖クライスラーの作曲のテーマになったという話があったようである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:19:17.456965+00:00Z",
       "freq_rank": 37586
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "真夜中に階下で不審な物音がしたので、バットを持って様子を見に行った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "静まり返った図書館の中で、本を落とした物音が大きく響き渡った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "「外で変な物音がしなかった？」と妻が不安そうな声を上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "いやしくもその詩興を損い、趣味を害するようなものは――人でも、家具でも、物音でも――絶対にその家庭に入れなかった。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T05:19:17.462474+00:00Z",
       "freq_rank": 25543
     }
   }
