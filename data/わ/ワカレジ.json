@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "親友と同じ人を好きになってしまい、私たちは友情と恋の別れ路に立たされた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "あの時、別の選択をしていれば、こんな悲しい別れ路を歩むことはなかったのだろうか。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "意見の対立から、長年連れ添ったビジネスパートナーと別れ路を行くことになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "別れ路に添へし小櫛をかごとにてはるけき中と神やいさめし　この御歌に源氏は心の痛くなるのを覚えた。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T12:41:51.485129+00:00Z"
     }
   }
 ]

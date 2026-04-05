@@ -31,7 +31,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "薬効があると言われる山葵の木の実を煎じて飲んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "目に煙がはいったときや、わさびのきき過ぎたすしを食ったときにこぼす涙などは上記のものとは少し趣を異にするようである。",
@@ -62,7 +71,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:01:32.881443+00:00Z"
     }
   }
 ]

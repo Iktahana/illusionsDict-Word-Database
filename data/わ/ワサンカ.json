@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "博物館の特別展で、江戸時代の著名な和算家たちの生涯について学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史学者は、和算家たちが西洋数学に先駆けて複雑な計算方法を発見していたことを指摘した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あの先生は、まさに現代の和算家だな」と、彼は敬意を込めて言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "爾後明治の初年に至るまで多くの和算家が輩出したが、この一事は日本人においてもまた抽象的論理的能力が決して欠けているものでないことを示す一つの実証として、われわれの大いに意を強うするに足りるものである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:03:32.924245+00:00Z"
     }
   }
 ]

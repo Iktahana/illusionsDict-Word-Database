@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "長引く紛争の終結のため、両国は和議のテーブルについた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "歴史書には、かつて行われた数々の和議についての記録が残されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "和議が成立し、ようやく平和な時代が到来した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其年の九月には家康から使が来、又十二月には玄越というものを遣わして、関白の命を蒙って仙道の諸将との争を和睦させようと存じたが、承れば今度和議が成就した由、今後｜復合戦沙汰になりませぬよう有り度い、と云って来た。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:01:06.059477+00:00Z"
     }
   }
 ]
