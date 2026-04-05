@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "漢方薬の原料として、古くから熊胆が珍重されてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は腹痛の時に、祖母から譲り受けた熊胆を少し舐めていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "市場で売られている熊胆は非常に高価だが、その薬効は多くの人に信じられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "予往年大阪の老いた薬商に聞いたは、虎皮上で竜虎采戦の秘戯をすると二人とも精神｜茫空す熊胆を服めば本復すと。",
@@ -172,7 +197,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:59:35.729641+00:00Z"
     }
   }
 ]

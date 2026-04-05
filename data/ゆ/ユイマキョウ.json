@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "維摩経は、在家信者である維摩詰の智慧を描いた経典だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は熱心に維摩経を読み込んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "維摩経には、言葉を超えた真理が説かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "太子さまは、万機を摂政せらるるお忙しき中に、経を講ぜられ、また、その註釈を作られましたが、その経は、法華経、勝鬘経、維摩経の三つでありまして、大乗経典中の最も大乗的のものであります。",
@@ -222,7 +247,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:48:40.981492+00:00Z"
     }
   }
 ]

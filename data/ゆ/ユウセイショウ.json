@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "郵政省は、かつて日本の郵便、貯金、保険事業を管轄していた国の機関でした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "大学の講義で、郵政省が民営化されていく過程について学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "現在の総務省の一部は、かつての郵政省の業務を引き継いでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（このうち、「キリスト教早わかり」という一篇は、前に郵政省の「教養の書」叢書の一つである拙著『キリストの生涯』の付録として出版されたことがあるが、郵政省の了解を得て本書に加えた。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:56:37.920049+00:00Z",
       "freq_rank": 10553
     }
   }

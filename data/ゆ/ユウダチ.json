@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "暑い夏の午後、突然の夕立がアスファルトを叩きつけ、涼しい風を運んできた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "夕立の合間から差し込む光が、濡れた葉をキラキラと輝かせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "「あっ、夕立だ！早く家に入ろう！」と子供たちは叫んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昨日迄大変暑かつたのにも今日はボンヤリした日が射してゐて、時々夕立でも降らせさうな雲の塊が乾き切つた庭の土を薄暗くしたり、そして稀々しくも地面を匍ふやうな微風が所々に生えた雑草などを揺るので、私の心は思ひ出を巡るに似合はしい気分になつて、その蛇の思ひ出はだんだん拡がつていつた。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T07:01:26.100512+00:00Z",
       "freq_rank": 34832
     }
   }

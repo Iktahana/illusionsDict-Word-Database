@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "地震の後、山の斜面から新しい温泉が勢いよく湧出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "油田からは、黒い原油が止めどなく湧出し続けている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "洞窟の奥深くから、清らかな地下水がこんこんと湧出していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "我が日本アルプスでも、上高地は、私が明治三十五年に、白骨温泉から梓川を渉って、霞沢岳を踰え、この峡谷に下りて、槍ヶ岳へ登ったときは、夏とはいえ、寂寥無人、太古の如き感があって、温泉の湧出はあっても、今日のような宿屋は、まだ建っていなかった。",
@@ -288,7 +313,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:52:08.882385+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夕方になると、子供たちが公園で元気に遊び始める。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ああ、もう夕方だ。そろそろ家に帰らないと。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夕方から雨が降り出すという予報が出ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "宗教に入つて、尠くも朝と夕方に、帰依する気持があれば、謙譲は持続しやすく、さうであれば、詩的恍惚もミツチリと感じられ、漸次に味の深いものが、生れるやうになる筈だと思つた。",
@@ -285,7 +310,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T06:47:52.493752+00:00Z",
       "freq_rank": 2249
     }
   }

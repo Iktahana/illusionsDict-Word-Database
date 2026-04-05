@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼の雄弁な演説は、聴衆の心を掴んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は雄弁に自分の意見を述べ、会議を主導した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の雄弁な語り口は、人を惹きつける力がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何故なら、個性といふものが、独自の働きをするものであるからは、対人圏に於て、或ひは人中に於て、所謂「パツとしたもの」、則ち雄弁なものではないからだ。",
@@ -253,7 +278,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T07:06:44.699080+00:00Z",
       "freq_rank": 23551
     }
   }

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "その施設は、最新鋭の医療機器を有している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は優れた語学力を有しており、多方面で活躍している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この権利は、すべての市民が平等に有するものである。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "新短歌のみならずすべて一呼吸詩歌（私は短歌や俳句や新短歌を今仮りにさう呼ぶ）が、その詩歌の中に生活を見出すものでなくて、生活の傍に生ずるものとしてだけ意義を有するものであるといふことを、左にもう少し言添へよう。",
@@ -277,7 +302,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T07:04:58.383544+00:00Z",
       "freq_rank": 4414
     }
   }

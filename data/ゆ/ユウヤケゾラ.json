@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "飛行機の窓から、燃えるような夕焼け空が見えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "公園のベンチに座って、二人で美しい夕焼け空を眺めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夕焼け空の下、一日を終える鳥たちがねぐらに帰っていく。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あの頃と異わず私を受け入れて呉れるのは春の複雑な陰翳を持つ連山と、遠くや近くの森、ゆるやかな起伏を以て地平線迄つづく耕地、渡り鳥が翔ぶ、素晴らしい夕焼け空などである。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:07:37.054089+00:00Z"
     }
   }
 ]

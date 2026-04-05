@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "有機化学は、炭素化合物の構造、性質、反応を研究する学問だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は大学で有機化学の教授を務め、多くの学生を指導してきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "私たちの身の回りには、有機化学の知識が応用された製品がたくさんある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "（昭和十年十月十四日）　　　　　　　＊　ある日電車の中で、有機化学の本を読んでいると、突然「琉球泡盛酒」という文字が頭の中に現われたが、読んでいる本のページをいくら探してもそんな文字は見つからなかった。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:47:52.499169+00:00Z"
     }
   }
 ]

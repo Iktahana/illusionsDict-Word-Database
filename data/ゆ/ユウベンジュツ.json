@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は雄弁術の講義を受講し、スピーチの技術を磨いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "古代ギリシャでは、雄弁術は重要な教養の一つだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の雄弁術は、多くの人を納得させる力を持っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "雄弁術といふものを正統的に育てて来なかつた国だから、それも無理はないのであるが、しかし、私がここで云はうとするのは、必ずしも、さういふ限られた技術の問題ではない。",
@@ -220,7 +245,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:06:44.699774+00:00Z"
     }
   }
 ]

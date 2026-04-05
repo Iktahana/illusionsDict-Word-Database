@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この洗剤の有効成分は、頑固な油汚れを強力に分解する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "医薬品の容器には、有効成分とその含有量が明記されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "植物から抽出された有効成分が、化粧品に配合されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "この植物は馬鈴薯類に属するもので其の有効成分マンドラゴリンは、わが国に産する「きちがひなすび」の毒成分「アトロピン」と同じ作用を有するのであつて、往時人々は麻酔剤として用ひ、ことに屡々外科手術の際に応用した。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:53:10.727350+00:00Z"
     }
   }
 ]

@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は理不尽な扱いに、心の中で憂憤を感じていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "友人の死を知り、彼女は深い憂憤に沈んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "国民の憂憤が募り、デモが頻発するようになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "楚の屈原の憂憤を叙して、そのまさに汨羅に身を投ぜんとして作るところの懐沙之賦を長々と引用したとき、司馬遷にはその賦がどうしても己自身の作品のごとき気がしてしかたがなかった。",
@@ -133,7 +158,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:06:44.695783+00:00Z"
     }
   }
 ]

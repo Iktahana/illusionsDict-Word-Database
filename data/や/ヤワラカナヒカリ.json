@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "朝日が柔らかな光となって部屋に差し込む。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "キャンドルの柔らかな光が、ロマンチックな雰囲気を演出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "柔らかな光の中で、静かに本を読んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "日ざしは、そのカーテンを通して射し入って、柔らかな光を、彼女のふさふさした金色の髪や、その清らかな首筋や、流れ下る肩の曲線や、優しい安らかな胸のあたりに、ふりそそいでいた。",
@@ -117,7 +142,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:42:44.056970+00:00Z"
     }
   }
 ]

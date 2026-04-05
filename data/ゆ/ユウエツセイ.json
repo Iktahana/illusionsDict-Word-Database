@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この技術は、競合製品に対する圧倒的な優越性を持つ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は自分の理論の優越性を熱弁した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そのチームは、身体能力の優越性で試合を制した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こゝで私の批判者たちが、文学は形象の文字で語られねばならぬといふ点を重視して、レーニンの歯車とネヂの説を曲解し、この一語によりてマルクス主義文学に於ける政治的優越性が消散してしまふやうに説いてゐるのは甚だしい間違ひである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:45:56.238318+00:00Z"
     }
   }
 ]

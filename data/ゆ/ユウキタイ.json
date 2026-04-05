@@ -29,7 +29,16 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "生物は複雑な有機体であり、その機能はまだ完全に解明されていません。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "しかし詩の思念といふものは、詩の言葉の包有してゐる連想や、イメーヂや、韻律やの中にふくまれ、化学的に分析できない有機体となつて生きてるのだから、原詩の文学的構成だけを訳したところで、詩の意味を伝へることは出来やしない。",
@@ -260,7 +269,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T06:48:45.353835+00:00Z"
     }
   }
 ]
