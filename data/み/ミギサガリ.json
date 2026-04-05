@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "このグラフは、売上が右下がりの傾向を示している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女のやる気は右下がりで、最近は集中できていないようだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "プロジェクトの予算は、予想以上に右下がりに減少している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「この右下がりの筆癖は、お前に解らない筈はあるまい」「亡くなつた主人の字にも似て居りますが――」「まだ外にこんな字を書く者があるだらう」「へエ――」「誰だ」　平次の問ひは假借しませんでした。",
@@ -85,7 +110,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:24:32.111543+00:00Z"
     }
   }
 ]

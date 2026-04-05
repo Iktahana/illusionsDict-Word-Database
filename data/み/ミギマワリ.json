@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この公園のジョギングコースは、歩行者の安全のために右回りと決められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "山手線の電車には、右回りの「外回り」と左回りの「内回り」がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ダンスのステップで、パートナーの手を引いて華麗に右回りに一回転した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "まさかに、右ききの人間は右回りの傾向があるとかいうわけでもあるまいし、体操の時に「回れ右」をするが「回れ左」はやらない事と関係があるわけでもないだろうし、ただ自分に限られた習癖に過ぎないかもしれない。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:37:06.232391+00:00Z"
     }
   }
 ]

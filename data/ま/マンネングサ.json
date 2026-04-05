@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "庭の手入れが簡単な万年草は、ガーデニング初心者にもおすすめだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "石垣の隙間から、小さな万年草が顔を出していた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "万年草は乾燥に強く、日当たりの良い場所を好む。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "こんな宿にも盆栽の数鉢はある、鳳仙花、唐辛、蘭、万年草など、おしやべりの、きかぬ気の小娘の丹青だ、日本人はうれしいなと思ふ。",
@@ -126,7 +151,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:08:26.922915+00:00Z"
     }
   }
 ]

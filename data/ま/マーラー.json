@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この四川料理は、麻辣が効いていて、一口食べると舌がピリピリする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "最近、コンビニでも麻辣味のスナック菓子がよく売られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は麻辣の刺激的な辛さが大好きで、どんな料理にも唐辛子と花椒を加える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "何のことはない妄想家流であつて、ジャズだつてオネガだつてアッターベルヒだつてラヴェルだつてシトラウスだつてマーラーだつて、妄想家流――といつて妥当でなければ幻想家流である。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:14:45.754383+00:00Z",
       "freq_rank": 17712
     }
   }

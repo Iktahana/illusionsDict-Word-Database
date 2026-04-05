@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この研修は、未経験者でも安心して参加できるように工夫されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "チームに未経験者が加わったので、丁寧に指導する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は未経験者ながら、すぐに仕事を覚えてくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ベーシックとはどんな言語であり、どういった方針で手作りの開発作業を進めていくか、大枠の方針を示したアリソンは「作業は特に未経験者にとっては容易なものではなく、一人でかかれば開発に六か月程度はゆうに要してしまう」と断ったうえで、このプロジェクトへの積極的な参加を呼びかけた。",
@@ -76,7 +101,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:25:52.445431+00:00Z"
     }
   }
 ]

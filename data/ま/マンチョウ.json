@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "砂浜を散歩するには、満潮時を避けるのが良い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "潮見表によると、今日の満潮は午後3時頃だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            },
+            {
+              "text": "満潮時には、海岸線が大きく後退する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash-lite"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "これは月と太陽との引力のために起るもので、月や太陽が絶えず東から西へ廻るにつれて地球上の海面の高く膨れた満潮の部分と低くなった干潮の部分もまた大体において東から西へ向かって大洋の上を進んで行きます。",
@@ -270,7 +295,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:11:13.436240+00:00Z",
       "freq_rank": 40641
     }
   }

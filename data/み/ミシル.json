@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "群衆の中に懐かしい顔を見知り、思わず大きな声で名前を呼んでしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "何度かテレビで見知ったことのある有名人が、隣のテーブルで食事をしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "地図で何度も見知っていた場所だが、実際に訪れてみるとその広大さに圧倒された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "其雲やがて破れて、その破れたる方より風吹くと聞きたれど、市中にのみ住める身の、未だよく見知るべき時にあはざるこそ口惜けれ。",
@@ -213,7 +238,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:27:56.088667+00:00Z"
     }
   }
 ]

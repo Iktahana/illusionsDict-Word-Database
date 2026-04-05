@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "容疑者の身柄は、警察署に拘留されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "遠方に住む高齢の親の身柄を引き取り、一緒に暮らすことにした。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は事件の関係者として、警察に身柄を確保された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "相当な身柄の家に育つただけに青木さん夫婦は相方共に品のいい十人｜並な容姿の持主で、善良な性格ながらまた良家の子らしい、矜｜持と、幾らか見えを張るやうな※質もそなへてゐた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:20:25.470507+00:00Z",
       "freq_rank": 15818
     }
   }

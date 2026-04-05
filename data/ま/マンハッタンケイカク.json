@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "歴史の教科書でマンハッタン計画について学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "マンハッタン計画は、第二次世界大戦中に進められた極秘プロジェクトだった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "映画でマンハッタン計画の開発秘話が描かれていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マンハッタン計画を組織した科学行政官、ヴァネーヴァー・ブッシュがまとめ、原爆投下直前に発表することになった〈考えるための機械〉を論じる原稿は、レイテ島で本国への帰還船を待っていた若きダグラス・エンゲルバートの胸に、小さな灯をともしました。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:12:51.263008+00:00Z"
     }
   }
 ]

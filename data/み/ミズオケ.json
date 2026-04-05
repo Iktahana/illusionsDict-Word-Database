@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "雨水を貯めるために、大きな水桶を設置した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "屋根から落ちる雨水が、水桶に勢いよく流れ込む。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "干ばつの時期には、水桶に貯めた水が貴重になる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "初めて雪に触れたのは、七、八合目の間であった、殊に八合目の室だけは、どういうものか、半ば戸が開いて、中の水桶には厚氷が張り詰めている、誰かが捨てて行った手拭は、板のように硬くシャチ張っている。",
@@ -302,7 +327,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:31:54.694890+00:00Z"
     }
   }
 ]

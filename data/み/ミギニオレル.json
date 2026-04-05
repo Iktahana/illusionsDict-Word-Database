@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この先の信号を右に折れると、目指している大きな図書館が見えてきます。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "車のカーナビが「三百メートル先を右に折れてください」と指示を出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "地図を見ながら「この細い路地を右に折れるはずなんだけど」と首をかしげた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "形のいい鼻の粗い魅力がうす黒い建物に吸いこまれると灰色のホテルの壁にそって彼女の影がコンクリートの階段を中年女の靴音をのこして一歩、一歩、女の強い忍従が右に折れると、或る部屋の扉を繊奢な澱みもなく暴々しくノックした。",
@@ -189,7 +214,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:37:06.224391+00:00Z"
     }
   }
 ]

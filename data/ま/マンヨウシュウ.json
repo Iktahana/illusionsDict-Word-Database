@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "『万葉集』には、天皇から庶民まで幅広い階層の人々が詠んだ歌が収められている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "彼女は『万葉集』に登場する恋の歌をモチーフにして、一編の小説を書き上げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "図書館の書棚から、注釈の付いた分厚い『万葉集』を手に取ってページを捲る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ある時ヘルンから万葉集の歌を質問され、答えることができなかったので、泣いてその無学を詫び、良人に不実の罪の許しを乞うた。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:12:04.683710+00:00Z",
       "freq_rank": 22325
     }
   }

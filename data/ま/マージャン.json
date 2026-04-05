@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "週末は友達と集まって、徹夜で麻雀を楽しんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "麻雀のルールは複雑だけど、一度覚えると面白いよ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔はよく麻雀を打っていたけど、最近はめっきりやらなくなったな。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "つまりかうした作家たちが、詩や俳句を作るのは、飽食の後で一杯の紅茶をのんだり、或は労作の汗を流し、一日の仕事を終つた後で、浴衣がけに着換へて麻雀でもする気持なのだ。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:13:43.699974+00:00Z",
       "freq_rank": 10737
     }
   }

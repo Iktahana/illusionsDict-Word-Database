@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "哲学の講義で、新カント派のマールブルク学派について深く学んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "マールブルク学派は、認識論を中心に据えた独自の哲学を展開した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の研究テーマは、マールブルク学派とフッサール現象学の比較だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "又他方に於て現に、カントのアプリオリの持つ不変性をすてて却ってカントの立場を発展させたと見做されているマールブルク学派のカント主義が存在しているのである（Natorp, Kant und die Marburger Schule 参照）。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:14:45.756308+00:00Z"
     }
   }
 ]

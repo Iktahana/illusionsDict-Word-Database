@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "引き出しの奥から、数年前に買った未使用のままのクオカードが出てきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "この化粧品は未使用品ですが、外箱に少し傷があるため安く出品します。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "未使用の有給休暇がたまっているので、来月は一週間ほど旅行に行く予定だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "「紀州ならずや」呼びかけてその肩に手を掛けつ、「独りいずこに行かんとはする」怒り、はた喜び、はた悲しみ、はた限りなき失望をただこの一言に包みしようなり。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:27:56.085969+00:00Z"
     }
   }
 ]

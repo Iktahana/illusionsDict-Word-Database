@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "祖父は昔、ダンスホールで軽快なマンボを踊るのが趣味だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "陽気なマンボのメロディが流れてくると、思わず体がリズムを刻み出す。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "喫茶店の片隅で、古いマンボのレコードが静かに回っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "マンボウという直径一間もあるまんまるい大きな魚があるが、あの肉と骨と皮をしぼって汁をとり臓物を味噌煮にして食うとアンコウ以上にうまいかも知れぬ。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:12:04.672155+00:00Z",
       "freq_rank": 41726
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古事記や万葉集の表記に使われている万葉仮名を解読するのは、至難の業だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "漢字の音と訓を巧みに使い分けた万葉仮名は、日本語表記の原点とも言える。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "自分の名前を万葉仮名で書いてみると、どこか雅な印象を受けるから不思議だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一　奈良朝の音韻組織　奈良朝時代の文献の中に、国語の音を漢字（万葉仮名）で写したものを見るに、同じ語はいつも同じ文字で書いているのではなく、種々の違った文字をもって写している。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:12:04.683367+00:00Z"
     }
   }
 ]

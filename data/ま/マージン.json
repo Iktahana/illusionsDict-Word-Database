@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この商品の販売マージンは、思ったよりも少ない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "論文を書くときは、上下左右に適切なマージンを取ることが重要だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はギリギリのところで間に合ったが、ほとんどマージンがなかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "氷面以下の調査と複写にかれこれ五時間は連続点灯させてきたので、いかに特殊な処方の乾電池とはいえ精々もっても後四時間程度なのが明白だった――尤も、特に興味深い場所あるいは難所以外は懐中電灯のうち一本を点灯させずにおくことでこの限界を越えて安全マージンをなんとか確保できるだろう。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T01:13:43.703014+00:00Z",
       "freq_rank": 17433
     }
   }

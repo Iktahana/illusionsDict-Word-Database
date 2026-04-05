@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "静かな森の中で、小川の水音が心地よく聞こえる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "夜中にふと目が覚めると、雨の水音が窓を打っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "庭のししおどしが、定期的に「カコーン」と水音を立てていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "蝶ヶ岳から短沢へ下りて来た自分は、先ずこの清い流れに嗽ぎもし、頭も洗い、顔も拭いた、気が遠くなるような悪臭の蕕草を掻き分けたことや、自分の肩から上を気圏のように繞ぐっていた蚋の幾十｜陣団やに窒息するかと苦しんだことも、夢の谷へ下りては、夢のように消えて、水音は清々しい。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T01:32:59.118202+00:00Z"
     }
   }
 ]
