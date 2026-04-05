@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "街角の小さな洋菓子屋で、焼き立てのケーキを買った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は将来、自分だけの洋菓子屋を開くことを夢見ている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この辺りで一番美味しいと評判の洋菓子屋を訪れた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ついでに日本で一般にケーキと呼ばれて広まっているところの菓子のまずさと、西洋菓子屋の店頭に並べてあるところのリボンのかかった美しい箱入の洋菓子の味なさかげんを嘆じてこの稿を終わる。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:41:08.114123+00:00Z"
     }
   }
 ]

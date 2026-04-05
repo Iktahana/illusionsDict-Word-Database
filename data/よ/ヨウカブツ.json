@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "海藻類は、私たちの食生活において重要なヨウ化物の供給源だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "体内のヨウ化物濃度が低いと、甲状腺機能の低下を引き起こすことがある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "医師は患者に、ヨウ化物を豊富に含む食品を摂取するよう勧めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "詳細な研究は大部分のアブラナ（Brassica）属の植物および未処理の大豆は甲状腺腫を起こす活性を持ち、この活性に高濃度のヨウ化物の反応することが示された。",
@@ -54,7 +79,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:41:08.106015+00:00Z"
     }
   }
 ]

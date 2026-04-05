@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "江戸の町には、楊弓店が数多く存在し、様々な客で賑わっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼が足繁く通う楊弓店は、表向きは健全な娯楽施設だった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "小説の中では、楊弓店の裏側で繰り広げられる人間模様が描かれている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "そこは、むかし大川の河口の三角洲があったのを埋立てた土地で、母の若い時分は芝居小屋があったり、楊弓店があったり、かなりな盛り場だったそうですが、今は全く普通の住家町になって、船つきに便利な為めか倉庫が多いようです。",
@@ -116,7 +141,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:48:44.101645+00:00Z"
     }
   }
 ]

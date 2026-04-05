@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "幼くして両親を亡くした彼女は、優しい養方夫婦のもとで幸せに育った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "養方から送られてきた手紙には、子供の成長を喜ぶ温かい言葉が綴られていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は大人になってから、実の親と養方の両方に感謝の気持ちを伝えた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その四十四　日本の古医書は『続群書類従』に収めてある和気広世の『薬経太素』、丹波康頼の『康頼本草』、釈蓮基の『長生療養方』、次に多紀家で校刻した深根輔仁の『本草和名』、丹波｜雅忠の『医略抄』、宝永中に印行せられた具平親王の『弘決外典抄』の数種を存するに過ぎない。",
@@ -84,7 +109,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:41:08.105751+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "化学反応によって、溶液中に陽イオンと陰イオンが生じた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "電気分解では、陽イオンが陰極に引き寄せられる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "水溶液中での陽イオンの挙動を研究する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "Ｋ君の所でかなり沢山の患者について調べたところでは、前の喘息の患者などが発作を起すのは、頭の重い陰鬱な日に多いのであって、そういう日には、大抵は陽イオンが大気中に多いということが分ったそうである。",
@@ -164,7 +189,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:39:07.551868+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "図書館には、貴重な和装本と洋装本が多数所蔵されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この洋装本は、19世紀にフランスで出版されたものだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "現代の出版物のほとんどは、洋装本として流通している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それから、春秋社の手にかかって洋装本と和装本と二通り出すことにした、洋装本の方は四六型で背中の処へ赤い絹がかかった紙板表紙であり、和装の方は大菩薩峠の文字を紙に木版で彫って張りつけたのである、それから出版が本式に玄人の手にかかったのである。",
@@ -52,7 +77,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T07:52:09.437652+00:00Z"
     }
   }
 ]
