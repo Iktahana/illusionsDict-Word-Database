@@ -55,7 +55,11 @@ https://dict-api.illusions.app/genji/entries.json?entry=雪&_shape=array
 
 ### SQLite を直接使用する
 
-[Releases](/releases) ページから最新の `genji.db` をダウンロードして使用してください。
+[Releases](/releases) ページから最新の `genji.db.gz` をダウンロードし、解凍して使用してください。
+
+```bash
+gunzip genji.db.gz
+```
 
 #### クエリ例
 ```sql
@@ -78,13 +82,28 @@ FROM entries WHERE freq IS NOT NULL
 ORDER BY freq ASC LIMIT 10;
 ```
 
+#### メタデータの確認
+
+データベースにはビルド情報を格納する `_metadata` テーブルが含まれています。
+
+```sql
+SELECT * FROM _metadata;
+-- version, commit, branch, repository, build_date, entry_count
+```
+
 ### Docker
 
-Docker イメージは GHCR で配布しています。
+Docker イメージは GHCR で配布しています（`linux/amd64` / `linux/arm64` 対応）。
 
 ```bash
 docker pull ghcr.io/iktahana/genji:latest
 docker run -p 8001:8001 ghcr.io/iktahana/genji:latest
+```
+
+ローカルでビルドする場合、`genji.db` が無くてもコンテナ内で自動生成されます。
+
+```bash
+docker compose up -d --build
 ```
 
 `http://localhost:8001` で Datasette API にアクセスできます。
