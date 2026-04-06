@@ -15,6 +15,32 @@ _REPO_ROOT = _SCRIPT_DIR.parent
 _DATA_DIR = _REPO_ROOT / "data"
 
 
+def create_fts(conn: sqlite3.Connection) -> None:
+    """全文検索（FTS5）テーブルを作成する"""
+    print("FTS5 テーブルを作成中...")
+    conn.executescript("""
+        CREATE VIRTUAL TABLE IF NOT EXISTS fts_entries USING fts5(
+            uuid UNINDEXED,
+            entry,
+            reading_primary,
+            tokenize='unicode61'
+        );
+
+        INSERT INTO fts_entries(uuid, entry, reading_primary)
+        SELECT uuid, entry, reading_primary FROM entries;
+
+        CREATE VIRTUAL TABLE IF NOT EXISTS fts_definitions USING fts5(
+            entry_uuid UNINDEXED,
+            gloss,
+            tokenize='unicode61'
+        );
+
+        INSERT INTO fts_definitions(entry_uuid, gloss)
+        SELECT entry_uuid, gloss FROM definitions WHERE gloss IS NOT NULL;
+    """)
+    print("FTS5 テーブル作成完了")
+
+
 def create_schema(conn: sqlite3.Connection) -> None:
     conn.executescript("""
         CREATE TABLE IF NOT EXISTS entries (
@@ -134,6 +160,7 @@ def main() -> None:
             print(f"  Processed {i}/{len(json_files)} files ({count} entries)")
 
     conn.execute("COMMIT")
+    create_fts(conn)
     conn.execute("PRAGMA journal_mode=DELETE")
     conn.execute("VACUUM")
     conn.close()

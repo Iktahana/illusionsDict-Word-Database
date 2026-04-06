@@ -22,12 +22,57 @@ IllusionsDict プロジェクトで使用される全語彙データを収録し
 
 ## 🚀 使い方
 
-[Releases](/releases) ページから最新の `illusions-wordlist.db` をダウンロードして使用してください。
+### API
 
-### SQLite でのクエリ例
+SQLite を直接使用できない環境向けに、Datasette ベースの REST API を提供しています。
+
+**エンドポイント:** `https://dict-api.illusions.app`
+
+#### 定型クエリ
+
+| クエリ | URL | パラメータ |
+|--------|-----|-----------|
+| 見出し語で検索 | `/illusions_dict/lookup_by_entry.json?word=雪` | `word` |
+| 読みで検索 | `/illusions_dict/lookup_by_reading.json?reading=ゆき` | `reading` |
+| 見出し語・読みを全文検索 | `/illusions_dict/search_entries.json?q=食べ` | `q` |
+| 語釈を全文検索 | `/illusions_dict/search_definitions.json?q=eat` | `q` |
+| ランダムな語を取得 | `/illusions_dict/random_entries.json?count=5` | `count` |
+
+#### テーブル直接アクセス
+
+```
+# 全エントリ一覧（ページング付き）
+https://dict-api.illusions.app/illusions_dict/entries.json?_size=20
+
+# 特定 UUID のエントリ
+https://dict-api.illusions.app/illusions_dict/entries/UUID.json
+
+# フィルタ付きクエリ
+https://dict-api.illusions.app/illusions_dict/entries.json?entry=雪&_shape=array
+```
+
+詳細なクエリパラメータは [Datasette ドキュメント](https://docs.datasette.io/en/stable/json_api.html) を参照してください。
+
+### SQLite を直接使用する
+
+[Releases](/releases) ページから最新の `illusions_dict.db` をダウンロードして使用してください。
+
+#### クエリ例
 ```sql
--- 特定の単語を検索する
-SELECT * FROM words WHERE kanji = '幻辞';
+-- 見出し語で検索
+SELECT raw_json FROM entries WHERE entry = '幻辞';
+
+-- 読みで検索
+SELECT e.entry, d.gloss FROM entries e
+JOIN definitions d ON d.entry_uuid = e.uuid
+WHERE e.reading_primary = 'ゆき';
+
+-- 全文検索（FTS5）
+SELECT e.entry, e.reading_primary FROM fts_entries fts
+JOIN entries e ON e.uuid = fts.uuid
+WHERE fts_entries MATCH '雪';
 
 -- 頻度順に上位 10 件を取得する
-SELECT * FROM words ORDER BY frequency_rank ASC LIMIT 10;
+SELECT entry, reading_primary, json_extract(meta, '$.freq_rank') AS freq
+FROM entries WHERE freq IS NOT NULL
+ORDER BY freq ASC LIMIT 10;

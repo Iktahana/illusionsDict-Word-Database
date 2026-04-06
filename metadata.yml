@@ -1,0 +1,75 @@
+# 幻辞 Datasette API 設定
+title: 幻辞 illusionsDict API
+description: >
+  幻辞プロジェクトの語彙データベース API。約21万5千語を収録。
+license: MIT
+license_url: https://github.com/illusionsDict/Word-Database/blob/main/LICENSE
+source_url: https://github.com/illusionsDict/Word-Database
+
+databases:
+  illusions_dict:
+    title: 幻辞語彙データベース
+    description: 全語彙データ（見出し語・定義・用例）
+
+    queries:
+      # 見出し語で検索（完全一致）
+      lookup_by_entry:
+        title: 見出し語で検索
+        description: 見出し語の完全一致で検索する
+        sql: |-
+          SELECT e.uuid, e.entry, e.reading_primary, e.pos,
+                 d.gloss, d.register, d.nuance, d.examples
+          FROM entries e
+          LEFT JOIN definitions d ON d.entry_uuid = e.uuid
+          WHERE e.entry = :word
+          ORDER BY d.def_index
+
+      # 読みで検索（完全一致）
+      lookup_by_reading:
+        title: 読みで検索
+        description: 読み（かな）の完全一致で検索する
+        sql: |-
+          SELECT e.uuid, e.entry, e.reading_primary, e.pos,
+                 d.gloss, d.register, d.nuance
+          FROM entries e
+          LEFT JOIN definitions d ON d.entry_uuid = e.uuid
+          WHERE e.reading_primary = :reading
+          ORDER BY e.entry, d.def_index
+
+      # 全文検索（見出し語・読み）
+      search_entries:
+        title: 見出し語・読みを全文検索
+        description: 見出し語または読みを FTS で検索する
+        sql: |-
+          SELECT e.uuid, e.entry, e.reading_primary, e.pos,
+                 snippet(fts_entries, 1, '<b>', '</b>', '...', 32) AS match_highlight
+          FROM fts_entries fts
+          JOIN entries e ON e.uuid = fts.uuid
+          WHERE fts_entries MATCH :q
+          LIMIT 50
+
+      # 全文検索（語釈 / gloss）
+      search_definitions:
+        title: 語釈を全文検索
+        description: 語釈（gloss）を FTS で検索する
+        sql: |-
+          SELECT e.uuid, e.entry, e.reading_primary,
+                 d.gloss, d.def_index,
+                 snippet(fts_definitions, 1, '<b>', '</b>', '...', 64) AS match_highlight
+          FROM fts_definitions fts
+          JOIN definitions d ON d.entry_uuid = fts.entry_uuid
+          JOIN entries e ON e.uuid = d.entry_uuid
+          WHERE fts_definitions MATCH :q
+          LIMIT 50
+
+      # ランダムな語を取得
+      random_entries:
+        title: ランダムな語を取得
+        description: ランダムに語彙を取得する
+        sql: |-
+          SELECT e.uuid, e.entry, e.reading_primary, e.pos,
+                 d.gloss
+          FROM entries e
+          LEFT JOIN definitions d ON d.entry_uuid = e.uuid AND d.def_index = 1
+          ORDER BY RANDOM()
+          LIMIT :count
