@@ -683,7 +683,7 @@ def startup_check() -> None:
     """起動時にモデル疎通確認と進捗 stats を表示。"""
     sep = "─" * 60
     print(f"\n{sep}", flush=True)
-    print("  illusionsDict 例文生成スクリプト", flush=True)
+    print("  Genji 例文生成スクリプト", flush=True)
     print(sep, flush=True)
 
     # ── Gemini 接続確認（並列）──

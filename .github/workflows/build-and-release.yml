@@ -23,7 +23,7 @@ jobs:
         run: python script/json_to_sqlite.py
 
       - name: Compress database
-        run: gzip -9 -k illusions_dict.db
+        run: gzip -9 -k genji.db
 
       - name: Generate version tag
         id: version
@@ -42,5 +42,5 @@ jobs:
 
             Branch: `${{ github.ref_name }}`
           files: |
-            illusions_dict.db.gz
-            illusions_dict.db
+            genji.db.gz
+            genji.db

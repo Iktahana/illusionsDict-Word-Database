@@ -1,13 +1,13 @@
 # 幻辞 Datasette API 設定
-title: 幻辞 illusionsDict API
+title: 幻辞 Genji API
 description: >
   幻辞プロジェクトの語彙データベース API。約21万5千語を収録。
 license: MIT
-license_url: https://github.com/illusionsDict/Word-Database/blob/main/LICENSE
-source_url: https://github.com/illusionsDict/Word-Database
+license_url: https://github.com/Iktahana/Genji/blob/main/LICENSE
+source_url: https://github.com/Iktahana/Genji
 
 databases:
-  illusions_dict:
+  genji:
     title: 幻辞語彙データベース
     description: 全語彙データ（見出し語・定義・用例）
 

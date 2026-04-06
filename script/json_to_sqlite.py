@@ -122,7 +122,7 @@ def insert_entry(conn: sqlite3.Connection, item: dict) -> None:
 
 
 def main() -> None:
-    output_path = _REPO_ROOT / "illusions_dict.db"
+    output_path = _REPO_ROOT / "genji.db"
     if output_path.exists():
         output_path.unlink()
 

@@ -54,7 +54,7 @@ UUID_NAMESPACE = uuid.UUID(bytes=b"\x00" * 16)
 
 # スクリプトファイルの場所から repo root を確定（どこから実行しても同じ結果）
 _SCRIPT_DIR = Path(__file__).resolve().parent   # …/scripts/
-_REPO_ROOT  = _SCRIPT_DIR.parent                # …/illusionsDict-Word-Database/
+_REPO_ROOT  = _SCRIPT_DIR.parent                # …/Genji/
 
 # JMdict エンティティ名 → 日本語品詞名
 _POS_ENTITY_MAP: dict[str, str] = {

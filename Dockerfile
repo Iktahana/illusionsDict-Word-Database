@@ -8,13 +8,13 @@ RUN datasette install datasette-cors
 COPY metadata.yml /app/metadata.yml
 
 # コンパイル済み辞典 DB をイメージに内包
-COPY illusions_dict.db /data/illusions_dict.db
+COPY genji.db /data/genji.db
 
 EXPOSE 8001
 
 # 読み取り専用モードで起動
 CMD ["datasette", "serve", \
-     "/data/illusions_dict.db", \
+     "/data/genji.db", \
      "--metadata", "/app/metadata.yml", \
      "--host", "0.0.0.0", \
      "--port", "8001", \

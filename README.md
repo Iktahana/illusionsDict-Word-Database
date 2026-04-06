@@ -1,8 +1,8 @@
-# illusionsDict Word Database
+# Genji Word Database
 
 幻辞.com: https://dict.illusions.app
 
-IllusionsDict プロジェクトで使用される全語彙データを収録した、オープンソースの日本語語彙データベースです。
+Genji プロジェクトで使用される全語彙データを収録した、オープンソースの日本語語彙データベースです。
 
 本リポジトリでは、複数の信頼できるソースと独自のクローリングシステムを統合・加工した語彙データを、扱いやすい **SQLite 形式** で提供しています。
 
@@ -32,30 +32,30 @@ SQLite を直接使用できない環境向けに、Datasette ベースの REST 
 
 | クエリ | URL | パラメータ |
 |--------|-----|-----------|
-| 見出し語で検索 | `/illusions_dict/lookup_by_entry.json?word=雪` | `word` |
-| 読みで検索 | `/illusions_dict/lookup_by_reading.json?reading=ゆき` | `reading` |
-| 見出し語・読みを全文検索 | `/illusions_dict/search_entries.json?q=食べ` | `q` |
-| 語釈を全文検索 | `/illusions_dict/search_definitions.json?q=eat` | `q` |
-| ランダムな語を取得 | `/illusions_dict/random_entries.json?count=5` | `count` |
+| 見出し語で検索 | `/genji/lookup_by_entry.json?word=雪` | `word` |
+| 読みで検索 | `/genji/lookup_by_reading.json?reading=ゆき` | `reading` |
+| 見出し語・読みを全文検索 | `/genji/search_entries.json?q=食べ` | `q` |
+| 語釈を全文検索 | `/genji/search_definitions.json?q=eat` | `q` |
+| ランダムな語を取得 | `/genji/random_entries.json?count=5` | `count` |
 
 #### テーブル直接アクセス
 
 ```
 # 全エントリ一覧（ページング付き）
-https://dict-api.illusions.app/illusions_dict/entries.json?_size=20
+https://dict-api.illusions.app/genji/entries.json?_size=20
 
 # 特定 UUID のエントリ
-https://dict-api.illusions.app/illusions_dict/entries/UUID.json
+https://dict-api.illusions.app/genji/entries/UUID.json
 
 # フィルタ付きクエリ
-https://dict-api.illusions.app/illusions_dict/entries.json?entry=雪&_shape=array
+https://dict-api.illusions.app/genji/entries.json?entry=雪&_shape=array
 ```
 
 詳細なクエリパラメータは [Datasette ドキュメント](https://docs.datasette.io/en/stable/json_api.html) を参照してください。
 
 ### SQLite を直接使用する
 
-[Releases](/releases) ページから最新の `illusions_dict.db` をダウンロードして使用してください。
+[Releases](/releases) ページから最新の `genji.db` をダウンロードして使用してください。
 
 #### クエリ例
 ```sql
