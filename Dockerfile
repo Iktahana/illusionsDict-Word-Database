@@ -1,7 +1,7 @@
 # 幻辞 Datasette API サーバー
 
 # --- ビルドステージ: genji.db が無い場合のみ生成 ---
-FROM python:3.12-slim AS builder
+FROM python:slim AS builder
 
 ARG GENJI_COMMIT=""
 ARG GENJI_BRANCH=""
