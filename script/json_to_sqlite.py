@@ -6,13 +6,57 @@ data/ 以下の全 JSON ファイルを読み込み、単一の SQLite DB にま
 """
 
 import json
+import os
 import sqlite3
+import subprocess
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 _SCRIPT_DIR = Path(__file__).resolve().parent
 _REPO_ROOT = _SCRIPT_DIR.parent
 _DATA_DIR = _REPO_ROOT / "data"
+
+
+def _git(args: list[str]) -> str:
+    """Run a git command and return stripped stdout, or empty string on failure."""
+    try:
+        return subprocess.check_output(
+            ["git", *args], cwd=_REPO_ROOT, stderr=subprocess.DEVNULL, text=True
+        ).strip()
+    except Exception:
+        return ""
+
+
+def create_metadata(conn: sqlite3.Connection, entry_count: int) -> None:
+    """Create and populate the build metadata table."""
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS _metadata (
+            key   TEXT PRIMARY KEY,
+            value TEXT
+        )
+    """)
+
+    version = os.environ.get("GENJI_VERSION") or _git(["describe", "--tags", "--always"])
+    commit = os.environ.get("GENJI_COMMIT") or _git(["rev-parse", "HEAD"])
+    commit_short = commit[:8] if commit else ""
+    branch = os.environ.get("GENJI_BRANCH") or _git(["rev-parse", "--abbrev-ref", "HEAD"])
+    repo = os.environ.get("GENJI_REPO") or _git(["remote", "get-url", "origin"])
+    build_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    rows = [
+        ("version", version),
+        ("commit", commit),
+        ("commit_short", commit_short),
+        ("branch", branch),
+        ("repository", repo),
+        ("build_date", build_date),
+        ("entry_count", str(entry_count)),
+    ]
+    conn.executemany(
+        "INSERT OR REPLACE INTO _metadata (key, value) VALUES (?, ?)", rows
+    )
+    print(f"Metadata: version={version} commit={commit_short} branch={branch}")
 
 
 def create_fts(conn: sqlite3.Connection) -> None:
@@ -160,6 +204,7 @@ def main() -> None:
             print(f"  Processed {i}/{len(json_files)} files ({count} entries)")
 
     conn.execute("COMMIT")
+    create_metadata(conn, count)
     create_fts(conn)
     conn.execute("PRAGMA journal_mode=DELETE")
     conn.execute("VACUUM")

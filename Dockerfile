@@ -1,4 +1,28 @@
 # 幻辞 Datasette API サーバー
+
+# --- ビルドステージ: genji.db が無い場合のみ生成 ---
+FROM python:3.12-slim AS builder
+
+ARG GENJI_COMMIT=""
+ARG GENJI_BRANCH=""
+ARG GENJI_REPO=""
+
+COPY script/json_to_sqlite.py /build/script/json_to_sqlite.py
+COPY data/ /build/data/
+COPY genji.db* /build/
+
+RUN if [ ! -f /build/genji.db ]; then \
+      echo "genji.db not found, building from JSON..." && \
+      cd /build && \
+      GENJI_COMMIT="${GENJI_COMMIT}" \
+      GENJI_BRANCH="${GENJI_BRANCH}" \
+      GENJI_REPO="${GENJI_REPO}" \
+      python script/json_to_sqlite.py; \
+    else \
+      echo "genji.db already exists, skipping build."; \
+    fi
+
+# --- 本番ステージ ---
 FROM datasetteproject/datasette:latest
 
 # CORS プラグインをインストール
@@ -7,8 +31,8 @@ RUN datasette install datasette-cors
 # メタデータ設定をコピー
 COPY metadata.yml /app/metadata.yml
 
-# コンパイル済み辞典 DB をイメージに内包
-COPY genji.db /data/genji.db
+# ビルドステージから DB をコピー
+COPY --from=builder /build/genji.db /data/genji.db
 
 EXPOSE 8001
 

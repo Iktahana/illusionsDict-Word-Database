@@ -22,18 +22,23 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build SQLite database
-        run: python script/json_to_sqlite.py
-
-      - name: Compress database
-        run: gzip -9 -k genji.db
-
       - name: Generate version tag
         id: version
         run: |
           VERSION=$(date -u +'%Y.%-m.%-d.%H%M%S')
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
           echo "Version: $VERSION"
+
+      - name: Build SQLite database
+        run: python script/json_to_sqlite.py
+        env:
+          GENJI_VERSION: ${{ steps.version.outputs.version }}
+          GENJI_COMMIT: ${{ github.sha }}
+          GENJI_BRANCH: ${{ github.ref_name }}
+          GENJI_REPO: ${{ github.server_url }}/${{ github.repository }}
+
+      - name: Compress database
+        run: gzip -9 -k genji.db
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
