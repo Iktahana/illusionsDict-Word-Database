@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は子供の頃から悪知恵が働き、よく先生を困らせていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "この程度のセキュリティなら、少し悪知恵の働く者にかかれば簡単に突破されてしまうだろう。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「人から借りたお金は返さなくていい」なんて悪知恵を、一体誰から教わったんだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それを使うとは、さすが東方で仕事をした男の悪知恵と言うべきか。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:52:49.512124+00:00Z"
     }
   }
 ]

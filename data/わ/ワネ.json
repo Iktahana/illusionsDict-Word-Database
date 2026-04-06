@@ -33,7 +33,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "「これ、美味しいわね！」彼女はにっこり笑った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「今日は良い天気だわね。」隣の席の人が話しかけてきた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「もうすぐ夏休みだわね、楽しみ！」友達が興奮気味に言った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "女　あたしが此の間片附けて帰つてから、まだ三日ばかしにきやならないんだけれど、まあまた散らかつたわね。",
@@ -280,7 +305,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:45:01.717300+00:00Z"
     }
   }
 ]

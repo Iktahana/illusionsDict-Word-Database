@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "突然の地震に、人々はわめき声を上げて逃げ出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "迷子の子供が、母親を探してわめき声をあげていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「助けて！」と、彼は精一杯のわめき声を絞り出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "それに私は、喧嘩を好まず、否、好まぬどころではない、往来で野獣の組打ちを放置し許容しているなどは、文明国の恥辱と信じているので、かの耳を聾せんばかりのけんけんごうごう、きゃんきゃんの犬の野蛮のわめき声には、殺してもなおあき足らない憤怒と憎悪を感じているのである。",
@@ -276,7 +301,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:49:33.187152+00:00Z"
     }
   }
 ]

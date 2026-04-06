@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "昔ながらの納豆は、藁苞に入って売られていることが多い。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "藁苞に包まれたおにぎりは、どこか懐かしい味がする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は、旅先で手に入れた土産を藁苞に大切に包んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あるいは藁苞のような恰好をした白鳥が湿り気のない水に浮んでいたり、睡蓮の茎ともあろうものが蓮のように無遠慮に長く水上に聳えている事もある。",
@@ -228,7 +253,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:47:08.033759+00:00Z"
     }
   }
 ]

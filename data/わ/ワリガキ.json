@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "古文書を読むときには、本文の横に書かれた割り書きが理解の助けになる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この古典の教科書には、難しい単語に割り書きで現代語訳が添えられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "先生は生徒が書いた作文に、細かく割り書きをして指導してくれた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "その裏に太田正雄さん、文壇での通名木下杢太郎さんがこの本の装釘をして下すったと云うことわりがきがドイツ文で書き入れてあるが、あれも文芸委員会の文句を入れるに極まってから、その紙の裏が白くなるので、それを避けるために、思い立って入れた。",
@@ -124,7 +149,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T14:03:30.909302+00:00Z"
     }
   }
 ]

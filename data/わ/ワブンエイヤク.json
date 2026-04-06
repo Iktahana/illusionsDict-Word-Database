@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この難しい和文を英訳するのは、プロの翻訳家でも骨が折れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "AIによる和文英訳の精度は年々向上している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は和文英訳のスペシャリストで、難しい文献も完璧に翻訳する。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "」とおつしやる方もありませうが、が然し、ちよつと黙つて聞いて居つて下さい――「宿題の和文英訳をやつて来た方は手を挙げて御覧なさい、昨日は日曜なのでしたから、まさか忘れた方はないでせうね。",
@@ -108,7 +133,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:49:33.180078+00:00Z"
     }
   }
 ]

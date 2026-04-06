@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "秋になると、V字になって飛ぶ渡り鳥の群れが空を横切る。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "渡り鳥にとって、中継地の湿地は重要な休息場所となる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "毎年、同じ時期にこの湖に渡り鳥がやってくる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "小鳥来る音うれしさよ板庇　渡り鳥の帰って来る羽音を、炉辺に聴く情趣の侘しさは、西欧の抒情詩、特にロセッチなどに多く歌われているところであるが、日本の詩歌では珍しく、蕪村以外に全く見ないところである。",
@@ -252,7 +277,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T13:44:22.354103+00:00Z",
       "freq_rank": 23068
     }
   }

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "この映画は、実際に起きた未解決事件を基として制作されている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "地域の伝統文化を基として、新しい町おこしのプロジェクトが始まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "調査の結果を基として、来年度の予算案が策定された。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "昔エジプトの天文学者は地上に環を立てて北極星に面せしめて置き、環の影が丁度一直線になる日を見て春分秋分を定め、これを基として暦を定めたという事で、その時の環が今日でもアレキサンドリアの博物館に保存してある。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:59:51.322784+00:00Z"
     }
   }
 ]

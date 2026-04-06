@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の強い日差しから頭を守るため、彼はいつも藁帽子をかぶっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "麦わら帽子をかぶった子供たちが、海辺で遊んでいる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女の白いワンピースと藁帽子は、夏の田園風景にとてもよく似合っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "北の屋蔭の苔むしたる井筒に、新調の洋服涼しげなる若人二人、巴里形の麥藁帽子見よげにかぶりて、細き櫻のステツキを手すさびに振り上げ、花もまだきなる紫陽花の葉を叩きつ、あやめを隔ててこなた、うちまもり給へるなりけり。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:47:59.187006+00:00Z"
     }
   }
 ]

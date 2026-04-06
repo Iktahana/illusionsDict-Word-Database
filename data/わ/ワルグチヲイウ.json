@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はいつも他人の悪口を言って、自分の優位性を保とうとする。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "友達が自分の悪口を言っているのを聞いてしまい、とても悲しい気持ちになった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "面と向かって悪口を言うなんて、彼も相当な勇気がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "他の人が、私の器量の悪口を言うと、叔母は、本気に怒りました。",
@@ -287,7 +312,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:52:49.508348+00:00Z"
     }
   }
 ]

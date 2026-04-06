@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "元服前は、皆、童名で呼び合っていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の武士の家では、童名と元服後の名前があった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼の童名は「小太郎」だったが、元服して「政宗」と改めた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "一、此集の印刷を終れる後丹後の加悦村に九十六歳になれる老媼某現存し、父の幼時を記憶し居りて、童名は長藏、元服して後の幼名は儀十郎と云ひし由を語れりと、従姉細見千枝より報じ来れり。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:47:59.190317+00:00Z"
     }
   }
 ]

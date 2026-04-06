@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼女は面白すぎて、床に転がって笑い転げていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは、お父さんの変顔に笑い転げていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "コメディ映画を見て、久しぶりに声を出して笑い転げた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "けれども母と叔母はさしむかいでいても決して笑い転げるようなことはありません、二人とも言葉の少ない、物案じ顔の、色つやの悪い女でしたが、何か優しい低い声でひそひそ話し合っていました。",
@@ -109,7 +134,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:46:07.607202+00:00Z"
     }
   }
 ]

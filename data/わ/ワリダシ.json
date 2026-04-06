@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "相撲の稽古で、新弟子が先輩力士に果敢に割り出しを試みていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "あの力士は一気に寄り切るよりも、豪快な割り出しが得意だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "相手の体勢を崩してからの割り出しで、見事に土俵を割らせた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ニュートンがデカルト派の形而上学的宇宙観から割り出した物理学を離れて Hypotheses non fingo という立場からあのような偉業をしたのもそうである。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T13:48:33.726397+00:00Z",
       "freq_rank": 30618
     }
   }

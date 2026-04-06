@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "工場で働くワーカーたちは、皆真剣な顔で作業をしていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼は優秀なITワーカーとして、プロジェクトの中核を担っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ワーカーの安全を確保するため、ヘルメットと安全靴の着用が義務付けられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "既存のパーソナルコンピューター用ソフトをぶちまけるトッテン社長のアシストは、日本の三千六百万人のデスクワーカー、二千四百万人の学生、児童、四千万人の主婦、つごう一億人を市場としうる商品にアプリケーションを大化けさせることを目指す。",
@@ -100,7 +125,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T14:00:14.596423+00:00Z",
       "freq_rank": 28440
     }
   }

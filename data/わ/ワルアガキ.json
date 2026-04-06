@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "状況は絶望的だったが、彼は最後まで悪あがきを続けた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "負けを認めたくない気持ちから、彼は悪あがきをしてしまった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "もう諦めろ、これ以上悪あがきしても無駄だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "闇市場で煙草や主食を売っているというのも、いや売らねばならぬというのも、思えば大阪の逞しさというより、むしろ、大阪のあわれな悪あがきではなかろうか。",
@@ -286,7 +311,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T13:50:32.085056+00:00Z",
       "freq_rank": 43510
     }
   }

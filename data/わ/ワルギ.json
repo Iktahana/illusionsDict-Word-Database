@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼に悪気はなかったのだろうが、彼の言葉は私を深く傷つけた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "「ごめん、ごめん！悪気はなかったんだ、ただの冗談のつもりで…」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            },
+            {
+              "text": "あの人は悪気なく失礼なことを言うので、付き合い方が難しい。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-pro"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "家の母などもただそればかり言って嘆いて居ますが、それも皆悪気があっての業でないのですから、私は勿論民さんだって決して恨みに思やしません。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T13:52:49.506261+00:00Z",
       "freq_rank": 29167
     }
   }

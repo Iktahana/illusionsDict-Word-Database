@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は仕事を転々としながら、日本中を渡り歩いた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔の旅芸人たちは、各地を渡り歩いて生計を立てていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "私は若い頃、バックパッカーとして世界各地を渡り歩いた経験がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "十一月××日　南海の島から島へと渡り歩く白人行商人の中には、極く稀に（勿論、大部分は我利我利の奸譎な商人ばかりだが）次の二つの型の人間を見出すことがある。",
@@ -197,7 +222,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:44:22.352466+00:00Z"
     }
   }
 ]

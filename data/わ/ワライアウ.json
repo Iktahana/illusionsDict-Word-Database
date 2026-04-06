@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "久しぶりに会った友人と、昔話に花を咲かせながら笑いあった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "子供たちは、面白いアニメを見てゲラゲラと笑いあっていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "二人は些細なことで笑いあい、絆を深めていった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "妻も台所から顔を出して、「三人がよくならんでしゃがんでること、奈々ちゃんや、鶏がおもしろいかい、奈々ちゃんや」　三児はいちように振り返って母と笑いあうのである。",
@@ -125,7 +150,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:46:07.604611+00:00Z"
     }
   }
 ]

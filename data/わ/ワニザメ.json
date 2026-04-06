@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "遠洋漁業で、巨大な鰐鮫が網にかかった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "伝説の海には、恐ろしい鰐鮫が棲んでいると言い伝えられている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "そのダイバーは、鰐鮫と遭遇した時の体験を語った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "曰く　類ひなき富士ぞ起れる清見潟駿河の海は紫にして　大いなる駿河の上を春の日が緩く行くこそめでたかりけれ春の海いま遠方の波かげに睦語りする鰐鮫思ふ　終日のたりのたりかなでは曲がない。",
@@ -60,7 +85,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:45:01.714383+00:00Z"
     }
   }
 ]

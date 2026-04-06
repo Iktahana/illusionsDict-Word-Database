@@ -32,7 +32,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼は重度のドルヲタで、週末は全国各地のライブ会場を飛び回っている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "職場の同僚には隠しているが、実は自分もかなりのアニヲタだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            },
+            {
+              "text": "ヲタ気質のある彼は、一度好きになると徹底的に調べ尽くさないと気が済まない。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-3-flash-preview"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "ソシテ、ソノママ足ヲフミハズシテ、ヒドイ音ヲタテナガラ、マヨナカノ高イカイダンヲコロゲオチテシマッタ。",
@@ -231,7 +256,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T13:59:51.319275+00:00Z",
       "freq_rank": 19179
     }
   }

@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "池の水草には、小さな輪虫がたくさん生息している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "顕微鏡で輪虫を観察すると、その動きの速さに驚く。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "輪虫は、水質の変化に敏感な生物として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "・土の虫のちぎられたまゝ土にもぐる　月にむいて誰をまつとなくくつわむし　ふけてあぶらむしがはふだけ・住みついて煤のおちるにも（改作）　十月十六日夜あけのしぐれはさびしくわびしく身にしみた。",
@@ -110,7 +135,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:49:33.186401+00:00Z"
     }
   }
 ]

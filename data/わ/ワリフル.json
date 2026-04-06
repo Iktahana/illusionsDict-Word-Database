@@ -30,7 +30,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新入社員に簡単な仕事を割り振ることで、少しずつ経験を積ませる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "先生は生徒たちに、グループごとに発表テーマを割り振った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はチームリーダーとして、メンバーそれぞれの得意分野に応じて仕事を割り振った。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "６８００なら６８００という同じマイクロコンピューターを使ったマシンでも、どういった機能をメモリーのどの領域に割り振るかによっては、プログラムの書き方が変わってこざるをえなかった。",
@@ -69,7 +94,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:50:32.076933+00:00Z"
     }
   }
 ]

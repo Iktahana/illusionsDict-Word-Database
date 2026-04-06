@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "有明海では、珍しい魚であるわらすぼが獲れる。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "わらすぼは、見た目とは裏腹に美味しい魚として知られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "干したわらすぼは、酒の肴として珍重される。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "あるいは藁苞のような恰好をした白鳥が湿り気のない水に浮んでいたり、睡蓮の茎ともあろうものが蓮のように無遠慮に長く水上に聳えている事もある。",
@@ -222,7 +247,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:47:08.032285+00:00Z"
     }
   }
 ]

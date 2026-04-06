@@ -31,7 +31,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "新しく作成するウェブサイトのデザインとコンテンツの割り付けを検討している。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "イベント会場の席の割り付けは、来場者数に応じて柔軟に対応する必要がある。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "雑誌のページ割り付けは、読者の読みやすさを考慮して行われるべきだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "原稿の整理や校正、割り付けなど、もっぱら本作りにまつわる面倒な作業だけを請け負って出版社の合理化を支える編集プロダクションには、こだわりや希望を育てる余地は乏しかった。",
@@ -262,7 +287,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:48:33.727957+00:00Z"
     }
   }
 ]

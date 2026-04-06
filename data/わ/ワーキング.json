@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "彼はワーキングホリデーを利用して、海外で新しい経験を積んだ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "「ワーキングマザーとして、仕事と育児の両立に日々奮闘しています。」",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "ワーキンググループが発足し、問題解決に向けて議論が始まった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "出来上がったブックはさっそく、「建築デザイン」、「在宅ワーキング」、「アプリケーション日本語環境」など、ニフティーで出入りしていたフォーラムに登録しました。",
@@ -132,7 +157,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-04-05T14:00:14.596845+00:00Z",
       "freq_rank": 11827
     }
   }

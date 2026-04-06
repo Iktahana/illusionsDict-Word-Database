@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "夏の暑い日差しの中、農夫たちは畑で綿摘みに精を出した。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "昔のアメリカ南部では、奴隷たちが綿摘み労働を強いられていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼女は綿摘み歌を口ずさみながら、白い綿花をバスケットに入れていった。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "鈴木春信が好んで描いた綿摘み、それは言ふまでもなく、江戸時代の私娼の一つで、狩屋三郎の懇ろにして居るお咲といふのは、喜の字屋の師匠の妹で、二十二三であつたにしても、相當顏の良い姐御だつたのです。",
@@ -284,7 +309,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T13:44:22.346571+00:00Z"
     }
   }
 ]

@@ -29,7 +29,32 @@
         },
         "collocations": [],
         "examples": {
-          "standard": [],
+          "standard": [
+            {
+              "text": "ドイツのクリスマスマーケットでは、様々な種類のヴルストが売られている。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "彼はビールと一緒に、焼きたてのヴルストを美味しそうに食べていた。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            },
+            {
+              "text": "この地域は、伝統的な製法で作られたヴルストで有名だ。",
+              "citation": {
+                "source": "幻辭AI",
+                "author": "Gemini",
+                "note": "gemini-2.5-flash"
+              }
+            }
+          ],
           "literary": [
             {
               "text": "法水は考証気味な視線を休めずに、「まるで騎士埴輪か鉄の処女としか思われんね、これがコペツキーの作品だと云うそうだが、さあプラーグと云うよりも、体躯の線は、バーデンバーデンのハンスヴルスト（独逸の操人形）に近いね。",
@@ -68,7 +93,7 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z"
+      "updated_at": "2026-04-05T14:01:17.821444+00:00Z"
     }
   }
 ]
