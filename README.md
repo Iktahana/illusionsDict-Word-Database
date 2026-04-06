@@ -1,6 +1,6 @@
 # Genji Word Database
 
-幻辞.com: https://幻辞.com
+https://幻辞.com
 
 幻辞.comで使用される全語彙データを収録した、オープンソースの日本語語彙データベースです。
 
